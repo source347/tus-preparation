@@ -10,16 +10,17 @@ Bu depo öncelikle **flash kartlara** odaklanır; genel amaçlı soru bankası, 
 
 ## Üretim standardı
 
-- Planlama hesabı: **TUS'taki her bir soru için yaklaşık 10 flash kart.**
-- Teslim partisi: **30 kart**; yaklaşık **3 TUS sorusuna** karşılık gelir.
-- Bu sayılar hedef hacmi belirler; kaliteyi düşürmek için kota değildir. Konu gerektiriyorsa daha az kart hazırlanabilir. Tekrarlı veya düşük verimli kartlarla sayı tamamlanmaz.
+- Kart sayısı, sınavdaki soru sayısından türetilmez. Bir sınavda bir derse ayrılan soru kotası, o dersin öğrenilmesi gereken tüm konu genişliğini temsil etmez.
+- Teslim partisi varsayılan olarak **30 karttır**; bu bir üretim kotası değildir. Konunun kapsamı ve birbirinden farklı öğrenme hedefleri kart sayısını belirler.
+- Konu kapsamı, kart sayısı veya tek bir sınavın dağılımı üzerinden değil, dersin ana alanları ve alt başlıkları üzerinden izlenir.
+- Kaliteyi düşürmek için kota doldurulmaz. Konu gerektiriyorsa daha küçük parti hazırlanır; tekrar eden veya düşük verimli kartlarla sayı tamamlanmaz.
 
 ## Organizasyon
 
 - Temel bilimler: Anatomi, Histoloji ve Embriyoloji, Fizyoloji, Tıbbi Biyokimya, Tıbbi Mikrobiyoloji, Tıbbi Patoloji, Tıbbi Farmakoloji
 - Klinik bilimler: Dahiliye, Pediatri, Genel Cerrahi, Kadın Hastalıkları ve Doğum
 
-Her dersin altında konu bazlı kart dosyaları bulunur.
+Her dersin altında bütünlüklü konu bazlı kart dosyaları bulunur. Anatomi için kapsam ve üretim sırası [Anatomi Kapsam Matrisi](flashcards/basic-sciences/anatomy/coverage-matrix.md) üzerinden izlenir.
 
 ## Kart ilkeleri
 
