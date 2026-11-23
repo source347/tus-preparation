@@ -1,41 +1,37 @@
-# Contributing
+# Katkı Rehberi
 
-Contributions are welcome. The initial focus is building a reliable, carefully curated flashcard collection.
+Katkılarınızı bekliyoruz. İlk öncelik güvenilir, özenle kürate edilmiş bir flash kart koleksiyonu oluşturmaktır.
 
-## Where cards belong
+## Kartların konumu
 
-Place cards under the appropriate subject directory in `flashcards/`. Prefer one Markdown file per coherent topic rather than one enormous file per subject.
+Kartları `flashcards/` altındaki uygun ders dizinine ekleyin. Ders başına tek ve büyük bir dosya yerine, bütünlüklü her konu için ayrı bir Markdown dosyası tercih edin.
 
-## Card format
-
-Use this format:
+## Kart biçimi
 
 ```markdown
-### Q: [A focused question or prompt]
+### S: [Odaklı soru veya istem]
 
-**A:** [A concise, accurate answer.]
+**C:** [Kısa, doğru ve yeterli yanıt.]
 
-**Why it matters:** [Optional one-line mechanism, distinction, or exam trap.]
+**Neden önemli?:** [İsteğe bağlı mekanizma, ayırt edici özellik veya sınav tuzağı.]
 
-**Sources:**
-- [Source title](URL) — accessed YYYY-MM-DD
+**Kaynaklar:**
+- [Kaynak başlığı](URL) — erişim tarihi: YYYY-AA-GG
 ```
 
-Keep each card focused on one learning objective. Avoid vague prompts, trivia, duplicate facts, and answers that depend on unstated context.
+Her kart tek bir öğrenme hedefine odaklanmalıdır. Belirsiz sorulardan, gereksiz ayrıntılardan, yinelenen bilgilerden ve bağlamı belirtilmemiş yanıtlardan kaçının.
 
-## Quality checklist
+## Kalite kontrol listesi
 
-Before opening a pull request:
+- [ ] Doğru ders ve konu seçildi.
+- [ ] Her kart tek bir öğrenme hedefini ölçüyor.
+- [ ] Yanıt tıbben doğru ve gerekli nitelemeleri içeriyor.
+- [ ] Atlanması yanıltıcı olabilecek istisnalar belirtildi.
+- [ ] Kaynaklar iddiayı gerçekten destekliyor.
+- [ ] İfade özgün; telifli soru veya açıklama kopyalanmadı.
+- [ ] Yinelenen veya çok benzer kart yok.
+- [ ] Türkçe yazım, karakterler ve tıbbi terminoloji kontrol edildi.
 
-- [ ] Correct subject and topic.
-- [ ] One testable learning objective per card.
-- [ ] Answer is medically accurate and sufficiently qualified.
-- [ ] Important exceptions are included where omission could mislead.
-- [ ] Sources are listed and support the claim.
-- [ ] Wording is original; no copied proprietary question or explanation.
-- [ ] No duplicate or near-duplicate card exists.
-- [ ] Spelling, Turkish characters, and medical terminology are checked.
+## Pull request
 
-## Pull requests
-
-Explain what topic the contribution covers, approximate card count, and the principal sources used. Flag disputed or guideline-dependent material explicitly. Maintainers may request revisions or decline cards that are poorly sourced, redundant, or not sufficiently high yield.
+Katkının hangi konuyu kapsadığını, yaklaşık kart sayısını ve temel kaynakları açıklayın. Tartışmalı veya kılavuza bağlı bilgileri özellikle işaretleyin. Kaynağı zayıf, tekrarlı veya yeterince yüksek verimli olmayan kartlar için düzeltme istenebilir ya da katkı reddedilebilir.
