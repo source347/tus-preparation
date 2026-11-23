@@ -2,13 +2,14 @@
 
 Anatomiye ait konu bazlı flash kartlar.
 
-Planlama hedefi: yaklaşık 260 kart (13 soru × 20 kart). Bu bir kapsam hedefidir; kaliteyi geçersiz kılan bir kota değildir.
+Planlama hedefi: yaklaşık 130 kart (13 soru × 10 kart). Teslim partileri 30 karttır (yaklaşık 3 soru). Bu sayılar planlama aracıdır; kaliteyi geçersiz kılan kota değildir.
 
 ## Yayımlanan kart grupları
 
 | Konu | Kart | Dosya |
 |---|---:|---|
 | Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
+| Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
 
 Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
@@ -18,4 +19,4 @@ Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
 ## Editoryal standart
 
-Doğruluk, kaynak niteliği veya birbirinden farklı öğrenme hedefleri pahasına 260 karta ulaşmaya çalışmayın. Kartları konu bazlı ve gözden geçirilmiş gruplar halinde ekleyin.
+Doğruluk, kaynak niteliği veya birbirinden farklı öğrenme hedefleri pahasına hedef kart sayısına ulaşmaya çalışmayın. Kartları konu bazlı ve gözden geçirilmiş gruplar halinde ekleyin.
