@@ -1,136 +1,136 @@
-# Anatomy — Brachial Plexus (20 flashcards)
+# Anatomi — Brakiyal Pleksus (20 flash kart)
 
-> **Batch:** ANAT-BP-001  
-> **Scope:** Plexus organization, terminal branches, key collateral branches, and classic lesion patterns.  
-> **Editorial note:** This is a focused first batch, not a claim that the brachial plexus alone represents the whole neuroanatomy syllabus. Cards are written in original wording and checked against the references below.
+> **Grup:** ANAT-BP-001  
+> **Kapsam:** Pleksusun organizasyonu, terminal dalları, önemli kollateral dalları ve klasik lezyon tabloları.  
+> **Editoryal not:** Bu, odaklı ilk kart grubudur; brakiyal pleksusun tüm nöroanatomi müfredatını temsil ettiği iddia edilmemektedir. Kartlar özgün ifadelerle yazılmış ve aşağıdaki kaynaklarla kontrol edilmiştir.
 
-## Flashcards
+## Flash kartlar
 
-### 1. What spinal nerve contributions form the brachial plexus?
+### 1. Brakiyal pleksusu hangi spinal sinirlerin hangi dalları oluşturur?
 
-**A:** The anterior (ventral) rami of C5–T1.
+**C:** C5–T1 spinal sinirlerinin ön (ventral) ramusları.
 
-**Why it matters:** These are spinal nerve rami, not the dorsal and ventral roots of the spinal nerve. [1, 2]
+**Neden önemli?:** Spinal sinir kökleri değil, spinal sinirlerin ön ramusları söz konusudur. [1, 2]
 
-### 2. What is the proximal-to-distal sequence of brachial plexus components?
+### 2. Brakiyal pleksusun proksimalden distale anatomik sıralaması nasıldır?
 
-**A:** Roots → trunks → divisions → cords → terminal branches.
+**C:** Kökler → trunkuslar → divizyonlar → kordlar → terminal dallar.
 
-**Memory aid:** “Randy Travis Drinks Cold Beer.” [1, 2]
+**Ezber ipucu:** İngilizce kaynaklarda kullanılan “Randy Travis Drinks Cold Beer” mnemonik dizisi bu sırayı hatırlatır. [1, 2]
 
-### 3. Which roots form the superior, middle, and inferior trunks?
+### 3. Üst, orta ve alt trunkusları hangi kökler oluşturur?
 
-**A:** Superior: C5–C6; middle: C7; inferior: C8–T1.
+**C:** Üst: C5–C6; orta: C7; alt: C8–T1.
 
-**Exam trap:** C7 forms the middle trunk alone. [1, 2]
+**Sınav tuzağı:** C7 tek başına orta trunkusu oluşturur. [1, 2]
 
-### 4. Where do the brachial plexus trunks pass in the neck?
+### 4. Brakiyal pleksus trunkusları boyunda hangi anatomik aralıktan geçer?
 
-**A:** Between the anterior and middle scalene muscles, in the interscalene space.
+**C:** Anterior ve medius skalen kasları arasındaki interskalen aralıktan.
 
-**Clinical link:** This region is relevant to scalene-related compression. [2, 3]
+**Klinik ilişki:** Bu bölge skalen kaslara bağlı kompresyon açısından önemlidir. [2, 3]
 
-### 5. How many divisions arise from the three trunks, and what are they?
+### 5. Üç trunkustan kaç divizyon oluşur ve bunlar nelerdir?
 
-**A:** Six divisions: one anterior and one posterior division from each trunk.
+**C:** Altı divizyon: her trunkustan bir anterior ve bir posterior divizyon.
 
-**Why it matters:** The divisions reorganize fibers before the cords form. [1, 2]
+**Neden önemli?:** Divizyonlar, kordların oluşumundan önce lifleri yeniden düzenler. [1, 2]
 
-### 6. Which divisions form the lateral cord?
+### 6. Lateral kord hangi divizyonların birleşmesiyle oluşur?
 
-**A:** The anterior divisions of the superior and middle trunks (predominantly C5–C7).
+**C:** Üst ve orta trunkusların anterior divizyonları (ağırlıklı olarak C5–C7).
 
-**Clinical pattern:** The lateral cord contributes to the musculocutaneous nerve and median nerve. [1, 2]
+**Klinik örüntü:** Lateral kord, muskülokütanöz siniri ve median sinirin bir bölümünü oluşturur. [1, 2]
 
-### 7. Which division forms the medial cord?
+### 7. Medial kord hangi divizyondan oluşur?
 
-**A:** The anterior division of the inferior trunk (predominantly C8–T1).
+**C:** Alt trunkusun anterior divizyonundan (ağırlıklı olarak C8–T1).
 
-**Clinical pattern:** It gives rise to the ulnar nerve and contributes to the median nerve. [1, 2]
+**Klinik örüntü:** Ulnar siniri verir ve median sinire katkıda bulunur. [1, 2]
 
-### 8. Which divisions form the posterior cord?
+### 8. Posterior kord hangi divizyonların birleşmesiyle oluşur?
 
-**A:** All three posterior divisions.
+**C:** Üç trunkusun tüm posterior divizyonları birleşerek posterior kordu oluşturur.
 
-**Clinical pattern:** The posterior cord gives rise to the axillary and radial nerves. [1, 2]
+**Klinik örüntü:** Posterior kord aksiller ve radial sinirleri verir. [1, 2]
 
-### 9. How are the three cords named?
+### 9. Brakiyal pleksusun üç korduna isimleri hangi anatomik ilişkiye göre verilir?
 
-**A:** By their relationship to the second part of the axillary artery: lateral, medial, and posterior.
+**C:** Aksiller arterin ikinci bölümüne göre konumlarına göre: lateral, medial ve posterior.
 
-**Exam trap:** Cord names are positional, not simply based on spinal root levels. [1, 2]
+**Sınav tuzağı:** Kord isimleri spinal kök seviyelerini değil, arterle ilişkilerini tanımlar. [1, 2]
 
-### 10. Which cords contribute fibers to the median nerve?
+### 10. Median sinir hangi kordlardan lif alır?
 
-**A:** Both lateral and medial cords.
+**C:** Lateral ve medial kordlardan.
 
-**High-yield distinction:** The median nerve is formed by contributions from both anterior-division pathways. [1, 2]
+**Yüksek verimli ayrım:** Her iki katkı da anterior divizyonlardan gelir. [1, 2]
 
-### 11. Which terminal nerve arises from the lateral cord, and what is its principal motor territory?
+### 11. Lateral korddan çıkan terminal sinir hangisidir ve temel motor innervasyon alanı nedir?
 
-**A:** The musculocutaneous nerve; it supplies the anterior arm muscles (coracobrachialis, biceps brachii, and brachialis).
+**C:** Muskülokütanöz sinir; kolun ön kompartımanındaki korakobrakialis, biseps brakii ve brakialis kaslarını innerve eder.
 
-**Clinical link:** Injury weakens elbow flexion and forearm supination. [1, 3]
+**Klinik ilişki:** Lezyon dirsek fleksiyonunu ve önkol supinasyonunu zayıflatır. [1, 3]
 
-### 12. Which terminal nerve arises from the medial cord?
+### 12. Medial kordun terminal dalı hangisidir?
 
-**A:** The ulnar nerve (mainly C8–T1).
+**C:** Ulnar sinir (başlıca C8–T1).
 
-**High-yield function:** It supplies most intrinsic hand muscles, including the interossei. [1, 3]
+**Yüksek verimli işlev:** İnterosseöz kaslar dahil elin intrinsik kaslarının çoğunu innerve eder. [1, 3]
 
-### 13. Which two terminal nerves arise from the posterior cord?
+### 13. Posterior korddan çıkan iki terminal sinir hangileridir?
 
-**A:** The axillary and radial nerves.
+**C:** Aksiller sinir ve radial sinir.
 
-**Memory aid:** Both are associated predominantly with posterior-compartment motor function. [1, 3]
+**Ezber ipucu:** Her ikisi de ağırlıklı olarak üst ekstremitenin posterior kompartımanındaki motor işlevlerle ilişkilidir. [1, 3]
 
-### 14. Which muscles are supplied by the axillary nerve?
+### 14. Aksiller sinir hangi kasları innerve eder?
 
-**A:** Deltoid and teres minor.
+**C:** Deltoid ve teres minör.
 
-**Functional link:** Deltoid is the principal abductor of the arm from approximately 15° to 90°; teres minor laterally rotates the arm. [1, 3]
+**Fonksiyonel ilişki:** Deltoid, kolun yaklaşık 15°–90° abdüksiyonunun temel kasıdır; teres minör dış rotasyona katkıda bulunur. [1, 3]
 
-### 15. Which space transmits the axillary nerve, and what artery accompanies it?
+### 15. Aksiller sinir hangi anatomik aralıktan geçer ve ona hangi arter eşlik eder?
 
-**A:** The quadrangular space; the posterior circumflex humeral artery accompanies it.
+**C:** Kuadrangüler aralıktan geçer; posterior sirkumfleks humeral arter eşlik eder.
 
-**Clinical link:** The axillary nerve is vulnerable in surgical-neck fractures and shoulder dislocation. [1, 3]
+**Klinik ilişki:** Cerrahi humerus boynu kırıkları ve omuz çıkıkları siniri yaralanma açısından riske sokar. [1, 3]
 
-### 16. What is the classic deficit after axillary nerve injury?
+### 16. Aksiller sinir lezyonunda beklenen klasik motor ve duyu bulguları nelerdir?
 
-**A:** Weakness of shoulder abduction (especially 15°–90°) and sensory loss over the upper lateral arm.
+**C:** Omuz abdüksiyonunda (özellikle 15°–90°) güçsüzlük ve üst lateral kolda duyu kaybı.
 
-**Exam clue:** Look for deltoid weakness after surgical-neck fracture or anterior shoulder dislocation. [1, 3]
+**Sınav ipucu:** Cerrahi boyun kırığı veya anterior omuz çıkığı sonrasında deltoid güçsüzlüğünü arayın. [1, 3]
 
-### 17. Which nerve supplies serratus anterior, and what is the classic sign of injury?
+### 17. Serratus anterior kasını hangi sinir innerve eder; bu sinirin lezyonu hangi bulguya yol açar?
 
-**A:** The long thoracic nerve (C5–C7); injury causes a winged scapula.
+**C:** Uzun torasik sinir (C5–C7); lezyonu kanat skapulaya neden olur.
 
-**Clinical link:** It can be injured during axillary lymph-node dissection. [1, 3]
+**Klinik ilişki:** Aksiller lenf nodu diseksiyonu sırasında yaralanabilir. [1, 3]
 
-### 18. Which roots form the upper trunk, and what classic palsy follows its traction injury?
+### 18. Üst trunkus hangi köklerden oluşur ve traksiyon yaralanması hangi klasik tabloya neden olur?
 
-**A:** C5–C6; traction injury causes Erb–Duchenne palsy.
+**C:** C5–C6; Erb-Duchenne paralizisi.
 
-**Typical posture:** “Waiter’s tip” — arm adducted and medially rotated, elbow extended, and forearm pronated. [1]
+**Tipik postür:** “Garson bahşişi” (waiter's tip): kol adduksiyon ve iç rotasyonda, dirsek ekstansiyonda, önkol pronasyondadır. [1]
 
-### 19. Which roots form the lower trunk, and what classic palsy follows its traction injury?
+### 19. Alt trunkus hangi köklerden oluşur ve traksiyon yaralanması hangi klasik tabloya neden olur?
 
-**A:** C8–T1; traction injury causes Klumpke palsy.
+**C:** C8–T1; Klumpke paralizisi.
 
-**Typical findings:** Intrinsic hand muscle weakness and clawing; Horner syndrome may occur if T1 sympathetic fibers are involved. [1]
+**Tipik bulgular:** Elin intrinsik kaslarında güçsüzlük ve pençeleşme; T1 sempatik lifleri etkilenirse Horner sendromu eşlik edebilir. [1]
 
-### 20. Which nerve travels in the radial groove with the profunda brachii artery, and what fracture classically threatens it?
+### 20. Radial sinir humerusun hangi oluğunda profunda brakii arteriyle birlikte seyreder; hangi kırıkta yaralanabilir?
 
-**A:** The radial nerve; a midshaft fracture of the humerus can injure it.
+**C:** Humerusun radial oluğunda; humerus cisim orta bölüm kırığında yaralanabilir.
 
-**Classic deficit:** Wrist and finger extension weakness (“wrist drop”). [1, 3]
+**Klasik bulgu:** El bileği ve parmak ekstansiyonunda güçsüzlük (düşük el). [1, 3]
 
-## References
+## Kaynaklar
 
-1. Bayot ML, Nassereddin A, Varacallo MA. **Anatomy, Shoulder and Upper Limb, Brachial Plexus.** StatPearls. Updated 24 July 2023. https://www.ncbi.nlm.nih.gov/books/NBK500016/
-2. Gasparotti R, Shah L. **Brachial and Lumbosacral Plexus and Peripheral Nerves.** In: *Diseases of the Brain, Head and Neck, Spine 2020–2023: Diagnostic Imaging.* Springer; 2020. https://www.ncbi.nlm.nih.gov/books/NBK554335/
-3. Okwumabua E, Black AC, Thompson JH. **Anatomy, Shoulder and Upper Limb, Nerves.** StatPearls. Updated 30 July 2023. https://www.ncbi.nlm.nih.gov/books/NBK526056/
+1. Bayot ML, Nassereddin A, Varacallo MA. **Anatomy, Shoulder and Upper Limb, Brachial Plexus.** StatPearls. 24 Temmuz 2023 güncellemesi. https://www.ncbi.nlm.nih.gov/books/NBK500016/
+2. Gasparotti R, Shah L. **Brachial and Lumbosacral Plexus and Peripheral Nerves.** *Diseases of the Brain, Head and Neck, Spine 2020–2023: Diagnostic Imaging.* Springer; 2020. https://www.ncbi.nlm.nih.gov/books/NBK554335/
+3. Okwumabua E, Black AC, Thompson JH. **Anatomy, Shoulder and Upper Limb, Nerves.** StatPearls. 30 Temmuz 2023 güncellemesi. https://www.ncbi.nlm.nih.gov/books/NBK526056/
 
 ---
-**Review status:** Source-checked against the references above. TUS-specific frequency is not assigned to individual cards unless supported by a question-analysis dataset.
+**Gözden geçirme durumu:** Yukarıdaki kaynaklarla kontrol edilmiştir. Soru analizi verisiyle desteklenmedikçe tek tek kartlara TUS çıkmışlık sıklığı atfedilmez.
