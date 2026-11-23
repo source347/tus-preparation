@@ -10,6 +10,7 @@ Planlama hedefi: yaklaşık 130 kart (13 soru × 10 kart). Teslim partileri 30 k
 |---|---:|---|
 | Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
 | Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
+| Orbita, farinks ve larenks | 30 | [orbit-pharynx-larynx.md](orbit-pharynx-larynx.md) |
 
 Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
