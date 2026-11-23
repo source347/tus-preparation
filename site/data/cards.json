@@ -869,6 +869,192 @@
           "explanation": "Paramedian arter varyantları (ör. Percheron arteri) iki paramedian talamik bölgeyi tek damar üzerinden besleyebilir."
         }
       ]
+    },
+    {
+      "id": "anatomy-general-osteology-arthrology",
+      "title": "Anatomi · Genel anatomi, osteoloji ve artroloji",
+      "cards": [
+        {
+          "id": "ANAT-GOA-006-01",
+          "question": "Anatomik pozisyon nasıl tanımlanır?",
+          "answer": "Kişi dik durur; baş ve gözler öne, üst ekstremiteler gövde yanında, dirsekler ekstansiyonda, avuç içleri öne, alt ekstremiteler ve ayaklar öne bakar.",
+          "explanation": "Anatomik yön ve hareket terimleri bu referans pozisyonuna göre tanımlanır."
+        },
+        {
+          "id": "ANAT-GOA-006-02",
+          "question": "Median (orta), medial ve lateral terimleri arasındaki fark nedir?",
+          "answer": "Median orta hatta; medial orta hatta yakın; lateral orta hattan uzak konumu belirtir.",
+          "explanation": "Median düzlem vücudu sağ ve sol eşit yarılara ayırır; parasagittal düzlemler eşit olmayan bölümler oluşturur."
+        },
+        {
+          "id": "ANAT-GOA-006-03",
+          "question": "Sagittal, koronal ve transvers düzlemler vücudu nasıl böler?",
+          "answer": "Sagittal: sağ-sol; koronal (frontal): ön-arka; transvers (aksiyel): üst-alt bölümlere ayırır.",
+          "explanation": "Hareket analizi ve kesitsel görüntülemede düzlemlerin doğru adlandırılması önemlidir."
+        },
+        {
+          "id": "ANAT-GOA-006-04",
+          "question": "Proksimal ve distal terimleri hangi referansa göre kullanılır?",
+          "answer": "Ekstremitede gövdeye veya başlangıç noktasına yakın olan proksimal, uzak olan distal olarak tanımlanır.",
+          "explanation": "El bileği dirseğe göre distal, dirsek omuza göre proksimaldir."
+        },
+        {
+          "id": "ANAT-GOA-006-05",
+          "question": "Fleksiyon ve ekstansiyon genellikle hangi düzlem ve eksende gerçekleşir?",
+          "answer": "Sagittal düzlemde, mediolateral (transvers) eksen çevresinde gerçekleşir.",
+          "explanation": "Eklem tipine ve anatomik bölgeye bağlı istisnalar olabilir; hareket düzlemi ile eksen birbirine diktir."
+        },
+        {
+          "id": "ANAT-GOA-006-06",
+          "question": "Abduksiyon ve adduksiyon hangi düzlemde gerçekleşir?",
+          "answer": "Genellikle frontal (koronal) düzlemde, anteroposterior eksen çevresinde gerçekleşir.",
+          "explanation": "Abduksiyon orta hattan uzaklaşma, adduksiyon orta hatta yaklaşmadır."
+        },
+        {
+          "id": "ANAT-GOA-006-07",
+          "question": "Pronasyon ve supinasyon önkolda hangi kemik hareketiyle oluşur?",
+          "answer": "Pronasyonda radius ulna üzerinde çaprazlanır; supinasyonda radius ve ulna paralel konuma gelir.",
+          "explanation": "Hareket radioulnar eklemlerde gerçekleşir; avuç içinin yönelimiyle tarif edilir."
+        },
+        {
+          "id": "ANAT-GOA-006-08",
+          "question": "İnversiyon ve eversiyon hangi hareketleri tanımlar?",
+          "answer": "İnversiyon ayak tabanının mediale, eversiyon laterale yönelmesidir.",
+          "explanation": "Ayak bileği kompleksinde subtalar ve transvers tarsal eklemler bu hareketlere katkı verir."
+        },
+        {
+          "id": "ANAT-GOA-006-09",
+          "question": "Kemikler şekillerine göre temel olarak nasıl sınıflandırılır?",
+          "answer": "Uzun, kısa, yassı, düzensiz ve sesamoid kemikler olarak sınıflandırılır; sütür kemikleri ek bir özel gruptur.",
+          "explanation": "Femur uzun; karpal kemikler kısa; sternum yassı; vertebra düzensiz; patella sesamoid kemiktir."
+        },
+        {
+          "id": "ANAT-GOA-006-10",
+          "question": "Uzun kemiğin temel anatomik bölümleri nelerdir?",
+          "answer": "Diafiz, metafiz ve epifiz; eklem yüzlerinde eklem kıkırdağı bulunur.",
+          "explanation": "Metafiz, büyüme döneminde epifiz plağını barındıran diafiz-epifiz geçiş bölgesidir."
+        },
+        {
+          "id": "ANAT-GOA-006-11",
+          "question": "Kompakt ve spongiyöz kemik dokusu arasındaki temel fark nedir?",
+          "answer": "Kompakt kemik yoğun kortikal tabakayı; spongiyöz kemik trabeküller arasındaki kemik iliği boşluklarını içeren ağı oluşturur.",
+          "explanation": "Spongiyöz kemik özellikle epifizlerde ve yassı kemiklerin diploesinde belirgindir."
+        },
+        {
+          "id": "ANAT-GOA-006-12",
+          "question": "Periost ve endost hangi yüzeyleri örter?",
+          "answer": "Periost kemiğin eklem kıkırdağıyla örtülü olmayan dış yüzeyini; endost medüller boşluk ve trabeküler yüzeyler gibi iç kemik yüzeylerini örter.",
+          "explanation": "Periost damar ve sinirden zengindir; tendon ve ligamentlerin kemiğe tutunmasına katkı sağlar."
+        },
+        {
+          "id": "ANAT-GOA-006-13",
+          "question": "İntramembranöz ve endokondral kemikleşmenin farkı nedir?",
+          "answer": "İntramembranöz kemikleşmede mezenşim doğrudan kemiğe dönüşür; endokondral kemikleşmede önce hiyalin kıkırdak model oluşur, sonra kemikle yer değiştirir.",
+          "explanation": "Kafatası kubbesinin birçok kemiği intramembranöz; uzun kemiklerin çoğu endokondral gelişir."
+        },
+        {
+          "id": "ANAT-GOA-006-14",
+          "question": "Epifiz plağı hangi eklem tipidir ve uzunlamasına büyümeyi nasıl sağlar?",
+          "answer": "Hiyalin kıkırdaktan oluşan primer kartilajinöz eklem (sinkondroz) tipidir; kıkırdak proliferasyonu ve hipertrofisi ardından kemikleşme ile diafiz uzar.",
+          "explanation": "Epifiz plağının kapanması boyuna büyümenin sona ermesine yol açar."
+        },
+        {
+          "id": "ANAT-GOA-006-15",
+          "question": "Uzun kemiğin kanlanmasında temel damar grupları nelerdir?",
+          "answer": "Besleyici arter diafiz ve kemik iliğinin büyük bölümünü; periostal, metafizer ve epifizel arterler ilgili periferik ve uç bölgeleri besler.",
+          "explanation": "Epifizel dolaşımın durumu yaşa ve büyüme plağının açık olup olmamasına göre değişebilir."
+        },
+        {
+          "id": "ANAT-GOA-006-16",
+          "question": "Eklem kıkırdağı neden doğrudan damar ve sinir içermez?",
+          "answer": "Hiyalin eklem kıkırdağı avasküler ve aneuraldir; beslenmesi esas olarak sinovyal sıvıdan difüzyonla sağlanır.",
+          "explanation": "Bu özellik iyileşme kapasitesini sınırlar ve ağrının kıkırdak dokudan değil çevre innervasyonlu yapılardan kaynaklanmasına yol açar."
+        },
+        {
+          "id": "ANAT-GOA-006-17",
+          "question": "Fibröz eklemlerin üç alt tipi ve tipik örnekleri nelerdir?",
+          "answer": "Sütür (kafatası kemikleri), gomfoz (diş-alveol), sindesmoz (distal tibiofibular eklem veya interosseöz membran).",
+          "explanation": "Fibröz eklemlerde kemikler kollajen bağ dokusuyla birleşir; eklem boşluğu bulunmaz."
+        },
+        {
+          "id": "ANAT-GOA-006-18",
+          "question": "Primer ve sekonder kartilajinöz eklemler hangi kıkırdak türünü içerir?",
+          "answer": "Sinkondroz yalnız hiyalin kıkırdak; simfizis ise kemik yüzleri arasında fibrokıkırdak içerir.",
+          "explanation": "Epifiz plağı sinkondroz; pubik simfizis ve intervertebral diskler simfizis örneğidir."
+        },
+        {
+          "id": "ANAT-GOA-006-19",
+          "question": "Fonksiyonel sınıflandırmada sinartroz, amfiartroz ve diartroz neyi ifade eder?",
+          "answer": "Sırasıyla hareketsiz, sınırlı hareketli ve serbest hareketli eklemleri ifade eder.",
+          "explanation": "Bu sınıflandırma hareket miktarına dayanır; yapısal sınıflandırmayla bire bir istisnasız eşleşme varsayılmamalıdır."
+        },
+        {
+          "id": "ANAT-GOA-006-20",
+          "question": "Tipik sinovyal eklemin zorunlu temel bileşenleri nelerdir?",
+          "answer": "Eklem yüzlerini örten hiyalin kıkırdak, eklem boşluğu, sinovyal sıvı, içte sinovyal membran ve dışta fibröz kapsül.",
+          "explanation": "Sinovyal membran fibröz kapsülün iç yüzünü döşer; eklem kıkırdağını örtmez."
+        },
+        {
+          "id": "ANAT-GOA-006-21",
+          "question": "Sinovyal sıvının temel işlevleri nelerdir?",
+          "answer": "Eklem yüzleri arasındaki sürtünmeyi azaltır, eklem kıkırdağının beslenmesine katkı sağlar ve yük dağılımına yardımcı olur.",
+          "explanation": "Sinovyal sıvı sinovyal membran tarafından üretilir; eklem kıkırdağı avasküler olduğu için önemlidir."
+        },
+        {
+          "id": "ANAT-GOA-006-22",
+          "question": "Sinovyal eklemler şekil ve hareket özelliklerine göre nasıl sınıflandırılır?",
+          "answer": "Düz (kayma), menteşe, pivot, kondiloid/elipsoid, eyer ve küresel eklemler.",
+          "explanation": "Örnekler sırasıyla interkarpal, dirsek, atlantoaksiyel, radiokarpal, 1. karpometakarpal ve omuz/kalça eklemleridir."
+        },
+        {
+          "id": "ANAT-GOA-006-23",
+          "question": "Menisküs, artiküler disk ve labrumun işlevsel farkları nelerdir?",
+          "answer": "Menisküs ve disk eklem yüzleri arasında fibrokıkırdak yapı olarak uyum ve yük dağılımını artırır; labrum eklem çukurunun kenarını derinleştirir.",
+          "explanation": "Diz menisküsleri, temporomandibular eklem diski ve omuz glenoid labrumu klasik örneklerdir."
+        },
+        {
+          "id": "ANAT-GOA-006-24",
+          "question": "Bursa ve tendon kılıfı ne işe yarar?",
+          "answer": "Bursa, sürtünen yapılar arasında kayganlığı artıran sinovyal sıvı içeren keseciktir; tendon kılıfı tendonu çevreleyen tübüler bursa düzenlenmesidir.",
+          "explanation": "Tekrarlayan mekanik yüklenme bursit veya tenosinovite neden olabilir."
+        },
+        {
+          "id": "ANAT-GOA-006-25",
+          "question": "Bir sinovyal eklemin stabilitesini belirleyen başlıca etmenler nelerdir?",
+          "answer": "Eklem yüzlerinin uyumu, kapsül ve ligamentlerin sağlamlığı, çevre kas-tendonların dinamik desteği ve eklem içi negatif basınç.",
+          "explanation": "Omuzda geniş hareket açıklığına karşı kemiksel uyum sınırlıdır; dinamik stabilizatörlerin önemi yüksektir."
+        },
+        {
+          "id": "ANAT-GOA-006-26",
+          "question": "Hilton yasası eklem innervasyonu hakkında ne söyler?",
+          "answer": "Bir eklemi hareket ettiren kasları innerve eden sinirler, genellikle eklem kapsülü ve eklem çevresindeki deriyi de innerve eder.",
+          "explanation": "Eklem ağrısının ve periferik sinir lezyonlarının klinik dağılımını anlamada kullanılır."
+        },
+        {
+          "id": "ANAT-GOA-006-27",
+          "question": "İskelet kasında agonist, antagonist, sinerjist ve fiksatör neyi ifade eder?",
+          "answer": "Agonist hareketi başlatan/üreten; antagonist karşı hareketi yapan; sinerjist agoniste yardım eden; fiksatör ilgili segmenti stabilize eden kastır.",
+          "explanation": "Kasların rolü yapılan harekete göre değişebilir; aynı kas farklı görevlerde farklı işlev üstlenebilir."
+        },
+        {
+          "id": "ANAT-GOA-006-28",
+          "question": "Kasın origo ve insertiosu klasik olarak nasıl tanımlanır?",
+          "answer": "Origo genellikle daha sabit/proksimal; insertio hareket sırasında daha fazla yer değiştiren/distal tutunma noktasıdır.",
+          "explanation": "Bu ayrım öğretici bir genellemedir; açık kinetik zincir ve kapalı kinetik zincirde hareket eden uç değişebilir."
+        },
+        {
+          "id": "ANAT-GOA-006-29",
+          "question": "Tendon, aponevroz ve ligament arasındaki temel fark nedir?",
+          "answer": "Tendon kası kemiğe; aponevroz geniş yassı tendon yapısı olarak kası veya fasyayı bağlar; ligament kemiği kemiğe bağlar.",
+          "explanation": "Üçü de yoğun düzenli bağ dokusu içerebilir; işlev ve tutunma noktaları ayırt ettiricidir."
+        },
+        {
+          "id": "ANAT-GOA-006-30",
+          "question": "Fasya kompartımanları neden klinik açıdan önemlidir?",
+          "answer": "Derin fasya kas gruplarını kompartımanlara ayırır; kompartıman içi basınç artışı damar-sinir yapılarını sıkıştırarak kompartıman sendromuna yol açabilir.",
+          "explanation": "Özellikle ekstremitelerde travma sonrası şiddetli ağrı, pasif germe ağrısı ve nörovasküler bozulma acil değerlendirme gerektirir."
+        }
+      ]
     }
   ]
 }
