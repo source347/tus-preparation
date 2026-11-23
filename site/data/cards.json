@@ -1871,6 +1871,270 @@
           "explanation": "Splanknik sinirler abdominal visseraların sempatik innervasyonuna katkı verir; vagal trunkuslar parasempatiktir."
         }
       ]
+    },
+    {
+      "id": "anatomy-abdomen",
+      "title": "Anatomi · Abdomen",
+      "cards": [
+        {
+          "id": "ANAT-ABD-011-01",
+          "question": "Ön karın duvarının kas tabakaları ve lif yönleri nasıldır?",
+          "answer": "Dıştan içe m. obliquus externus abdominis (inferomedial), m. obliquus internus (superomedial) ve m. transversus abdominis (transvers) bulunur; derinde fascia transversalis, ekstraperitoneal doku ve parietal periton yer alır.",
+          "explanation": "Rektus kılıfı bu üç yassı kasın aponevrozlarının düzenlenmesiyle oluşur."
+        },
+        {
+          "id": "ANAT-ABD-011-02",
+          "question": "Linea arcuata'nın klinik ve anatomik önemi nedir?",
+          "answer": "Linea arcuata'nın altında rektus abdominis'in arkasında yalnız fascia transversalis ve periton bulunur; üç yassı kasın aponevrozları rektusun önünden geçer.",
+          "explanation": "Bu düzeyin altında arka rektus kılıfı yoktur; karın duvarı hematomlarının yayılımı açısından önemlidir."
+        },
+        {
+          "id": "ANAT-ABD-011-03",
+          "question": "İnguinal kanalın derin ve yüzeyel halkaları hangi yapılardadır?",
+          "answer": "Derin halka fascia transversalis'te, yüzeyel halka m. obliquus externus aponevrozundadır.",
+          "explanation": "Derin halka inferior epigastrik damarların lateralinde; yüzeyel halka pubik tüberkülün superolateralindedir."
+        },
+        {
+          "id": "ANAT-ABD-011-04",
+          "question": "Direkt ve indirekt inguinal herniler inferior epigastrik damarlarla nasıl ilişkilidir?",
+          "answer": "İndirekt herni damarların lateralinden derin halkaya girer; direkt herni damarların medialindeki Hesselbach üçgeninden çıkar.",
+          "explanation": "İndirekt herni processus vaginalis açıklığıyla ilişkili olabilir; direkt herni arka duvarın zayıflığından gelişir."
+        },
+        {
+          "id": "ANAT-ABD-011-05",
+          "question": "Hesselbach üçgeninin sınırları nelerdir?",
+          "answer": "Medialde m. rectus abdominis'in lateral kenarı, lateralde inferior epigastrik damarlar, inferiorda lig. inguinale bulunur.",
+          "explanation": "Direkt inguinal herniler bu üçgenden protrüde olur."
+        },
+        {
+          "id": "ANAT-ABD-011-06",
+          "question": "İnguinal kanalın duvarları hangi yapılarla oluşur?",
+          "answer": "Ön: dış oblik aponevrozu (lateralde iç oblik katkısı); arka: fascia transversalis (medialde conjoint tendon desteği); tavan: iç oblik ve transversus lifleri; taban: lig. inguinale.",
+          "explanation": "Erkekte kanal spermatik kordu, kadında lig. teres uteri'yi taşır; ilioinguinal sinir de kanaldan geçer ancak derin halkadan girmez."
+        },
+        {
+          "id": "ANAT-ABD-011-07",
+          "question": "Peritonun intraperitoneal ve retroperitoneal organ ayrımı nasıl tanımlanır?",
+          "answer": "İntraperitoneal organlar visseral peritonla büyük ölçüde örtülü ve mezenterle asılıdır; retroperitoneal organlar peritonun arkasında yer alır.",
+          "explanation": "Primer retroperitoneal: böbrek, adrenal, üreter, aorta, VCI. Sekonder retroperitoneal: duodenumun 2–4. kısımları, pankreas başı/gövdesi ve çıkan-inen kolon."
+        },
+        {
+          "id": "ANAT-ABD-011-08",
+          "question": "Büyük ve küçük kese (greater/lesser sac) arasındaki bağlantı nedir?",
+          "answer": "Omental foramen (epiploik foramen) iki peritoneal boşluğu birbirine bağlar.",
+          "explanation": "Foramenin önünde lig. hepatoduodenale, arkasında VCI, üstünde karaciğerin kaudat lobu, altında duodenumun 1. kısmı bulunur."
+        },
+        {
+          "id": "ANAT-ABD-011-09",
+          "question": "Omental foramenin sınırları ve Pringle manevrasının ilişkisi nedir?",
+          "answer": "Ön: hepatoduodenal ligament; arka: VCI; üst: kaudat lob; alt: duodenumun 1. kısmı.",
+          "explanation": "Pringle manevrasında hepatoduodenal ligament sıkıştırılarak portal triad akımı geçici olarak kesilir."
+        },
+        {
+          "id": "ANAT-ABD-011-10",
+          "question": "Portal triad hangi yapılardan oluşur ve hepatoduodenal ligamentte dizilim nasıldır?",
+          "answer": "V. portae, a. hepatica propria ve ductus choledochus; ligamentte portal ven posterior, hepatik arter anteromedial, koledok anterolateral yerleşir.",
+          "explanation": "Portal triadın sıkıştırılması karaciğer giriş kan akımını azaltır; hepatik venler bu triadın parçası değildir."
+        },
+        {
+          "id": "ANAT-ABD-011-11",
+          "question": "Midenin bölümleri ve komşulukları nelerdir?",
+          "answer": "Kardia, fundus, corpus ve pyloric bölüm (antrum ve kanal) bulunur. Posterior komşulukları pankreas, dalak, sol böbrek/adrenal ve transvers mezokolon üzerinden lesser sac ile ilişkilidir.",
+          "explanation": "Midenin arkasındaki bu yapılar 'mide yatağı' olarak tanımlanır."
+        },
+        {
+          "id": "ANAT-ABD-011-12",
+          "question": "Midenin arteriyel kanlanması hangi arterlerden sağlanır?",
+          "answer": "Küçük kurvatur: sol ve sağ gastrik; büyük kurvatur: sol ve sağ gastro-omental; fundus: kısa gastrik arterler (çoğunlukla splenik arter dalları).",
+          "explanation": "Sağ gastrik genellikle hepatik arter sisteminden; sol gastrik çölyak trunkustan çıkar."
+        },
+        {
+          "id": "ANAT-ABD-011-13",
+          "question": "Midenin parasempatik ve sempatik innervasyonu nedir?",
+          "answer": "Parasempatik: vagus sinirinin anterior ve posterior trunkusları; sempatik: T6–T9 segmentlerinden çölyak pleksus üzerinden gelen lifler.",
+          "explanation": "Vagal lifler motilite ve sekresyonu artırır; sempatik lifler vazomotor etki ve ağrı afferentlerini taşır."
+        },
+        {
+          "id": "ANAT-ABD-011-14",
+          "question": "Duodenumun bölümleri ve retroperitoneal konumu nasıldır?",
+          "answer": "Dört bölüm: superior, descendens, horizontal (inferior) ve ascendens. İlk bölümün proksimal kısmı hareketlidir/intraperitoneal; büyük bölümü sekonder retroperitonealdir.",
+          "explanation": "Papilla duodeni major ikinci bölümün medial duvarındadır; safra ve pankreas kanalları buraya açılır."
+        },
+        {
+          "id": "ANAT-ABD-011-15",
+          "question": "Ampulla hepatopancreatica (Vater) ve papilla duodeni major hangi kanalların birleşmesiyle oluşur?",
+          "answer": "Ductus choledochus ile ductus pancreaticus major birleşerek ampullayı oluşturur ve major papillaya açılır; birleşme şekli değişken olabilir.",
+          "explanation": "Oddi sfinkteri ampulla/kanal çıkışını düzenler; safra taşı burada obstrüksiyon ve pankreatite neden olabilir."
+        },
+        {
+          "id": "ANAT-ABD-011-16",
+          "question": "Jejunum ile ileumun makroskopik ayırt edici özellikleri nelerdir?",
+          "answer": "Jejunum daha kalın duvarlı, geniş lümenli, daha vasküler ve daha az arkadlı; ileum daha ince, daha fazla arteriyel arkad ve daha uzun vasa recta'ya sahiptir.",
+          "explanation": "İleumda Peyer plakları belirgindir; mezenter yağ dokusu jejunuma göre bağırsak kenarına daha fazla uzanır."
+        },
+        {
+          "id": "ANAT-ABD-011-17",
+          "question": "İnce bağırsağın arteriyel kanlanması hangi ana damardan gelir?",
+          "answer": "Çoğunlukla a. mesenterica superior; proksimal duodenum ayrıca çölyak sistemden gelen superior pancreaticoduodenal arterle beslenir.",
+          "explanation": "SMA dalları jejunal/ileal arterler ve inferior pancreaticoduodenal arterdir; çölyak-SMA arasında pankreatikoduodenal anastomoz vardır."
+        },
+        {
+          "id": "ANAT-ABD-011-18",
+          "question": "Kolonun bölümleri ve karakteristik anatomik işaretleri nelerdir?",
+          "answer": "Çekum, çıkan kolon, transvers kolon, inen kolon, sigmoid kolon ve rektum; kolonun tipik işaretleri taeniae coli, haustra ve appendices epiploicae'dir.",
+          "explanation": "Rektumda taeniae coli birleşerek longitudinal kas tabakasını oluşturur; appendices epiploicae rektumda bulunmaz."
+        },
+        {
+          "id": "ANAT-ABD-011-19",
+          "question": "Kolonun ön bağırsak-orta bağırsak-arka bağırsak damar dağılımı nasıldır?",
+          "answer": "Çölyak trunkus ön bağırsak; SMA orta bağırsak; IMA arka bağırsak türevlerini besler. Transvers kolonun proksimal 2/3'ü SMA, distal 1/3'ü IMA kaynaklıdır.",
+          "explanation": "Griffith noktası splenik fleksurada, Sudeck noktası rektosigmoid bileşkede watershed alanlardır."
+        },
+        {
+          "id": "ANAT-ABD-011-20",
+          "question": "Appendix vermiformis'in tabanı nasıl bulunur ve arteriyel kaynağı nedir?",
+          "answer": "Taban, çekumda taeniae coli'nin birleştiği noktadadır; a. appendicularis genellikle a. ileocolica'dan çıkar.",
+          "explanation": "A. appendicularis çoğunlukla son arterdir; trombozu akut apandisit gangreni riskini artırır."
+        },
+        {
+          "id": "ANAT-ABD-011-21",
+          "question": "Karaciğerin fonksiyonel lobları ve portal segmentasyonu hangi düzleme göre ayrılır?",
+          "answer": "Fonksiyonel sağ-sol karaciğer, Cantlie çizgisi (safra kesesi yatağından VCI'ya uzanan düzlem) ile ayrılır; portal segmentasyon Couinaud'un sekiz segmentine dayanır.",
+          "explanation": "Hepatik venler segmentler arası düzlemlerde, portal triad dalları segmentlerin içinde seyreder."
+        },
+        {
+          "id": "ANAT-ABD-011-22",
+          "question": "Karaciğerin çift kanlanması ve venöz drenajı nasıldır?",
+          "answer": "Portal ven kan akımının çoğunu, hepatik arter oksijenin önemli bölümünü sağlar; venöz kan sağ, orta ve sol hepatik venlerle VCI'ya dökülür.",
+          "explanation": "Portal ven ve hepatik arter karaciğere hilumdan girer; hepatik venler doğrudan VCI'ya açılır."
+        },
+        {
+          "id": "ANAT-ABD-011-23",
+          "question": "Safra kesesinin fundusu yüzeyde hangi anatomik noktaya izdüşer?",
+          "answer": "Sağ 9. kostal kıkırdak ucu ile sağ rektus abdominis lateral kenarının kesişimine yakın (transpilorik düzleme yakın) izdüşer.",
+          "explanation": "Murphy noktası/klinik hassasiyet sağ üst kadran muayenesinde kullanılır; yüzey işareti bireyler arasında değişebilir."
+        },
+        {
+          "id": "ANAT-ABD-011-24",
+          "question": "Ductus cysticus, hepaticus communis ve koledok nasıl oluşur?",
+          "answer": "Sağ ve sol hepatik kanallar birleşerek ductus hepaticus communis'i; bunun ductus cysticus ile birleşmesi ductus choledochus'u oluşturur.",
+          "explanation": "Koledok çoğunlukla hepatoduodenal ligament içinde ilerleyip pankreas başı arkasından/ içinden geçerek duodenuma açılır."
+        },
+        {
+          "id": "ANAT-ABD-011-25",
+          "question": "Calot (hepatosistik) üçgeninin sınırları ve içeriği nedir?",
+          "answer": "Modern tanımda sınırlar ductus cysticus, ductus hepaticus communis ve karaciğerin inferior yüzüdür; içinde çoğunlukla a. cystica bulunur.",
+          "explanation": "Kolesistektomide kritik güvenlik penceresidir; klasik Calot tanımında sistik arter sınır olarak sayılabilir."
+        },
+        {
+          "id": "ANAT-ABD-011-26",
+          "question": "Pankreasın bölümleri ve peritoneal konumu nasıldır?",
+          "answer": "Baş, uncinate çıkıntı, boyun, gövde ve kuyruk bölümleri vardır. Büyük kısmı sekonder retroperitoneal, kuyruk splenorenal ligament içinde intraperitoneal uzanır.",
+          "explanation": "Pankreas başı duodenum kavsi içindedir; uncinate çıkıntı SMA/SMV'nin arkasına uzanır."
+        },
+        {
+          "id": "ANAT-ABD-011-27",
+          "question": "Pankreasın arteriyel kanlanması nasıl sağlanır?",
+          "answer": "Baş: superior pancreaticoduodenal (gastroduodenal) ve inferior pancreaticoduodenal (SMA) arterler; gövde-kuyruk: splenik arter dalları.",
+          "explanation": "Çölyak trunkus ve SMA arasında pankreatikoduodenal arkadlar önemli kollateral bağlantıdır."
+        },
+        {
+          "id": "ANAT-ABD-011-28",
+          "question": "Dalak hangi kaburgalarla ve hangi ligamentlerle ilişkilidir?",
+          "answer": "Sol 9–11. kaburgaların arkasında, uzun ekseni 10. kaburgaya paralel yerleşir; gastrosplenik ve splenorenal ligamentlerle bağlanır.",
+          "explanation": "Splenorenal ligament içinde splenik damarlar ve pankreas kuyruğu bulunur; travmada sol omuza yansıyan Kehr belirtisi görülebilir."
+        },
+        {
+          "id": "ANAT-ABD-011-29",
+          "question": "Dalak arteriyel kanlanması ve lenfatik drenajı nasıldır?",
+          "answer": "A. splenica (çölyak trunkus dalı) ile beslenir; lenfi pankreatikosplenik nodlara, ardından çölyak nodlara drene olur.",
+          "explanation": "Dalak lenfi doğrudan paraaortik nodlara değil, öncelikle pankreatikosplenik/çölyak zincire gider."
+        },
+        {
+          "id": "ANAT-ABD-011-30",
+          "question": "Böbreğin hilumunda önden arkaya yapıların sıralaması nedir?",
+          "answer": "Vena renalis, arteria renalis, pelvis renalis/üreter (V-A-P).",
+          "explanation": "Sol renal ven aortanın önünden, SMA'nın arkasından geçer; nutcracker sendromunda sıkışabilir."
+        },
+        {
+          "id": "ANAT-ABD-011-31",
+          "question": "Böbreklerin vertebral düzeyleri ve sağ-sol yükseklik farkı nedir?",
+          "answer": "Yaklaşık T12–L3 düzeylerinde; sağ böbrek karaciğer nedeniyle soldan daha aşağıdadır.",
+          "explanation": "Böbreklerin üst kutupları 12. kaburgayla, sol böbrek ayrıca 11. kaburgayla komşudur."
+        },
+        {
+          "id": "ANAT-ABD-011-32",
+          "question": "Böbrek çevresi fasya ve yağ katmanları dıştan içe nasıl sıralanır?",
+          "answer": "Pararenal yağ, renal fasya (Gerota), perirenal yağ, fibröz kapsül ve böbrek parankimi şeklinde içe ilerlenir.",
+          "explanation": "Perirenal hematom ve enfeksiyonun yayılımı renal fasya yapraklarıyla sınırlanabilir."
+        },
+        {
+          "id": "ANAT-ABD-011-33",
+          "question": "Üreterin anatomik darlık noktaları nelerdir?",
+          "answer": "Pelvis renalis-üreter bileşkesi, iliak damarları çaprazladığı pelvik brim ve mesaneye girişteki üreterovezikal bileşke.",
+          "explanation": "Üreter taşı bu üç fizyolojik darlıkta takılmaya eğilimlidir."
+        },
+        {
+          "id": "ANAT-ABD-011-34",
+          "question": "Üreterin pelviste cinsiyete özgü önemli komşulukları nelerdir?",
+          "answer": "Kadında uterin arterin altından ('water under the bridge'); erkekte ductus deferens'in altından geçer.",
+          "explanation": "Histerektomi ve pelvik cerrahide üreter yaralanması açısından bu çaprazlaşmalar kritiktir."
+        },
+        {
+          "id": "ANAT-ABD-011-35",
+          "question": "Abdominal aortanın eşleşmemiş ön dalları ve besledikleri bağırsak bölgeleri nelerdir?",
+          "answer": "Truncus coeliacus ön bağırsak; SMA orta bağırsak; IMA arka bağırsak türevlerini besler.",
+          "explanation": "Üç ana dalın çıkış düzeyleri yaklaşık T12 (çölyak), L1 (SMA), L3 (IMA) olarak hatırlanır."
+        },
+        {
+          "id": "ANAT-ABD-011-36",
+          "question": "Çölyak trunkusun üç ana dalı nelerdir?",
+          "answer": "A. gastrica sinistra, a. splenica ve a. hepatica communis.",
+          "explanation": "Çölyak trunkus ön bağırsak türevlerini; distal özofagus, mide, proksimal duodenum, karaciğer-safra yolları, pankreas ve dalağı besler."
+        },
+        {
+          "id": "ANAT-ABD-011-37",
+          "question": "SMA'nın başlıca dalları nelerdir?",
+          "answer": "A. pancreaticoduodenalis inferior, aa. jejunales/ileales, a. ileocolica, a. colica dextra ve a. colica media.",
+          "explanation": "SMA orta bağırsak türevlerini; distal duodenumdan transvers kolonun proksimal 2/3'üne kadar besler."
+        },
+        {
+          "id": "ANAT-ABD-011-38",
+          "question": "IMA'nın başlıca dalları ve beslediği alan nedir?",
+          "answer": "A. colica sinistra, aa. sigmoideae ve a. rectalis superior; distal transvers kolonun 1/3'ünden üst rektuma kadar besler.",
+          "explanation": "Üst rektum IMA sisteminden; orta ve alt rektum internal iliak sistemden kanlanır."
+        },
+        {
+          "id": "ANAT-ABD-011-39",
+          "question": "Portal ven hangi venlerin birleşmesiyle oluşur ve temel seyri nasıldır?",
+          "answer": "V. mesenterica superior ile v. splenica pankreas boynu arkasında birleşir; portal ven hepatoduodenal ligament içinde karaciğer hilumuna ilerler.",
+          "explanation": "V. mesenterica inferior çoğunlukla splenik vene, bazen SMV veya birleşim yerine dökülür."
+        },
+        {
+          "id": "ANAT-ABD-011-40",
+          "question": "Portosistemik anastomozların başlıca bölgeleri nelerdir?",
+          "answer": "Distal özofagus, umbilikus çevresi, anal kanalın üst-alt bölümleri ve retroperitoneal kolon çevresi.",
+          "explanation": "Portal hipertansiyonda özofagus varisleri, caput medusae ve anorektal kollateraller gelişebilir; hemoroid ile varis aynı kavram değildir."
+        },
+        {
+          "id": "ANAT-ABD-011-41",
+          "question": "Karın içi otonom innervasyonda vagus ve splanknik sinirlerin genel dağılımı nasıldır?",
+          "answer": "Vagus parasempatik olarak ön bağırsak ve orta bağırsağa; pelvik splanknik sinirler (S2–S4) arka bağırsağa parasempatik lif taşır. Torasik/lomber splanknik sinirler sempatik lifleri prevertebral ganglionlara getirir.",
+          "explanation": "Sempatik lifler damar tonusu ve motiliteyi azaltma; parasempatik lifler motilite ve sekresyonu artırma eğilimindedir."
+        },
+        {
+          "id": "ANAT-ABD-011-42",
+          "question": "Çölyak, superior mezenterik ve inferior mezenterik pleksuslar hangi ganglionlarla ilişkilidir?",
+          "answer": "Çölyak pleksus çölyak ganglionları; aortikorenal ve SMA pleksusları ilgili prevertebral ganglionlar; IMA pleksusu inferior mezenterik ganglion çevresinde düzenlenir.",
+          "explanation": "Prevertebral ganglionlar abdominal aorta dallarının kökenleri çevresinde yerleşir."
+        },
+        {
+          "id": "ANAT-ABD-011-43",
+          "question": "Karın organlarının lenfatik drenajı genel olarak hangi ana nodal gruplara yönelir?",
+          "answer": "Ön bağırsak çölyak; orta bağırsak superior mezenterik; arka bağırsak inferior mezenterik lenf nodlarına drene olur.",
+          "explanation": "Lenfatik drenaj çoğunlukla organ arterlerini izler; mide, pankreas ve kolorektal tümör evrelemesinde önemlidir."
+        }
+      ]
     }
   ]
 }
