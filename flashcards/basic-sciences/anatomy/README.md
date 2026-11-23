@@ -1,19 +1,21 @@
-# Anatomy
+# Anatomi
 
-Topic-based flashcards for anatomy.
+Anatomiye ait konu bazlı flash kartlar.
 
-Planned allocation target: approximately 260 cards (13 questions × 20 cards). This is a coverage target, not a quota that overrides quality.
+Planlama hedefi: yaklaşık 260 kart (13 soru × 20 kart). Bu bir kapsam hedefidir; kaliteyi geçersiz kılan bir kota değildir.
 
-## Published batches
+## Yayımlanan kart grupları
 
-| Topic | Cards | File |
+| Konu | Kart | Dosya |
 |---|---:|---|
-| Brachial plexus | 20 | [brachial-plexus.md](brachial-plexus.md) |
+| Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
 
-## Prioritization
+Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
-A published analysis of 396 TUS anatomy questions from 2006–2021 found neuroanatomy to be the most frequently represented systematic-anatomy category (35.1%). Head and neck was the most frequently represented topographic category (41.4%). These historical findings guide topic prioritization but do not predict any individual exam. See [the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023676/).
+## Önceliklendirme
 
-## Editorial standard
+2006–2021 dönemine ait 396 TUS anatomi sorusunu inceleyen yayımlanmış bir analizde, sistematik anatomi kategorileri içinde nöroanatomi en sık temsil edilen başlık (%35,1); topografik anatomi kategorileri içinde ise baş-boyun en sık temsil edilen başlıktır (%41,4). Bu tarihsel bulgular konu önceliğine yardımcı olur ancak tek bir sınavın dağılımını öngörmez. [Çalışma](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023676/).
 
-Do not force the total to 260 at the expense of accuracy, source quality, or distinct learning objectives. Add cards in reviewed topic batches.
+## Editoryal standart
+
+Doğruluk, kaynak niteliği veya birbirinden farklı öğrenme hedefleri pahasına 260 karta ulaşmaya çalışmayın. Kartları konu bazlı ve gözden geçirilmiş gruplar halinde ekleyin.
