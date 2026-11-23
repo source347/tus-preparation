@@ -8,7 +8,7 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 
 | Ana alan | Alt kapsam / kontrol listesi | Mevcut durum |
 |---|---|---|
-| Genel anatomi, kemikler ve eklemler | Anatomik düzlemler ve terimler; kemik tipleri ve gelişimi; kemik işaretleri; eklem sınıflaması ve hareketleri; bağlar; temel görüntüleme anatomisi | **Eksik** — bağımsız, sistematik bir set yok |
+| Genel anatomi, kemikler ve eklemler | Anatomik düzlemler ve terimler; kemik tipleri ve gelişimi; kemik işaretleri; eklem sınıflaması ve hareketleri; bağlar; temel görüntüleme anatomisi | **Kısmi** — [genel anatomi, osteoloji ve artroloji](general-anatomy-osteology-arthrology.md) yayımlandı; bölgesel kemik/eklem anatomisi ve ayrıntılı miyoloji devam ediyor |
 | Üst ekstremite | Omuz kuşağı; aksilla; kol, önkol ve el kompartımanları; kaslar ve fonksiyonları; brakiyal pleksus; periferik sinir lezyonları; arterler, venler ve lenfatikler; eklemler ve klinik testler | **Kısmi** — brakiyal pleksus işlendi; bölgesel kas-iskelet, damar ve el anatomisi eksik |
 | Alt ekstremite | Gluteal bölge; uyluk üçgenleri ve kompartımanları; diz arkası çukuru; bacak ve ayak; lumbosakral pleksus; periferik sinir lezyonları; arteriyel/venöz dolaşım; eklemler ve yürüme | **Başlanmadı** |
 | Sırt ve vertebral kolon | Vertebra özellikleri; omurga eklemleri ve bağları; sırt kasları; spinal meninksler ve aralıklar; spinal sinirler; dermatomlar ve miyotomlar; klinik girişimler | **Kısmi** — spinal kord yolları işlendi; bölgesel osteoloji, kas ve eklem anatomisi eksik |
