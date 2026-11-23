@@ -497,6 +497,192 @@
           "explanation": "Bu özellik glottik tümörlerin lenfatik yayılım paterninin supraglottik tümörlerden farklı olmasına katkı verir."
         }
       ]
+    },
+    {
+      "id": "anatomy-spinal-cord-brainstem",
+      "title": "Anatomi · Spinal kord ve beyin sapı",
+      "cards": [
+        {
+          "id": "ANAT-NS-003-01",
+          "question": "Arka kolon–medial lemniskus (DCML) yolu hangi duyuları taşır?",
+          "answer": "İnce dokunma, vibrasyon, iki nokta ayrımı ve bilinçli propriosepsiyon.",
+          "explanation": "Birinci nöron gövdesi dorsal kök ganglionundadır; lifler medullada sinaps yapana kadar ipsilateral yükselir."
+        },
+        {
+          "id": "ANAT-NS-003-02",
+          "question": "Fasciculus gracilis ve fasciculus cuneatus hangi vücut bölgelerinden duyu taşır?",
+          "answer": "Gracilis alt gövde ve alt ekstremiteden (T6 ve altı); cuneatus üst gövde ve üst ekstremiteden (T6 üstü).",
+          "explanation": "Gracilis medial, cuneatus lateraldedir; cuneatus yalnız T6 üzerindeki segmentlerde belirgindir."
+        },
+        {
+          "id": "ANAT-NS-003-03",
+          "question": "DCML yolunun ikinci nöronları nerede bulunur ve lifleri nerede çapraz yapar?",
+          "answer": "Nucleus gracilis ve nucleus cuneatus'ta; iç arkuat lifler olarak kaudal medullada çapraz yapıp medial lemniskusu oluştururlar.",
+          "explanation": "Bu nedenle spinal korddaki DCML lezyonu ipsilateral, çapraz sonrası lezyon kontralateral duyu kaybı yapar."
+        },
+        {
+          "id": "ANAT-NS-003-04",
+          "question": "Spinotalamik yol hangi duyuları taşır ve ikinci nöron lifleri nerede çapraz yapar?",
+          "answer": "Lateral spinotalamik yol ağrı ve sıcaklığı; anterior spinotalamik yol kaba dokunma/basıncı taşır. İkinci nöron lifleri anterior beyaz komisürde çapraz yapar.",
+          "explanation": "Çapraz genellikle giriş seviyesinden 1–2 segment içinde gerçekleşir; klinik kayıp lezyonun birkaç segment altında başlayabilir."
+        },
+        {
+          "id": "ANAT-NS-003-05",
+          "question": "Ağrı ve sıcaklık duyusunun spinal korda girişinden sonra ilk sinaps öncesi izlediği kısa yol hangisidir?",
+          "answer": "Lissauer traktusunda bir-iki segment yukarı veya aşağı ilerleyip dorsal boynuzda, özellikle substantia gelatinosa çevresinde sinaps yapar.",
+          "explanation": "İkinci nöron aksonları anterior beyaz komisürden karşıya geçerek anterolateral sistemde yükselir."
+        },
+        {
+          "id": "ANAT-NS-003-06",
+          "question": "Lateral kortikospinal traktus nerede çapraz yapar ve spinal kordda hangi funikulusta seyreder?",
+          "answer": "Kaudal medulladaki piramidal dekussasyonda çapraz yapar; spinal kordun lateral funikulusunda iner.",
+          "explanation": "Lezyon dekussasyonun üstündeyse karşı, altındaysa aynı tarafta üst motor nöron bulguları beklenir."
+        },
+        {
+          "id": "ANAT-NS-003-07",
+          "question": "Kortikospinal traktusun büyük bölümü çapraz yaptıktan sonra hangi yolu oluşturur?",
+          "answer": "Lateral kortikospinal traktusu; daha küçük bir lif grubu anterior kortikospinal traktusta çapraz yapmadan iner.",
+          "explanation": "Anterior traktus liflerinin önemli bölümü hedef segment düzeyinde anterior beyaz komisür üzerinden çaprazlaşır veya bilateral sonlanır."
+        },
+        {
+          "id": "ANAT-NS-003-08",
+          "question": "Spinal kordda üst motor nöron ve alt motor nöron hücre gövdeleri nerede bulunur?",
+          "answer": "Üst motor nöronların gövdeleri motor kortekste; alt motor nöronların gövdeleri spinal kord ön boynuzundadır.",
+          "explanation": "Ön boynuz hücreleri periferik motor sinirlerin başlangıç nöronlarıdır."
+        },
+        {
+          "id": "ANAT-NS-003-09",
+          "question": "Dorsal ve ventral spinosebellar traktuslar hangi bilgiyi taşır?",
+          "answer": "Kas iğciği ve Golgi tendon organlarından gelen bilinçsiz proprioseptif bilgiyi serebelluma taşırlar.",
+          "explanation": "Dorsal traktus çoğunlukla ipsilateral; ventral traktus çift çapraz nedeniyle fonksiyonel olarak ipsilateral temsil sağlar."
+        },
+        {
+          "id": "ANAT-NS-003-10",
+          "question": "Spinal kordun santral kanal çevresindeki gri cevher bölgesi hangi Rexed laminasına karşılık gelir?",
+          "answer": "Lamina X.",
+          "explanation": "Komissüral lifler ve santral kanal çevresindeki nöronal yapılarla ilişkilidir."
+        },
+        {
+          "id": "ANAT-NS-003-11",
+          "question": "Brown-Séquard sendromunda hemikord lezyonunun altında hangi duyu ve motor kayıplar beklenir?",
+          "answer": "Lezyon tarafında kortikospinal güçsüzlük ve DCML duyusu kaybı; karşı tarafta ağrı-sıcaklık kaybı.",
+          "explanation": "Spinotalamik lifler kord içinde kısa bir mesafe ilerleyip çapraz yaptığı için karşı taraflı kayıp genellikle lezyonun biraz altında başlar."
+        },
+        {
+          "id": "ANAT-NS-003-12",
+          "question": "Anterior spinal arter sendromunda hangi spinal kord fonksiyonları tipik olarak korunur?",
+          "answer": "Motor fonksiyonlar ve ağrı-sıcaklık duyusu bozulabilir; arka kolon aracılı vibrasyon ve propriosepsiyon görece korunur.",
+          "explanation": "Anterior spinal arter ön üçte iki bölgeyi, posterior spinal arterler ağırlıklı olarak arka kolonları besler."
+        },
+        {
+          "id": "ANAT-NS-003-13",
+          "question": "Santral kord sendromunda üst ekstremite motor kaybı neden alt ekstremiteden daha belirgin olabilir?",
+          "answer": "Santral kord hasarı, kortikospinal traktustaki üst ekstremite liflerinin daha medial yerleşimini etkileyebilir.",
+          "explanation": "Özellikle servikal hiperekstansiyon travması sonrası görülür; duyu ve mesane bulguları eşlik edebilir."
+        },
+        {
+          "id": "ANAT-NS-003-14",
+          "question": "Conus medullaris sendromu ile cauda equina sendromunu ayıran temel anatomik fark nedir?",
+          "answer": "Conus medullaris omuriliğin konik sonlanma bölgesinin hasarıdır; cauda equina ise konus altındaki lumbosakral sinir köklerinin hasarıdır.",
+          "explanation": "Conus lezyonunda daha simetrik bulgular ve erken sfinkter etkilenmesi; cauda equina'da asimetrik radiküler ağrı ve alt motor nöron bulguları görülebilir."
+        },
+        {
+          "id": "ANAT-NS-003-15",
+          "question": "Servikal ve lumbosakral intümesansların işlevsel nedeni nedir?",
+          "answer": "Üst ve alt ekstremiteleri innerve eden spinal nöron ve köklerin yoğunluğu nedeniyle kordun bu seviyelerde genişlemesidir.",
+          "explanation": "Servikal intümesans brakiyal, lumbosakral intümesans lumbosakral pleksusa katkı veren segmentlerle ilişkilidir."
+        },
+        {
+          "id": "ANAT-NS-003-16",
+          "question": "Beyin sapını oluşturan bölümler kraniokaudal sırayla nelerdir?",
+          "answer": "Mezensefalon, pons ve medulla oblongata.",
+          "explanation": "Beyin sapı diensefalon ile spinal kord arasında yer alır; serebellumla geniş bağlantılar kurar."
+        },
+        {
+          "id": "ANAT-NS-003-17",
+          "question": "Mezensefalonun dorsal yüzündeki superior ve inferior kollikuluslar hangi işlevsel sistemlerle ilişkilidir?",
+          "answer": "Superior kollikulus görsel yönelim refleksleriyle; inferior kollikulus işitsel yolun orta beyin düzeyindeki aktarımıyla ilişkilidir.",
+          "explanation": "Tektum, aqueductus cerebri'nin dorsalinde yer alır."
+        },
+        {
+          "id": "ANAT-NS-003-18",
+          "question": "Mezensefalonda substantia nigra ve nucleus ruber hangi yapılarla ilişkili motor merkezlerdir?",
+          "answer": "Substantia nigra bazal gangliyon devreleri ve dopaminerjik modülasyonla; nucleus ruber rubrospinal ve serebellar motor devrelerle ilişkilidir.",
+          "explanation": "Substantia nigra pars compacta nöronlarının dejenerasyonu Parkinson hastalığının temel patolojilerindendir."
+        },
+        {
+          "id": "ANAT-NS-003-19",
+          "question": "Mezensefalonun crus cerebri bölümünden başlıca hangi lifler geçer?",
+          "answer": "Kortikospinal, kortikobulber ve kortikopontin kortikal inen lifler.",
+          "explanation": "Crus cerebri, tegmentumun ventralinde ve substantia nigra'nın önünde bulunur."
+        },
+        {
+          "id": "ANAT-NS-003-20",
+          "question": "Ponsun ventral yüzündeki basilar olukta hangi damar seyreder?",
+          "answer": "A. basilaris.",
+          "explanation": "Ponsun ventral yüzü baziler olukla belirgindir; pontin perforan dallar beyin sapı kanlanmasına katkı verir."
+        },
+        {
+          "id": "ANAT-NS-003-21",
+          "question": "Orta serebellar pedinkül hangi beyin sapı bölümüyle ilişkilidir ve temel bağlantısı nedir?",
+          "answer": "Pons ile serebellum arasındadır; pontin çekirdeklerden gelen kortikopontoserebellar lifleri taşır.",
+          "explanation": "Pontin çekirdekler kortikal bilgiyi karşı serebellar hemisfere aktarır."
+        },
+        {
+          "id": "ANAT-NS-003-22",
+          "question": "Medulladaki piramitler hangi traktusu içerir ve çaprazlaşma hangi bölgede gerçekleşir?",
+          "answer": "Kortikospinal traktusu içerir; liflerin çoğu kaudal medulladaki piramidal dekussasyonda çaprazlaşır.",
+          "explanation": "Piramidal dekussasyon medulla-spinal kord bileşkesine yakın yer alır."
+        },
+        {
+          "id": "ANAT-NS-003-23",
+          "question": "Medulladaki oliva kabarıklığının altında hangi çekirdek bulunur ve işlevsel bağlantısı nedir?",
+          "answer": "Nucleus olivaris inferior; serebelluma tırmanıcı lifler göndererek motor öğrenme ve koordinasyona katkı verir.",
+          "explanation": "Oliva, piramidin lateralinde görülen belirgin medulla yüzey kabarıklığıdır."
+        },
+        {
+          "id": "ANAT-NS-003-24",
+          "question": "Dördüncü ventrikülün tabanının üst bölümünü hangi beyin sapı yapısı oluşturur?",
+          "answer": "Ponsun dorsal yüzü; tabanın alt bölümü açık medulla tarafından oluşturulur.",
+          "explanation": "Rhomboid fossa, dördüncü ventrikül tabanının anatomik adıdır."
+        },
+        {
+          "id": "ANAT-NS-003-25",
+          "question": "Medial lemniskus beyin sapında hangi duyusal bilgiyi taşır?",
+          "answer": "Karşı vücut yarısından gelen ince dokunma, vibrasyon ve bilinçli propriosepsiyon bilgisini talamustaki VPL çekirdeğine taşır.",
+          "explanation": "DCML lifleri kaudal medullada çapraz yaptıktan sonra medial lemniskus adını alır."
+        },
+        {
+          "id": "ANAT-NS-003-26",
+          "question": "Medial longitudinal fasciculus (MLF) hangi işlev için önemlidir?",
+          "answer": "Vestibüler çekirdekleri III, IV ve VI. sinir çekirdekleriyle bağlayarak konjuge göz hareketlerini ve vestibülooküler refleksi koordine eder.",
+          "explanation": "MLF lezyonu internükleer oftalmoplejiye, özellikle lezyon tarafına bakışta adduksiyon kısıtlılığına neden olabilir."
+        },
+        {
+          "id": "ANAT-NS-003-27",
+          "question": "Lateral medüller (Wallenberg) sendromu en sık hangi arterin tıkanmasıyla ilişkilidir?",
+          "answer": "A. cerebelli inferior posterior (PICA) veya vertebral arter dalları.",
+          "explanation": "Nucleus ambiguus bulguları, ipsilateral yüz ve karşı vücut ağrı-sıcaklık kaybı, vertigo ve ipsilateral ataksi görülebilir."
+        },
+        {
+          "id": "ANAT-NS-003-28",
+          "question": "Medial medüller sendromda klasik olarak hangi üç bulgu birlikte görülür?",
+          "answer": "İpsilateral dil güçsüzlüğü (XII), kontralateral hemiparezi ve kontralateral vibrasyon/propriosepsiyon kaybı.",
+          "explanation": "Medial medulla; piramit, medial lemniskus ve hipoglossal lif/çekirdek bölgesini içerir; anterior spinal arter dalları etkilenebilir."
+        },
+        {
+          "id": "ANAT-NS-003-29",
+          "question": "Lateral pontin sendrom hangi arterle ilişkilidir ve hangi klinik bulgular görülebilir?",
+          "answer": "Sıklıkla AICA tıkanmasıyla ilişkilidir; ipsilateral fasiyal paralizi, vertigo/işitme etkilenmesi, ataksi ve çapraz ağrı-sıcaklık kaybı görülebilir.",
+          "explanation": "AICA, lateral kaudal pons ve bazı olgularda iç kulağı besleyen labirentin arteri etkileyebilir."
+        },
+        {
+          "id": "ANAT-NS-003-30",
+          "question": "Baziler arter oklüzyonuna bağlı locked-in sendromda bilinç ve motor işlevler nasıl etkilenir?",
+          "answer": "Bilinç genellikle korunur; bilateral kortikospinal ve kortikobulber yolların ventral pontin hasarı kuadripleji ve anartriye neden olur. Dikey göz hareketleri ve göz kırpma iletişim için korunabilir.",
+          "explanation": "Tegmentumun görece korunması uyanıklığın sürmesine olanak verir."
+        }
+      ]
     }
   ]
 }
