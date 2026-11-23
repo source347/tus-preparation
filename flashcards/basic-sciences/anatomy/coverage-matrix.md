@@ -27,13 +27,18 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 
 | Yayımlanmış set | Kart | Kapsama katkısı |
 |---|---:|---|
+| [Genel anatomi, osteoloji ve artroloji](general-anatomy-osteology-arthrology.md) | 30 | Genel anatomi — terminoloji, kemik, eklem ve temel kas-iskelet kavramları |
+| [Alt ekstremite](lower-limb.md) | 30 | Alt ekstremite — bölgesel anatomi, kompartımanlar, sinirler ve dolaşım |
+| [Üst ekstremite bölgesel anatomi](upper-limb-regional.md) | 30 | Üst ekstremite — aksilla, kol, önkol, el ve periferik sinirler |
+| [Sırt ve vertebral kolon](back-vertebral-column.md) | 31 | Sırt, vertebra, meninksler ve klinik anatomi |
+| [Toraks](thorax.md) | 41 | Göğüs duvarı, plevra-akciğer, mediasten, kalp ve torasik nörovasküler anatomi |
 | [Brakiyal pleksus](brachial-plexus.md) | 20 | Üst ekstremite — pleksus ve ilişkili periferik sinir anatomisi |
 | [Kraniyal sinirler](cranial-nerves.md) | 30 | Baş-boyun ve nöroanatomi — kraniyal sinirlerin seyri/fonksiyonları |
 | [Orbita, farinks ve larinks](orbit-pharynx-larynx.md) | 30 | Baş-boyun — seçilmiş üç bölge |
 | [Spinal kord yolları ve beyin sapı](spinal-cord-brainstem.md) | 30 | Nöroanatomi — spinal yollar ve beyin sapı |
 | [Serebellum, bazal gangliyonlar ve talamus](cerebellum-basal-ganglia-thalamus.md) | 30 | Nöroanatomi — seçilmiş supratentoryal ve infratentoryal yapılar |
 
-Mevcut toplam 140 karttır. Bu sayı **140/130 gibi bir tamamlanma oranı değildir**; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
+Mevcut toplam 302 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
 
 ## Üretim sırası
 
