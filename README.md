@@ -1,46 +1,33 @@
-# TUS Preparation
+# TUS Hazırlık
 
-An open, community-maintained, high-yield flashcard resource for candidates preparing for the Turkish Medical Specialization Examination (TUS).
+Tıpta Uzmanlık Eğitimi Giriş Sınavı'na (TUS) hazırlanan adaylar için açık, topluluk katkısına dayalı, yüksek verimli flash kart arşivi.
 
-## Scope
+**[Çalışma uygulamasını aç](./site/)** · **[Katkı rehberi](CONTRIBUTING.md)** · **[Kaynak ve kanıt standartları](SOURCES.md)**
 
-This repository focuses on **flashcards**. It is not intended to become a general-purpose question bank, mock-exam platform, or course platform.
+## Kapsam
 
-Our goal is to distill reliable, high-yield medical knowledge into concise, useful cards organized around the TUS subject structure.
+Bu depo öncelikle **flash kartlara** odaklanır; genel amaçlı soru bankası, deneme sınavı veya çevrim içi kurs platformu değildir. Amaç, güvenilir tıbbi bilgiyi TUS konu dağılımına göre düzenlenmiş, öz ve etkili kartlara dönüştürmektir.
 
-## Organization
+## Organizasyon
 
-Flashcards are grouped by exam area and subject:
+- Temel bilimler: Anatomi, Histoloji ve Embriyoloji, Fizyoloji, Tıbbi Biyokimya, Tıbbi Mikrobiyoloji, Tıbbi Patoloji, Tıbbi Farmakoloji
+- Klinik bilimler: Dahiliye, Pediatri, Genel Cerrahi, Kadın Hastalıkları ve Doğum
 
-- `flashcards/basic-sciences/`
-  - Anatomy
-  - Histology and Embryology
-  - Physiology
-  - Medical Biochemistry
-  - Medical Microbiology
-  - Medical Pathology
-  - Medical Pharmacology
-- `flashcards/clinical-sciences/`
-  - Internal Medicine
-  - Pediatrics
-  - Surgery
-  - Obstetrics and Gynecology
+Her dersin altında konu bazlı kart dosyaları bulunur. Hedef, ilgili TUS soru dağılımını kapsayacak ölçüde kart üretmektir; sayısal hedefler doğruluk ve kart kalitesinin önüne geçmez.
 
-Each subject directory will contain topic-based flashcard files. The initial target is approximately **20 high-yield cards per TUS question allocation**. These are planning targets, not a reason to add low-value or repetitive cards.
+## Kart ilkeleri
 
-## Flashcard principles
+1. **Yüksek verim:** Sık sınanan, klinik açıdan önemli ve ayırt ettirici bilgileri önceliklendir.
+2. **Tek öğrenme hedefi:** Her kart tek ve net bir kavramı sınasın.
+3. **Kesinlik:** Soru açık, yanıt doğru ve gerekli nitelemeleri içerir olsun.
+4. **Kullanışlılık:** Gerektiğinde mekanizma, ayırıcı özellik, klinik ilişki ve sınav tuzağı ekle.
+5. **Kanıta dayalı yaklaşım:** Kaynakları belirt, iddiaları doğrula.
+6. **Özgün anlatım:** Telifli soru bankalarından, ücretli kaynaklardan veya kitaplardan metin kopyalama.
 
-1. High yield: prioritize frequently tested, clinically important, discriminating facts.
-2. Atomic: one clear learning objective per card.
-3. Precise: use unambiguous prompts and answers.
-4. Useful: include mechanisms, differentiating features, associations, and common traps where relevant.
-5. Evidence-aware: record sources and check claims before adding cards.
-6. Original: write cards in our own words; do not copy protected question banks, paid resources, or copyrighted explanations.
+## Web uygulaması
 
-## Contributing
+GitHub Pages uygulaması kartları tarayıcıda çalıştırır. Kart ilerlemesi `localStorage` içinde yerel olarak saklanır; JSON dosyası olarak dışa aktarılıp başka tarayıcıya aktarılabilir. Ayrıntılar için [site/README.md](site/README.md) dosyasına bakın.
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting cards. Source and verification expectations are described in [SOURCES.md](SOURCES.md).
+## Katkı
 
-## Status
-
-Repository structure and contribution standards are being established. Subject content will be added incrementally after review.
+Kart eklemeden önce [CONTRIBUTING.md](CONTRIBUTING.md) ve [SOURCES.md](SOURCES.md) belgelerini okuyun. İçerik Türkçe hazırlanır; uluslararası kabul gören Latince/İngilizce anatomik ve tıbbi terimler gerektiğinde parantez içinde korunabilir.
