@@ -1427,6 +1427,198 @@
           "explanation": "Kök lezyonu ile tek periferik sinir lezyonunu ayırmada duyu alanı, refleks ve kas güçleri birlikte değerlendirilir."
         }
       ]
+    },
+    {
+      "id": "anatomy-back-vertebral-column",
+      "title": "Anatomi · Sırt ve vertebral kolon",
+      "cards": [
+        {
+          "id": "ANAT-BACK-009-01",
+          "question": "Tipik bir servikal vertebranın ayırt edici özellikleri nelerdir?",
+          "answer": "Küçük gövde, geniş üçgen vertebral foramen, transvers foramenler ve sıklıkla bifid spinöz çıkıntı.",
+          "explanation": "C1 ve C2 atipiktir; C7'nin spinöz çıkıntısı belirgin ve genellikle bifid değildir."
+        },
+        {
+          "id": "ANAT-BACK-009-02",
+          "question": "Atlas (C1) vertebrasının temel anatomik özellikleri nelerdir?",
+          "answer": "Gövde ve spinöz çıkıntısı yoktur; anterior/posterior arklar ve lateral kitlelerden oluşur; dens ile eklemleşmez.",
+          "explanation": "Oksipital kondillerle atlanto-oksipital eklemi, axis ile atlantoaksiyel eklemleri oluşturur."
+        },
+        {
+          "id": "ANAT-BACK-009-03",
+          "question": "Axis (C2) vertebrasını diğer vertebralardan ayıran yapı nedir?",
+          "answer": "Dens (odontoid çıkıntı); atlasın anterior arkı ile eklemleşerek başın rotasyon eksenini oluşturur.",
+          "explanation": "Transvers ligament densin posteriora yer değiştirmesini engeller; travmada atlantoaksiyel instabilite açısından önemlidir."
+        },
+        {
+          "id": "ANAT-BACK-009-04",
+          "question": "Tipik bir torakal vertebranın ayırt edici özellikleri nelerdir?",
+          "answer": "Korpus ve transvers çıkıntılarda kostalarla eklemleşen fasetler; uzun, aşağı eğimli spinöz çıkıntı.",
+          "explanation": "T1–T10 genellikle kostal faset taşır; T11–T12'də transvers kostal faset bulunmaz."
+        },
+        {
+          "id": "ANAT-BACK-009-05",
+          "question": "Tipik bir lomber vertebranın ayırt edici özellikleri nelerdir?",
+          "answer": "Büyük böbrek biçimli korpus, üçgen vertebral foramen, kısa-kalın spinöz çıkıntı ve kostiform transvers çıkıntılar.",
+          "explanation": "Ağırlık taşıma yükü nedeniyle korpusları servikal ve torakal vertebralardan daha büyüktür."
+        },
+        {
+          "id": "ANAT-BACK-009-06",
+          "question": "Sakrumun temel eklemleşmeleri ve foraminaları nelerdir?",
+          "answer": "Beş sakral vertebranın füzyonuyla oluşur; üstte L5, lateralde ilium, altta koksiks ile eklemleşir; anterior ve posterior sakral foraminalar içerir.",
+          "explanation": "Sakral kanal vertebral kanalın devamıdır ve hiatus ile sonlanır."
+        },
+        {
+          "id": "ANAT-BACK-009-07",
+          "question": "Vertebral foramenlerin üst üste gelmesiyle hangi kanal oluşur; kanalın içeriği nedir?",
+          "answer": "Vertebral kanal oluşur; medulla spinalis/kauda ekuina, meninksler, spinal sinir kökleri, damarlar ve epidural yağ dokusu içerir.",
+          "explanation": "Vertebral kanalın genişliği bölgeye göre değişir; lomber bölgede kauda ekuina bulunur."
+        },
+        {
+          "id": "ANAT-BACK-009-08",
+          "question": "İntervertebral disk hangi bölümlerden oluşur ve temel işlevi nedir?",
+          "answer": "Dışta anulus fibrosus, içte jelatinöz nucleus pulposus; yük dağıtımı ve şok absorbsiyonu sağlar.",
+          "explanation": "Diskler vertebra korpusları arasında sekonder kartilajinöz eklemlerdir; C1–C2 arasında disk bulunmaz."
+        },
+        {
+          "id": "ANAT-BACK-009-09",
+          "question": "Unkus (uncinate process) ve uncovertebral eklemler hangi bölgede bulunur?",
+          "answer": "Servikal vertebra korpuslarının üst lateral kenarlarında; yaklaşık C3–C7 düzeylerinde uncovertebral eklemleşmeler tarif edilir.",
+          "explanation": "Unkovertebral osteofitler intervertebral foramenleri daraltarak servikal radikülopatiye katkı verebilir."
+        },
+        {
+          "id": "ANAT-BACK-009-10",
+          "question": "Atlanto-oksipital eklem hangi hareketi, atlantoaksiyel eklem hangi hareketi ağırlıklı sağlar?",
+          "answer": "Atlanto-oksipital eklem başın fleksiyon-ekstansiyonunu ('evet'); atlantoaksiyel eklem rotasyonunu ('hayır') ağırlıklı sağlar.",
+          "explanation": "Atlanto-oksipital eklem kondiloid; median atlantoaksiyel eklem pivot tipindedir."
+        },
+        {
+          "id": "ANAT-BACK-009-11",
+          "question": "Vertebral kolonun temel longitudinal ligamentleri ve uzanımları nelerdir?",
+          "answer": "Anterior longitudinal ligament vertebra korpuslarının önünde; posterior longitudinal ligament korpusların arka yüzünde, vertebral kanal içinde uzanır.",
+          "explanation": "Posterior longitudinal ligament disk hernilerinin posterior-lateral yöne çıkmasını tamamen engellemez; orta hatta daha geniştir."
+        },
+        {
+          "id": "ANAT-BACK-009-12",
+          "question": "Ligamentum flavum hangi yapıları birleştirir ve klinik önemi nedir?",
+          "answer": "Komşu vertebraların laminalarını birleştirir; elastik liften zengindir.",
+          "explanation": "Hipertrofisi spinal kanal stenozuna katkı verebilir; epidural girişimlerde ligamentum flavumun geçilmesi önemli anatomik basamaktır."
+        },
+        {
+          "id": "ANAT-BACK-009-13",
+          "question": "Interspinöz ve supraspinöz ligamentler hangi çıkıntılar arasında uzanır?",
+          "answer": "Interspinöz ligament komşu spinöz çıkıntılar arasında; supraspinöz ligament spinöz çıkıntıların uçları boyunca uzanır.",
+          "explanation": "Servikal bölgede supraspinöz ligament genişleyerek ligamentum nuchae'yi oluşturur."
+        },
+        {
+          "id": "ANAT-BACK-009-14",
+          "question": "Ligamentum nuchae hangi anatomik yapılara tutunur?",
+          "answer": "Oksipital protuberans ve median ense çizgisinden servikal spinöz çıkıntılara, özellikle C7'ye uzanır.",
+          "explanation": "Başın ağırlığını destekler ve posterior boyun kasları için tutunma yüzeyi sağlar."
+        },
+        {
+          "id": "ANAT-BACK-009-15",
+          "question": "Sırtın ekstrinsik ve intrinsik kas grupları arasındaki işlevsel fark nedir?",
+          "answer": "Ekstrinsik kaslar üst ekstremite veya kaburga hareketleriyle; intrinsik kaslar vertebral kolonun postür ve hareketleriyle ilişkilidir.",
+          "explanation": "Ekstrinsik kasların çoğu anterior ramuslarla; intrinsik sırt kasları posterior ramuslarla innerve edilir."
+        },
+        {
+          "id": "ANAT-BACK-009-16",
+          "question": "Erector spinae kas grubu hangi üç longitudinal sütundan oluşur?",
+          "answer": "Lateralden mediale iliocostalis, longissimus ve spinalis.",
+          "explanation": "Bilateral kasılma vertebral ekstansiyon; unilateral kasılma aynı tarafa lateral fleksiyon sağlar."
+        },
+        {
+          "id": "ANAT-BACK-009-17",
+          "question": "Transversospinal kas grubu hangi kaslardan oluşur ve temel işlevi nedir?",
+          "answer": "Semispinalis, multifidus ve rotatores; vertebral ekstansiyon, karşı tarafa rotasyon ve segmental stabilizasyona katkı verir.",
+          "explanation": "Multifidus özellikle lomber bölgede segmental stabilite açısından önemlidir."
+        },
+        {
+          "id": "ANAT-BACK-009-18",
+          "question": "Splenius capitis ve splenius cervicis kasları unilateral ve bilateral kasılmada ne yapar?",
+          "answer": "Bilateral kasılma baş-boyun ekstansiyonu; unilateral kasılma aynı tarafa rotasyon ve lateral fleksiyon sağlar.",
+          "explanation": "İntrinsik sırt kasları gibi posterior ramuslardan değil, posterior ramusların dorsal dallarından innervasyon alırlar."
+        },
+        {
+          "id": "ANAT-BACK-009-19",
+          "question": "Suboksipital üçgenin sınırlarını hangi kaslar oluşturur?",
+          "answer": "Rectus capitis posterior major superomedial; obliquus capitis superior superolateral; obliquus capitis inferior inferolateral sınırı oluşturur.",
+          "explanation": "Tabanını posterior atlanto-oksipital membran ve atlasa ait posterior ark; çatısını semispinalis capitis oluşturur."
+        },
+        {
+          "id": "ANAT-BACK-009-20",
+          "question": "Suboksipital üçgenden hangi önemli nörovasküler yapılar geçer?",
+          "answer": "Vertebral arterin üçüncü (atlantal) bölümü ve suboksipital sinir (C1 posterior ramusu).",
+          "explanation": "Greater occipital nerve (C2 medial dalı) üçgenin içinden geçmez; semispinalis capitis'i delerek yüzeyelleşir."
+        },
+        {
+          "id": "ANAT-BACK-009-21",
+          "question": "Suboksipital kasların innervasyonu nedir?",
+          "answer": "Suboksipital sinir, C1 posterior ramusu.",
+          "explanation": "Bu kaslar başın ince ekstansiyon ve rotasyon hareketlerini kontrol eder; C1'in kutanöz duyu alanı yoktur."
+        },
+        {
+          "id": "ANAT-BACK-009-22",
+          "question": "Spinal sinirin anterior ve posterior ramusları arasındaki temel fark nedir?",
+          "answer": "Posterior ramus derin sırt kasları ve sırt derisini; anterior ramus gövdenin anterolateral duvarı ve ekstremiteleri (pleksuslar aracılığıyla) innerve eder.",
+          "explanation": "Her iki ramus da karma sinirdir; duysal ve motor lif taşır."
+        },
+        {
+          "id": "ANAT-BACK-009-23",
+          "question": "Dermatom ve miyotom kavramları neyi tanımlar?",
+          "answer": "Dermatom tek spinal sinir kökünün duyusal alanını; miyotom bir spinal segmentin motor innervasyon katkısını tanımlar.",
+          "explanation": "Dermatomlar örtüşür; tek kök lezyonunda duyu kaybı tam bir bant şeklinde olmayabilir."
+        },
+        {
+          "id": "ANAT-BACK-009-24",
+          "question": "Lomber ponksiyon erişkinde hangi vertebra düzeyleri arasında yapılır ve neden?",
+          "answer": "Genellikle L3–L4 veya L4–L5 aralığından; erişkinde medulla spinalis çoğunlukla L1–L2 düzeyinde sonlandığı için.",
+          "explanation": "İğne kauda ekuina köklerinin bulunduğu subaraknoid aralığa ilerletilir; krista iliakaların en yüksek noktalarını birleştiren çizgi yaklaşık L4 düzeyini gösterir."
+        },
+        {
+          "id": "ANAT-BACK-009-25",
+          "question": "Epidural ve subaraknoid aralıkların anatomik konumu ve içeriği nedir?",
+          "answer": "Spinal epidural aralık dura ile vertebral kanal periostu arasında yağ ve internal vertebral venöz pleksus içerir; subaraknoid aralık dura-araknoid ile pia arasında BOS içerir.",
+          "explanation": "Spinal epidural aralık gerçek bir aralıktır; kraniyal epidural aralık normalde potansiyeldir."
+        },
+        {
+          "id": "ANAT-BACK-009-26",
+          "question": "Spinal dura mater ile kraniyal dura mater arasında temel anatomik fark nedir?",
+          "answer": "Kraniyal dura periost ve meningeal tabakalardan oluşur; spinal dura esas olarak meningeal tabakadır ve vertebral kanal periostundan epidural aralıkla ayrılır.",
+          "explanation": "Dural kese erişkinde yaklaşık S2 düzeyine kadar uzanır; spinal sinir kök kılıflarıyla devamlılık gösterir."
+        },
+        {
+          "id": "ANAT-BACK-009-27",
+          "question": "Kauda ekuina ve filum terminale nedir?",
+          "answer": "Kauda ekuina, conus medullaris'in altında lomber, sakral ve koksigeal sinir köklerinin oluşturduğu demettir; filum terminale pia mater uzantısıdır.",
+          "explanation": "Filum terminale internum dural kese içinde S2'ye; externum (coccygeal ligament) koksikse uzanır."
+        },
+        {
+          "id": "ANAT-BACK-009-28",
+          "question": "Vertebral venöz pleksusun (Batson pleksusu) klinik önemi nedir?",
+          "answer": "Kapaksız internal ve external vertebral venöz pleksuslar pelvis, toraks ve kraniyal venöz sistemler arasında bağlantı sağlar.",
+          "explanation": "Prostat ve diğer pelvis tümörlerinin vertebral kolona metastazında retrograd yayılıma anatomik yol oluşturabilir."
+        },
+        {
+          "id": "ANAT-BACK-009-29",
+          "question": "Lomber disk hernisi en sık hangi seviyelerde görülür ve sinir kökü nasıl etkilenir?",
+          "answer": "En sık L4–L5 ve L5–S1; posterolateral herniasyon genellikle alttan geçen kökü (L4–L5'te L5, L5–S1'de S1) sıkıştırır.",
+          "explanation": "L4–L5 düzeyinde foraminal/far-lateral herniasyon çıkış yapan L4 kökünü etkileyebilir; herniasyon konumu önemlidir."
+        },
+        {
+          "id": "ANAT-BACK-009-30",
+          "question": "Servikal disk hernisi ve radikülopatide kök seviyesi nasıl belirlenir?",
+          "answer": "C5–C6 disk aralığı çoğunlukla C6 kökünü; C6–C7 disk aralığı C7 kökünü etkiler.",
+          "explanation": "C7 radikülopatisi orta parmak duyusu, triseps gücü ve triseps refleksiyle ilişkilendirilebilir."
+        },
+        {
+          "id": "ANAT-BACK-009-31",
+          "question": "Vertebral arter servikal vertebralardan tipik olarak hangi foraminalardan geçer?",
+          "answer": "Genellikle C6'dan C1'e kadar transvers foramenlerden yükselir; atlası dolaşıp foramen magnumdan kraniyuma girer.",
+          "explanation": "Çoğunlukla C7 transvers forameninden geçmez; anatomik varyasyonlar görülebilir."
+        }
+      ]
     }
   ]
 }
