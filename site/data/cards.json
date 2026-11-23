@@ -125,6 +125,192 @@
           "explanation": "Klasik bulgu el bileği ve parmak ekstansiyon kaybı (düşük el) durumudur."
         }
       ]
+    },
+    {
+      "id": "anatomy-cranial-nerves",
+      "title": "Anatomi · Kraniyal sinirler",
+      "cards": [
+        {
+          "id": "ANAT-CN-001-01",
+          "question": "Geleneksel sınıflandırmaya göre yalnızca duyu taşıyan kraniyal sinirler hangileridir?",
+          "answer": "I (olfaktör), II (optik) ve VIII (vestibülokoklear).",
+          "explanation": "Koku, görme ve işitme-denge duyularını taşırlar."
+        },
+        {
+          "id": "ANAT-CN-001-02",
+          "question": "Geleneksel sınıflandırmaya göre yalnızca motor lif taşıyan kraniyal sinirler hangileridir?",
+          "answer": "III (okülomotor), IV (troklear), VI (abdusens), XI (aksesuar) ve XII (hipoglossal).",
+          "explanation": "V, VII, IX ve X karma sinirlerdir."
+        },
+        {
+          "id": "ANAT-CN-001-03",
+          "question": "Karma kraniyal sinirler hangileridir?",
+          "answer": "V (trigeminal), VII (fasiyal), IX (glossofaringeal) ve X (vagus).",
+          "explanation": "Duyusal ve motor bileşenleri birlikte taşırlar; bazıları parasempatik lif de içerir."
+        },
+        {
+          "id": "ANAT-CN-001-04",
+          "question": "Olfaktör sinir lifleri kafa tabanında hangi yapıdan geçer?",
+          "answer": "Os ethmoidale'nin lamina cribrosa'sından.",
+          "explanation": "Ön kafa travması anosmiye ve BOS rinoreye yol açabilir."
+        },
+        {
+          "id": "ANAT-CN-001-05",
+          "question": "Optik sinir hangi kanaldan geçer ve ona hangi arter eşlik eder?",
+          "answer": "Canalis opticus'tan geçer; a. ophthalmica eşlik eder.",
+          "explanation": "Optik sinir superior orbital fissürden geçmez."
+        },
+        {
+          "id": "ANAT-CN-001-06",
+          "question": "III, IV ve VI. kraniyal sinirlerin temel ortak görevi nedir?",
+          "answer": "Gözün ekstraoküler kaslarının motor innervasyonunu sağlayarak göz hareketlerini kontrol ederler.",
+          "explanation": "Lezyonları diplopi ve göz hareket kısıtlılığına yol açabilir."
+        },
+        {
+          "id": "ANAT-CN-001-07",
+          "question": "Okülomotor sinir hangi ekstraoküler kasları innerve eder?",
+          "answer": "M. rectus superior, inferior ve medialis; m. obliquus inferior ve m. levator palpebrae superioris.",
+          "explanation": "M. rectus lateralis VI, m. obliquus superior IV tarafından innerve edilir."
+        },
+        {
+          "id": "ANAT-CN-001-08",
+          "question": "Okülomotor sinirin parasempatik lifleri hangi yapıda sinaps yapar ve hangi işlevleri sağlar?",
+          "answer": "Ganglion ciliare'de sinaps yapar; pupilla sfinkteri ile siliyer kası innerve ederek miyozis ve akomodasyonu sağlar.",
+          "explanation": "III. sinir kompresyonunda pupilla dilatasyonu görülebilir."
+        },
+        {
+          "id": "ANAT-CN-001-09",
+          "question": "Troklear sinir hangi kası innerve eder?",
+          "answer": "M. obliquus superior.",
+          "explanation": "Lezyon özellikle aşağı bakışta vertikal diplopiye neden olabilir."
+        },
+        {
+          "id": "ANAT-CN-001-10",
+          "question": "Abdusens sinir hangi kası innerve eder?",
+          "answer": "M. rectus lateralis; göze abdüksiyon yaptırır.",
+          "explanation": "Lezyonda göz içe deviye olabilir ve abdüksiyon kısıtlanır."
+        },
+        {
+          "id": "ANAT-CN-001-11",
+          "question": "N. trigeminus'un üç ana dalı hangileridir?",
+          "answer": "N. ophthalmicus (V1), n. maxillaris (V2) ve n. mandibularis (V3).",
+          "explanation": "V1 ve V2 duyusal; V3 hem duyusal hem motor lif taşır."
+        },
+        {
+          "id": "ANAT-CN-001-12",
+          "question": "Trigeminal sinirin motor lifleri hangi kas grubunu esas olarak innerve eder?",
+          "answer": "Çiğneme kasları: masseter, temporalis, medial ve lateral pterygoid kasları.",
+          "explanation": "V3 ayrıca mylohyoid, digastrik ön karın ve iki tensor kası innerve eder."
+        },
+        {
+          "id": "ANAT-CN-001-13",
+          "question": "V1, V2 ve V3 kafa tabanını hangi açıklıklardan terk eder?",
+          "answer": "V1 fissura orbitalis superior'dan; V2 foramen rotundum'dan; V3 foramen ovale'den geçer.",
+          "explanation": "Foramen ovale'den n. mandibularis geçer."
+        },
+        {
+          "id": "ANAT-CN-001-14",
+          "question": "Kornea refleksinin afferent ve efferent kollarını hangi sinirler oluşturur?",
+          "answer": "Afferent kol V1'in n. nasociliaris dalı; efferent kol VII. kraniyal sinirdir.",
+          "explanation": "Orbicularis oculi kaslarının göz kırpma yanıtını oluşturur."
+        },
+        {
+          "id": "ANAT-CN-001-15",
+          "question": "Fasiyal sinir kafatasını hangi delikten terk eder?",
+          "answer": "Foramen stylomastoideum'dan.",
+          "explanation": "VII ve VIII önce meatus acusticus internus'a girer."
+        },
+        {
+          "id": "ANAT-CN-001-16",
+          "question": "Fasiyal sinirin temel motor innervasyon alanı nedir?",
+          "answer": "Mimik kasları.",
+          "explanation": "Periferik VII lezyonunda aynı tarafta alın ve alt yüz etkilenir."
+        },
+        {
+          "id": "ANAT-CN-001-17",
+          "question": "Fasiyal sinirin parasempatik lifleri hangi iki temel gangliona ulaşır ve hedef bezleri nelerdir?",
+          "answer": "Ganglion pterygopalatinum üzerinden lakrimal bez; ganglion submandibulare üzerinden submandibular ve sublingual bezler.",
+          "explanation": "Parotis sekretomotor innervasyonu IX. sinirden gelir."
+        },
+        {
+          "id": "ANAT-CN-001-18",
+          "question": "Dilin ön 2/3'ünden genel duyu ve tat duyusunu hangi sinirler taşır?",
+          "answer": "Genel duyu V3'ün n. lingualis dalı; tat duyusu VII'nin chorda tympani dalı ile taşınır.",
+          "explanation": "Chorda tympani, n. lingualis'e infratemporal fossada katılır."
+        },
+        {
+          "id": "ANAT-CN-001-19",
+          "question": "Dilin arka 1/3'ünden genel duyu ve tat duyusunu hangi sinir taşır?",
+          "answer": "IX. kraniyal sinir (n. glossopharyngeus).",
+          "explanation": "Epiglot çevresindeki tat duyusu ağırlıklı olarak X. sinirle taşınır."
+        },
+        {
+          "id": "ANAT-CN-001-20",
+          "question": "Glossofaringeal sinirin parasempatik sekretomotor lifleri parotis bezine hangi yol üzerinden ulaşır?",
+          "answer": "N. tympanicus → plexus tympanicus → n. petrosus minor → ganglion oticum; postganglionik lifler n. auriculotemporalis (V3) ile parotise ulaşır.",
+          "explanation": "Parotis sekretomotor başlangıcı IX. sinirdir."
+        },
+        {
+          "id": "ANAT-CN-001-21",
+          "question": "Gag refleksinin afferent ve efferent kolları hangi kraniyal sinirlerdir?",
+          "answer": "Afferent IX; efferent X.",
+          "explanation": "Refleks klinik bağlamda yorumlanmalıdır."
+        },
+        {
+          "id": "ANAT-CN-001-22",
+          "question": "Vagus siniri kafa tabanını hangi delikten terk eder?",
+          "answer": "Foramen jugulare'den.",
+          "explanation": "IX ve XI. kraniyal sinirler de jugular foramenden geçer."
+        },
+        {
+          "id": "ANAT-CN-001-23",
+          "question": "N. laryngeus recurrens hangi sinirin dalıdır ve temel motor görevi nedir?",
+          "answer": "N. vagus'un dalıdır; m. cricothyroideus dışındaki intrinsik larenks kaslarının motor innervasyonunu sağlar.",
+          "explanation": "Yaralanması ses kısıklığına; bilateral yaralanma hava yolu riskine neden olabilir."
+        },
+        {
+          "id": "ANAT-CN-001-24",
+          "question": "N. laryngeus superior'un dış dalı hangi kası innerve eder?",
+          "answer": "M. cricothyroideus.",
+          "explanation": "Vokal kordları gererek ses perdesinin yükselmesine katkı sağlar."
+        },
+        {
+          "id": "ANAT-CN-001-25",
+          "question": "Aksesuar sinir hangi kasları innerve eder ve lezyonunda hangi hareketler zayıflar?",
+          "answer": "M. sternocleidomastoideus ve m. trapezius; başı karşı tarafa çevirme ve omuz silkme zayıflar.",
+          "explanation": "Posterior boyun üçgeni cerrahisinde XI. sinir yaralanabilir."
+        },
+        {
+          "id": "ANAT-CN-001-26",
+          "question": "Hipoglossal sinir kafa tabanından hangi kanalla çıkar?",
+          "answer": "Canalis nervi hypoglossi (hypoglossal canal).",
+          "explanation": "Palatoglossus dışında dilin intrinsik ve ekstrinsik kaslarını innerve eder."
+        },
+        {
+          "id": "ANAT-CN-001-27",
+          "question": "Periferik hipoglossal sinir lezyonunda dil dışarı çıkarıldığında hangi yöne deviye olur?",
+          "answer": "Lezyon tarafına.",
+          "explanation": "Sağlam genioglossus dili karşı tarafa iter."
+        },
+        {
+          "id": "ANAT-CN-001-28",
+          "question": "Kavernöz sinüsün lateral duvarında hangi kraniyal sinirler bulunur?",
+          "answer": "III, IV, V1 ve V2.",
+          "explanation": "VI. sinir sinüs içinde internal karotis arterin yanında seyreder."
+        },
+        {
+          "id": "ANAT-CN-001-29",
+          "question": "Kavernöz sinüs sendromunda hangi kraniyal sinirlerin etkilenmesi göz hareketlerini ve alın/kornea duyusunu bozabilir?",
+          "answer": "III, IV ve VI göz hareketlerini; V1 alın duyusunu ve kornea refleksinin afferent kolunu etkiler. V2 orta yüz duyusunu etkileyebilir.",
+          "explanation": "Birden fazla kraniyal sinir bulgusu birlikte görülebilir."
+        },
+        {
+          "id": "ANAT-CN-001-30",
+          "question": "Jugular foramen sendromunda hangi kraniyal sinirler birlikte etkilenir?",
+          "answer": "IX, X ve XI.",
+          "explanation": "Disfaji, disfoni veya damak-farenks hareket bozukluğu ve omuz silkmede güçsüzlük görülebilir."
+        }
+      ]
     }
   ]
 }
