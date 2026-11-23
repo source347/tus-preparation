@@ -2,7 +2,7 @@
 
 Tıpta Uzmanlık Eğitimi Giriş Sınavı'na (TUS) hazırlanan adaylar için açık, topluluk katkısına dayalı, yüksek verimli flash kart arşivi.
 
-**[Çalışma uygulamasını aç](./site/)** · **[Katkı rehberi](CONTRIBUTING.md)** · **[Kaynak ve kanıt standartları](SOURCES.md)**
+**[Çalışma uygulamasını aç](https://source347.github.io/tus-preparation/)** · **[Katkı rehberi](CONTRIBUTING.md)** · **[Kaynak ve kanıt standartları](SOURCES.md)**
 
 ## Kapsam
 
