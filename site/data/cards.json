@@ -311,6 +311,192 @@
           "explanation": "Disfaji, disfoni veya damak-farenks hareket bozukluğu ve omuz silkmede güçsüzlük görülebilir."
         }
       ]
+    },
+    {
+      "id": "anatomy-head-neck-orbit-pharynx-larynx",
+      "title": "Anatomi · Orbita, farinks ve larenks",
+      "cards": [
+        {
+          "id": "ANAT-HN-002-01",
+          "question": "Orbita kemiklerini oluşturan yedi kemik hangileridir?",
+          "answer": "Frontal, sfenoid, zigomatik, maksilla, palatin, lakrimal ve etmoid kemikler.",
+          "explanation": "Orbita duvarları bu yedi kemiğin katkısıyla oluşur."
+        },
+        {
+          "id": "ANAT-HN-002-02",
+          "question": "Orbitanın tavanını ve tabanını esas olarak hangi kemikler oluşturur?",
+          "answer": "Tavan: frontal kemik orbital parçası ve sfenoidin küçük kanadı. Taban: maksilla, zigomatik ve palatin kemiklerin orbital yüzleri.",
+          "explanation": "Orbita tabanı maksiller sinüsle komşudur; blow-out kırıkları bu ilişki nedeniyle önemlidir."
+        },
+        {
+          "id": "ANAT-HN-002-03",
+          "question": "Orbitanın medial duvarının başlıca kemikleri hangileridir?",
+          "answer": "Önden arkaya maksillanın frontal çıkıntısı, lakrimal kemik, etmoidin lamina papyracea'sı ve sfenoid gövdesi.",
+          "explanation": "Lamina papyracea çok incedir; etmoid sinüs enfeksiyonu orbitaya yayılabilir."
+        },
+        {
+          "id": "ANAT-HN-002-04",
+          "question": "Optik kanalın içinden hangi yapılar geçer?",
+          "answer": "N. opticus (II) ve a. ophthalmica.",
+          "explanation": "Optik kanal, superior orbital fissürden ayrı bir açıklıktır."
+        },
+        {
+          "id": "ANAT-HN-002-05",
+          "question": "Superior orbital fissürden geçen kraniyal sinirler hangileridir?",
+          "answer": "III, IV, V1 ve VI.",
+          "explanation": "V1'in lakrimal, frontal ve nasosiliyer dalları orbitaya bu fissürden girer."
+        },
+        {
+          "id": "ANAT-HN-002-06",
+          "question": "İnferior orbital fissürden geçen temel sinir ve damar yapıları nelerdir?",
+          "answer": "N. infraorbitalis, n. zygomaticus ve infraorbital damarlar; ayrıca pterygopalatin ganglionla ilişkili orbital dallar.",
+          "explanation": "Fissür orbitayı pterygopalatine ve infratemporal fossalarla ilişkilendirir."
+        },
+        {
+          "id": "ANAT-HN-002-07",
+          "question": "Ekstraoküler kasların innervasyonunu özetleyen kural nedir?",
+          "answer": "LR6, SO4, diğer tüm ekstraoküler kaslar III: lateral rectus VI, superior oblique IV, kalanlar III.",
+          "explanation": "Levator palpebrae superioris de III. sinir tarafından innerve edilir."
+        },
+        {
+          "id": "ANAT-HN-002-08",
+          "question": "M. obliquus superior'un temel hareketleri ve innervasyonu nedir?",
+          "answer": "N. trochlearis (IV) ile innerve edilir; intorsiyon yapar, adduksiyondaki gözde depresyona katkı verir.",
+          "explanation": "Kas tendonu trochlea içinden geçerek yön değiştirir."
+        },
+        {
+          "id": "ANAT-HN-002-09",
+          "question": "M. obliquus inferior nereden başlar ve hangi sinir tarafından innerve edilir?",
+          "answer": "Orbitanın anteromedial tabanından başlar; n. oculomotorius (III) tarafından innerve edilir.",
+          "explanation": "Ekstraoküler kaslar içinde orbital apeks yerine anterior orbitadan başlayan kastır."
+        },
+        {
+          "id": "ANAT-HN-002-10",
+          "question": "Orbita apeksindeki anulus tendineus communis'ten hangi kaslar ve sinirler geçer?",
+          "answer": "Dört rektus kası bu halkadan başlar; III'ün üst ve alt dalları, VI ve nazosiliyer sinir halka içinden geçer.",
+          "explanation": "IV, frontal ve lakrimal sinirler halkanın dışından seyreder."
+        },
+        {
+          "id": "ANAT-HN-002-11",
+          "question": "Orbital blow-out kırığında en sık etkilenen duvar hangisidir ve hangi klinik bulgu gelişebilir?",
+          "answer": "En sık taban; infraorbital sinir etkilenmesine bağlı yanak/üst dudakta hipoestezi ve inferior rektus sıkışmasına bağlı yukarı bakış kısıtlılığı gelişebilir.",
+          "explanation": "Maksiller sinüs tabanın hemen altındadır."
+        },
+        {
+          "id": "ANAT-HN-002-12",
+          "question": "Orbita venöz drenajı kavernöz sinüsle hangi damarlar üzerinden ilişkilidir?",
+          "answer": "V. ophthalmica superior ve inferior aracılığıyla.",
+          "explanation": "Bu venöz bağlantılar nedeniyle yüz-orbita enfeksiyonları kavernöz sinüse yayılabilir."
+        },
+        {
+          "id": "ANAT-HN-002-13",
+          "question": "Gözyaşı bezi hangi kemik çukurunda bulunur ve parasempatik sekretomotor lifleri hangi yoldan alır?",
+          "answer": "Frontal kemiğin superolateral orbital fossasında; VII kaynaklı lifler n. petrosus major, n. canalis pterygoidei ve ganglion pterygopalatinum üzerinden, V1'in lakrimal dalı aracılığıyla ulaşır.",
+          "explanation": "Postganglionik lifler zigomatik sinirden lakrimal sinire aktarılır."
+        },
+        {
+          "id": "ANAT-HN-002-14",
+          "question": "N. infraorbitalis hangi sinirin devamıdır ve yüzde nereden çıkar?",
+          "answer": "V2'nin devamıdır; infraorbital kanaldan geçerek foramen infraorbitale'den çıkar.",
+          "explanation": "Alt göz kapağı, yanak, burun kanadı ve üst dudak duyusuna katkı verir."
+        },
+        {
+          "id": "ANAT-HN-002-15",
+          "question": "Horner sendromunda göz çevresinde hangi bulgular beklenir ve sempatik yolun hangi işlevleri kaybolur?",
+          "answer": "Miyozis, hafif pitoz ve bazen yüz anhidrozu; pupilla dilatasyonu ve Müller kası tonusu azalır.",
+          "explanation": "Lezyonun seviyesine göre anhidrozun dağılımı değişir."
+        },
+        {
+          "id": "ANAT-HN-002-16",
+          "question": "Farinksin üç bölümünü ve anatomik sınırlarını belirtiniz.",
+          "answer": "Nazofarinks: kafa tabanından yumuşak damağa; orofarinks: yumuşak damaktan epiglot üst kenarına; laringofarinks: epiglot üst kenarından krikoid alt kenarı/C6 düzeyine.",
+          "explanation": "Bölümler sırasıyla burun, ağız ve larenks girişinin arkasında yer alır."
+        },
+        {
+          "id": "ANAT-HN-002-17",
+          "question": "Farinksin duyusal innervasyonu bölümlere göre nasıldır?",
+          "answer": "Nazofarinks V2; orofarinks IX; laringofarinks ağırlıklı olarak X'un n. laryngeus superior iç dalı.",
+          "explanation": "Bu dağılım farinks muayenesi ve reflekslerin lokalizasyonunda kullanılır."
+        },
+        {
+          "id": "ANAT-HN-002-18",
+          "question": "Farinks kaslarının motor innervasyonunda temel istisna hangisidir?",
+          "answer": "M. stylopharyngeus IX ile; diğer farinks kaslarının çoğu vagus (X) üzerinden plexus pharyngeus ile innerve edilir.",
+          "explanation": "Palatopharyngeus da vagal motor innervasyon alır."
+        },
+        {
+          "id": "ANAT-HN-002-19",
+          "question": "Waldeyer lenfatik halkasını hangi lenfoid yapılar oluşturur?",
+          "answer": "Tonsilla pharyngealis, iki tonsilla tubaria, iki tonsilla palatina ve tonsilla lingualis.",
+          "explanation": "Üst solunum ve sindirim yolu girişini çevreleyen mukozal savunma halkasıdır."
+        },
+        {
+          "id": "ANAT-HN-002-20",
+          "question": "M. constrictor pharyngis superior, medius ve inferior'un kasılma işlevi nedir?",
+          "answer": "Yutma sırasında farinks duvarını daraltarak lokmayı özofagusa doğru ilerletirler.",
+          "explanation": "Kas lifleri posterior orta hatta raphe pharyngis'te birleşir."
+        },
+        {
+          "id": "ANAT-HN-002-21",
+          "question": "M. cricopharyngeus hangi anatomik yapının işlevsel bölümünü oluşturur?",
+          "answer": "Alt farinks konstriktörünün parçasıdır ve üst özofagus sfinkterinin önemli bileşenidir.",
+          "explanation": "Yutma sırasında gevşemesi bolusun özofagusa geçişini sağlar."
+        },
+        {
+          "id": "ANAT-HN-002-22",
+          "question": "Larenksin tek tam halka şeklindeki kıkırdağı hangisidir?",
+          "answer": "Cartilago cricoidea.",
+          "explanation": "Krikoid kıkırdak, larenksin tabanında yüzük biçiminde tam halka oluşturur."
+        },
+        {
+          "id": "ANAT-HN-002-23",
+          "question": "Larenksin intrinsik kaslarından vokal kıvrımları abdukte eden tek kas hangisidir?",
+          "answer": "M. cricoarytenoideus posterior.",
+          "explanation": "Bilateral işlev kaybı glottik açıklığı daraltarak ciddi hava yolu obstrüksiyonuna yol açabilir."
+        },
+        {
+          "id": "ANAT-HN-002-24",
+          "question": "Vokal kıvrımları addukte eden başlıca intrinsik larenks kasları hangileridir?",
+          "answer": "Mm. cricoarytenoidei laterales ve arytenoidei transversus/obliquus.",
+          "explanation": "Posterior krikoaritenoid tek abduktördür; diğer intrinsik kasların çoğu adduksiyona katkı verir."
+        },
+        {
+          "id": "ANAT-HN-002-25",
+          "question": "M. cricothyroideus'un işlevi ve motor innervasyonu nedir?",
+          "answer": "Vokal kıvrımları gerip uzatarak ses perdesini yükseltir; n. laryngeus superior'un dış dalı innerve eder.",
+          "explanation": "Bu kas, rekürren laringeal sinir innervasyonunun klasik istisnasıdır."
+        },
+        {
+          "id": "ANAT-HN-002-26",
+          "question": "N. laryngeus superior'un iç dalı hangi duyusal alanı innerve eder?",
+          "answer": "Glottisin üstündeki larenks mukozası; thyrohyoid membranı superior laringeal damarlarla birlikte deler.",
+          "explanation": "Supraglottik duyunun ve öksürük refleksinin afferent kolunun önemli bölümünü taşır."
+        },
+        {
+          "id": "ANAT-HN-002-27",
+          "question": "N. laryngeus recurrens sağda ve solda hangi damarların etrafından döner?",
+          "answer": "Sağda a. subclavia dextra; solda arcus aortae.",
+          "explanation": "Sol sinirin intratorasik seyri daha uzundur."
+        },
+        {
+          "id": "ANAT-HN-002-28",
+          "question": "Rekürren laringeal sinir lezyonunda hangi kas grubu etkilenir ve tipik klinik sonuç nedir?",
+          "answer": "Cricothyroideus dışındaki intrinsik larenks kasları etkilenir; tek taraflı lezyonda ses kısıklığı, bilateral lezyonda hava yolu tehdidi gelişebilir.",
+          "explanation": "Sinir tiroid cerrahisinde özellikle risk altındadır."
+        },
+        {
+          "id": "ANAT-HN-002-29",
+          "question": "Larenksin arteriyel kanlanması temel olarak hangi damarların dallarıyla sağlanır?",
+          "answer": "A. thyroidea superior'un a. laryngea superior dalı ve a. thyroidea inferior'un a. laryngea inferior dalı.",
+          "explanation": "Üst laringeal damar iç dal ile thyrohyoid membrandan geçer."
+        },
+        {
+          "id": "ANAT-HN-002-30",
+          "question": "Gerçek vokal kıvrımların lenfatik drenajı açısından ayırt edici özellik nedir?",
+          "answer": "Gerçek vokal kıvrımların glottik bölümünde lenfatik damarlar bulunmaz veya son derece sınırlıdır.",
+          "explanation": "Bu özellik glottik tümörlerin lenfatik yayılım paterninin supraglottik tümörlerden farklı olmasına katkı verir."
+        }
+      ]
     }
   ]
 }
