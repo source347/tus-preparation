@@ -32,13 +32,14 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | [Üst ekstremite bölgesel anatomi](upper-limb-regional.md) | 30 | Üst ekstremite — aksilla, kol, önkol, el ve periferik sinirler |
 | [Sırt ve vertebral kolon](back-vertebral-column.md) | 31 | Sırt, vertebra, meninksler ve klinik anatomi |
 | [Toraks](thorax.md) | 41 | Göğüs duvarı, plevra-akciğer, mediasten, kalp ve torasik nörovasküler anatomi |
+| [Abdomen](abdomen.md) | 43 | Karın duvarı, periton, sindirim sistemi, hepatobiliyer organlar, retroperitoneum, damarlar ve innervasyon |
 | [Brakiyal pleksus](brachial-plexus.md) | 20 | Üst ekstremite — pleksus ve ilişkili periferik sinir anatomisi |
 | [Kraniyal sinirler](cranial-nerves.md) | 30 | Baş-boyun ve nöroanatomi — kraniyal sinirlerin seyri/fonksiyonları |
 | [Orbita, farinks ve larinks](orbit-pharynx-larynx.md) | 30 | Baş-boyun — seçilmiş üç bölge |
 | [Spinal kord yolları ve beyin sapı](spinal-cord-brainstem.md) | 30 | Nöroanatomi — spinal yollar ve beyin sapı |
 | [Serebellum, bazal gangliyonlar ve talamus](cerebellum-basal-ganglia-thalamus.md) | 30 | Nöroanatomi — seçilmiş supratentoryal ve infratentoryal yapılar |
 
-Mevcut toplam 302 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
+Mevcut toplam 345 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
 
 ## Üretim sırası
 
@@ -49,7 +50,7 @@ Aşağıdaki sıra, mevcut boşlukları kapatırken tarihsel soru sıklığını
 3. **Üst ekstremiteyi tamamlama** — brakiyal pleksus dışındaki kas-iskelet, damar, el ve eklem anatomisi.
 4. **Sırt ve vertebral kolonu tamamlama** — kemik, eklem, bağ, kas ve klinik anatomi.
 5. **Toraksın genişletilmesi** — kardiyak damar varyasyonları, segmental anatomi ve görüntüleme ilişkileri.
-6. **Abdomen** — karın duvarı, periton, sindirim organları, retroperitoneum ve damarlar.
+6. **Abdomenin genişletilmesi** — organ varyasyonları, bölgesel görüntüleme anatomisi ve klinik cerrahi ilişkiler.
 7. **Pelvis ve perine** — pelvik organlar, taban, perine ve nörovasküler yapılar.
 8. **Baş ve boynu tamamlama** — henüz kapsanmayan yüz, ağız, burun, kulak, boyun, damar ve lenfatik konuları.
 9. **Nöroanatomi boşluklarını tamamlama** — korteks, internal kapsül, limbik sistem, hipotalamus, ventriküller/BOS, kanlanma ve kalan klinik korelasyonlar.
