@@ -12,7 +12,7 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | Üst ekstremite | Omuz kuşağı; aksilla; kol, önkol ve el kompartımanları; kaslar ve fonksiyonları; brakiyal pleksus; periferik sinir lezyonları; arterler, venler ve lenfatikler; eklemler ve klinik testler | **Kısmi** — [brakiyal pleksus](brachial-plexus.md) ve [bölgesel üst ekstremite](upper-limb-regional.md) setleri yayımlandı; ayrıntılı kas tutunmaları, el kemikleri/bağları ve eklem muayeneleri genişletilecek |
 | Alt ekstremite | Gluteal bölge; uyluk üçgenleri ve kompartımanları; diz arkası çukuru; bacak ve ayak; lumbosakral pleksus; periferik sinir lezyonları; arteriyel/venöz dolaşım; eklemler ve yürüme | **Kısmi** — [alt ekstremite seti](lower-limb.md) yayımlandı; ayrıntılı kemik işaretleri, kasların tam origo/insertio ve eklem bağları için genişletilecek |
 | Sırt ve vertebral kolon | Vertebra özellikleri; omurga eklemleri ve bağları; sırt kasları; spinal meninksler ve aralıklar; spinal sinirler; dermatomlar ve miyotomlar; klinik girişimler | **Kısmi** — [sırt ve vertebral kolon seti](back-vertebral-column.md) ile bölgesel osteoloji, bağlar, kaslar ve meninksler eklendi; daha ayrıntılı varyasyonlar ve görüntüleme anatomisi genişletilecek |
-| Toraks | Göğüs duvarı; interkostal aralıklar; diyafram; plevra ve akciğerler; mediasten; kalp ve perikard; büyük damarlar; özofagus ve torasik lenfatikler; klinik ilişkiler | **Başlanmadı** |
+| Toraks | Göğüs duvarı; interkostal aralıklar; diyafram; plevra ve akciğerler; mediasten; kalp ve perikard; büyük damarlar; özofagus ve torasik lenfatikler; klinik ilişkiler | **Kısmi** — [toraks seti](thorax.md) yayımlandı; kardiyak damar varyasyonları, segmental anatomi ve görüntüleme ilişkileri daha ayrıntılı denetlenecek |
 | Abdomen | Karın duvarı ve inguinal kanal; periton ve boşluklar; mide, bağırsaklar ve ilişkileri; karaciğer, safra yolları, pankreas, dalak; böbrek ve adrenal bez; abdominal aorta dalları; portal sistem; otonom innervasyon ve lenfatik drenaj | **Başlanmadı** |
 | Pelvis ve perine | Pelvik duvar ve taban; pelvik fasya ve boşluklar; mesane ve üreter; rektum; genital organlar; perineal üçgenler; pudendal kanal ve nörovasküler yapılar; obstetrik/ürolojik klinik anatomi | **Başlanmadı** |
 | Baş ve boyun | Kafa ve yüz kemikleri; skalp ve yüz; ağız, burun ve paranazal sinüsler; orbita; kulak; farinks ve larinks; boyun fasya ve üçgenleri; tükürük ve tiroid bezleri; kraniyal sinirler; baş-boyun damarları ve lenfatikleri | **Kısmi** — kraniyal sinirler, orbita, farinks ve larinks işlendi; diğer bölgeler eksik |
@@ -43,7 +43,7 @@ Aşağıdaki sıra, mevcut boşlukları kapatırken tarihsel soru sıklığını
 2. **Alt ekstremite** — bölgesel anatomi, kompartımanlar, pleksus/periferik sinirler ve dolaşım.
 3. **Üst ekstremiteyi tamamlama** — brakiyal pleksus dışındaki kas-iskelet, damar, el ve eklem anatomisi.
 4. **Sırt ve vertebral kolonu tamamlama** — kemik, eklem, bağ, kas ve klinik anatomi.
-5. **Toraks** — göğüs duvarından mediastene, kalp ve akciğer anatomisine.
+5. **Toraksın genişletilmesi** — kardiyak damar varyasyonları, segmental anatomi ve görüntüleme ilişkileri.
 6. **Abdomen** — karın duvarı, periton, sindirim organları, retroperitoneum ve damarlar.
 7. **Pelvis ve perine** — pelvik organlar, taban, perine ve nörovasküler yapılar.
 8. **Baş ve boynu tamamlama** — henüz kapsanmayan yüz, ağız, burun, kulak, boyun, damar ve lenfatik konuları.
