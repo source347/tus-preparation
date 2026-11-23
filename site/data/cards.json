@@ -1055,6 +1055,192 @@
           "explanation": "Özellikle ekstremitelerde travma sonrası şiddetli ağrı, pasif germe ağrısı ve nörovasküler bozulma acil değerlendirme gerektirir."
         }
       ]
+    },
+    {
+      "id": "anatomy-lower-limb",
+      "title": "Anatomi · Alt ekstremite",
+      "cards": [
+        {
+          "id": "ANAT-LL-007-01",
+          "question": "Femoral üçgenin sınırları ve tabanı nedir?",
+          "answer": "Üstte inguinal ligament; lateralde sartorius'un medial kenarı; medialde adductor longus'un medial kenarı. Tabanını iliopsoas ve pectineus oluşturur.",
+          "explanation": "Apeksi sartorius ile adductor longus'un kesiştiği noktadır; femoral damar ve sinirlerin klinik ilişkileri açısından önemlidir."
+        },
+        {
+          "id": "ANAT-LL-007-02",
+          "question": "Femoral üçgende lateralden mediale temel yapıların sıralaması nasıldır?",
+          "answer": "Femoral sinir, femoral arter, femoral ven, femoral kanal/lenfatikler (N-A-V-L).",
+          "explanation": "Femoral sinir femoral kılıfın içinde değildir; arter, ven ve kanal kılıf içindedir."
+        },
+        {
+          "id": "ANAT-LL-007-03",
+          "question": "Femoral kılıf hangi yapıları sarar ve femoral siniri neden içermez?",
+          "answer": "Femoral arter, femoral ven ve femoral kanal femoral kılıf içindedir; femoral sinir kılıfın lateralinde ve dışındadır.",
+          "explanation": "Femoral sinir blokajı kılıfın lateralinde yapılır; kılıfın bölmeleri damarların birbirinden ayrılmasını sağlar."
+        },
+        {
+          "id": "ANAT-LL-007-04",
+          "question": "Femoral kanalın içeriği ve klinik önemi nedir?",
+          "answer": "Gevşek bağ dokusu, lenfatikler ve derin inguinal lenf düğümü (Cloquet/Rosenmüller) içerir; femoral herni bu kanaldan geçer.",
+          "explanation": "Femoral halka sınırları: anterior inguinal ligament, posterior pectineal ligament/pectineus, medial lacunar ligament, lateral femoral ven."
+        },
+        {
+          "id": "ANAT-LL-007-05",
+          "question": "Femoral sinir hangi pleksustan ve köklerden gelir; temel motor alanı nedir?",
+          "answer": "Lumbal pleksusun posterior dallarından, L2–L4; iliacus ve uyluk ön kompartıman kaslarının çoğunu innerve eder.",
+          "explanation": "Lezyonda diz ekstansiyonu zayıflar ve patellar refleks azalabilir; ön uyluk ve medial bacak duyusu etkilenebilir."
+        },
+        {
+          "id": "ANAT-LL-007-06",
+          "question": "Obturator sinir hangi köklerden gelir ve hangi kompartımanı innerve eder?",
+          "answer": "Lumbal pleksus L2–L4; uyluğun medial kompartımanındaki adduktor kasların çoğunu innerve eder.",
+          "explanation": "Lezyon kalça adduksiyonunu zayıflatır; medial uylukta duyu kaybı görülebilir."
+        },
+        {
+          "id": "ANAT-LL-007-07",
+          "question": "Uyluk ön kompartımanının temel kasları, siniri ve ana işlevleri nelerdir?",
+          "answer": "Quadriceps femoris, sartorius ve çoğunlukla iliopsoas; femoral sinir. Diz ekstansiyonu ve kalça fleksiyonu temel işlevlerdir.",
+          "explanation": "Quadriceps patellar ligament üzerinden tüberositas tibiae'ye kuvvet aktarır."
+        },
+        {
+          "id": "ANAT-LL-007-08",
+          "question": "Uyluk medial kompartımanının temel işlevi ve innervasyonu nedir?",
+          "answer": "Başlıca kalça adduksiyonu; çoğunlukla obturator sinir (L2–L4).",
+          "explanation": "İstisna olarak hamstring bölümündeki adductor magnus siyatik sinirin tibial bölümünden innervasyon alır; pectineus çoğunlukla femoral sinirdendir."
+        },
+        {
+          "id": "ANAT-LL-007-09",
+          "question": "Uyluk arka kompartımanındaki hamstring kasları ve temel innervasyonları nelerdir?",
+          "answer": "Semitendinosus, semimembranosus ve biceps femoris'in uzun başı tibial bölümden; biceps femoris kısa başı siyatik sinirin common fibular bölümünden innervasyon alır.",
+          "explanation": "Hamstringler kalçayı ekstansiyona, dizi fleksiyona getirir; biceps femoris dizi lateral rotasyona katkı verir."
+        },
+        {
+          "id": "ANAT-LL-007-10",
+          "question": "Siyatik sinir hangi köklerden oluşur ve gluteal bölgeden nasıl çıkar?",
+          "answer": "L4–S3; genellikle piriformis kasının altından, büyük siyatik delikten çıkar.",
+          "explanation": "Piriformis varyasyonları sinirin kasla ilişkisini değiştirebilir; klasik anatomi varyantı altından geçiştir."
+        },
+        {
+          "id": "ANAT-LL-007-11",
+          "question": "Gluteal bölgeye intramüsküler enjeksiyon için güvenli alan hangisidir?",
+          "answer": "Ventrogluteal bölge (gluteus medius/minimus alanı) tercih edilir; dorsogluteal yaklaşımda üst-dış kadran klasik olarak tarif edilir.",
+          "explanation": "Siyatik sinir ve büyük damar yaralanması riskini azaltmak için güncel klinik protokoller ve doğru anatomik işaretleme esas alınmalıdır."
+        },
+        {
+          "id": "ANAT-LL-007-12",
+          "question": "Superior gluteal sinir hangi kasları innerve eder; lezyonu nasıl bulgu verir?",
+          "answer": "Gluteus medius, gluteus minimus ve tensor fasciae latae; lezyonda Trendelenburg bulgusu gelişebilir.",
+          "explanation": "Tek ayak üzerinde dururken karşı taraf pelvisinin düşmesi, yük taşıyan taraftaki abduktor mekanizmanın yetersizliğini gösterir."
+        },
+        {
+          "id": "ANAT-LL-007-13",
+          "question": "Inferior gluteal sinir hangi kası innerve eder; lezyonun temel sonucu nedir?",
+          "answer": "Gluteus maximus; lezyonda merdiven çıkma, koşma ve oturur pozisyondan kalkma güçleşir.",
+          "explanation": "Gluteus maximus güçlü kalça ekstansörüdür; özellikle fleksiyondan ekstansiyona geçişte önemlidir."
+        },
+        {
+          "id": "ANAT-LL-007-14",
+          "question": "Popliteal fossanın sınırlarını hangi kaslar oluşturur?",
+          "answer": "Süperolateral biceps femoris; süperomedial semimembranosus ve semitendinosus; inferolateral ve inferomedial gastrocnemius başları.",
+          "explanation": "Tabanını femurun popliteal yüzü, diz kapsülü ve popliteus; tavanını popliteal fasya ve deri oluşturur."
+        },
+        {
+          "id": "ANAT-LL-007-15",
+          "question": "Popliteal fossada yüzeyelden derine temel nörovasküler sıralama nasıldır?",
+          "answer": "Tibial sinir → popliteal ven → popliteal arter.",
+          "explanation": "Arter en derin yapıdır; cerrahi ve travmada bu ilişki önemlidir. Common fibular sinir fossanın lateral sınırını izler."
+        },
+        {
+          "id": "ANAT-LL-007-16",
+          "question": "Popliteal arter hangi damarın devamıdır ve nerede anterior/posterior tibial arterlere ayrılır?",
+          "answer": "Femoral arterin adductor hiatus sonrası devamıdır; popliteus kasının alt kenarı düzeyinde anterior ve posterior tibial arterlere ayrılır.",
+          "explanation": "Diz çevresindeki geniküler anastomoz, fleksiyon sırasında kollateral dolaşıma katkı verir."
+        },
+        {
+          "id": "ANAT-LL-007-17",
+          "question": "Common fibular sinir fibula başı çevresinde neden yaralanmaya açıktır; lezyon bulgusu nedir?",
+          "answer": "Fibula boynu çevresinde yüzeyel seyreder; lezyon ayak dorsifleksiyonu ve eversiyonunu zayıflatıp düşük ayak oluşturabilir.",
+          "explanation": "Duyu kaybı anterolateral bacak ve ayak sırtında belirgin olabilir."
+        },
+        {
+          "id": "ANAT-LL-007-18",
+          "question": "Tibial sinir bacakta hangi kompartımanı innerve eder; ayakta hangi dallara ayrılır?",
+          "answer": "Posterior bacak kompartımanını innerve eder; medial ve lateral plantar sinirlere ayrılır.",
+          "explanation": "Tarsal tünelden fleksör retinakulumun altından geçer; tarsal tünel sendromunda plantar duyu yakınmaları olabilir."
+        },
+        {
+          "id": "ANAT-LL-007-19",
+          "question": "Derin fibular sinir hangi kas grubunu ve hangi deri alanını innerve eder?",
+          "answer": "Anterior bacak kompartımanı kasları; ayakta birinci ve ikinci parmak arasındaki dar deri alanı.",
+          "explanation": "Lezyonda dorsifleksiyon zayıflar; birinci web aralığı duyusu ayırt ettiricidir."
+        },
+        {
+          "id": "ANAT-LL-007-20",
+          "question": "Yüzeyel fibular sinir hangi kasları ve deri alanını innerve eder?",
+          "answer": "Lateral bacak kompartımanındaki fibularis longus ve brevis; ayak sırtının büyük bölümünün duyusu.",
+          "explanation": "Dorsifleksiyon değil, eversiyon zayıflar; birinci web aralığı derin fibular sinire aittir."
+        },
+        {
+          "id": "ANAT-LL-007-21",
+          "question": "Tarsal tünelin çatısını hangi yapı oluşturur ve içinden hangi yapılar geçer?",
+          "answer": "Fleksör retinakulum; önden arkaya tibialis posterior tendonu, flexor digitorum longus tendonu, posterior tibial arter/venler, tibial sinir, flexor hallucis longus tendonu.",
+          "explanation": "Klasik sıra “Tom, Dick, And Very Nervous Harry” ile hatırlanır; tibial sinir sıkışması plantar parestezi yapabilir."
+        },
+        {
+          "id": "ANAT-LL-007-22",
+          "question": "Ayak tabanının medial ve lateral plantar sinirleri hangi sinirin dallarıdır?",
+          "answer": "Tibial sinirin terminal dallarıdır.",
+          "explanation": "Medial plantar sinir medial üç buçuk parmağın plantar duyusunu ve bazı intrinsik kasları; lateral plantar sinir kalan plantar alan ve kasların çoğunu innerve eder."
+        },
+        {
+          "id": "ANAT-LL-007-23",
+          "question": "Ayak bileği ekleminin temel kemiksel bileşenleri ve hareket ekseni nedir?",
+          "answer": "Tibia ve fibulanın malleolleri talus trokleasıyla eklemleşir; temel hareket dorsifleksiyon ve plantar fleksiyondur.",
+          "explanation": "Talokrural eklem menteşe tipindedir; dorsifleksiyon sırasında talusun daha geniş anterior bölümü mortise içine oturur ve stabilite artar."
+        },
+        {
+          "id": "ANAT-LL-007-24",
+          "question": "Ayak inversiyonu ve eversiyonunda temel eklem ve kaslar hangileridir?",
+          "answer": "Subtalar ve transvers tarsal eklemler katkı verir; inversiyonda tibialis anterior/posterior, eversiyonda fibularis longus/brevis öne çıkar.",
+          "explanation": "İnversiyon ve eversiyon saf tek eklem hareketleri değildir; ayak bileği kompleksinde birleşik hareketlerdir."
+        },
+        {
+          "id": "ANAT-LL-007-25",
+          "question": "Ayak medial longitudinal arkının başlıca pasif ve dinamik destekleri nelerdir?",
+          "answer": "Pasif: plantar kalkaneonaviküler (spring) ligament, plantar aponevroz ve diğer plantar bağlar; dinamik: tibialis posterior/anterior ve intrinsik kaslar.",
+          "explanation": "Spring ligament talus başını destekler; tibialis posterior disfonksiyonu edinilmiş düz tabanlığa katkı verebilir."
+        },
+        {
+          "id": "ANAT-LL-007-26",
+          "question": "Femoral başın kanlanmasında erişkinde en önemli damar hangisidir?",
+          "answer": "Medial circumflex femoral arterin retinaküler dalları.",
+          "explanation": "Femur boyun kırıklarında bu damarların hasarı femur başı avasküler nekrozu riskini artırır; ligamentum teres arteri erişkinde sınırlı katkı sağlar."
+        },
+        {
+          "id": "ANAT-LL-007-27",
+          "question": "Diz ekleminin temel bağları hangi translasyon/rotasyonları sınırlar?",
+          "answer": "ACL tibianın anterior translasyonunu; PCL posterior translasyonunu sınırlar. MCL valgus, LCL varus stresine karşı koyar.",
+          "explanation": "ACL yaralanmasında Lachman ve anterior çekmece; PCL için posterior çekmece testi kullanılır."
+        },
+        {
+          "id": "ANAT-LL-007-28",
+          "question": "Diz menisküslerinden hangisi daha az hareketlidir ve neden klinik olarak daha sık yaralanır?",
+          "answer": "Medial menisküs daha az hareketlidir; derin MCL ve eklem kapsülüyle bağlantıları hareketini kısıtlar.",
+          "explanation": "Medial menisküs yaralanması özellikle valgus ve rotasyonel yüklenmelerde görülebilir."
+        },
+        {
+          "id": "ANAT-LL-007-29",
+          "question": "Büyük safen ven ve küçük safen ven hangi venlere dökülür?",
+          "answer": "Büyük safen ven safenofemoral bileşkede femoral vene; küçük safen ven genellikle popliteal vene dökülür.",
+          "explanation": "Büyük safen ven medial malleolün önünden, küçük safen ven lateral malleolün arkasından geçer."
+        },
+        {
+          "id": "ANAT-LL-007-30",
+          "question": "Lumbosakral pleksusun temel oluşumu ve alt ekstremite için önemli terminal sinirleri nelerdir?",
+          "answer": "Lumbal pleksus çoğunlukla L1–L4, sakral pleksus L4–S4 ön ramuslarından oluşur; femoral, obturator, siyatik, superior/inferior gluteal ve pudendal sinirler önemlidir.",
+          "explanation": "L4 katkısı lumbosakral trunkus üzerinden sakral pleksusa katılır; kök katkıları bireysel varyasyon gösterebilir."
+        }
+      ]
     }
   ]
 }
