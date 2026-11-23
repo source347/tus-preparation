@@ -12,6 +12,7 @@ Planlama hedefi: yaklaşık 130 kart (13 soru × 10 kart). Teslim partileri 30 k
 | Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
 | Orbita, farinks ve larenks | 30 | [orbit-pharynx-larynx.md](orbit-pharynx-larynx.md) |
 | Spinal kord yolları ve beyin sapı | 30 | [spinal-cord-brainstem.md](spinal-cord-brainstem.md) |
+| Serebellum, bazal gangliyonlar ve talamus | 30 | [cerebellum-basal-ganglia-thalamus.md](cerebellum-basal-ganglia-thalamus.md) |
 
 Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
