@@ -1,0 +1,64 @@
+# Anatomi Kapsam Matrisi
+
+Bu belge, anatomi flash kartlarının **müfredat kapsamını** izler. TUS Temel Tıp Bilimleri testinde anatomi için ayrılan soru sayısı (yaklaşık 13) ile anatominin öğrenilmesi gereken konu genişliği farklı ölçütlerdir. Bu nedenle toplam kart sayısı, sınavdaki soru sayısından türetilmez.
+
+## Kapsam modeli
+
+Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistematik ve topografik anatomi başlıkları altında inceleyen tarihsel analizle uyumludur. Analizde nöroanatomi sistematik sınıflamada; baş-boyun ise topografik sınıflamada öne çıkmıştır. Bu sonuçlar önceliklendirmeye yardımcı olur, ancak gelecekteki sınavların dağılımını garanti etmez.
+
+| Ana alan | Alt kapsam / kontrol listesi | Mevcut durum |
+|---|---|---|
+| Genel anatomi, kemikler ve eklemler | Anatomik düzlemler ve terimler; kemik tipleri ve gelişimi; kemik işaretleri; eklem sınıflaması ve hareketleri; bağlar; temel görüntüleme anatomisi | **Eksik** — bağımsız, sistematik bir set yok |
+| Üst ekstremite | Omuz kuşağı; aksilla; kol, önkol ve el kompartımanları; kaslar ve fonksiyonları; brakiyal pleksus; periferik sinir lezyonları; arterler, venler ve lenfatikler; eklemler ve klinik testler | **Kısmi** — brakiyal pleksus işlendi; bölgesel kas-iskelet, damar ve el anatomisi eksik |
+| Alt ekstremite | Gluteal bölge; uyluk üçgenleri ve kompartımanları; diz arkası çukuru; bacak ve ayak; lumbosakral pleksus; periferik sinir lezyonları; arteriyel/venöz dolaşım; eklemler ve yürüme | **Başlanmadı** |
+| Sırt ve vertebral kolon | Vertebra özellikleri; omurga eklemleri ve bağları; sırt kasları; spinal meninksler ve aralıklar; spinal sinirler; dermatomlar ve miyotomlar; klinik girişimler | **Kısmi** — spinal kord yolları işlendi; bölgesel osteoloji, kas ve eklem anatomisi eksik |
+| Toraks | Göğüs duvarı; interkostal aralıklar; diyafram; plevra ve akciğerler; mediasten; kalp ve perikard; büyük damarlar; özofagus ve torasik lenfatikler; klinik ilişkiler | **Başlanmadı** |
+| Abdomen | Karın duvarı ve inguinal kanal; periton ve boşluklar; mide, bağırsaklar ve ilişkileri; karaciğer, safra yolları, pankreas, dalak; böbrek ve adrenal bez; abdominal aorta dalları; portal sistem; otonom innervasyon ve lenfatik drenaj | **Başlanmadı** |
+| Pelvis ve perine | Pelvik duvar ve taban; pelvik fasya ve boşluklar; mesane ve üreter; rektum; genital organlar; perineal üçgenler; pudendal kanal ve nörovasküler yapılar; obstetrik/ürolojik klinik anatomi | **Başlanmadı** |
+| Baş ve boyun | Kafa ve yüz kemikleri; skalp ve yüz; ağız, burun ve paranazal sinüsler; orbita; kulak; farinks ve larinks; boyun fasya ve üçgenleri; tükürük ve tiroid bezleri; kraniyal sinirler; baş-boyun damarları ve lenfatikleri | **Kısmi** — kraniyal sinirler, orbita, farinks ve larinks işlendi; diğer bölgeler eksik |
+| Nöroanatomi | MSS organizasyonu; spinal kord ve çıkan/inen yollar; beyin sapı; kraniyal sinir çekirdekleri; serebellum; bazal gangliyonlar; talamus ve hipotalamus; korteks ve Brodmann alanları; internal kapsül; limbik sistem; ventriküller ve BOS; kanlanma ve klinik sendromlar | **Kısmi** — spinal kord, beyin sapı, serebellum, bazal gangliyonlar, talamus ve kraniyal sinirler işlendi; korteks, internal kapsül, limbik sistem, hipotalamus ve diğer başlıklar eksik |
+
+**Durum tanımları**
+- **Başlanmadı:** Bu alan için yayımlanmış, konuya özgü kart seti bulunmuyor.
+- **Kısmi:** Alanın bazı alt başlıkları işlendi; yukarıdaki kontrol listesinin tamamı kapsanmıyor.
+- **Tamamlandı:** Alt başlıklar için yeterli, gözden geçirilmiş kart setleri mevcut. Yalnızca kart sayısına bakılarak bu statü verilmez.
+
+## Mevcut setlerin eşleştirilmesi
+
+| Yayımlanmış set | Kart | Kapsama katkısı |
+|---|---:|---|
+| [Brakiyal pleksus](brachial-plexus.md) | 20 | Üst ekstremite — pleksus ve ilişkili periferik sinir anatomisi |
+| [Kraniyal sinirler](cranial-nerves.md) | 30 | Baş-boyun ve nöroanatomi — kraniyal sinirlerin seyri/fonksiyonları |
+| [Orbita, farinks ve larinks](orbit-pharynx-larynx.md) | 30 | Baş-boyun — seçilmiş üç bölge |
+| [Spinal kord yolları ve beyin sapı](spinal-cord-brainstem.md) | 30 | Nöroanatomi — spinal yollar ve beyin sapı |
+| [Serebellum, bazal gangliyonlar ve talamus](cerebellum-basal-ganglia-thalamus.md) | 30 | Nöroanatomi — seçilmiş supratentoryal ve infratentoryal yapılar |
+
+Mevcut toplam 140 karttır. Bu sayı **140/130 gibi bir tamamlanma oranı değildir**; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
+
+## Üretim sırası
+
+Aşağıdaki sıra, mevcut boşlukları kapatırken tarihsel soru sıklığını ve konular arası bağımlılıkları birlikte dikkate alır. Yeni sınav verisi veya kapsamlı bir içerik denetimi gerektirirse sıra güncellenebilir.
+
+1. **Genel anatomi, kemikler ve eklemler** — temel terminoloji, osteoloji ve artroloji.
+2. **Alt ekstremite** — bölgesel anatomi, kompartımanlar, pleksus/periferik sinirler ve dolaşım.
+3. **Üst ekstremiteyi tamamlama** — brakiyal pleksus dışındaki kas-iskelet, damar, el ve eklem anatomisi.
+4. **Sırt ve vertebral kolonu tamamlama** — kemik, eklem, bağ, kas ve klinik anatomi.
+5. **Toraks** — göğüs duvarından mediastene, kalp ve akciğer anatomisine.
+6. **Abdomen** — karın duvarı, periton, sindirim organları, retroperitoneum ve damarlar.
+7. **Pelvis ve perine** — pelvik organlar, taban, perine ve nörovasküler yapılar.
+8. **Baş ve boynu tamamlama** — henüz kapsanmayan yüz, ağız, burun, kulak, boyun, damar ve lenfatik konuları.
+9. **Nöroanatomi boşluklarını tamamlama** — korteks, internal kapsül, limbik sistem, hipotalamus, ventriküller/BOS, kanlanma ve kalan klinik korelasyonlar.
+
+## Kart üretim ve tamamlanma ölçütleri
+
+- 30 kart, yalnızca teslim/inceleme partisi için varsayılan büyüklüktür; konu başına kota değildir.
+- Kart sayısı, alt başlıkların kapsamı ve birbirinden farklı öğrenme hedefleri tarafından belirlenir.
+- Bir alan ancak kontrol listesindeki temel alt başlıklar ele alındığında ve kartlar tıbbi doğruluk, kaynak ve tekrar açısından denetlendiğinde **tamamlandı** sayılır.
+- Yüksek verimli anatomi; yalnızca yapı isimlerini değil, komşulukları, seyirleri, innervasyonu, kanlanmayı, lenfatik drenajı ve klinik lezyon sonuçlarını da kapsamalıdır.
+- Aynı bilgi farklı kartlarda gereksiz yere tekrar edilmemeli; bölgesel ve sistematik anatomi arasındaki örtüşme bilinçli yönetilmelidir.
+
+## Kaynak ve yöntem
+
+- TUS'ta 2006–2021 arasında sorulmuş 396 anatomi sorusunu sistematik ve topografik anatomi sınıflarıyla inceleyen çalışma: [Changes in the types of anatomy questions asked in the medical specialization exam over the years, Türkiye example](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023676/).
+- Bu çalışma tarihsel önceliklendirme kaynağıdır; güncel ve eksiksiz bir resmi anatomi müfredatı olarak değerlendirilmemelidir.
+- Her flash kart seti ayrıca konuya özgü anatomi kaynaklarıyla doğrulanmalıdır. Kaynak standardı için [SOURCES.md](../../../SOURCES.md) belgesine bakın.
