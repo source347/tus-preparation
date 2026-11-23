@@ -2,6 +2,13 @@
 
 Katkılarınızı bekliyoruz. İlk öncelik güvenilir, özenle kürate edilmiş bir flash kart koleksiyonu oluşturmaktır.
 
+## Üretim ve teslim standardı
+
+- Planlama hesabı: TUS'taki **her bir soru için yaklaşık 10 flash kart**.
+- Teslim partisi: **30 kart**; yaklaşık **3 TUS sorusuna** karşılık gelir.
+- 30 kartlık parti, çalışma ve inceleme birimidir; her partide tam 30 kart bulunması kalite şartlarının önüne geçmez.
+- Bir konu 30 yüksek kaliteli kartı desteklemiyorsa daha küçük parti sunulabilir. Gereksiz ayrıntı, tekrar veya zayıf kartlarla kota doldurmayın.
+
 ## Kartların konumu
 
 Kartları `flashcards/` altındaki uygun ders dizinine ekleyin. Ders başına tek ve büyük bir dosya yerine, bütünlüklü her konu için ayrı bir Markdown dosyası tercih edin.
