@@ -9,6 +9,7 @@ Anatomi flash kartları konu bazlı hazırlanır. TUS'ta bir dönemde anatomi i�
 | Konu | Kart | Dosya |
 |---|---:|---|
 | Genel anatomi, osteoloji ve artroloji | 30 | [general-anatomy-osteology-arthrology.md](general-anatomy-osteology-arthrology.md) |
+| Alt ekstremite | 30 | [lower-limb.md](lower-limb.md) |
 | Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
 | Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
 | Orbita, farinks ve larenks | 30 | [orbit-pharynx-larynx.md](orbit-pharynx-larynx.md) |
