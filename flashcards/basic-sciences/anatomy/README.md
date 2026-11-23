@@ -1,8 +1,8 @@
 # Anatomi
 
-Anatomiye ait konu bazlı flash kartlar.
+Anatomi flash kartları konu bazlı hazırlanır. TUS'ta bir dönemde anatomi için ayrılan soru sayısı, dersin tüm öğrenme kapsamını veya hazırlanması gereken kart sayısını belirlemez.
 
-Planlama hedefi: yaklaşık 130 kart (13 soru × 10 kart). Teslim partileri 30 karttır (yaklaşık 3 soru). Bu sayılar planlama aracıdır; kaliteyi geçersiz kılan kota değildir.
+**[Anatomi Kapsam Matrisi](coverage-matrix.md)** ana konu alanlarını, alt başlıkları, mevcut kartların kapsadığı alanları ve önerilen üretim sırasını gösterir. Kart üretiminde bu matris esas alınır ve yeni setler yayımlandıkça güncellenir.
 
 ## Yayımlanan kart grupları
 
@@ -18,8 +18,8 @@ Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
 ## Önceliklendirme
 
-2006–2021 dönemine ait 396 TUS anatomi sorusunu inceleyen yayımlanmış bir analizde, sistematik anatomi kategorileri içinde nöroanatomi en sık temsil edilen başlık (%35,1); topografik anatomi kategorileri içinde ise baş-boyun en sık temsil edilen başlıktır (%41,4). Bu tarihsel bulgular konu önceliğine yardımcı olur ancak tek bir sınavın dağılımını öngörmez. [Çalışma](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023676/).
+2006–2021 dönemine ait 396 TUS anatomi sorusunu inceleyen yayımlanmış bir analizde, sistematik anatomi kategorileri içinde nöroanatomi en sık temsil edilen başlık (%35,1); topografik anatomi kategorileri içinde ise baş-boyun en sık temsil edilen başlıktır (%41,4). Tarihsel bulgular konu önceliğine yardımcı olur ancak tek bir sınavın dağılımını öngörmez. [Çalışma](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023676/).
 
 ## Editoryal standart
 
-Doğruluk, kaynak niteliği veya birbirinden farklı öğrenme hedefleri pahasına hedef kart sayısına ulaşmaya çalışmayın. Kartları konu bazlı ve gözden geçirilmiş gruplar halinde ekleyin.
+Doğruluk, kaynak niteliği veya birbirinden farklı öğrenme hedefleri pahasına hedef kart sayısına ulaşmaya çalışmayın. Bir alan ancak kapsam matrisindeki temel alt başlıklar gözden geçirilip yeterli biçimde temsil edildiğinde tamamlanmış sayılır.
