@@ -683,6 +683,192 @@
           "explanation": "Tegmentumun görece korunması uyanıklığın sürmesine olanak verir."
         }
       ]
+    },
+    {
+      "id": "anatomy-cerebellum-basal-ganglia-thalamus",
+      "title": "Anatomi · Serebellum, bazal gangliyonlar ve talamus",
+      "cards": [
+        {
+          "id": "ANAT-CBT-004-01",
+          "question": "Serebellumun anatomik lobları ve bunları ayıran fissürler hangileridir?",
+          "answer": "Lobus anterior, posterior ve flocculonodularis; fissura prima anterior-posterior lobları, fissura posterolateralis posterior-flocculonodular lobları ayırır.",
+          "explanation": "Flocculonodular lob inferior yüzde yer alır."
+        },
+        {
+          "id": "ANAT-CBT-004-02",
+          "question": "Serebellumun fonksiyonel bölümleri ve temel görevleri nelerdir?",
+          "answer": "Vestibuloserebellum: denge ve göz hareketleri; spin serebellum: postür, kas tonusu ve devam eden hareketin düzenlenmesi; serebroserebellum: hareket planlama ve motor öğrenme.",
+          "explanation": "Fonksiyonel bölünme anatomik loblarla bire bir örtüşmez."
+        },
+        {
+          "id": "ANAT-CBT-004-03",
+          "question": "Serebellar korteksin tabakaları dıştan içe nasıl sıralanır?",
+          "answer": "Moleküler tabaka → Purkinje hücre tabakası → granüler tabaka.",
+          "explanation": "Purkinje hücreleri serebellar korteksin başlıca çıkış nöronlarıdır ve GABAerjik inhibitör etki gösterir."
+        },
+        {
+          "id": "ANAT-CBT-004-04",
+          "question": "Derin serebellar çekirdekler lateralden mediale nasıl sıralanır?",
+          "answer": "Dentatus → emboliformis → globosus → fastigii.",
+          "explanation": "Emboliformis ve globosus birlikte nucleus interpositus olarak adlandırılır."
+        },
+        {
+          "id": "ANAT-CBT-004-05",
+          "question": "Serebellar vermis, ara bölge ve lateral hemisferler başlıca hangi derin çekirdeklere projekte olur?",
+          "answer": "Vermis fastigial çekirdeğe; paravermal/ara bölge interpoze çekirdeklere; lateral hemisfer dentat çekirdeğe projekte olur.",
+          "explanation": "Bu topografi aksiyal, ekstremite ve planlama işlevlerinin klinik lokalizasyonuna yardımcı olur."
+        },
+        {
+          "id": "ANAT-CBT-004-06",
+          "question": "Serebellar pedinküllerin başlıca bağlantıları ve lif yönleri nelerdir?",
+          "answer": "Üst pedinkül başlıca efferent; orta pedinkül pont serebellar afferent; alt pedinkül başlıca spinal, vestibüler ve oliver afferent lifleri taşır.",
+          "explanation": "Üst pedinkül ventral spinosebellar gibi bazı afferent lifler de içerir; alt pedinkülde efferent lifler de bulunur."
+        },
+        {
+          "id": "ANAT-CBT-004-07",
+          "question": "Serebellar hemisfer lezyonunda ekstremite koordinasyon bozukluğu genellikle hangi tarafta görülür?",
+          "answer": "Lezyonla aynı tarafta (ipsilateral) dismetri ve ataksi.",
+          "explanation": "Serebellar bağlantıların çift çaprazlı organizasyonu nedeniyle klinik bulgular çoğunlukla ipsilateral taraftadır."
+        },
+        {
+          "id": "ANAT-CBT-004-08",
+          "question": "Vermis lezyonunun tipik klinik bulgusu nedir?",
+          "answer": "Gövde ataksisi ve geniş tabanlı yürüyüş; dengeyi korumada güçlük.",
+          "explanation": "Vermis aksiyal kas kontrolü ve postüral stabiliteyle ilişkilidir."
+        },
+        {
+          "id": "ANAT-CBT-004-09",
+          "question": "Flokkulonodüler lob lezyonunda hangi klinik bulgular beklenir?",
+          "answer": "Denge bozukluğu, nistagmus ve vestibüler kaynaklı ataksi.",
+          "explanation": "Vestibuloserebellum vestibüler çekirdeklerle doğrudan bağlantı kurar."
+        },
+        {
+          "id": "ANAT-CBT-004-10",
+          "question": "Serebellar tonsillerin foramen magnumdan aşağı herniasyonu hangi yapıları sıkıştırabilir?",
+          "answer": "Medulla oblongata ve kraniyoservikal bileşkedeki solunum-dolaşım merkezlerini.",
+          "explanation": "Tonsiller herniasyon yaşamı tehdit eden beyin sapı basısına neden olabilir."
+        },
+        {
+          "id": "ANAT-CBT-004-11",
+          "question": "Bazal gangliyonların temel anatomik bileşenleri nelerdir?",
+          "answer": "Striatum (nucleus caudatus ve putamen), globus pallidus (externus ve internus), nucleus subthalamicus ve substantia nigra.",
+          "explanation": "Terminoloji kaynaklara göre değişebilir; nucleus accumbens ventral striatumun parçasıdır."
+        },
+        {
+          "id": "ANAT-CBT-004-12",
+          "question": "Striatum hangi iki ana anatomik yapıdan oluşur?",
+          "answer": "Nucleus caudatus ve putamen.",
+          "explanation": "Caudatus lateral ventrikül boyunca C şeklinde uzanır; putamen lentiform çekirdeğin lateral bölümüdür."
+        },
+        {
+          "id": "ANAT-CBT-004-13",
+          "question": "Lentiform (nucleus lentiformis) çekirdek hangi yapılardan oluşur?",
+          "answer": "Putamen ve globus pallidus.",
+          "explanation": "Globus pallidus dış (GPe) ve iç (GPi) segmentlere ayrılır."
+        },
+        {
+          "id": "ANAT-CBT-004-14",
+          "question": "Bazal gangliyonların doğrudan (direkt) yolu talamokortikal aktiviteyi nasıl etkiler?",
+          "answer": "Striatum GPi/SNr'yi inhibe eder; talamus üzerindeki tonik inhibisyon azalır (disinhibisyon) ve kortikal motor aktivite kolaylaşır.",
+          "explanation": "Direkt yolun net etkisi hareketin kolaylaştırılmasıdır."
+        },
+        {
+          "id": "ANAT-CBT-004-15",
+          "question": "Bazal gangliyonların dolaylı (indirekt) yolu hareketi hangi mekanizmayla baskılar?",
+          "answer": "Striatum GPe'yi inhibe eder; STN üzerindeki inhibisyon azalır, STN GPi/SNr'yi uyarır ve talamik inhibisyon artar.",
+          "explanation": "Net etki talamokortikal aktivitenin ve hareketin baskılanmasıdır."
+        },
+        {
+          "id": "ANAT-CBT-004-16",
+          "question": "Substantia nigra pars compacta dopamini direkt ve indirekt yolakları nasıl modüle eder?",
+          "answer": "D1 reseptörlü direkt yol nöronlarını uyarır, D2 reseptörlü indirekt yol nöronlarını inhibe eder; net etki hareketi kolaylaştırır.",
+          "explanation": "Nigrostriatal dopaminerjik nöron kaybı Parkinson hastalığının temel mekanizmalarındandır."
+        },
+        {
+          "id": "ANAT-CBT-004-17",
+          "question": "Subthalamic nucleus lezyonu hangi hareket bozukluğuna neden olabilir?",
+          "answer": "Karşı vücut yarısında hemiballismus.",
+          "explanation": "STN normalde GPi/SNr çıkışını glutamaterjik olarak uyarır; lezyonda talamik inhibisyon azalır."
+        },
+        {
+          "id": "ANAT-CBT-004-18",
+          "question": "Parkinson hastalığında bazal gangliyon devresindeki temel anatomik-nörokimyasal değişiklik nedir?",
+          "answer": "Substantia nigra pars compacta dopaminerjik nöronlarının dejenerasyonu ve striatumda dopamin azalması.",
+          "explanation": "Direkt yolun kolaylaştırıcı etkisi azalırken indirekt yolun baskılayıcı etkisi göreceli artar."
+        },
+        {
+          "id": "ANAT-CBT-004-19",
+          "question": "Huntington hastalığında erken dönemde bazal gangliyonun hangi nöron popülasyonu belirgin etkilenir?",
+          "answer": "Striatumdaki indirekt yolun GABAerjik orta dikenli nöronları.",
+          "explanation": "İndirekt yolun kaybı hareket baskılanmasını azaltarak koreik hiperkineziye katkıda bulunur."
+        },
+        {
+          "id": "ANAT-CBT-004-20",
+          "question": "Bazal gangliyonların başlıca çıkış çekirdekleri hangileridir?",
+          "answer": "Globus pallidus internus (GPi) ve substantia nigra pars reticulata (SNr).",
+          "explanation": "Bu çekirdekler GABAerjik inhibitör çıkışlarıyla talamus ve beyin sapı hedeflerini düzenler."
+        },
+        {
+          "id": "ANAT-CBT-004-21",
+          "question": "Talamusun temel anatomik konumu ve genel işlevi nedir?",
+          "answer": "Diensefalonda, üçüncü ventrikülün iki yanında yer alır; olfaksiyon dışındaki duyusal bilgilerin ve motor/limbik devrelerin önemli bir aktarım ve düzenleme merkezidir.",
+          "explanation": "Talamus yalnızca pasif bir röle değildir; kortikal ve subkortikal ağlarla etkileşir."
+        },
+        {
+          "id": "ANAT-CBT-004-22",
+          "question": "VPL ve VPM talamik çekirdekleri hangi duyusal bilgileri alır?",
+          "answer": "VPL gövde ve ekstremitelerden; VPM yüz ve baş bölgesinden somatik duyu bilgisi alır.",
+          "explanation": "VPL medial lemniskus ve spinotalamik sistem; VPM trigeminal duyu yolları üzerinden girdi alır."
+        },
+        {
+          "id": "ANAT-CBT-004-23",
+          "question": "Corpus geniculatum laterale ve mediale hangi duyusal yolların talamik röle çekirdekleridir?",
+          "answer": "Lateral genikulat cisim görme; medial genikulat cisim işitme yolunun rölesidir.",
+          "explanation": "LGN optik traktustan, MGN inferior kollikulus-brachium bağlantısı üzerinden işitsel girdiler alır."
+        },
+        {
+          "id": "ANAT-CBT-004-24",
+          "question": "VA ve VL talamik çekirdekleri başlıca hangi motor devrelerden girdi alır?",
+          "answer": "VA ağırlıklı olarak bazal gangliyonlardan; VL serebellum ve bazal gangliyonlardan motor bilgi alır.",
+          "explanation": "Her ikisi de motor kortikal alanlara projeksiyon yapar."
+        },
+        {
+          "id": "ANAT-CBT-004-25",
+          "question": "Talamusun anterior çekirdeği hangi limbik devreyle ve hangi işlevle ilişkilidir?",
+          "answer": "Papez devresiyle; bellek ve limbik işlevlerle ilişkilidir.",
+          "explanation": "Mammillothalamic traktus anterior çekirdeğe önemli girdi taşır."
+        },
+        {
+          "id": "ANAT-CBT-004-26",
+          "question": "Talamusun mediodorsal (dorsomedial) çekirdeği hangi kortikal alanlarla ve işlevlerle ilişkilidir?",
+          "answer": "Prefrontal korteksle karşılıklı bağlantılar kurar; yürütücü işlev, motivasyon ve bellek süreçlerine katılır.",
+          "explanation": "Limbik ve bilişsel devrelerin bir parçasıdır."
+        },
+        {
+          "id": "ANAT-CBT-004-27",
+          "question": "Pulvinar çekirdeğinin temel bağlantı ve işlev alanı nedir?",
+          "answer": "Parietal, temporal ve oksipital asosiasyon korteksleriyle bağlantılıdır; görsel dikkat ve duyusal bütünleştirmeye katkı verir.",
+          "explanation": "Talamusun posterior/lateral bölümünde yer alan büyük bir asosiasyon çekirdeğidir."
+        },
+        {
+          "id": "ANAT-CBT-004-28",
+          "question": "Talamik retiküler çekirdeğin diğer talamik çekirdeklerden temel farkı nedir?",
+          "answer": "GABAerjik inhibitör nöronlardan oluşur; talamik çekirdeklerin etkinliğini düzenler ve kortekse doğrudan projekte olmaz.",
+          "explanation": "Talamokortikal devrelerde duyusal kapılama ve ritmik aktivitenin düzenlenmesine katkı verir."
+        },
+        {
+          "id": "ANAT-CBT-004-29",
+          "question": "Talamusun kanlanmasını sağlayan başlıca arteriyel perforan gruplar hangileridir?",
+          "answer": "Tuberotalamik (polar), paramedian, inferolateral (thalamogeniculate) ve posterior koroidal arterler.",
+          "explanation": "Bu damar grupları çoğunlukla posterior dolaşım dallarından köken alır; anatomik varyasyonlar görülebilir."
+        },
+        {
+          "id": "ANAT-CBT-004-30",
+          "question": "Paramedian talamik infarktın iki taraflı olması hangi klinik sonuçlara yol açabilir?",
+          "answer": "Uyanıklıkta azalma veya bilinç bozukluğu, bellek ve okülomotor bozukluklar görülebilir.",
+          "explanation": "Paramedian arter varyantları (ör. Percheron arteri) iki paramedian talamik bölgeyi tek damar üzerinden besleyebilir."
+        }
+      ]
     }
   ]
 }
