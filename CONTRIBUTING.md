@@ -4,10 +4,10 @@ Katkılarınızı bekliyoruz. İlk öncelik güvenilir, özenle kürate edilmiş
 
 ## Üretim ve teslim standardı
 
-- Planlama hesabı: TUS'taki **her bir soru için yaklaşık 10 flash kart**.
-- Teslim partisi: **30 kart**; yaklaşık **3 TUS sorusuna** karşılık gelir.
-- 30 kartlık parti, çalışma ve inceleme birimidir; her partide tam 30 kart bulunması kalite şartlarının önüne geçmez.
-- Bir konu 30 yüksek kaliteli kartı desteklemiyorsa daha küçük parti sunulabilir. Gereksiz ayrıntı, tekrar veya zayıf kartlarla kota doldurmayın.
+- Kart sayısı, TUS'ta ilgili derse ayrılan soru sayısına göre hesaplanmaz. Sınav kotası, dersin tüm öğrenme kapsamını temsil etmez.
+- Teslim partisi varsayılan olarak **30 karttır**; bu yalnızca çalışma ve inceleme birimidir, kota değildir.
+- Bir konu 30 yüksek kaliteli kartı desteklemiyorsa daha küçük parti sunulabilir. Gereksiz ayrıntı, tekrar veya zayıf kartlarla sayı doldurulmaz.
+- Dersin kapsamı konu ve alt başlıklar üzerinden izlenir. Anatomi katkıları için [Kapsam Matrisi](flashcards/basic-sciences/anatomy/coverage-matrix.md) esas alınır.
 
 ## Kartların konumu
 
