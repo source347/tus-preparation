@@ -1619,6 +1619,258 @@
           "explanation": "Çoğunlukla C7 transvers forameninden geçmez; anatomik varyasyonlar görülebilir."
         }
       ]
+    },
+    {
+      "id": "anatomy-thorax",
+      "title": "Anatomi · Toraks",
+      "cards": [
+        {
+          "id": "ANAT-THORAX-010-01",
+          "question": "Tipik kaburganın bölümleri?",
+          "answer": "Baş, boyun, tüberkül, açı ve gövde; alt kenarda kostal oluk.",
+          "explanation": "Olukta interkostal VAN demeti seyreder; tipik kaburgalar çoğunlukla 3–9'dur."
+        },
+        {
+          "id": "ANAT-THORAX-010-02",
+          "question": "Atipik kaburgalar ve özellikleri?",
+          "answer": "1, 2, 10, 11 ve 12. kaburgalar. 1. kısa-geniştir; 2.'de serratus anterior tüberozitesi, 11–12'de belirgin boyun/tüberkül yoktur.",
+          "explanation": "1. kaburganın üst yüzünde skalen tüberkül ve subklavyen damar olukları bulunur."
+        },
+        {
+          "id": "ANAT-THORAX-010-03",
+          "question": "Sternumun bölümleri ve sternal açı?",
+          "answer": "Manubrium, corpus ve processus xiphoideus; manubriosternal eklem sternal açıyı oluşturur.",
+          "explanation": "Sternal açı T4–T5 düzeyinde, 2. kostal kıkırdak bağlantısı ve mediasten bölümlenmesi için yüzey işaretidir."
+        },
+        {
+          "id": "ANAT-THORAX-010-04",
+          "question": "Sternal açı düzleminde hangi yapılar bulunur?",
+          "answer": "T4–T5 disk düzlemi; trakea bifurkasyonu ve aort kavsinin başlangıç/bitiş düzeyi yaklaşık bu düzlemdedir.",
+          "explanation": "Superior ve inferior mediasteni ayırır; kaburga sayımı 2. kostadan başlatılır."
+        },
+        {
+          "id": "ANAT-THORAX-010-05",
+          "question": "1. kaburga üzerinde skalen tüberkülün ilişkileri?",
+          "answer": "M. scalenus anterior buraya tutunur; önünde v. subclavia, arkasında a. subclavia ve brakiyal pleksus bulunur.",
+          "explanation": "Torasik outlet sendromu ve subklavyen damar girişimleri açısından önemlidir."
+        },
+        {
+          "id": "ANAT-THORAX-010-06",
+          "question": "Kostovertebral ve kostotransvers eklemler?",
+          "answer": "Kaburga başı vertebra korpusları/diskiyle; tüberkülü aynı numaralı vertebranın transvers çıkıntısıyla eklem yapar.",
+          "explanation": "11–12. kaburgalarda kostotransvers eklem yoktur."
+        },
+        {
+          "id": "ANAT-THORAX-010-07",
+          "question": "Kostal olukta nörovasküler demetin sıralaması?",
+          "answer": "Üstten alta ven, arter, sinir (VAN).",
+          "explanation": "İç interkostal kas ile en iç tabaka arasında seyreder; torasentezde kaburganın üst kenarı tercih edilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-08",
+          "question": "İnterkostal sinirlerin kökeni?",
+          "answer": "T1–T11 anterior ramusları interkostal sinirleri, T12 anterior ramusu subkostal siniri oluşturur.",
+          "explanation": "T1'in büyük kısmı brakiyal pleksusa katılır; T2 lateral kutanöz dalı interkostobrakiyal sinirdir."
+        },
+        {
+          "id": "ANAT-THORAX-010-09",
+          "question": "İnterkostal kas tabakaları ve solunum işlevleri?",
+          "answer": "Dış, iç ve en iç tabakalar vardır. Dış interkostaller inspirasyona; iç kasların interosseöz bölümü zorlu ekspirasyona yardım eder.",
+          "explanation": "İç kasların interkondral bölümü inspirasyona katkı verir."
+        },
+        {
+          "id": "ANAT-THORAX-010-10",
+          "question": "İnternal torasik arterin kökeni ve dalları?",
+          "answer": "A. subclavia'nın ilk bölümünden çıkar; anterior interkostal, perikardiyofrenik, musculophrenic ve superior epigastrik dalları verir.",
+          "explanation": "Musculophrenic alt anterior interkostal aralıkları, superior epigastrik ön karın duvarını besler."
+        },
+        {
+          "id": "ANAT-THORAX-010-11",
+          "question": "Diyaframın bölümleri ve tutunmaları?",
+          "answer": "Sternal parça ksifoide, kostal parça alt altı kaburga/kıkırdağa, lomber parça kruslara ve arkuat ligamentlere tutunur; lifler centrum tendineum'da birleşir.",
+          "explanation": "Sağ krus genellikle L1–L3, sol krus L1–L2'ye tutunur."
+        },
+        {
+          "id": "ANAT-THORAX-010-12",
+          "question": "Diyafram açıklıkları, düzeyleri ve içerikleri?",
+          "answer": "T8: VCI; T10: özofagus ve vagal trunkuslar; T12: aorta ve ductus thoracicus.",
+          "explanation": "Aortik hiatus arkuat ligamentlerin arkasındadır; azygos ven de buradan geçebilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-13",
+          "question": "Diyaframın motor ve duyusal innervasyonu?",
+          "answer": "Motor: C3–C5 frenik sinir. Periferik duyusal: alt interkostal sinirler.",
+          "explanation": "Santral plevra/periton frenikle duyulanır; irritasyon omuza yansıyan ağrı yapabilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-14",
+          "question": "Frenik sinirin akciğer köküyle ilişkisi?",
+          "answer": "Frenik sinir kökün önünden, vagus siniri kökün arkasından geçer; frenik sinir perikard üzerinde diyaframa iner.",
+          "explanation": "Hasarı hemidiyafram paralizisine yol açabilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-15",
+          "question": "Parietal plevranın bölümleri ve innervasyonu?",
+          "answer": "Kostal, mediastinal, diyafragmatik ve servikal bölümleri vardır. Kostal/periferik diyafragmatik interkostal; mediastinal/santral diyafragmatik frenik sinirle innerve edilir.",
+          "explanation": "Parietal plevra ağrıya duyarlıdır; visseral plevra keskin ağrı duyusuna duyarlı değildir."
+        },
+        {
+          "id": "ANAT-THORAX-010-16",
+          "question": "Kostodiyafragmatik ve kostomediastinal resesler?",
+          "answer": "Kostodiyafragmatik reses kostal-diyafragmatik; kostomediastinal reses kostal-mediastinal plevra arasındadır.",
+          "explanation": "Plevral sıvı kostodiyafragmatik reseste birikir; solda kardiyak çentik komşuluğunda kostomediastinal reses belirgindir."
+        },
+        {
+          "id": "ANAT-THORAX-010-17",
+          "question": "Akciğer apeksi ve cupula'nın yüzey ilişkisi?",
+          "answer": "1. kaburganın üstüne ve klavikulanın medial ucunun yaklaşık 2–3 cm üzerine uzanır.",
+          "explanation": "Boyun kökü travması veya subklavyen girişim pnömotoraksa neden olabilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-18",
+          "question": "Sağ ve sol akciğer lob/fissür farkı?",
+          "answer": "Sağ: üst, orta, alt lob; oblik ve horizontal fissür. Sol: üst-alt lob, oblik fissür, lingula ve kardiyak çentik.",
+          "explanation": "Sağ akciğer genellikle daha kısa ve geniştir."
+        },
+        {
+          "id": "ANAT-THORAX-010-19",
+          "question": "Sağ ve sol hilumda bronş-arter ilişkisi?",
+          "answer": "Sağda üst lob bronşu pulmoner arterin üstündedir (eparteriyel); solda pulmoner arter bronşun üstündedir (RALS).",
+          "explanation": "Pulmoner venler genellikle hilumun anterior ve inferiorundadır."
+        },
+        {
+          "id": "ANAT-THORAX-010-20",
+          "question": "Akciğer kökü hangi yapıları içerir?",
+          "answer": "Ana bronş, pulmoner arter, pulmoner venler, bronşiyal damarlar, lenfatikler ve otonom sinir pleksusu.",
+          "explanation": "Pulmoner ligament kökün inferiorunda plevranın çift katlı uzantısıdır."
+        },
+        {
+          "id": "ANAT-THORAX-010-21",
+          "question": "Bronkopulmoner segmentin anatomik ve cerrahi önemi?",
+          "answer": "Segmental bronş ve pulmoner arter dalıyla beslenen bağımsız birimdir; pulmoner venler çoğunlukla segmentler arası seyreder.",
+          "explanation": "Anatomik segmentektomiye olanak verir; sağda genellikle 10, solda 8–10 segment tanımlanır."
+        },
+        {
+          "id": "ANAT-THORAX-010-22",
+          "question": "Sağ ana bronşa aspirasyon neden daha sık olur?",
+          "answer": "Sağ ana bronş daha kısa, geniş ve dik seyirlidir.",
+          "explanation": "Yabancı cisim sıklıkla sağ bronşa ilerler; yerleşim hasta pozisyonundan da etkilenir."
+        },
+        {
+          "id": "ANAT-THORAX-010-23",
+          "question": "Pulmoner ve bronşiyal dolaşım farkı?",
+          "answer": "Pulmoner arterler gaz değişimi için kanı alveollere taşır; bronşiyal arterler bronş duvarı ve destek dokularını sistemik dolaşımdan besler.",
+          "explanation": "Bronşiyal arterler çoğunlukla torasik aortadan çıkar; venöz dönüşün bir kısmı pulmoner venlere katılır."
+        },
+        {
+          "id": "ANAT-THORAX-010-24",
+          "question": "Akciğer lenfatik drenajının sırası?",
+          "answer": "Pulmoner nodlar → bronkopulmoner/hiler → trakeobronşiyal → paratrakeal nodlar → bronkomediastinal trunkuslar.",
+          "explanation": "Sol alt lob lenfi çapraz geçerek sağ trakeobronşiyal nodlara ulaşabilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-25",
+          "question": "Mediastenin sınırları ve bölümlenmesi?",
+          "answer": "İki plevral kese arasında; sternum ile torakal vertebralar arasında bulunur. Superior ve inferiora, inferior da anterior, orta ve posteriora ayrılır.",
+          "explanation": "Sternal açı düzlemi superior-inferior mediasteni ayırır."
+        },
+        {
+          "id": "ANAT-THORAX-010-26",
+          "question": "Superior mediastenin ana içerikleri?",
+          "answer": "Timus kalıntıları, brakiyosefalik venler, üst VCS, aort kavsi ve dalları, trakea, özofagus, torasik kanal, vagus ve frenik sinirler.",
+          "explanation": "Ön-arka ilişkiler mediastinal kitle lokalizasyonunda önemlidir."
+        },
+        {
+          "id": "ANAT-THORAX-010-27",
+          "question": "Orta mediastenin ana içeriği?",
+          "answer": "Perikard, kalp, intraperikardiyal büyük damar bölümleri, ana bronşların proksimal kısımları, pulmoner damarlar ve frenik sinirler.",
+          "explanation": "Kalp ve perikard orta mediastenin temel bileşenidir."
+        },
+        {
+          "id": "ANAT-THORAX-010-28",
+          "question": "Posterior mediastenin ana içeriği?",
+          "answer": "Özofagus, torasik aorta, ductus thoracicus, azygos sistemi, vagal trunkuslar, sempatik trunkuslar ve torasik splanknik sinirler.",
+          "explanation": "Bu bölgedeki patolojiler özofagus, aorta ve sempatik zinciri etkileyebilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-29",
+          "question": "Perikard katmanları ve perikard boşluğu?",
+          "answer": "Fibröz perikard; seröz perikardın parietal ve visseral yaprakları (epikard) vardır. Boşluk seröz yapraklar arasındaki potansiyel aralıktır.",
+          "explanation": "Fibröz perikard diyaframa ve büyük damar adventisyasına tutunur."
+        },
+        {
+          "id": "ANAT-THORAX-010-30",
+          "question": "Transvers ve oblik perikardiyal sinüslerin konumu?",
+          "answer": "Transvers sinüs aorta/pulmoner trunkusun arkasında, venöz girişlerin önündedir; oblik sinüs sol atrium arkasında kör çıkmazdır.",
+          "explanation": "Transvers sinüs kalp cerrahisinde arteriyel çıkışların arkasından klemp geçişine olanak verir."
+        },
+        {
+          "id": "ANAT-THORAX-010-31",
+          "question": "Kalbin yüzeylerinin baskın olarak hangi boşluklar oluşturur?",
+          "answer": "Sağ ventrikül sternokostal yüzün; sol ventrikül apeks ve diyafragmatik yüzün; sağ atrium sağ kenarın; sol atrium posterior tabanın çoğunu oluşturur.",
+          "explanation": "Sol atrium özofagusun önünde yer alır; transözofageal ekokardiyografide bu komşuluk kullanılır."
+        },
+        {
+          "id": "ANAT-THORAX-010-32",
+          "question": "Koroner arterlerin kökeni ve ana dalları?",
+          "answer": "Sağ ve sol koroner arterler aortik sinüslerden çıkar. Sol ana koroner LAD ve circumflex dallarına ayrılır.",
+          "explanation": "Sağ koroner çoğunlukla sağ kalp ve inferior duvarı besler; dağılım varyasyon gösterir."
+        },
+        {
+          "id": "ANAT-THORAX-010-33",
+          "question": "Koroner dominans nasıl tanımlanır?",
+          "answer": "Posterior interventriküler arterin kaynağına göre: sağ koronerden sağ dominant, circumflex'ten sol dominant, her ikisinden kodominant.",
+          "explanation": "Dominans inferior duvar ve posterior septumun kanlanmasını belirler."
+        },
+        {
+          "id": "ANAT-THORAX-010-34",
+          "question": "Kalbin ileti sisteminin sıralaması?",
+          "answer": "SA düğüm → atriyum → AV düğüm → His demeti → sağ/sol dal → Purkinje lifleri.",
+          "explanation": "SA düğüm VCS girişine yakın sağ atriumda; AV düğüm Koch üçgeninde bulunur."
+        },
+        {
+          "id": "ANAT-THORAX-010-35",
+          "question": "Kalp kapaklarının oskültasyon odakları?",
+          "answer": "Aortik: sağ 2. İKA; pulmoner: sol 2. İKA; triküspit: sol alt sternal kenar; mitral: sol 5. İKA midklaviküler hat.",
+          "explanation": "Odaklar kapakların izdüşümü değil, akım seslerinin en iyi duyulduğu alanlardır."
+        },
+        {
+          "id": "ANAT-THORAX-010-36",
+          "question": "Kalbin otonom innervasyonu?",
+          "answer": "Sempatik lifler üst torasik segmentlerden servikal/torasik ganglionlar aracılığıyla; parasempatik lifler vagus üzerinden kardiyak pleksusa ulaşır.",
+          "explanation": "Otonom lifler hız, ileti ve kontraktiliteyi modüle eder."
+        },
+        {
+          "id": "ANAT-THORAX-010-37",
+          "question": "Kardiyak ağrının sol kola yansıma mekanizması?",
+          "answer": "Visseral afferentler çoğunlukla T1–T5 segmentlerine sempatik yollarla döner; somatik afferentlerle yakınsama yansıyan ağrı oluşturur.",
+          "explanation": "Diyafram santral irritasyonu ise frenik C3–C5 üzerinden omuza yansır."
+        },
+        {
+          "id": "ANAT-THORAX-010-38",
+          "question": "Özofagusun torasik komşulukları ve darlıkları?",
+          "answer": "Trakeanın arkasında, vertebral kolonun önünde seyreder; aort kavsi ve sol ana bronşla çaprazlaşır. Darlıklar krikofaringeal bileşke, aort kavsi, sol ana bronş ve hiatus düzeyindedir.",
+          "explanation": "Yabancı cisim ve kostik hasar darlıklarda takılabilir."
+        },
+        {
+          "id": "ANAT-THORAX-010-39",
+          "question": "Ductus thoracicus hangi lenfi nereye taşır?",
+          "answer": "Sağ üst kadran dışındaki vücudun büyük bölümünden lenfi toplayıp sol venöz açıya açılır.",
+          "explanation": "Sağ üst kadran sağ lenfatik kanal veya doğrudan sağ venöz açıya drene olur."
+        },
+        {
+          "id": "ANAT-THORAX-010-40",
+          "question": "Azygos sistemi hangi kollateral bağlantıyı sağlar?",
+          "answer": "Posterior interkostal venleri toplayarak toraks arka duvarını VCS sistemine bağlar; azygos sağda, hemiazygos/aksesuar hemiazygos soldadır.",
+          "explanation": "VCS veya VCI obstrüksiyonunda kollateral venöz dönüşe katkı sağlar."
+        },
+        {
+          "id": "ANAT-THORAX-010-41",
+          "question": "Torasik sempatik trunkus ve splanknik sinirlerin seyri?",
+          "answer": "Sempatik trunkus vertebra korpuslarının anterolateralinde; büyük, küçük ve en küçük torasik splanknik sinirler diyaframı geçerek prevertebral ganglionlara ilerler.",
+          "explanation": "Splanknik sinirler abdominal visseraların sempatik innervasyonuna katkı verir; vagal trunkuslar parasempatiktir."
+        }
+      ]
     }
   ]
 }
