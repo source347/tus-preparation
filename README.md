@@ -8,12 +8,18 @@ Tıpta Uzmanlık Eğitimi Giriş Sınavı'na (TUS) hazırlanan adaylar için aç
 
 Bu depo öncelikle **flash kartlara** odaklanır; genel amaçlı soru bankası, deneme sınavı veya çevrim içi kurs platformu değildir. Amaç, güvenilir tıbbi bilgiyi TUS konu dağılımına göre düzenlenmiş, öz ve etkili kartlara dönüştürmektir.
 
+## Üretim standardı
+
+- Planlama hesabı: **TUS'taki her bir soru için yaklaşık 10 flash kart.**
+- Teslim partisi: **30 kart**; yaklaşık **3 TUS sorusuna** karşılık gelir.
+- Bu sayılar hedef hacmi belirler; kaliteyi düşürmek için kota değildir. Konu gerektiriyorsa daha az kart hazırlanabilir. Tekrarlı veya düşük verimli kartlarla sayı tamamlanmaz.
+
 ## Organizasyon
 
 - Temel bilimler: Anatomi, Histoloji ve Embriyoloji, Fizyoloji, Tıbbi Biyokimya, Tıbbi Mikrobiyoloji, Tıbbi Patoloji, Tıbbi Farmakoloji
 - Klinik bilimler: Dahiliye, Pediatri, Genel Cerrahi, Kadın Hastalıkları ve Doğum
 
-Her dersin altında konu bazlı kart dosyaları bulunur. Hedef, ilgili TUS soru dağılımını kapsayacak ölçüde kart üretmektir; sayısal hedefler doğruluk ve kart kalitesinin önüne geçmez.
+Her dersin altında konu bazlı kart dosyaları bulunur.
 
 ## Kart ilkeleri
 
