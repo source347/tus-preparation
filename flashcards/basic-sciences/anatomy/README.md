@@ -13,6 +13,7 @@ Anatomi flash kartları konu bazlı hazırlanır. TUS'ta bir dönemde anatomi i�
 | Üst ekstremite bölgesel anatomi | 30 | [upper-limb-regional.md](upper-limb-regional.md) |
 | Sırt ve vertebral kolon | 31 | [back-vertebral-column.md](back-vertebral-column.md) |
 | Toraks | 41 | [thorax.md](thorax.md) |
+| Abdomen | 43 | [abdomen.md](abdomen.md) |
 | Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
 | Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
 | Orbita, farinks ve larenks | 30 | [orbit-pharynx-larynx.md](orbit-pharynx-larynx.md) |
