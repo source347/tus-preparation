@@ -1,0 +1,130 @@
+{
+  "decks": [
+    {
+      "id": "anatomy-brachial-plexus",
+      "title": "Anatomi · Brakiyal pleksus",
+      "cards": [
+        {
+          "id": "ANAT-BP-001-01",
+          "question": "Brakiyal pleksusu hangi spinal sinirlerin hangi dalları oluşturur?",
+          "answer": "C5–T1 spinal sinirlerinin ön (ventral) ramusları.",
+          "explanation": "Spinal sinir kökleri değil, spinal sinirlerin ön ramusları söz konusudur."
+        },
+        {
+          "id": "ANAT-BP-001-02",
+          "question": "Brakiyal pleksusun proksimalden distale anatomik sıralaması nasıldır?",
+          "answer": "Kökler → trunkuslar → divizyonlar → kordlar → terminal dallar.",
+          "explanation": "Pleksusun temel organizasyon şemasıdır."
+        },
+        {
+          "id": "ANAT-BP-001-03",
+          "question": "Üst, orta ve alt trunkusları hangi kökler oluşturur?",
+          "answer": "Üst: C5–C6; orta: C7; alt: C8–T1.",
+          "explanation": "C7 tek başına orta trunkusu oluşturur."
+        },
+        {
+          "id": "ANAT-BP-001-04",
+          "question": "Brakiyal pleksus trunkusları boyunda hangi anatomik aralıktan geçer?",
+          "answer": "Anterior ve medius skalen kasları arasındaki interskalen aralıktan.",
+          "explanation": "Bu bölge skalen kaslara bağlı kompresyon açısından önemlidir."
+        },
+        {
+          "id": "ANAT-BP-001-05",
+          "question": "Üç trunkustan kaç divizyon oluşur ve bunlar nelerdir?",
+          "answer": "Altı divizyon: her trunkustan bir anterior ve bir posterior divizyon.",
+          "explanation": "Divizyonlar, kordların oluşumundan önce lifleri yeniden düzenler."
+        },
+        {
+          "id": "ANAT-BP-001-06",
+          "question": "Lateral kord hangi divizyonların birleşmesiyle oluşur?",
+          "answer": "Üst ve orta trunkusların anterior divizyonları (ağırlıklı olarak C5–C7).",
+          "explanation": "Lateral kord, muskülokütanöz siniri ve median sinirin bir bölümünü oluşturur."
+        },
+        {
+          "id": "ANAT-BP-001-07",
+          "question": "Medial kord hangi divizyondan oluşur?",
+          "answer": "Alt trunkusun anterior divizyonundan (ağırlıklı olarak C8–T1).",
+          "explanation": "Ulnar siniri verir ve median sinire katkıda bulunur."
+        },
+        {
+          "id": "ANAT-BP-001-08",
+          "question": "Posterior kord hangi divizyonların birleşmesiyle oluşur?",
+          "answer": "Üç trunkusun tüm posterior divizyonları birleşerek posterior kordu oluşturur.",
+          "explanation": "Posterior kord aksiller ve radial sinirleri verir."
+        },
+        {
+          "id": "ANAT-BP-001-09",
+          "question": "Brakiyal pleksusun lateral, medial ve posterior kordları hangi yapıya göre adlandırılır?",
+          "answer": "Aksiller arterin ikinci bölümüne göre konumlarına göre adlandırılırlar.",
+          "explanation": "Kord isimleri spinal kök seviyelerini değil, arterle ilişkilerini tanımlar."
+        },
+        {
+          "id": "ANAT-BP-001-10",
+          "question": "Median sinir hangi kordlardan lif alır?",
+          "answer": "Lateral ve medial kordlardan.",
+          "explanation": "Her iki katkı da anterior divizyonlardan gelir."
+        },
+        {
+          "id": "ANAT-BP-001-11",
+          "question": "Lateral korddan çıkan terminal sinir hangisidir ve temel motor innervasyon alanı nedir?",
+          "answer": "Muskülokütanöz sinir; kolun ön kompartımanındaki korakobrakialis, biseps brakii ve brakialis kaslarını innerve eder.",
+          "explanation": "Lezyon dirsek fleksiyonunu ve önkol supinasyonunu zayıflatır."
+        },
+        {
+          "id": "ANAT-BP-001-12",
+          "question": "Medial kordun terminal dalı hangisidir?",
+          "answer": "Ulnar sinir (başlıca C8–T1).",
+          "explanation": "İnterosseöz kaslar dahil elin intrinsik kaslarının çoğunu innerve eder."
+        },
+        {
+          "id": "ANAT-BP-001-13",
+          "question": "Posterior korddan çıkan iki terminal sinir hangileridir?",
+          "answer": "Aksiller sinir ve radial sinir.",
+          "explanation": "Her ikisi de ağırlıklı olarak üst ekstremitenin posterior kompartımanıyla ilişkilidir."
+        },
+        {
+          "id": "ANAT-BP-001-14",
+          "question": "Aksiller sinir hangi kasları innerve eder?",
+          "answer": "Deltoid ve teres minör.",
+          "explanation": "Deltoid, kolun yaklaşık 15°–90° abdüksiyonunun temel kasıdır; teres minör dış rotasyona katkı verir."
+        },
+        {
+          "id": "ANAT-BP-001-15",
+          "question": "Aksiller sinir hangi anatomik aralıktan geçer ve ona hangi arter eşlik eder?",
+          "answer": "Kuadrangüler aralıktan geçer; posterior sirkumfleks humeral arter eşlik eder.",
+          "explanation": "Cerrahi humerus boynu kırıkları ve omuz çıkıkları siniri riske sokar."
+        },
+        {
+          "id": "ANAT-BP-001-16",
+          "question": "Aksiller sinir lezyonunda beklenen klasik motor ve duyu bulguları nelerdir?",
+          "answer": "Omuz abdüksiyonunda (özellikle 15°–90°) güçsüzlük ve üst lateral kolda duyu kaybı.",
+          "explanation": "Deltoid güçsüzlüğü, cerrahi boyun kırığı veya anterior omuz çıkığı sonrasında önemli bir ipucudur."
+        },
+        {
+          "id": "ANAT-BP-001-17",
+          "question": "Serratus anterior kasını hangi sinir innerve eder; bu sinirin lezyonu hangi bulguya yol açar?",
+          "answer": "Uzun torasik sinir (C5–C7); lezyonu kanat skapulaya neden olur.",
+          "explanation": "Aksiller lenf nodu diseksiyonu sırasında yaralanabilir."
+        },
+        {
+          "id": "ANAT-BP-001-18",
+          "question": "Üst trunkus hangi köklerden oluşur ve traksiyon yaralanması hangi klasik tabloya neden olur?",
+          "answer": "C5–C6; Erb-Duchenne paralizisi.",
+          "explanation": "Klasik garson bahşişi postürü: kol adduksiyon ve iç rotasyonda, dirsek ekstansiyonda, önkol pronasyondadır."
+        },
+        {
+          "id": "ANAT-BP-001-19",
+          "question": "Alt trunkus hangi köklerden oluşur ve traksiyon yaralanması hangi klasik tabloya neden olur?",
+          "answer": "C8–T1; Klumpke paralizisi.",
+          "explanation": "El intrinsik kaslarında güçsüzlük ve pençeleşme görülür; T1 sempatik lifleri etkilenirse Horner sendromu eşlik edebilir."
+        },
+        {
+          "id": "ANAT-BP-001-20",
+          "question": "Radial sinir humerusun hangi oluğunda profunda brakii arteriyle birlikte seyreder; hangi kırıkta yaralanabilir?",
+          "answer": "Humerusun radial oluğunda; humerus cisim orta bölüm kırığında yaralanabilir.",
+          "explanation": "Klasik bulgu el bileği ve parmak ekstansiyon kaybı (düşük el) durumudur."
+        }
+      ]
+    }
+  ]
+}
