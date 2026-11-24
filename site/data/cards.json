@@ -6251,6 +6251,996 @@
           "explanation": "Mikrofilarialar gündüz periferik kanda belirginleşir; yüksek yükte ivermektin ciddi nörolojik risk taşıyabilir."
         }
       ]
+    },
+    {
+      "id": "pathology-cell-injury",
+      "title": "Patoloji · Hücre hasarı ve adaptasyon",
+      "cards": [
+        {
+          "id": "PATH-CELL-INJURY-01",
+          "question": "Reversible hücre hasarının temel morfolojik bulgusu nedir?",
+          "answer": "Hücresel şişme (hidropik değişiklik).",
+          "explanation": "ATP azalması ve iyon pompası işlev kaybı Na⁺/su girişine yol açar."
+        },
+        {
+          "id": "PATH-CELL-INJURY-02",
+          "question": "İskemik hücre hasarında ilk bozulan organel işlevi hangisidir?",
+          "answer": "Mitokondriyal oksidatif fosforilasyon ve ATP üretimi.",
+          "explanation": "ATP düşüşü iyon pompalarını, protein sentezini ve hücresel homeostazı bozar."
+        },
+        {
+          "id": "PATH-CELL-INJURY-03",
+          "question": "Hücre hasarında membran fosfolipitlerini parçalayan enzim hangisidir?",
+          "answer": "Fosfolipazlar.",
+          "explanation": "Ca²⁺ artışı fosfolipazları ve proteazları aktive ederek membran hasarını artırır."
+        },
+        {
+          "id": "PATH-CELL-INJURY-04",
+          "question": "Koagülasyon nekrozu hangi dokuda tipik olarak görülmez?",
+          "answer": "Beyinde; burada likefaksiyon nekrozu görülür.",
+          "explanation": "İskemik beyin infarktı diğer solid organlardan farklı olarak likefaksiyonla iyileşir."
+        },
+        {
+          "id": "PATH-CELL-INJURY-05",
+          "question": "Kazeöz nekrozun klasik hastalık eşleşmesi nedir?",
+          "answer": "Tüberküloz.",
+          "explanation": "Granülom merkezinde peynirsi, amorf nekrotik materyal bulunur."
+        },
+        {
+          "id": "PATH-CELL-INJURY-06",
+          "question": "Yağ nekrozu en tipik olarak hangi iki durumda görülür?",
+          "answer": "Akut pankreatit ve meme yağ dokusu travması.",
+          "explanation": "Pankreatik lipazlar yağları parçalar; serbest yağ asitleri kalsiyumla sabunlaşır."
+        },
+        {
+          "id": "PATH-CELL-INJURY-07",
+          "question": "Fibrinoid nekroz hangi damar patolojilerinde beklenir?",
+          "answer": "İmmün aracılı vaskülit ve malign hipertansiyon.",
+          "explanation": "Damar duvarında immün kompleks/plazma protein birikimi parlak eozinofilik görünüm oluşturur."
+        },
+        {
+          "id": "PATH-CELL-INJURY-08",
+          "question": "Apoptozda hücre membranı bütünlüğü ve inflamasyon nasıldır?",
+          "answer": "Membran korunur; belirgin inflamasyon oluşmaz.",
+          "explanation": "Hücre apoptotik cisimciklere ayrılır ve fagosite edilir."
+        },
+        {
+          "id": "PATH-CELL-INJURY-09",
+          "question": "İntrinsik apoptoz yolunu başlatan temel olay nedir?",
+          "answer": "Mitokondri dış membran geçirgenliğinin artması ve sitokrom c salınması.",
+          "explanation": "BAX/BAK proapoptotik, BCL-2/BCL-XL antiapoptotiktir; kaspaz-9 aktive olur."
+        },
+        {
+          "id": "PATH-CELL-INJURY-10",
+          "question": "Ekstrinsik apoptoz hangi reseptörlerle başlatılır?",
+          "answer": "Fas (CD95) ve TNF reseptörü.",
+          "explanation": "Ölüm reseptörleri kaspaz-8'i aktive eder."
+        },
+        {
+          "id": "PATH-CELL-INJURY-11",
+          "question": "Hücresel adaptasyonlardan hipertrofi ile hiperplazinin farkı nedir?",
+          "answer": "Hipertrofide hücre boyutu, hiperplazide hücre sayısı artar.",
+          "explanation": "Uterus gebelikte ikisini birlikte gösterebilir; iskelet kası hipertrofi yapar."
+        },
+        {
+          "id": "PATH-CELL-INJURY-12",
+          "question": "Metaplazi neyi ifade eder ve klinik önemi nedir?",
+          "answer": "Bir olgun hücre tipinin başka olgun hücre tipiyle yer değiştirmesi; displazi/kanser riskini artırabilir.",
+          "explanation": "Örnek: sigara bronşunda skuamöz metaplazi; Barrett özofagusta intestinal metaplazi."
+        }
+      ]
+    },
+    {
+      "id": "pathology-inflammation-repair",
+      "title": "Patoloji · İnflamasyon ve doku onarımı",
+      "cards": [
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-01",
+          "question": "Akut inflamasyonda ilk baskın lökosit hangisidir?",
+          "answer": "Nötrofil.",
+          "explanation": "İlk 6–24 saatte nötrofiller, ardından monosit/makrofajlar baskınlaşır."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-02",
+          "question": "Lökositlerin endotelde yuvarlanmasını hangi moleküller sağlar?",
+          "answer": "Selektinler.",
+          "explanation": "E-selektin ve P-selektin endotelde; L-selektin lökositlerde bulunur."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-03",
+          "question": "Lökosit sıkı adezyonunu sağlayan temel çift nedir?",
+          "answer": "Lökosit integrinleri ile endotelyal ICAM-1/VCAM-1.",
+          "explanation": "TNF ve IL-1 endotelde adezyon moleküllerini artırır."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-04",
+          "question": "Nötrofil kemotaksisinin güçlü mediyatörleri nelerdir?",
+          "answer": "C5a, LTB4, IL-8 ve bakteriyel ürünler.",
+          "explanation": "Bu mediyatörler lökositleri inflamasyon odağına yönlendirir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-05",
+          "question": "Histaminin akut inflamasyondaki temel damar etkisi nedir?",
+          "answer": "Arteriol vazodilatasyonu ve venül geçirgenliğinde artış.",
+          "explanation": "Mast hücreleri, bazofiller ve trombositlerden salınabilir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-06",
+          "question": "Granülom oluşumunda baskın hücre ve sitokin ekseni nedir?",
+          "answer": "Epitelioid makrofajlar; Th1 kaynaklı IFN-γ aktivasyonu.",
+          "explanation": "TNF granülomun sürdürülmesinde önemlidir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-07",
+          "question": "Pürülan inflamasyonun baskın hücresel içeriği nedir?",
+          "answer": "Nötrofiller ve nekrotik hücre artıkları.",
+          "explanation": "Apse, lokalize pürülan inflamasyon örneğidir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-08",
+          "question": "Seröz inflamasyonun tipik örneği nedir?",
+          "answer": "Deride yanık sonrası bül oluşumu.",
+          "explanation": "Protein içeriği görece düşük sıvı birikimi görülür."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-09",
+          "question": "Kronik inflamasyonun temel hücreleri hangileridir?",
+          "answer": "Makrofajlar, lenfositler ve plazma hücreleri.",
+          "explanation": "Doku yıkımı ile onarım/fibrozis aynı anda sürebilir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-10",
+          "question": "Yara iyileşmesinde granülasyon dokusunun temel bileşenleri nelerdir?",
+          "answer": "Yeni damarlar, fibroblastlar ve gevşek ekstraselüler matriks.",
+          "explanation": "Anjiyogenez ve kollajen üretimi onarımın temelidir."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-11",
+          "question": "Yara iyileşmesinde erken dönemde baskın kollajen tipi hangisidir?",
+          "answer": "Tip III; zamanla Tip I ile yer değiştirir.",
+          "explanation": "Olgun skarda Tip I kollajen baskındır."
+        },
+        {
+          "id": "PATH-INFLAMMATION-REPAIR-12",
+          "question": "TGF-β yara iyileşmesinde hangi temel etkiyi yapar?",
+          "answer": "Fibroblast aktivasyonu ve kollajen/ECM sentezini artırır.",
+          "explanation": "Aşırı aktivitesi fibrozis ve skar oluşumunu artırabilir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-hemodynamic",
+      "title": "Patoloji · Hemodinamik bozukluklar",
+      "cards": [
+        {
+          "id": "PATH-HEMODYNAMIC-01",
+          "question": "Transüda ile eksüda arasındaki temel mekanizma farkı nedir?",
+          "answer": "Transüda hidrostatik/onkotik basınç değişikliği; eksüda inflamatuvar geçirgenlik artışıyla oluşur.",
+          "explanation": "Eksüda protein ve hücreden daha zengindir."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-02",
+          "question": "Konjestif kalp yetersizliğinde akciğer makrofajlarında görülen bulgu nedir?",
+          "answer": "Hemosiderin yüklü makrofajlar (kalp yetersizliği hücreleri).",
+          "explanation": "Kronik pulmoner konjesyonda eritrosit ekstravazasyonu ve fagositoz gelişir."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-03",
+          "question": "Virchow triadı hangi üç faktörden oluşur?",
+          "answer": "Endotel hasarı, anormal kan akımı ve hiperkoagülabilite.",
+          "explanation": "Venöz trombozda staz; arteriyel trombozda endotel hasarı öne çıkar."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-04",
+          "question": "Arteriyel ve venöz trombüslerin tipik bileşimi nasıldır?",
+          "answer": "Arteriyel trombüs trombositten, venöz trombüs eritrosit/fibrinden zengindir.",
+          "explanation": "Arteriyel trombüs yüksek akım/hasar, venöz trombüs staz ortamında oluşur."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-05",
+          "question": "Trombüsün damar duvarına tutunmuş katmanlı görünümü nedir?",
+          "answer": "Zahn çizgileri.",
+          "explanation": "Trombosit-fibrin açık katmanları ile eritrositçe zengin koyu katmanlar dönüşümlüdür."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-06",
+          "question": "Pulmoner embolinin en sık kaynağı nedir?",
+          "answer": "Alt ekstremite derin ven trombozu.",
+          "explanation": "Özellikle popliteal ve daha proksimal derin ven trombüsleri."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-07",
+          "question": "Sistemik embolilerin en sık kaynağı nedir?",
+          "answer": "Sol kalp veya aort kaynaklı mural trombüsler.",
+          "explanation": "Atriyal fibrilasyon ve sol ventrikül infarktı sonrası trombüs önemli kaynaklardır."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-08",
+          "question": "Kırmızı (hemorajik) infarkt hangi dokularda beklenir?",
+          "answer": "Akciğer, ince bağırsak ve venöz oklüzyon/çift dolaşımlı dokular.",
+          "explanation": "Gevşek doku, çift kanlanma veya venöz tıkanma kanama eğilimini artırır."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-09",
+          "question": "Beyin infarktında nekroz tipi nedir?",
+          "answer": "Likefaksiyon nekrozu.",
+          "explanation": "Nöral dokuda enzimatik sindirimle yumuşama ve kistik boşluk gelişebilir."
+        },
+        {
+          "id": "PATH-HEMODYNAMIC-10",
+          "question": "Şokta erken dönemde ortak temel patofizyoloji nedir?",
+          "answer": "Yetersiz doku perfüzyonu ve hücresel hipoksi.",
+          "explanation": "Septik, kardiyojenik ve hipovolemik şok farklı başlangıçlara rağmen perfüzyon bozukluğunda birleşir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-neoplasia",
+      "title": "Patoloji · Neoplazi ve tümör biyolojisi",
+      "cards": [
+        {
+          "id": "PATH-NEOPLASIA-01",
+          "question": "Benign ve malign tümörü ayırmada en güçlü ölçütler nelerdir?",
+          "answer": "İnvazyon ve metastaz malignite lehinedir.",
+          "explanation": "Pleomorfizm ve mitoz destekleyicidir; tek başına kesin ayırıcı değildir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-02",
+          "question": "Karsinom ve sarkom hangi hücre kökenlerinden gelişir?",
+          "answer": "Karsinom epitel; sarkom mezenkimal kökenlidir.",
+          "explanation": "Lenfoma ve lösemi hematolenfoid neoplazilerdir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-03",
+          "question": "Karsinogenezde RB tümör baskılayıcı proteinin temel görevi nedir?",
+          "answer": "E2F'yi bağlayarak G1-S geçişini frenler.",
+          "explanation": "RB kaybı hücre döngüsü kontrolünü bozar."
+        },
+        {
+          "id": "PATH-NEOPLASIA-04",
+          "question": "TP53 kaybı hücrede hangi iki önemli yanıtı bozar?",
+          "answer": "DNA hasarına yanıt ve apoptoz/hücre döngüsü durdurulması.",
+          "explanation": "p53 genomun bekçisi olarak adlandırılır."
+        },
+        {
+          "id": "PATH-NEOPLASIA-05",
+          "question": "APC mutasyonu hangi tümör gelişim yoluyla ilişkilidir?",
+          "answer": "Kolorektal adenoma-karsinom dizisi.",
+          "explanation": "Wnt/β-katenin sinyalinin kontrolsüz aktivasyonu erken olaydır."
+        },
+        {
+          "id": "PATH-NEOPLASIA-06",
+          "question": "KRAS mutasyonu onkogenezi nasıl destekler?",
+          "answer": "RAS-GTP sinyalini sürekli aktif tutar.",
+          "explanation": "Aşağı akım proliferasyon sinyalleri liganddan bağımsızlaşabilir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-07",
+          "question": "BCR-ABL füzyonu hangi hastalıkla klasik olarak eşleşir?",
+          "answer": "Kronik miyeloid lösemi; Philadelphia kromozomu t(9;22).",
+          "explanation": "Konstitutif tirozin kinaz aktivitesi oluşturur."
+        },
+        {
+          "id": "PATH-NEOPLASIA-08",
+          "question": "HER2 amplifikasyonu hangi tümörlerde tedavi açısından önemlidir?",
+          "answer": "Meme ve mide/özofagogastrik adenokarsinomları.",
+          "explanation": "HER2 pozitif tümörlerde hedefe yönelik anti-HER2 tedaviler kullanılabilir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-09",
+          "question": "BRCA1/BRCA2 mutasyonları hangi DNA onarım mekanizmasını bozar?",
+          "answer": "Homolog rekombinasyonla çift zincir DNA kırığı onarımı.",
+          "explanation": "Meme, over, prostat ve pankreas kanseri riskini artırabilir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-10",
+          "question": "Tümör derecesi (grade) ve evresi (stage) neyi ifade eder?",
+          "answer": "Grade farklılaşma/mitotik aktiviteyi; stage tümör yayılımını gösterir.",
+          "explanation": "Prognoz açısından evre çoğu solid tümörde daha güçlü belirleyicidir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-11",
+          "question": "En sık metastaz yolları hangi tümör grupları için tipiktir?",
+          "answer": "Karsinomlar lenfatik; sarkomlar hematojen yayılma eğilimindedir.",
+          "explanation": "Bu kural mutlak değildir; klinik istisnalar bulunur."
+        },
+        {
+          "id": "PATH-NEOPLASIA-12",
+          "question": "Paraneoplastik hiperkalseminin en klasik mediyatörü nedir?",
+          "answer": "PTH ilişkili peptid (PTHrP).",
+          "explanation": "Özellikle skuamöz hücreli akciğer karsinomu ile ilişkilidir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-13",
+          "question": "Küçük hücreli akciğer karsinomu hangi paraneoplastik sendromları yapabilir?",
+          "answer": "SIADH, ektopik ACTH ve Lambert-Eaton sendromu.",
+          "explanation": "Nöroendokrin farklılaşma ve hormon üretimi tipiktir."
+        },
+        {
+          "id": "PATH-NEOPLASIA-14",
+          "question": "Psammoma cisimcikleri hangi tümörlerle klasik olarak ilişkilidir?",
+          "answer": "Papiller tiroid karsinomu, seröz over karsinomu ve menenjiyom.",
+          "explanation": "Konsantrik lameller kalsifikasyonlardır."
+        }
+      ]
+    },
+    {
+      "id": "pathology-immunopathology",
+      "title": "Patoloji · İmmünopatoloji",
+      "cards": [
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-01",
+          "question": "Tip I aşırı duyarlılık hangi antikor ve hücreyle ilişkilidir?",
+          "answer": "IgE ve mast hücresi; hızlı degranülasyon.",
+          "explanation": "Histamin ve lökotrien salınımı ürtiker/anafilaksi oluşturabilir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-02",
+          "question": "Tip II aşırı duyarlılığın temel mekanizması nedir?",
+          "answer": "Hücre yüzeyi veya matriks antijenlerine karşı IgG/IgM.",
+          "explanation": "Kompleman, opsonizasyon veya reseptör işlev değişikliği gelişebilir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-03",
+          "question": "Tip III aşırı duyarlılıkta doku hasarı nasıl oluşur?",
+          "answer": "İmmün kompleks birikimi, kompleman aktivasyonu ve nötrofil inflamasyonu.",
+          "explanation": "SLE ve serum hastalığı klasik örneklerdir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-04",
+          "question": "Tip IV aşırı duyarlılığı hangi hücre aracılar?",
+          "answer": "T lenfositleri; gecikmiş hücresel yanıt.",
+          "explanation": "Kontakt dermatit ve tüberkülin deri testi örnektir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-05",
+          "question": "SLE'de en özgül otoantikorlar hangileridir?",
+          "answer": "Anti-dsDNA ve anti-Smith.",
+          "explanation": "Anti-dsDNA hastalık aktivitesi ve lupus nefritiyle de ilişkilidir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-06",
+          "question": "Goodpasture sendromunda hedef antijen nedir?",
+          "answer": "Tip IV kollajenin α3 zinciri.",
+          "explanation": "Glomerül bazal membranı ve alveol bazal membranı tutulur; lineer IgG boyanması görülür."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-07",
+          "question": "Granülomatoz polianjiit ile ilişkili ANCA tipi hangisidir?",
+          "answer": "PR3-ANCA (c-ANCA).",
+          "explanation": "Üst/alt solunum yolu ve böbrek tutulumu karakteristiktir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-08",
+          "question": "Mikroskopik polianjiit ile ilişkili ANCA hangisidir?",
+          "answer": "MPO-ANCA (p-ANCA).",
+          "explanation": "Küçük damar nekrotizan vasküliti ve pauci-immune glomerülonefrit yapabilir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-09",
+          "question": "Amiloidozda ortak yapısal özellik nedir?",
+          "answer": "β-katlı tabaka yapısında ekstraselüler protein birikimi.",
+          "explanation": "Kongo kırmızısı pozitifliği ve polarize ışıkta elma yeşili çift kırılma tipiktir."
+        },
+        {
+          "id": "PATH-IMMUNOPATHOLOGY-10",
+          "question": "AL ve AA amiloid hangi öncüllerden oluşur?",
+          "answer": "AL: immünoglobulin hafif zinciri; AA: serum amiloid A.",
+          "explanation": "AL plazma hücre diskrazileriyle, AA kronik inflamasyonla ilişkilidir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-hematopathology",
+      "title": "Patoloji · Hematopatoloji",
+      "cards": [
+        {
+          "id": "PATH-HEMATOPATHOLOGY-01",
+          "question": "Demir eksikliği anemisinde tipik eritrosit indeksi ve demir profili nasıldır?",
+          "answer": "Mikrositer-hipokrom; ferritin düşük, TDBK yüksek.",
+          "explanation": "Ferritin demir depolarını yansıtır; inflamasyonda yalancı normal/yüksek olabilir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-02",
+          "question": "Kronik hastalık anemisinde hepsidin ne yapar?",
+          "answer": "Artar; ferroportini baskılayarak demiri depolar ve emilimi azaltır.",
+          "explanation": "Serum demiri ve TDBK düşer, ferritin normal/yüksek olabilir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-03",
+          "question": "Megaloblastik anemide temel hücresel mekanizma nedir?",
+          "answer": "DNA sentez bozukluğu ve nükleer olgunlaşma gecikmesi.",
+          "explanation": "Makro-ovalositler ve hipersegmente nötrofiller görülür."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-04",
+          "question": "B12 eksikliğini folat eksikliğinden ayıran nörolojik bulgu nedir?",
+          "answer": "Subakut kombine dejenerasyon/periferik nöropati.",
+          "explanation": "B12 eksikliğinde metilmalonik asit artar; folat eksikliğinde artmaz."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-05",
+          "question": "Hereditary sferositozda hangi membran proteinleri bozulabilir?",
+          "answer": "Spektrin, ankirin, band 3 veya protein 4.2.",
+          "explanation": "Ekstravasküler hemoliz, splenomegali ve ozmotik frajilite artışı görülür."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-06",
+          "question": "G6PD eksikliğinde oksidatif stres sonrası periferik yayma bulgusu nedir?",
+          "answer": "Heinz cisimcikleri ve ısırılmış hücreler (bite cells).",
+          "explanation": "Dalak Heinz cisimciklerini çıkarırken eritrositte çentikler oluşur."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-07",
+          "question": "Orak hücre hastalığının moleküler değişikliği nedir?",
+          "answer": "β-globinde 6. pozisyonda glutamatın valinle değişmesi.",
+          "explanation": "Deoksijenasyonda HbS polimerleşir; vaso-oklüzif kriz gelişir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-08",
+          "question": "Talasemide temel patofizyoloji nedir?",
+          "answer": "Globin zinciri sentezinin azalması ve zincir dengesizliği.",
+          "explanation": "β-talasemide HbA azalır; HbA2/HbF artışı tanıda yardımcıdır."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-09",
+          "question": "Akut miyeloid lösemide hangi hücre bulgusu karakteristiktir?",
+          "answer": "Auer çubukları.",
+          "explanation": "Miyeloperoksidaz pozitifliği miyeloid farklılaşmayı destekler."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-10",
+          "question": "Akut promiyelositik lösemi hangi translokasyon ve komplikasyonla ilişkilidir?",
+          "answer": "t(15;17), PML-RARA; DİK riski.",
+          "explanation": "ATRA farklılaşma tedavisinin temelidir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-11",
+          "question": "Kronik miyeloid lösemide tipik laboratuvar/genetik bulgu nedir?",
+          "answer": "Lökositoz, sola kayma, bazofili ve BCR-ABL t(9;22).",
+          "explanation": "Lökosit alkalen fosfataz skoru klasik olarak düşüktür."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-12",
+          "question": "Hodgkin lenfomada tanısal hücre ve immünfenotip nedir?",
+          "answer": "Reed-Sternberg hücresi; CD15+ ve CD30+.",
+          "explanation": "Klasik Hodgkin lenfomada büyük iki çekirdekli hücreler görülebilir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-13",
+          "question": "Burkitt lenfomada genetik değişiklik ve morfoloji nedir?",
+          "answer": "MYC aktivasyonu, çoğunlukla t(8;14); yıldızlı gökyüzü görünümü.",
+          "explanation": "Çok hızlı proliferasyon ve yüksek mitotik aktivite tipiktir."
+        },
+        {
+          "id": "PATH-HEMATOPATHOLOGY-14",
+          "question": "Multipl miyelomun temel klinik bulguları hangi başlıkta toplanır?",
+          "answer": "CRAB: hiperkalsemi, renal yetmezlik, anemi, kemik lezyonları.",
+          "explanation": "Monoklonal protein ve litik kemik lezyonları sık görülür."
+        }
+      ]
+    },
+    {
+      "id": "pathology-cardiovascular",
+      "title": "Patoloji · Kardiyovasküler sistem",
+      "cards": [
+        {
+          "id": "PATH-CARDIOVASCULAR-01",
+          "question": "Aterosklerozun erken lezyonu nedir?",
+          "answer": "Yağlı çizgilenme (foam cell birikimi).",
+          "explanation": "Makrofaj ve düz kas hücrelerinde okside LDL birikimi görülür."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-02",
+          "question": "Aterosklerotik plağın akut koroner sendroma yol açan olayı nedir?",
+          "answer": "Fibröz kapak rüptürü/erozyonu ve üzerine trombüs oluşumu.",
+          "explanation": "İnce kapaklı, lipid çekirdeği büyük plaklar daha kırılgandır."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-03",
+          "question": "Stabil ve hassas aterosklerotik plakların temel farkı nedir?",
+          "answer": "Stabil: kalın fibröz kapak/küçük lipid çekirdeği; hassas: ince kapak/büyük lipid çekirdeği.",
+          "explanation": "Makrofaj kaynaklı metalloproteinazlar kapağı zayıflatır."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-04",
+          "question": "Miyokard infarktüsünde koagülasyon nekrozu ne zaman belirginleşir?",
+          "answer": "Saatler içinde; nötrofiller ilk 1–3 günde baskındır.",
+          "explanation": "Makrofajlar 3–7 günde nekrotik dokuyu temizler; bu dönem rüptür riski taşır."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-05",
+          "question": "Miyokard infarktüsü sonrası en sık ölümcül erken komplikasyon nedir?",
+          "answer": "Ventriküler aritmiler.",
+          "explanation": "Özellikle ilk 24 saatte ritim bozuklukları önemlidir."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-06",
+          "question": "Papiller kas rüptürü hangi mekanik komplikasyona yol açar?",
+          "answer": "Akut mitral yetersizliği.",
+          "explanation": "Genellikle posteromedial papiller kas etkilenir; tek damar kanlanması vardır."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-07",
+          "question": "Ventriküler septum rüptürü infarktüs sonrası nasıl bulgu verir?",
+          "answer": "Yeni pansistolik üfürüm ve akut sağ/sol kalp yüklenmesi.",
+          "explanation": "Mekanik komplikasyonlar sıklıkla birkaç gün sonra nekrotik dokunun yumuşamasıyla gelişir."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-08",
+          "question": "Romatizmal kalp hastalığında en tipik kapak tutulumu hangisidir?",
+          "answer": "Mitral kapak; kronik dönemde mitral stenoz.",
+          "explanation": "Aschoff cisimcikleri ve Anitschkow hücreleri akut romatizmal karditte görülür."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-09",
+          "question": "Enfektif endokarditte akut ve subakut etkenler için klasik eşleşme nedir?",
+          "answer": "Akut: S. aureus; subakut: viridans streptokoklar.",
+          "explanation": "Önceden hasarlı kapakta viridans; normal kapakta da S. aureus görülebilir."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-10",
+          "question": "Hipertansif kalp hastalığında sol ventrikülde hangi adaptasyon gelişir?",
+          "answer": "Konsantrik hipertrofi.",
+          "explanation": "Basınç yükü sarkomerlerin paralel eklenmesine yol açar."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-11",
+          "question": "Dilatasyon ve eksantrik hipertrofi hangi yüklenme tipinde gelişir?",
+          "answer": "Kronik volüm yükünde.",
+          "explanation": "Sarkomerler seri eklenir; ventrikül boşluğu genişler."
+        },
+        {
+          "id": "PATH-CARDIOVASCULAR-12",
+          "question": "Miksomada en sık yerleşim yeri neresidir?",
+          "answer": "Sol atriyum; sıklıkla fossa ovalis çevresi.",
+          "explanation": "Pozisyonel obstrüksiyon ve emboli bulguları oluşturabilir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-respiratory",
+      "title": "Patoloji · Solunum sistemi",
+      "cards": [
+        {
+          "id": "PATH-RESPIRATORY-01",
+          "question": "KOAH'ta amfizemin temel morfolojik tanımı nedir?",
+          "answer": "Terminal bronşiol distalindeki hava boşluklarının kalıcı genişlemesi ve duvar yıkımı.",
+          "explanation": "Belirgin fibrozis olmaksızın alveol septaları kaybolur."
+        },
+        {
+          "id": "PATH-RESPIRATORY-02",
+          "question": "Sentriasiner amfizem en çok hangi risk faktörüyle ilişkilidir?",
+          "answer": "Sigara; üst loblarda belirgin.",
+          "explanation": "Respiratuvar bronşiol çevresinde başlar."
+        },
+        {
+          "id": "PATH-RESPIRATORY-03",
+          "question": "Panasi̇ner amfizem hangi eksiklikle ilişkilidir?",
+          "answer": "Alfa-1 antitripsin eksikliği; alt loblarda belirgin.",
+          "explanation": "Proteaz-antiproteaz dengesizliği alveol duvarlarını yıkar."
+        },
+        {
+          "id": "PATH-RESPIRATORY-04",
+          "question": "Kronik bronşitin klinik tanımı nedir?",
+          "answer": "Ardışık iki yılın her birinde en az üç ay balgamlı öksürük.",
+          "explanation": "Mukus bez hiperplazisi ve Reid indeksi artışı görülür."
+        },
+        {
+          "id": "PATH-RESPIRATORY-05",
+          "question": "Astımda tipik histolojik bulgular nelerdir?",
+          "answer": "Eozinofiller, goblet hücre artışı, bazal membran kalınlaşması ve Curschmann spiralleri.",
+          "explanation": "Reversibl hava yolu obstrüksiyonu ve bronş hiperreaktivitesi tipiktir."
+        },
+        {
+          "id": "PATH-RESPIRATORY-06",
+          "question": "Akciğer adenokarsinomu için tipik özellik nedir?",
+          "answer": "En sık akciğer kanseri; periferik yerleşim ve glandüler/müsinöz farklılaşma.",
+          "explanation": "Sigara içmeyenlerde de sık görülen başlıca histolojik tiptir."
+        },
+        {
+          "id": "PATH-RESPIRATORY-07",
+          "question": "Skuamöz hücreli akciğer karsinomu hangi paraneoplastik sendromla ilişkilidir?",
+          "answer": "PTHrP aracılı hiperkalsemi.",
+          "explanation": "Genellikle santral yerleşim ve keratinizasyon görülür."
+        },
+        {
+          "id": "PATH-RESPIRATORY-08",
+          "question": "Küçük hücreli akciğer karsinomunun temel özellikleri nelerdir?",
+          "answer": "Santral, nöroendokrin, agresif; erken metastaz.",
+          "explanation": "SIADH ve ektopik ACTH üretimiyle ilişkilidir."
+        },
+        {
+          "id": "PATH-RESPIRATORY-09",
+          "question": "Mezotelyoma için en önemli çevresel risk faktörü nedir?",
+          "answer": "Asbest maruziyeti.",
+          "explanation": "Plevral tümör gelişir; sigara asbest ilişkili mezotelyoma riskini belirgin artırmaz."
+        },
+        {
+          "id": "PATH-RESPIRATORY-10",
+          "question": "İdiopatik pulmoner fibroziste karakteristik histoloji nedir?",
+          "answer": "Bal peteği akciğer ve yamalı interstisyel fibrozis; UIP paterni.",
+          "explanation": "Fibroblast odakları ve zamansal heterojenlik tipiktir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-gastrointestinal",
+      "title": "Patoloji · Gastrointestinal sistem ve karaciğer",
+      "cards": [
+        {
+          "id": "PATH-GASTROINTESTINAL-01",
+          "question": "Barrett özofagusta hangi epitel değişimi gelişir?",
+          "answer": "Skuamöz epitelin intestinal tip kolumnar epitele metaplazisi.",
+          "explanation": "Kronik reflü zemininde gelişir ve adenokarsinom riskini artırır."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-02",
+          "question": "Özofagus skuamöz hücreli karsinomu için klasik risk faktörleri nelerdir?",
+          "answer": "Sigara, alkol ve bazı bölgelerde sıcak içecek/nütrisyonel riskler.",
+          "explanation": "Orta-üst özofagusta daha sık; adenokarsinom distal özofagusta Barrett ile ilişkilidir."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-03",
+          "question": "H. pylori ilişkili gastrit ve mide kanserinde hangi iki ana yol önemlidir?",
+          "answer": "Kronik aktif gastrit → atrofi/metaplazi → intestinal tip adenokarsinom; ayrıca MALT lenfoma.",
+          "explanation": "H. pylori eradikasyonu MALT lenfomanın gerilemesini sağlayabilir."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-04",
+          "question": "Otoimmün gastritte hangi hücreler ve vitamin etkilenir?",
+          "answer": "Pariyetal hücreler; intrinsik faktör azalır ve B12 eksikliği gelişebilir.",
+          "explanation": "Korpus/fundus ağırlıklı atrofi ve hipergastrinemi görülür."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-05",
+          "question": "Peptik ülser hastalığının iki temel nedeni nedir?",
+          "answer": "H. pylori ve NSAİİ kullanımı.",
+          "explanation": "NSAİİ prostaglandin sentezini baskılayarak mukozal savunmayı azaltır."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-06",
+          "question": "Crohn hastalığını ülseratif kolitten ayıran en güçlü özellikler nelerdir?",
+          "answer": "Transmural, atlamalı tutulum; fistül/striktür ve nonkazeifiye granülom olabilir.",
+          "explanation": "Crohn ağızdan anüse her yeri tutabilir; terminal ileum sık tutulur."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-07",
+          "question": "Ülseratif kolitin tipik dağılımı ve histolojisi nedir?",
+          "answer": "Rektumdan başlayıp kesintisiz proksimale ilerler; mukoza/submukoza sınırlı.",
+          "explanation": "Kript apseleri görülebilir; toksik megakolon komplikasyonudur."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-08",
+          "question": "Kolorektal adenokarsinom için en önemli öncül lezyonlar nelerdir?",
+          "answer": "Adenomatöz polipler ve serrated lezyonlar.",
+          "explanation": "APC/β-katenin klasik yol; mismatch repair kaybı alternatif yol oluşturur."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-09",
+          "question": "Akut pankreatitte yağ nekrozu nasıl oluşur?",
+          "answer": "Pankreatik lipazların peripankreatik yağı sindirmesi ve kalsiyum sabunları oluşturması.",
+          "explanation": "Hipokalsemi eşlik edebilir."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-10",
+          "question": "Primer biliyer kolanjit hangi antikorla ilişkilidir?",
+          "answer": "Antimitokondriyal antikor (AMA).",
+          "explanation": "Küçük intrahepatik safra kanalları tutulur; kolestatik enzimler artar."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-11",
+          "question": "Primer sklerozan kolanjit hangi hastalıkla güçlü ilişkilidir?",
+          "answer": "Ülseratif kolit.",
+          "explanation": "İntra/ekstrahepatik safra yollarında konsantrik fibrozis ve boncuklanma görülür."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-12",
+          "question": "Alkolik hepatitte karakteristik histolojik bulgu nedir?",
+          "answer": "Mallory-Denk cisimcikleri, nötrofilik inflamasyon ve balonlaşmış hepatositler.",
+          "explanation": "Steatoz ve perisinüzoidal/perisellüler fibrozis eşlik edebilir."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-13",
+          "question": "Hemokromatozda demir birikimi hangi boyayla gösterilir?",
+          "answer": "Prusya mavisi (Perls) boyası.",
+          "explanation": "Karaciğer, pankreas, kalp ve deride birikim; siroz/diabetes/cilt pigmentasyonu yapabilir."
+        },
+        {
+          "id": "PATH-GASTROINTESTINAL-14",
+          "question": "Wilson hastalığında bozuk protein ve tipik bulgular nelerdir?",
+          "answer": "ATP7B; bakır atılımı azalır, serüloplazmin düşebilir; Kayser-Fleischer halkası.",
+          "explanation": "Karaciğer hastalığı ve nöropsikiyatrik bulgular oluşturur."
+        }
+      ]
+    },
+    {
+      "id": "pathology-renal",
+      "title": "Patoloji · Böbrek hastalıkları",
+      "cards": [
+        {
+          "id": "PATH-RENAL-01",
+          "question": "Minimal değişiklik hastalığında elektron mikroskopisinde ne görülür?",
+          "answer": "Podosit ayakçıklarında silinme.",
+          "explanation": "Çocukta nefrotik sendromun sık nedenidir; ışık mikroskopisi çoğunlukla normaldir."
+        },
+        {
+          "id": "PATH-RENAL-02",
+          "question": "Fokal segmental glomerüloskleroz hangi klinik/etyolojik bağlamlarla ilişkilidir?",
+          "answer": "HIV, obezite, eroin ve podosit hasarı; erişkinde nefrotik sendrom.",
+          "explanation": "Glomerüllerin bir kısmında (fokal), glomerülün bir bölümünde (segmental) skleroz."
+        },
+        {
+          "id": "PATH-RENAL-03",
+          "question": "Membranöz nefropatide tipik immün birikim paterni nedir?",
+          "answer": "Subepitelyal immün kompleksler; GBM'de spike-and-dome.",
+          "explanation": "PLA2R antikoru primer olgularla ilişkilidir; erişkinde nefrotik sendrom nedenidir."
+        },
+        {
+          "id": "PATH-RENAL-04",
+          "question": "Poststreptokokal glomerülonefritte tipik klinik ve EM bulgusu nedir?",
+          "answer": "Nefritik sendrom ve subepitelyal hump birikimleri.",
+          "explanation": "Düşük C3 ve yakın zamanda streptokok enfeksiyonu öyküsü tipiktir."
+        },
+        {
+          "id": "PATH-RENAL-05",
+          "question": "IgA nefropatisinde immün birikim nerede bulunur?",
+          "answer": "Mezangiumda IgA birikimi.",
+          "explanation": "ÜSYE/GİS enfeksiyonunu izleyen eşzamanlı veya kısa süreli makroskopik hematüri görülebilir."
+        },
+        {
+          "id": "PATH-RENAL-06",
+          "question": "Alport sendromunda hangi bazal membran proteini etkilenir?",
+          "answer": "Tip IV kollajen.",
+          "explanation": "Hematuri, sensörinöral işitme kaybı ve göz bulguları klasik üçlüdür."
+        },
+        {
+          "id": "PATH-RENAL-07",
+          "question": "Goodpasture hastalığında böbrek biyopsisinde immünfloresan paterni nasıldır?",
+          "answer": "GBM boyunca lineer IgG.",
+          "explanation": "Anti-GBM antikoru alveol ve glomerül bazal membranını hedefler."
+        },
+        {
+          "id": "PATH-RENAL-08",
+          "question": "Akut tübüler hasarın en sık iki nedeni nedir?",
+          "answer": "İskemi ve nefrotoksinler.",
+          "explanation": "Granüler 'muddy brown' silendirler ve tübüler epitel hasarı görülür."
+        },
+        {
+          "id": "PATH-RENAL-09",
+          "question": "Akut interstisyel nefritin sık ilaç tetikleyicileri nelerdir?",
+          "answer": "β-laktamlar, sülfonamidler, NSAİİ ve proton pompa inhibitörleri.",
+          "explanation": "İlaç ilişkili olguda ateş-döküntü-eozinofili üçlüsü görülebilir ama her zaman bulunmaz."
+        },
+        {
+          "id": "PATH-RENAL-10",
+          "question": "Kronik piyelonefritte tipik morfoloji nedir?",
+          "answer": "Düzensiz kortikal skarlar ve kaliks deformasyonu.",
+          "explanation": "Vezikoüreteral reflü veya tekrarlayan enfeksiyonla ilişkili olabilir."
+        },
+        {
+          "id": "PATH-RENAL-11",
+          "question": "Renal hücreli karsinomun klasik klinik ve genetik eşleşmesi nedir?",
+          "answer": "Berrak hücreli tipte VHL kaybı; hematuri, yan ağrısı, kitle.",
+          "explanation": "Paraneoplastik EPO veya PTHrP üretimi görülebilir."
+        },
+        {
+          "id": "PATH-RENAL-12",
+          "question": "Papiller renal hücreli karsinom hangi genetik değişiklikle ilişkilidir?",
+          "answer": "MET aktivasyonu; bazı olgularda kromozom 7 artışı.",
+          "explanation": "Papiller mimari ve köpüksü makrofajlar görülebilir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-endocrine",
+      "title": "Patoloji · Endokrin sistem",
+      "cards": [
+        {
+          "id": "PATH-ENDOCRINE-01",
+          "question": "Graves hastalığında tiroid bezini uyaran antikor hangisidir?",
+          "answer": "TSH reseptörünü aktive eden IgG.",
+          "explanation": "Diffüz hiperplazi, kolloid scalloping ve oftalmopati görülebilir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-02",
+          "question": "Hashimoto tiroiditinde hangi antikorlar tipiktir?",
+          "answer": "Anti-TPO ve anti-tiroglobulin.",
+          "explanation": "Hurthle hücre metaplazisi ve lenfoid germinal merkezler görülür; lenfoma riski artar."
+        },
+        {
+          "id": "PATH-ENDOCRINE-03",
+          "question": "Papiller tiroid karsinomunun en ayırt edici nükleer bulguları nelerdir?",
+          "answer": "Orphan Annie gözleri, nükleer oluklar ve intranükleer psödoinklüzyonlar.",
+          "explanation": "Psammoma cisimcikleri görülebilir; lenfatik yayılım eğilimindedir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-04",
+          "question": "Medüller tiroid karsinomu hangi hücreden ve belirteçten kaynaklanır?",
+          "answer": "Parafoliküler C hücresi; kalsitonin.",
+          "explanation": "Amiloid stroması ve MEN2/RET ilişkisi önemlidir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-05",
+          "question": "Foliküler tiroid karsinomunu adenomdan ayıran ölçüt nedir?",
+          "answer": "Kapsül ve/veya damar invazyonu.",
+          "explanation": "Sitoloji tek başına invazyonu gösteremez; hematojen yayılım eğilimindedir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-06",
+          "question": "Cushing sendromunda kortizol fazlalığının adrenal morfolojik karşılığı nedir?",
+          "answer": "ACTH bağımlı olguda bilateral adrenal hiperplazi; bağımsız olguda adenom/karsinom veya nodüler hastalık.",
+          "explanation": "Etiyoloji ACTH düzeyiyle sınıflandırılır."
+        },
+        {
+          "id": "PATH-ENDOCRINE-07",
+          "question": "Primer hiperaldosteronizmde beklenen laboratuvar örüntüsü nedir?",
+          "answer": "Hipertansiyon, hipokalemi/alkaloz; renin düşük, aldosteron yüksek.",
+          "explanation": "Sekonder hiperaldosteronizmde renin de yüksektir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-08",
+          "question": "Feokromositoma hangi hücreden kaynaklanır ve hangi belirteçler artar?",
+          "answer": "Adrenal medulla kromaffin hücreleri; plazma serbest veya idrar fraksiyone metanefrinleri.",
+          "explanation": "Katekolamin atakları baş ağrısı, terleme ve çarpıntı yapabilir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-09",
+          "question": "Tip 1 ve tip 2 diyabette temel pankreas patolojisi farkı nedir?",
+          "answer": "Tip 1: otoimmün β-hücre kaybı; Tip 2: amiloid birikimi ve β-hücre disfonksiyonu.",
+          "explanation": "İnsülin eksikliği tip 1'de mutlak, tip 2'de göreceli/ilerleyicidir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-10",
+          "question": "MEN1 sendromunun klasik üçlüsü nedir?",
+          "answer": "Paratiroid, pankreas endokrin tümörleri ve hipofiz adenomu.",
+          "explanation": "MEN1 geni menin tümör baskılayıcısını kodlar."
+        },
+        {
+          "id": "PATH-ENDOCRINE-11",
+          "question": "MEN2A ve MEN2B'nin ortak genetik zemini nedir?",
+          "answer": "RET proto-onkogen aktivasyonu.",
+          "explanation": "Medüller tiroid karsinomu her ikisinde; feokromositoma MEN2A/B'de görülebilir."
+        },
+        {
+          "id": "PATH-ENDOCRINE-12",
+          "question": "Paratiroid adenomu primer hiperparatiroidide hangi biyokimyasal tabloyu oluşturur?",
+          "answer": "Kalsiyum yüksek, fosfat düşük, PTH uygunsuz yüksek.",
+          "explanation": "Kemik rezorpsiyonu ve böbrek taşı görülebilir."
+        }
+      ]
+    },
+    {
+      "id": "pathology-gynecology",
+      "title": "Patoloji · Jinekolojik ve meme patolojisi",
+      "cards": [
+        {
+          "id": "PATH-GYNECOLOGY-01",
+          "question": "HPV 16/18 serviks kanserine hangi mekanizmayla katkı verir?",
+          "answer": "E6 p53'ü, E7 RB'yi işlevsizleştirir.",
+          "explanation": "Persistan yüksek riskli HPV enfeksiyonu servikal intraepitelyal neoplaziye yol açabilir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-02",
+          "question": "Endoservikal adenokarsinom ve skuamöz serviks kanserinde temel risk faktörü nedir?",
+          "answer": "Persistan yüksek riskli HPV enfeksiyonu.",
+          "explanation": "HPV 16 özellikle skuamöz, HPV 18 adenokarsinomla ilişkilidir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-03",
+          "question": "Endometrioid endometrium karsinomunun önemli risk faktörleri nelerdir?",
+          "answer": "Karşılanmamış östrojen: obezite, anovulasyon, nulliparite ve östrojen tedavisi.",
+          "explanation": "Tip I tümörler sıklıkla endometrial hiperplazi zemininde gelişir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-04",
+          "question": "Seröz endometrium karsinomu hangi moleküler değişiklikle ilişkilidir?",
+          "answer": "TP53 mutasyonu.",
+          "explanation": "Atrofik endometriumda gelişebilir ve agresif seyirlidir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-05",
+          "question": "Endometriozis için en tipik histolojik tanı ölçütü nedir?",
+          "answer": "Endometrium bezleri ve stromasının uterus dışında bulunması.",
+          "explanation": "Eski kanama sonucu hemosiderin yüklü makrofajlar görülebilir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-06",
+          "question": "Over seröz karsinomları hangi kökenle ve yayılım paterniyle ilişkilidir?",
+          "answer": "Tuba fimbria epitelinden gelişebilir; peritoneal yayılım/omental cake tipiktir.",
+          "explanation": "Yüksek dereceli seröz karsinomda TP53 mutasyonu çok sıktır."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-07",
+          "question": "Meme invaziv duktal karsinomunun tipik stromal bulgusu nedir?",
+          "answer": "Desmoplastik stroma.",
+          "explanation": "En sık invaziv meme kanseri tipidir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-08",
+          "question": "Meme kanserinde ER/PR ve HER2 durumu neden belirlenir?",
+          "answer": "Endokrin tedavi ve anti-HER2 hedefli tedavi seçimini belirler.",
+          "explanation": "Reseptör durumu prognostik ve prediktif değer taşır."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-09",
+          "question": "İnvaziv lobüler meme karsinomunda hangi adezyon molekülü kaybolur?",
+          "answer": "E-kaderin.",
+          "explanation": "Discohesive hücreler tek sıra (single-file) infiltrasyon oluşturabilir."
+        },
+        {
+          "id": "PATH-GYNECOLOGY-10",
+          "question": "Fibroadenom ile filloides tümörün ayırıcı özelliği nedir?",
+          "answer": "Filloides tümörde yaprak benzeri stromal projeksiyonlar ve daha belirgin stromal hücresellik vardır.",
+          "explanation": "Filloides benign, borderline veya malign olabilir; fibroadenom daha sık ve benign."
+        }
+      ]
+    },
+    {
+      "id": "pathology-bone-skin",
+      "title": "Patoloji · Kemik, yumuşak doku ve deri",
+      "cards": [
+        {
+          "id": "PATH-BONE-SKIN-01",
+          "question": "Osteosarkomun tanımlayıcı histolojik bulgusu nedir?",
+          "answer": "Malign hücrelerin doğrudan osteoid üretmesi.",
+          "explanation": "Metafizde, özellikle diz çevresinde; gençlerde sık görülür."
+        },
+        {
+          "id": "PATH-BONE-SKIN-02",
+          "question": "Ewing sarkomu hangi genetik değişiklik ve belirteçle ilişkilidir?",
+          "answer": "t(11;22) EWSR1-FLI1; CD99 membranöz pozitifliği.",
+          "explanation": "Küçük yuvarlak mavi hücreli tümördür; diyafiz yerleşimi tipiktir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-03",
+          "question": "Kondrosarkom hangi matriksi üretir ve hangi bölgede sık görülür?",
+          "answer": "Malign kıkırdak matriksi; pelvis, omuz kuşağı ve proksimal uzun kemikler.",
+          "explanation": "Erişkinlerde görülür; osteoid üretmez."
+        },
+        {
+          "id": "PATH-BONE-SKIN-04",
+          "question": "Dev hücreli kemik tümörünün tipik yerleşimi ve davranışı nedir?",
+          "answer": "İskelet olgunlaşması sonrası epifiz; lokal agresif, akciğere metastaz edebilir.",
+          "explanation": "Osteoklast benzeri dev hücreler ve mononükleer stromal hücreler içerir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-05",
+          "question": "Paget hastalığında kemik yeniden yapılanmasının tipik histolojisi nedir?",
+          "answer": "Mozaik paternli lameller kemik ve düzensiz sement çizgileri.",
+          "explanation": "Alkalen fosfataz artabilir; ileri yaşta osteosarkom riski artar."
+        },
+        {
+          "id": "PATH-BONE-SKIN-06",
+          "question": "Liposarkomda iyi diferansiye tip için karakteristik hücre nedir?",
+          "answer": "Lipit vakuolleri nedeniyle çekirdeği kenara itilen lipoblast.",
+          "explanation": "Uyluk ve retroperiton sık yerleşim bölgeleridir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-07",
+          "question": "Dermatofibrosarkoma protuberans hangi genetik değişiklikle ilişkilidir?",
+          "answer": "COL1A1-PDGFB füzyonu.",
+          "explanation": "Dermiste storiform büyüme ve CD34 pozitifliği tipiktir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-08",
+          "question": "Bazal hücreli karsinomun klinik özelliği nedir?",
+          "answer": "İnci kenarlı papül/tümör; lokal invaziv, metastazı çok nadir.",
+          "explanation": "UV maruziyeti ve Hedgehog/PTCH yolak bozukluğu ilişkilidir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-09",
+          "question": "Skuamöz hücreli deri karsinomu için önemli risk faktörleri nelerdir?",
+          "answer": "UV, immünsüpresyon, kronik yara ve HPV (bazı bölgeler).",
+          "explanation": "Keratin incileri ve hücreler arası köprüler görülebilir."
+        },
+        {
+          "id": "PATH-BONE-SKIN-10",
+          "question": "Melanomda prognozu en güçlü belirleyen histopatolojik ölçüt nedir?",
+          "answer": "Breslow tümör kalınlığı.",
+          "explanation": "Ülserasyon da evre/prognoz açısından önemlidir."
+        }
+      ]
     }
   ]
 }
