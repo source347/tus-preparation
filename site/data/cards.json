@@ -10889,6 +10889,204 @@
           "explanation": "MEFV ilişkili otoinflamatuvar hastalıktır; kolşisin amiloidoz riskini azaltır."
         }
       ]
+    },
+    {
+      "id": "ped-neonatoloji",
+      "title": "Pediatri · Yenidoğan ve neonatal resüsitasyon",
+      "cards": [
+        {
+          "id": "PED-NEO-001",
+          "question": "Doğumda yenidoğanın ilk değerlendirmesinde resüsitasyon gereksinimini belirleyen üç temel ölçüt nedir?",
+          "answer": "Gestasyon yaşı, kas tonusu ve solunum/ağlama.",
+          "explanation": "Term, iyi tonuslu ve soluyan/ağlayan bebek rutin bakıma alınır; diğerlerinde ilk basamaklar başlatılır."
+        },
+        {
+          "id": "PED-NEO-002",
+          "question": "Doğum sonrası ilk basamaklar nelerdir ve ne zaman tamamlanmalıdır?",
+          "answer": "Isıtma, baş-boyun pozisyonu, kurutma ve gerektiğinde taktil uyarı; ilk değerlendirme ve gerekli müdahale ilk 60 saniyede yapılır.",
+          "explanation": "Rutin ağız-burun aspirasyonu önerilmez; yalnızca hava yolu obstrüksiyonu şüphesinde düşünülür."
+        },
+        {
+          "id": "PED-NEO-003",
+          "question": "Yenidoğanda pozitif basınçlı ventilasyon (PPV) hangi durumda başlanır?",
+          "answer": "Apne/gasping varsa veya ilk basamaklara rağmen kalp hızı <100/dk ise.",
+          "explanation": "Etkili ventilasyon neonatal resüsitasyonun en kritik müdahalesidir; kalp hızındaki artış etkinliğin temel göstergesidir."
+        },
+        {
+          "id": "PED-NEO-004",
+          "question": "Yenidoğanda göğüs kompresyonu hangi koşulda ve hangi oranla başlanır?",
+          "answer": "Göğsü hareket ettiren 30 saniyelik etkili ventilasyona rağmen kalp hızı <60/dk ise; 3:1 kompresyon:ventilasyon oranıyla.",
+          "explanation": "Dakikada 90 kompresyon ve 30 ventilasyon hedeflenir; kompresyon öncesi ventilasyon etkinliği düzeltilmelidir."
+        },
+        {
+          "id": "PED-NEO-005",
+          "question": "Yenidoğan resüsitasyonunda epinefrin ne zaman ve hangi yoldan verilir?",
+          "answer": "Yeterli ventilasyon ve 60 saniye göğüs kompresyonuna rağmen kalp hızı <60/dk ise; öncelikle umbilikal venöz/intravasküler yoldan.",
+          "explanation": "Damar yolu tercih edilir; endotrakeal yol damar erişimi sağlanana kadar düşünülebilir."
+        },
+        {
+          "id": "PED-NEO-006",
+          "question": "Resüsitasyon gerektirmeyen yenidoğanda kordon klemplenmesi için önerilen yaklaşım nedir?",
+          "answer": "Çoğu bebekte en az 60 saniye geciktirilmiş kordon klemplenmesi.",
+          "explanation": "Anne-bebek teması ve termoregülasyon desteklenir; acil resüsitasyon gereksinimi olan bebekte yaklaşım klinik duruma göre belirlenir."
+        },
+        {
+          "id": "PED-NEO-007",
+          "question": "Yaşamın ilk 24 saatinde başlayan yenidoğan sarılığı nasıl değerlendirilmelidir?",
+          "answer": "Patolojik kabul edilir; bilirubin hızla ölçülür ve hemoliz/enfeksiyon gibi nedenler araştırılır.",
+          "explanation": "Fizyolojik sarılık genellikle ilk 24 saatte başlamaz; erken başlangıç acil değerlendirme gerektirir."
+        },
+        {
+          "id": "PED-NEO-008",
+          "question": "Yenidoğanda fototerapi kararı hangi değişkenlere göre verilir?",
+          "answer": "Total serum bilirubini, doğum sonrası saat yaşı, gestasyon haftası ve nörotoksisite risk faktörleri.",
+          "explanation": "Tek bir evrensel bilirubin eşiği yoktur; saat-yaş ve gestasyon haftasına özgü nomogram/eşik kullanılır."
+        },
+        {
+          "id": "PED-NEO-009",
+          "question": "Yenidoğan erken başlangıçlı sepsisinde sık etkenler ve ampirik başlangıç tedavisi nelerdir?",
+          "answer": "Başlıca Grup B streptokok ve E. coli; ampirik tedavide çoğunlukla ampisilin + gentamisin kullanılır.",
+          "explanation": "Kültürler tedaviden önce alınır; klinik durum ve yerel direnç paternleri tedaviyi yönlendirir."
+        },
+        {
+          "id": "PED-NEO-010",
+          "question": "Prematüre bebekte respiratuvar distres sendromunun temel mekanizması ve tipik radyoloji bulgusu nedir?",
+          "answer": "Tip II pnömositlerden sürfaktan eksikliği; düşük akciğer kompliyansı, yaygın retikülogranüler görünüm ve hava bronkogramları.",
+          "explanation": "Prematürite ile ilişkilidir; CPAP/solunum desteği ve endikasyonda sürfaktan tedavisi kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "ped-buyume-gelisim-beslenme",
+      "title": "Pediatri · Büyüme, gelişim ve beslenme",
+      "cards": [
+        {
+          "id": "PED-GEL-001",
+          "question": "İlk 2 yaşta büyüme izlemi için hangi antropometrik ölçümler seri olarak kaydedilir?",
+          "answer": "Ağırlık, uzunluk ve baş çevresi; ölçümler yaş ve cinsiyete göre büyüme eğrilerine işlenir.",
+          "explanation": "Tek ölçümden çok persentil eğrisi üzerindeki seyir ve büyüme hızı önemlidir."
+        },
+        {
+          "id": "PED-GEL-002",
+          "question": "Term yenidoğanda doğum ağırlığı yaklaşık ne zaman iki ve üç katına çıkar?",
+          "answer": "Yaklaşık 5. ayda iki katına, 1 yaşta üç katına çıkar.",
+          "explanation": "Bunlar yaklaşık klinik referanslardır; prematürite ve bireysel büyüme eğrisi dikkate alınır."
+        },
+        {
+          "id": "PED-GEL-003",
+          "question": "Prematüre çocukta gelişim basamakları hangi yaş üzerinden değerlendirilir?",
+          "answer": "İlk 2 yaşta düzeltilmiş yaş üzerinden; kronolojik yaştan prematüre doğduğu hafta sayısı çıkarılır.",
+          "explanation": "Örneğin 32 haftada doğan bebekte yaklaşık 8 haftalık düzeltme yapılır."
+        },
+        {
+          "id": "PED-GEL-004",
+          "question": "Bebekte sosyal gülümseme ve baş kontrolü hangi dönemde beklenir?",
+          "answer": "Sosyal gülümseme yaklaşık 2. ayda; baş kontrolü 3–4. ay civarında belirginleşir.",
+          "explanation": "Belirgin gecikme tek başına tanı koydurmaz ancak gelişimsel değerlendirme gerektirir."
+        },
+        {
+          "id": "PED-GEL-005",
+          "question": "Bağımsız oturma ve bağımsız yürüme için yaklaşık beklenen yaşlar nelerdir?",
+          "answer": "Desteksiz oturma yaklaşık 9. ayda; bağımsız yürüme çoğunlukla 12–18 ay arasında.",
+          "explanation": "Gelişim basamakları geniş normal aralığa sahiptir; kazanılmış becerinin kaybı her zaman alarm bulgusudur."
+        },
+        {
+          "id": "PED-GEL-006",
+          "question": "İki yaş civarında dil gelişiminde hangi beceri beklenir?",
+          "answer": "En az iki kelimeli ifadeler kurma ve anlamlı kelime dağarcığında hızlı artış.",
+          "explanation": "Dil gecikmesinde işitme kaybı ve otizm spektrum bozukluğu dahil gelişimsel nedenler değerlendirilir."
+        },
+        {
+          "id": "PED-GEL-007",
+          "question": "Gelişimsel tarama ve otizm taraması için AAP'nin önerdiği temel yaşlar nelerdir?",
+          "answer": "Genel gelişim taraması 9, 18 ve 30 ayda; otizm taraması 18 ve 24 ayda.",
+          "explanation": "Tarama testleri klinik gözetimin yerine geçmez; endişe varsa yaşından bağımsız değerlendirme yapılır."
+        },
+        {
+          "id": "PED-GEL-008",
+          "question": "Tamamlayıcı beslenmeye ne zaman başlanır ve anne sütü nasıl sürdürülür?",
+          "answer": "Yaklaşık 6. ayda başlanır; emzirme 2 yaş ve ötesine kadar sürdürülebilir.",
+          "explanation": "İlk 6 ay yalnız anne sütü önerilir; tamamlayıcı besinler küçük miktarla başlayıp çeşit ve kıvam olarak artırılır."
+        },
+        {
+          "id": "PED-GEL-009",
+          "question": "Büyüme geriliği şüphesinde hangi bulgu seri izlemi özellikle anlamlı kılar?",
+          "answer": "Ağırlık veya boya ait persentil kanallarında aşağı yönlü belirgin geçiş ve büyüme hızında azalma.",
+          "explanation": "Tek bir düşük persentil yapısal olabilir; aile boyu, beslenme, kronik hastalık ve ölçüm doğruluğu birlikte değerlendirilir."
+        },
+        {
+          "id": "PED-GEL-010",
+          "question": "Bir yaşından küçük çocukta bal verilmemesinin nedeni nedir?",
+          "answer": "Clostridium botulinum sporlarına bağlı infantil botulizm riski.",
+          "explanation": "Bal pişirilmiş veya başka gıdaya karıştırılmış olsa da 12 aydan önce verilmez."
+        }
+      ]
+    },
+    {
+      "id": "ped-asilama-koruyucu",
+      "title": "Pediatri · Aşılama ve koruyucu çocuk sağlığı",
+      "cards": [
+        {
+          "id": "PED-ASI-001",
+          "question": "Türkiye 2025 ulusal çocukluk dönemi aşı takviminde doğumda hangi rutin aşı uygulanır?",
+          "answer": "Hepatit B aşısının ilk dozu.",
+          "explanation": "Anne HBsAg pozitifse yenidoğana aşıya ek olarak hepatit B immün globulini (HBIG) mümkün olan en kısa sürede, tercihen ilk 12 saatte ve farklı bölgeden uygulanır."
+        },
+        {
+          "id": "PED-ASI-002",
+          "question": "Türkiye 2025 ulusal takviminde BCG ve beşli karma aşının temel zamanlaması nasıldır?",
+          "answer": "BCG 2. ay sonunda; DaBT-İPA-Hib 2, 4 ve 6. ayların sonunda, 18. ayda rapel.",
+          "explanation": "Güncel ulusal takvim esas alınır; gecikmiş dozlarda seri genellikle baştan başlatılmaz."
+        },
+        {
+          "id": "PED-ASI-003",
+          "question": "Türkiye 2025 ulusal takviminde KKK ve suçiçeği aşılarının ilk dozu ne zaman yapılır?",
+          "answer": "Her ikisinin ilk dozu 12. ayın sonunda uygulanır.",
+          "explanation": "KKK canlı atenüe aşıdır; ağır immün yetmezlikte kontrendikedir."
+        },
+        {
+          "id": "PED-ASI-004",
+          "question": "Türkiye 2025 ulusal takviminde hepatit A aşısı hangi aylarda uygulanır?",
+          "answer": "18. ve 24. ayların sonunda iki doz.",
+          "explanation": "Aşı aralıkları ve telafi şeması güncel ulusal takvimden doğrulanmalıdır."
+        },
+        {
+          "id": "PED-ASI-005",
+          "question": "Türkiye 2025 ulusal takviminde konjuge pnömokok aşısının doz zamanlaması nasıldır?",
+          "answer": "2, 4 ve 6. ayların sonunda primer seri; 12. ayda rapel.",
+          "explanation": "Prematüreler ve risk gruplarında ek doz/şema gereksinimi ayrı değerlendirilir."
+        },
+        {
+          "id": "PED-ASI-006",
+          "question": "Canlı atenüe aşılar hangi temel hasta grubunda kontrendikedir?",
+          "answer": "Ağır hücresel immün yetmezliği olanlarda; gebelikte de çoğu canlı aşı uygulanmaz.",
+          "explanation": "Hafif üst solunum yolu enfeksiyonu veya düşük ateş genellikle aşıya engel değildir."
+        },
+        {
+          "id": "PED-ASI-007",
+          "question": "Bir aşı dozundan sonra anafilaksi gelişmişse sonraki doz için yaklaşım nedir?",
+          "answer": "Şüpheli aşıya veya ilgili bileşene karşı ciddi alerjik reaksiyon kontrendikasyon kabul edilir; alerji değerlendirmesi gerekir.",
+          "explanation": "Yumurta alerjisi tek başına KKK aşısı için kontrendikasyon değildir."
+        },
+        {
+          "id": "PED-ASI-008",
+          "question": "Aşı takviminde gecikmiş doz saptandığında seri nasıl tamamlanır?",
+          "answer": "Yaşa ve aşıya özgü minimum aralıklar korunarak kalınan yerden devam edilir; seri baştan başlatılmaz.",
+          "explanation": "Canlı aşılar arası zamanlama ve özel risk grubu şemaları için güncel kılavuz kontrol edilir."
+        },
+        {
+          "id": "PED-ASI-009",
+          "question": "AAP koruyucu çocuk sağlığı yaklaşımında yenidoğan döneminde hangi taramalar özellikle doğrulanmalıdır?",
+          "answer": "İşitme taraması ve ülkenin ulusal yenidoğan tarama programındaki metabolik/endokrin taramalar.",
+          "explanation": "Tarama sonucunun kayda geçmesi kadar anormal sonucun zamanında doğrulanması ve izlenmesi de önemlidir."
+        },
+        {
+          "id": "PED-ASI-010",
+          "question": "Sağlıklı çocuk izleminin temel bileşenleri nelerdir?",
+          "answer": "Büyüme ve gelişim izlemi, yaşa uygun taramalar, aşıların tamamlanması, ağız/diş sağlığı ve anticipatory guidance.",
+          "explanation": "Koruyucu izlem yalnız aşı uygulaması değildir; aile kaygıları ve güvenlik danışmanlığı da kapsanır."
+        }
+      ]
     }
   ]
 }
