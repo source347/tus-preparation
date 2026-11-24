@@ -2,6 +2,9 @@
 
 Bu klasör GitHub Pages üzerinden yayımlanan statik çalışma arayüzünü içerir.
 
+## Katalog (24 Kasım 2026)
+63 deste ve 1.144 kart içerir; patoloji bölümü 13 deste ve 152 karttan oluşur.
+
 ## Özellikler
 - Kart çevirme, önceki/sonraki kart ve konu seçimi
 - Soru, yanıt ve açıklamalarda arama
