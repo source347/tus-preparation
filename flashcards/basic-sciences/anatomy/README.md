@@ -21,6 +21,7 @@ Anatomi flash kartları konu bazlı hazırlanır. TUS'ta bir dönemde anatomi i�
 | Baş-boyun bölgesel anatomi | 36 | [head-neck-regional.md](head-neck-regional.md) |
 | Spinal kord yolları ve beyin sapı | 30 | [spinal-cord-brainstem.md](spinal-cord-brainstem.md) |
 | Serebellum, bazal gangliyonlar ve talamus | 30 | [cerebellum-basal-ganglia-thalamus.md](cerebellum-basal-ganglia-thalamus.md) |
+| Nöroanatomi: korteks, limbik sistem, BOS ve serebral dolaşım | 37 | [neuroanatomy-advanced.md](neuroanatomy-advanced.md) |
 
 Kartları [web uygulamasında](../../../site/) çalışabilirsiniz.
 
