@@ -3420,15 +3420,9 @@
       "cards": [
         {
           "id": "BIO-MBG-001-01",
-          "question": "DNA replikasyonunda ökaryotlarda öncül RNA-DNA primerini hangi enzim oluşturur; başlıca uzatma polimerazları hangileridir?",
-          "answer": "Primaz aktivitesi taşıyan DNA polimeraz α primeri başlatır; DNA polimeraz ε öncü zinciri, DNA polimeraz δ geciken zinciri uzatır.",
-          "explanation": "DNA polimeraz δ ayrıca RNA primerlerinin uzaklaştırılması sonrası boşlukların doldurulmasına katkı verir; ligaz I Okazaki parçalarını birleştirir."
-        },
-        {
-          "id": "BIO-MBG-001-02",
-          "question": "DNA replikasyonunda helikaz, topoizomeraz, SSB ve ligazın görevleri nelerdir?",
-          "answer": "Helikaz çift sarmalı açar; topoizomeraz süpersarmal gerilimini giderir; tek zincir bağlayıcı proteinler (SSB/RPA) açılmış zincirleri stabilize eder; DNA ligaz kesintileri kapatır.",
-          "explanation": "Okazaki parçalarının birleştirilmesi ligaz gerektirir; topoizomeraz inhibitörleri bu basamağı hedefleyebilir."
+          "question": "Ökaryotik DNA replikasyonunda primeri hangi enzim oluşturur; başlıca polimerazlar ve replikasyon çatalındaki temel proteinlerin görevleri nelerdir?",
+          "answer": "Primaz aktivitesi taşıyan DNA polimeraz α primeri başlatır; DNA polimeraz ε öncü zinciri, δ geciken zinciri uzatır. Helikaz çift sarmalı açar; topoizomeraz süpersarmal gerilimini giderir; RPA açılmış zincirleri stabilize eder; DNA ligaz kesintileri ve Okazaki parçalarını birleştirir.",
+          "explanation": "DNA polimeraz δ, RNA primerleri uzaklaştırıldıktan sonra boşlukların doldurulmasına da katkı verir. Bu enzimlerin görevlerini birbirinden ayırmak replikasyon sorularındaki temel karar noktasıdır."
         },
         {
           "id": "BIO-MBG-001-03",
