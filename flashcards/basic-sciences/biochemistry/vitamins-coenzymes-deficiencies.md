@@ -16,9 +16,9 @@ Bu desteğin amacı vitaminlerin tüm ayrıntılarını ezberletmek değil; TUS'
 
 ## 3. Malnütrisyon veya alkol kullanım bozukluğu olan hastada glukoz verilmeden önce ne yapılmalıdır?
 
-**Yanıt:** Tiamin verilmelidir.
+**Yanıt:** Mümkünse tiamin glukozdan önce veya glukozla eşzamanlı verilmelidir.
 
-**Ayırt ettiren nokta:** Tiamin eksikliğinde glukoz yükü laktat üretimini ve nörolojik hasarı artırabilir; acil hipoglisemi tedavisini geciktirmemek gerekir.
+**Ayırt ettiren nokta:** Tiamin eksikliği şüphesinde replasman geciktirilmemelidir; ancak acil hipoglisemi tedavisi tiamin beklenerek ertelenmez.
 
 ## 4. Riboflavin (B2) hangi koenzimlerin öncülüdür ve eksikliği ne düşündürür?
 
@@ -36,7 +36,7 @@ Bu desteğin amacı vitaminlerin tüm ayrıntılarını ezberletmek değil; TUS'
 
 **Yanıt:** Piridoksal fosfat (PLP); sideroblastik anemi, periferik nöropati ve nöbet.
 
-**Ayırt ettiren nokta:** İzoniazid B6'yı tüketebilir; PLP hem sentezi ve amino asit metabolizmasında kofaktördür.
+**Ayırt ettiren nokta:** İzoniazid PLP oluşumunu/işlevini bozarak B6 eksikliğine yol açabilir; PLP hem sentezi ve amino asit metabolizmasında kofaktördür.
 
 ## 7. Folat (B9) hangi biyokimyasal işlevi görür ve eksikliği neye yol açar?
 
