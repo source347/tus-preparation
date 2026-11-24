@@ -3527,6 +3527,294 @@
           "explanation": "Heteroplazmi ve eşik etkisi nedeniyle aynı anneden çocuklarda hastalık şiddeti değişebilir; yüksek enerji gerektiren dokular sık etkilenir."
         }
       ]
+    },
+    {
+      "id": "biochemistry-purine-pyrimidine",
+      "title": "Biyokimya · Pürin ve pirimidin metabolizması",
+      "cards": [
+        {
+          "id": "BIO-NUC-001-01",
+          "question": "De novo pürin sentezinde ilk hız kısıtlayıcı/taahhüt basamağı nedir?",
+          "answer": "Glutamin-PRPP amidotransferaz; PRPP ve glutamin kullanarak 5-fosforibozilamin oluşturur.",
+          "explanation": "Pürin halkası PRPP üzerine adım adım kurulur; son ürünler IMP, AMP ve GMP'dir."
+        },
+        {
+          "id": "BIO-NUC-001-02",
+          "question": "Pürin ve pirimidin halkalarının sentezinde temel yapısal fark nedir?",
+          "answer": "Pürin halkası riboz-5-fosfata bağlı PRPP üzerinde kurulur; pirimidin halkası önce sentezlenir, sonra PRPP'ye bağlanır.",
+          "explanation": "Pirimidin sentezinin hız kısıtlayıcı enzimi sitozolik CPS-II'dir."
+        },
+        {
+          "id": "BIO-NUC-001-03",
+          "question": "Pürin salvage yolunda HGPRT hangi bazları hangi nükleotitlere dönüştürür?",
+          "answer": "Hipoksantin → IMP; guanin → GMP. Her ikisinde PRPP kullanılır.",
+          "explanation": "HGPRT eksikliği PRPP'yi artırıp de novo pürin sentezini ve ürik asit üretimini yükseltir."
+        },
+        {
+          "id": "BIO-NUC-001-04",
+          "question": "Lesch–Nyhan sendromunda enzim kusuru ve ayırt ettiren klinik bulgular nelerdir?",
+          "answer": "X'e bağlı HGPRT eksikliği; hiperürisemi, distoni/koreatetoz, bilişsel etkilenme ve kendine zarar verme davranışı.",
+          "explanation": "Kendini ısırma davranışı ve çocukta gut/ürat taşları klasik ipuçlarıdır."
+        },
+        {
+          "id": "BIO-NUC-001-05",
+          "question": "Adenozin deaminaz (ADA) eksikliği hangi immün yetmezliği yapar?",
+          "answer": "Otozomal resesif ağır kombine immün yetmezlik (SCID); dATP birikimi lenfosit gelişimini bozar.",
+          "explanation": "ADA, adenozini inozine dönüştürür; toksik deoksiadenozin metabolitleri özellikle lenfositlere zarar verir."
+        },
+        {
+          "id": "BIO-NUC-001-06",
+          "question": "Pürin nükleozid fosforilaz (PNP) eksikliği hangi hücre hattını daha belirgin etkiler?",
+          "answer": "T hücre ağırlıklı immün yetmezlik; hücresel immünite belirgin bozulur.",
+          "explanation": "ADA eksikliğinde hem T hem B hücreleri etkilenebilir; PNP eksikliğinde T hücre etkilenimi öne çıkar."
+        },
+        {
+          "id": "BIO-NUC-001-07",
+          "question": "Ksantin oksidaz hangi dönüşümleri katalizler ve hangi ilaç inhibe eder?",
+          "answer": "Hipoksantin → ksantin → ürik asit; allopurinol ve febuksostat ksantin oksidazı inhibe eder.",
+          "explanation": "Allopurinol, 6-merkaptopürin/azatiyoprin yıkımını da azaltır; birlikte kullanımda ciddi miyelosupresyon riski vardır."
+        },
+        {
+          "id": "BIO-NUC-001-08",
+          "question": "Ürik asit üretimini azaltan allopurinol ile akut gut atağındaki kolşisinin hedefleri nasıl ayrılır?",
+          "answer": "Allopurinol ksantin oksidazı inhibe ederek ürat üretimini azaltır; kolşisin mikrotübülleri bozup nötrofil yanıtını baskılar.",
+          "explanation": "Kolşisin ürik asit düzeyini düşürmez; akut inflamasyonu azaltır."
+        },
+        {
+          "id": "BIO-NUC-001-09",
+          "question": "Orotik asidüride hangi enzim kompleksi eksiktir ve tipik laboratuvar bulgusu nedir?",
+          "answer": "UMP sentaz eksikliği; orotik asit artışı ve megaloblastik anemi, hiperamonyemi olmaksızın görülür.",
+          "explanation": "Üridin tedavisi pirimidin sentezini bypass eder. OTC eksikliğinde de orotik asit artar ancak hiperamonyemi vardır."
+        },
+        {
+          "id": "BIO-NUC-001-10",
+          "question": "OTC eksikliği ile orotik asidüriyi orotik asit ve amonyak üzerinden nasıl ayırırsın?",
+          "answer": "OTC eksikliği: orotik asit ↑ ve amonyak ↑. UMP sentaz eksikliği: orotik asit ↑, amonyak genellikle normal.",
+          "explanation": "OTC üre döngüsü kusurudur; UMP sentaz pirimidin sentezi kusurudur."
+        },
+        {
+          "id": "BIO-NUC-001-11",
+          "question": "5-fluorourasil, hidroksiüre ve metotreksat nükleotid sentezinin hangi enzimlerini inhibe eder?",
+          "answer": "5-FU: timidilat sentaz; hidroksiüre: ribonükleotid redüktaz; metotreksat: dihidrofolat redüktaz.",
+          "explanation": "5-FU dTMP oluşumunu; hidroksiüre deoksiribonükleotid üretimini; metotreksat folat geri dönüşümünü azaltır."
+        },
+        {
+          "id": "BIO-NUC-001-12",
+          "question": "Pürin yıkımı ile pirimidin yıkımının son ürünleri nasıl ayrılır?",
+          "answer": "Pürin yıkımının insanlardaki son ürünü ürik asittir; pirimidinler daha suda çözünen β-alanin ve β-aminoisobütirat gibi ürünlere parçalanır.",
+          "explanation": "Bu nedenle hiperürisemi pürin yıkımıyla ilişkilidir; pirimidin yıkımı ürat oluşturmaz."
+        }
+      ]
+    },
+    {
+      "id": "biochemistry-heme-bilirubin",
+      "title": "Biyokimya · Hem sentezi, porfiriler ve bilirubin",
+      "cards": [
+        {
+          "id": "BIO-HEME-001-01",
+          "question": "Hem sentezinin hız kısıtlayıcı basamağı ve kofaktörü nedir?",
+          "answer": "Mitokondride glisin + süksinil-CoA → ALA; ALA sentaz (ALAS), B6/PLP bağımlıdır.",
+          "explanation": "Hepatik ALAS1 hem ile baskılanır; eritroid ALAS2 demir/heme üretimiyle ilişkilidir."
+        },
+        {
+          "id": "BIO-HEME-001-02",
+          "question": "Hem sentezinde ALA dehidrataz ve ferroşelataz hangi basamakları katalizler?",
+          "answer": "ALA dehidrataz: ALA → porfobilinojen. Ferroşelataz: protoporfirin IX'e Fe²⁺ ekleyerek hem oluşturur.",
+          "explanation": "ALA dehidrataz çinko bağımlıdır; ferroşelataz son basamaktadır."
+        },
+        {
+          "id": "BIO-HEME-001-03",
+          "question": "Kurşun zehirlenmesi hem sentezinin hangi iki enzimini inhibe eder?",
+          "answer": "ALA dehidrataz ve ferroşelataz.",
+          "explanation": "ALA ve protoporfirin IX artar; mikrositik anemi ve bazofilik noktalanma görülebilir."
+        },
+        {
+          "id": "BIO-HEME-001-04",
+          "question": "Akut intermittan porfiride hangi enzim eksiktir ve ayırt ettiren bulgular nelerdir?",
+          "answer": "Porfobilinojen deaminaz (HMB sentaz) eksikliği; karın ağrısı, nöropsikiyatrik belirtiler ve koyulaşan idrar; fotosensitivite yoktur.",
+          "explanation": "İdrarda ALA ve PBG artar. Ataklar bazı ilaçlar, açlık ve alkolle tetiklenebilir."
+        },
+        {
+          "id": "BIO-HEME-001-05",
+          "question": "Porfiria kutanea tardada hangi enzim eksiktir ve tipik deri bulgusu nedir?",
+          "answer": "Üroporfirinojen dekarboksilaz (UROD) aktivitesi azalır; güneşe açık alanlarda frajil deri ve büllöz fotosensitivite gelişir.",
+          "explanation": "En sık porfiridir; karaciğer hastalığı, alkol, demir yükü ve HCV ile ilişkili olabilir."
+        },
+        {
+          "id": "BIO-HEME-001-06",
+          "question": "Sideroblastik anemide hem sentezinin hangi basamağı bozulabilir ve kemik iliğinde ne görülür?",
+          "answer": "Eritroid ALA sentaz-2 (ALAS2) kusuru veya B6 yetersizliği; mitokondride demir birikimiyle halka sideroblastlar görülür.",
+          "explanation": "Kurşun ve alkol de sideroblastik anemi yapabilir; halka sideroblast kemik iliği bulgusudur."
+        },
+        {
+          "id": "BIO-HEME-001-07",
+          "question": "Hem yıkımında biliverdin ve bilirubin hangi enzimlerle oluşur?",
+          "answer": "Hem oksijenaz hem'i biliverdine; biliverdin redüktaz biliverdini bilirubine dönüştürür.",
+          "explanation": "İlk basamakta demir ve karbon monoksit açığa çıkar."
+        },
+        {
+          "id": "BIO-HEME-001-08",
+          "question": "İndirekt bilirubin karaciğerde hangi enzimle konjuge edilir?",
+          "answer": "UGT1A1 (UDP-glukuronil transferaz) bilirubini glukuronik asitle konjuge eder.",
+          "explanation": "Konjuge bilirubin suda çözünür ve safrayla atılır; albümine bağlı indirekt bilirubin idrara geçmez."
+        },
+        {
+          "id": "BIO-HEME-001-09",
+          "question": "Gilbert sendromu ile Crigler–Najjar sendromları nasıl ayrılır?",
+          "answer": "Gilbert: hafif UGT1A1 aktivite azalması, aralıklı hafif indirekt hiperbilirubinemi. Crigler–Najjar: ağır UGT1A1 eksikliği; tip I'de kernikterus riski yüksektir.",
+          "explanation": "Crigler–Najjar tip II kısmi aktivite taşır ve fenobarbital yanıtı olabilir; tip I yanıt vermez."
+        },
+        {
+          "id": "BIO-HEME-001-10",
+          "question": "Dubin–Johnson ve Rotor sendromlarında bilirubin hangi fraksiyonda artar?",
+          "answer": "Her ikisinde konjuge (direkt) bilirubin artar; Dubin–Johnson'da hepatosit kanal membranına atılım kusuru ve koyu pigmentli karaciğer vardır.",
+          "explanation": "Rotor sendromunda karaciğer pigmentasyonu yoktur; benign konjuge hiperbilirubinemi yapar."
+        },
+        {
+          "id": "BIO-HEME-001-11",
+          "question": "Hemoliz, hepatoselüler hasar ve kolestazda bilirubin örüntüsü nasıl ayrılır?",
+          "answer": "Hemoliz: indirekt bilirubin ↑. Hepatoselüler hasar: karma artış. Kolestaz: direkt bilirubin ve ALP/GGT belirgin ↑.",
+          "explanation": "Kolestazda konjuge bilirubin idrara geçebilir ve koyu idrar/açık dışkı görülebilir."
+        },
+        {
+          "id": "BIO-HEME-001-12",
+          "question": "Akut intermittan porfiri ile porfiria kutanea tarda, klinik fenotip açısından nasıl ayrılır?",
+          "answer": "Akut intermittan porfiri nörovisseral atak yapar, fotosensitivite yapmaz; PCT büllöz fotosensitivite yapar, tipik akut nörovisseral atak yapmaz.",
+          "explanation": "Karın ağrısı + nöropati AIP; güneş gören deride bül ve frajilite PCT lehinedir."
+        }
+      ]
+    },
+    {
+      "id": "biochemistry-integrated-metabolism",
+      "title": "Biyokimya · Entegre metabolizma ve hormonal düzenleme",
+      "cards": [
+        {
+          "id": "BIO-INT-001-01",
+          "question": "Toklukta yüksek insülin/glukagon oranı karaciğerde hangi yolları artırır?",
+          "answer": "Glikojenez, glikoliz, pentoz fosfat yolu ve lipogenez artar; glukoneogenez ve ketogenez baskılanır.",
+          "explanation": "İnsülin anabolik depolamayı destekler; glukagonun karaciğer etkilerine karşı çalışır."
+        },
+        {
+          "id": "BIO-INT-001-02",
+          "question": "Açlığın erken döneminde kan glukozunu başlıca hangi iki karaciğer yolu korur?",
+          "answer": "Önce glikojenoliz, eş zamanlı olarak glukoneogenez; uzayan açlıkta glikojen tükenince glukoneogenez baskınlaşır.",
+          "explanation": "Karaciğer glikojen depoları yaklaşık ilk 12–24 saatte belirgin azalır; süre kişiye ve başlangıç depolarına bağlıdır."
+        },
+        {
+          "id": "BIO-INT-001-03",
+          "question": "Uzamış açlıkta glukoneogenez için başlıca karbon kaynakları nelerdir?",
+          "answer": "Laktat, alanin ve diğer glukojenik aminoasitler, gliserol.",
+          "explanation": "Çift zincirli yağ asitlerinden net glukoz üretilemez; gliserol glukoneogeneze katılabilir."
+        },
+        {
+          "id": "BIO-INT-001-04",
+          "question": "Uzamış açlıkta beyin ve eritrositlerin yakıt kullanımı nasıl ayrılır?",
+          "answer": "Beyin keton cisimlerini artan ölçüde kullanır; eritrositler mitokondrileri olmadığı için yalnız glikolizle ATP üretir ve laktat oluşturur.",
+          "explanation": "Eritrositler yağ asidi veya keton okside edemez; beyin uzun açlıkta bile bir miktar glukoza ihtiyaç duyar."
+        },
+        {
+          "id": "BIO-INT-001-05",
+          "question": "Kas glikojeni neden kan glukozunu doğrudan yükseltemez?",
+          "answer": "İskelet kasında glukoz-6-fosfataz yoktur; glikojen kaynaklı G6P kas içinde glikolize girer.",
+          "explanation": "Karaciğer ve böbrek G6Paz ile serbest glukoz sağlayabilir."
+        },
+        {
+          "id": "BIO-INT-001-06",
+          "question": "Cori döngüsü ile glukoz-alanin döngüsünün temel farkı nedir?",
+          "answer": "Cori: kas/RBC laktatı karaciğerde glukoza çevrilir. Glukoz-alanin: kastan alanin azotu da karaciğere taşır; glukoz ve üre oluşumuna katkı verir.",
+          "explanation": "Alanin transaminasyonla pirüvata dönüşür; amino azotu üre döngüsüne aktarılır."
+        },
+        {
+          "id": "BIO-INT-001-07",
+          "question": "İnsülin kas ve yağ dokusunda glukoz alımını hangi taşıyıcıyla artırır?",
+          "answer": "GLUT4'ün hücre zarına translokasyonunu artırır.",
+          "explanation": "GLUT1 ve GLUT3 büyük ölçüde insülinden bağımsızdır; GLUT2 karaciğer ve pankreas β hücresinde bulunur."
+        },
+        {
+          "id": "BIO-INT-001-08",
+          "question": "Açlıkta yağ dokusu lipolizi ve karaciğer ketogenezi nasıl eşleşir?",
+          "answer": "Düşük insülin/yüksek karşı düzenleyici hormonlar lipolizi artırır; serbest yağ asitleri karaciğerde β-oksidasyon ve ketogenezi besler.",
+          "explanation": "Yağ dokusu gliserolü glukoneogeneze; yağ asitlerini enerji ve keton üretimine sağlar."
+        },
+        {
+          "id": "BIO-INT-001-09",
+          "question": "Alkol metabolizması açlıkta neden hipoglisemi ve laktik asidoz yapabilir?",
+          "answer": "Etanol oksidasyonu NADH/NAD⁺ oranını artırır; pirüvat laktata, oksaloasetat malata kayar ve glukoneogenez baskılanır.",
+          "explanation": "Açlıkta glikojen depoları düşük olduğundan hipoglisemi riski belirginleşir."
+        },
+        {
+          "id": "BIO-INT-001-10",
+          "question": "Karaciğer, iskelet kası ve yağ dokusunun temel metabolik görevleri nasıl ayrılır?",
+          "answer": "Karaciğer kan glukozu ve keton üretimini düzenler; kas kendi ATP ihtiyacı için yakıt kullanır; yağ dokusu trigliserid depolar ve açlıkta yağ asidi/gliserol salar.",
+          "explanation": "Karaciğer keton üretir ama SCOT olmadığı için ketonları kullanamaz; kas ketonları kullanabilir."
+        }
+      ]
+    },
+    {
+      "id": "biochemistry-clinical-diagnostics",
+      "title": "Biyokimya · Klinik biyokimyasal tanı ve laboratuvar örüntüleri",
+      "cards": [
+        {
+          "id": "BIO-DIAG-001-01",
+          "question": "Hepatoselüler hasar ile kolestatik hasarı aminotransferaz ve ALP üzerinden nasıl ayırırsın?",
+          "answer": "Hepatoselüler: ALT/AST belirgin artar. Kolestatik: ALP ve GGT belirgin artar.",
+          "explanation": "ALP tek başına kemik kaynaklı da olabilir; GGT eşlik etmesi hepatobiliyer kaynağı destekler."
+        },
+        {
+          "id": "BIO-DIAG-001-02",
+          "question": "ALP yüksekliğinin karaciğer mi kemik mi kaynaklı olduğunu hangi test destekler?",
+          "answer": "GGT; ALP ile birlikte GGT yüksekliği hepatobiliyer kaynağı destekler.",
+          "explanation": "GGT kemik hastalıklarında genellikle yükselmez; izole ALP artışında kemik kaynakları düşünülür."
+        },
+        {
+          "id": "BIO-DIAG-001-03",
+          "question": "AST/ALT oranının 2'nin üzerinde olması hangi klinik bağlamı düşündürür?",
+          "answer": "Alkole bağlı karaciğer hasarını destekler; tek başına tanı koydurmaz.",
+          "explanation": "AST mitokondriyal kaynaklardan da salınır; ileri karaciğer hastalığında oran değişebilir."
+        },
+        {
+          "id": "BIO-DIAG-001-04",
+          "question": "Akut pankreatit şüphesinde hangi serum enzimi daha özgül ve uzun süre yüksek kalır?",
+          "answer": "Lipaz; amilazdan daha özgüldür ve genellikle daha uzun süre yüksek kalır.",
+          "explanation": "Trigliserid yüksekliği, alkol ve safra taşları sık nedenlerdir; enzim düzeyi tek başına şiddeti göstermez."
+        },
+        {
+          "id": "BIO-DIAG-001-05",
+          "question": "Laktat artışı hangi temel mekanizma veya klinik durumlarda görülür?",
+          "answer": "Doku hipoperfüzyonu/hipoksi, mitokondriyal oksidasyon bozukluğu, nöbet ve bazı ilaç/toksinler laktatı artırabilir.",
+          "explanation": "Laktat yüksekliği anaerobik glikolizle sınırlı değildir; klirens azalması, özellikle karaciğer işlev bozukluğu da katkıda bulunur."
+        },
+        {
+          "id": "BIO-DIAG-001-06",
+          "question": "Nitroprussid keton testi hangi keton cismini zayıf saptar ve bu neden önemlidir?",
+          "answer": "β-hidroksibütiratı saptamaz veya zayıf saptar; asetoasetatı daha iyi saptar.",
+          "explanation": "DKA'da β-hidroksibütirat baskın olabilir; nitroprussid testi ketozisin şiddetini olduğundan düşük gösterebilir."
+        },
+        {
+          "id": "BIO-DIAG-001-07",
+          "question": "Hiperamonyemide üre döngüsü bozukluğunu düşündüren biyokimyasal temel bulgu nedir?",
+          "answer": "Amonyak yüksekliği; sıklıkla solunumsal alkaloz ve düşük BUN eşlik edebilir.",
+          "explanation": "Üre döngüsü kusurlarında metabolik asidoz ve yüksek anyon açıklığı tipik değildir; organik asidemilerle ayrım önemlidir."
+        },
+        {
+          "id": "BIO-DIAG-001-08",
+          "question": "Yüksek anyon açıklı metabolik asidozda hangi temel hesaplama ve düzeltme kullanılır?",
+          "answer": "Anyon açıklığı = Na⁺ − (Cl⁻ + HCO₃⁻); albümin düşükse açıklık albümine göre düzeltilmelidir.",
+          "explanation": "Hipoalbüminemi ölçülen anyon açıklığını düşürür ve yüksek açıklığı maskeleyebilir."
+        },
+        {
+          "id": "BIO-DIAG-001-09",
+          "question": "HbA1c hangi süreyi yaklaşık yansıtır ve hangi durumda yanıltıcı olabilir?",
+          "answer": "Yaklaşık son 2–3 aylık glisemiyi, yakın haftalara daha fazla ağırlık vererek yansıtır.",
+          "explanation": "Hemoliz, yakın kan kaybı/transfüzyon, hemoglobin varyantları ve eritrosit ömrünü değiştiren durumlar sonucu bozabilir."
+        },
+        {
+          "id": "BIO-DIAG-001-10",
+          "question": "İndirekt bilirubin ile direkt bilirubin idrarda nasıl farklı davranır?",
+          "answer": "İndirekt bilirubin albümine bağlı ve suda çözünmez; idrarda bulunmaz. Direkt bilirubin suda çözünür ve idrara geçebilir.",
+          "explanation": "Koyu idrar konjuge hiperbilirubinemiyi destekler; hemolizde izole indirekt artış idrar bilirubini yapmaz."
+        }
+      ]
     }
   ]
 }
