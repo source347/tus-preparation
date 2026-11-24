@@ -10,4 +10,4 @@ Pediatri kartları; yenidoğan, büyüme-gelişim, beslenme, koruyucu sağlık v
 
 ## Kaynak standardı
 
-Klinik öneriler güncel kılavuzlarla doğrulanır. Türkiye ulusal aşı takvimi gibi ülkeye özgü uygulamalarda güncel Sağlık Bakanlığı şeması esas alınır; değişebilen eşik ve dozlar kaynakla birlikte değerlendirilir.
+Neonatal resüsitasyon kartları 2025 AHA/AAP önerileriyle; büyüme-gelişim ve beslenme kartları WHO, CDC ve AAP kaynaklarıyla; aşılama kartları T.C. Sağlık Bakanlığının 2025 ulusal takvimiyle uyumludur. Klinik öneriler güncel kılavuzlarla doğrulanır. Ülkeye özgü uygulamalarda güncel Sağlık Bakanlığı şeması esas alınır; değişebilen eşik ve dozlar kaynakla birlikte değerlendirilir.
