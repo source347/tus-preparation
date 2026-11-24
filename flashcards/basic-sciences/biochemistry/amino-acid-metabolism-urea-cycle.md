@@ -102,7 +102,7 @@
 
 ### 17. Tirozinemi tip I için en ayırt ettirici metabolik belirteç ve eksik enzim nedir?
 
-**C:** Süksinilaseton artışı; fum arilasetoasetat hidrolaz (FAH) eksikliği.
+**C:** Süksinilaseton artışı; fumarylasetoasetat hidrolaz (FAH) eksikliği.
 
 **Neden önemli?:** Hepatorenal hasar, karaciğer yetmezliği ve renal tübülopati yapabilir; nitisinon toksik metabolit oluşumunu azaltır.
 
