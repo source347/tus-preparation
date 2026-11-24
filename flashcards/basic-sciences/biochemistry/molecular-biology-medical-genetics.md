@@ -80,9 +80,9 @@ Bu deste, biyokimya ile doğrudan kesişen moleküler mekanizmaları ve TUS'ta s
 
 **Ayırt ettiren nokta:** Otozomal dominanttır; tekrar sayısı arttıkça daha erken başlangıç ve ağır hastalık görülebilir.
 
-## 14. Fra­jil X sendromunda hangi tekrar genişler ve gen susturulması nasıl gelişir?
+## 14. Fragil X sendromunda hangi tekrar genişler ve gen susturulması nasıl gelişir?
 
-**Yanıt:** FMR1 geninin 5′ UTR bölgesinde CGG tekrar genişlemesi; tam mutasyonda promoter hip metilasyonu FMR1 ekspresyonunu baskılar.
+**Yanıt:** FMR1 geninin 5′ UTR bölgesinde CGG tekrar genişlemesi; tam mutasyonda promotör hipermetilasyonu FMR1 ekspresyonunu baskılar.
 
 **Ayırt ettiren nokta:** X'e bağlı kalıtım gösterir; büyük tekrar genişlemesi özellikle maternal geçişte görülür. Premutasyon taşıyıcılarında farklı ilişkili tablolar olabilir.
 
