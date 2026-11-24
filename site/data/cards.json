@@ -8243,6 +8243,1518 @@
           "explanation": "İntravenöz demir seçimi klinik gereksinim, preparat özellikleri ve infüzyon reaksiyonu/hipofosfatemi gibi risklere göre yapılır."
         }
       ]
+    },
+    {
+      "id": "internal-medicine-hematology-hemolytic-anemias",
+      "title": "Dahiliye · Hemolitik anemiler",
+      "cards": [
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-01",
+          "question": "Hemoliz laboratuvarında beklenen temel değişiklikler nelerdir?",
+          "answer": "LDH ve indirekt bilirubin artar, haptoglobin azalır; retikülositoz gelişebilir.",
+          "explanation": "İntravasküler hemolizde serbest Hb haptoglobini tüketir; retikülosit yanıtı kemik iliği kapasitesine bağlıdır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-02",
+          "question": "İntravasküler hemoliz lehine hangi bulgular vardır?",
+          "answer": "Hemoglobinemi, hemoglobinüri, hemosiderinüri ve belirgin haptoglobin düşüklüğü.",
+          "explanation": "Dolaşımdaki eritrosit yıkımı serbest hemoglobin açığa çıkarır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-03",
+          "question": "Ekstravasküler hemoliz en çok nerede gerçekleşir?",
+          "answer": "Dalak ve karaciğer makrofajlarında.",
+          "explanation": "Membranı/şekli bozulmuş eritrositler retiküloendotelyal sistemde tutulur; splenomegali ve indirekt hiperbilirubinemi görülebilir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-04",
+          "question": "Hemolitik anemide periferik yayma neden önemlidir?",
+          "answer": "Şistosit, sferosit, orak hücre, hedef hücre ve bite cell gibi morfolojiler etiyolojiye yönlendirir.",
+          "explanation": "Yayma, laboratuvar hemoliz bulgularını mekanizma ile eşleştirir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-05",
+          "question": "Direkt antiglobulin testi (DAT/ direkt Coombs) neyi gösterir?",
+          "answer": "Eritrosit yüzeyine bağlanmış IgG ve/veya komplemanı saptar.",
+          "explanation": "Pozitif DAT immün hemolizi destekler; tek başına klinik hemoliz tanısı koydurmaz."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-06",
+          "question": "Sıcak otoimmün hemolitik aneminin tipik özellikleri nelerdir?",
+          "answer": "Genellikle IgG aracılıdır, 37 °C'de aktiftir; ekstravasküler hemoliz ve sferosit görülebilir.",
+          "explanation": "DAT çoğunlukla IgG pozitiftir; tedavide ilk basamak kortikosteroiddir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-07",
+          "question": "Soğuk aglutinin hastalığında hangi immünoglobulin ve mekanizma öne çıkar?",
+          "answer": "IgM; kompleman aktivasyonu, özellikle C3b aracılı eritrosit yıkımı.",
+          "explanation": "Soğukta aglütinasyon ve akral siyanoz görülebilir; DAT çoğunlukla C3 pozitiftir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-08",
+          "question": "Sıcak otoimmün hemolizde ilk basamak tedavi nedir?",
+          "answer": "Kortikosteroid; ağır veya dirençli olguda rituksimab ve diğer seçenekler değerlendirilir.",
+          "explanation": "Tedavi altta yatan neden ve hemoliz şiddetine göre hematolojiyle düzenlenir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-09",
+          "question": "Soğuk aglutinin hastalığında temel destek yaklaşımı nedir?",
+          "answer": "Soğuktan korunma; klinik olarak anlamlı olguda rituksimab temelli tedavi seçenekleri.",
+          "explanation": "Steroid ve splenektomi sıcak tip kadar etkili değildir; transfüzyon/örnek işlemleri ısı yönetimi gerektirebilir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-10",
+          "question": "Mikroanjiyopatik hemolitik aneminin yayma bulgusu nedir?",
+          "answer": "Şistositler (helmet hücreleri).",
+          "explanation": "TTP, HUS, DIC ve mekanik kapak hemolizi ayırıcı tanıdadır; acil nedenler hızla dışlanır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-11",
+          "question": "TTP'de temel patofizyoloji ve laboratuvar ipucu nedir?",
+          "answer": "ADAMTS13 aktivitesi ağır azalır; trombositopeni ve şistositik hemoliz görülür.",
+          "explanation": "Nörolojik bulgu, böbrek etkilenmesi ve ateş eşlik edebilir; koagülasyon testleri çoğu kez normaldir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-12",
+          "question": "TTP şüphesinde tedavi nasıl başlatılır?",
+          "answer": "ADAMTS13 sonucu beklenmeden acil terapötik plazma değişimi ve kortikosteroid; uygun olguda kaplasizumab/rituksimab.",
+          "explanation": "Tedavinin gecikmesi mortaliteyi artırır; trombosit transfüzyonundan genellikle kaçınılır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-13",
+          "question": "DIC'yi TTP'den ayıran tipik koagülasyon profili nedir?",
+          "answer": "DIC'de PT/aPTT uzayabilir, fibrinojen düşer ve D-dimer artar; TTP'de koagülasyon testleri genellikle korunur.",
+          "explanation": "Her iki tabloda şistosit ve trombositopeni olabilir; ayrım acil yönetimi değiştirir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-14",
+          "question": "G6PD eksikliğinde oksidatif stres sonrası yaymada ne görülür?",
+          "answer": "Bite cell ve blister cell; supravital boyada Heinz cisimcikleri.",
+          "explanation": "Okside hemoglobin denatüre olur; dalak Heinz cisimciklerini uzaklaştırırken eritrosit membranından parça koparır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-15",
+          "question": "G6PD eksikliğinde hemolizi tetikleyebilen durumlar nelerdir?",
+          "answer": "Enfeksiyonlar, bakla ve oksidan ilaçlar (örn. dapson, primakin, rasburikaz).",
+          "explanation": "Tetikleyicilerden kaçınma esastır; akut atakta destek tedavisi verilir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-16",
+          "question": "Herediter sferositozun temel membran protein kusurları nelerdir?",
+          "answer": "Spektrin, ankirin, band 3 veya protein 4.2 kusurları.",
+          "explanation": "Membran kaybı sferosit oluşturur; MCHC artışı ve dalakta ekstravasküler hemoliz tipiktir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-17",
+          "question": "Herediter sferositoz tanısında hangi testler kullanılır?",
+          "answer": "Eozin-5-maleimid (EMA) bağlanma testi; uygun laboratuvarda ozmotik frajilite/ektasitometri.",
+          "explanation": "DAT negatiftir; sferosit tek başına otoimmün hemolizden ayırmaz."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-18",
+          "question": "Orak hücre hastalığında akut göğüs sendromu nasıl tanımlanır?",
+          "answer": "Yeni pulmoner infiltratla birlikte ateş ve/veya solunum semptomları.",
+          "explanation": "Enfeksiyon, yağ embolisi ve pulmoner vaso-oklüzyon tetikleyebilir; oksijen, antibiyotik, analjezi ve uygun olguda transfüzyon gerekir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-19",
+          "question": "Orak hücre hastalığında hidroksiüre hangi mekanizmayla yarar sağlar?",
+          "answer": "HbF düzeyini artırarak HbS polimerizasyonunu ve vaso-oklüzif atakları azaltır.",
+          "explanation": "Kriz ve akut göğüs sendromu sıklığını azaltabilir; kan sayımı izlenir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-HEMOLYTIC-ANEMIAS-20",
+          "question": "Paroksismal noktürnal hemoglobinürinin moleküler temeli nedir?",
+          "answer": "PIGA mutasyonu nedeniyle GPI-ankorlu CD55/CD59 eksikliği; kompleman aracılı intravasküler hemoliz.",
+          "explanation": "Hemoliz, sitopeniler ve atipik bölgelerde tromboz görülebilir; kompleman inhibitörleri tedavide kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-hematology-malignancies",
+      "title": "Dahiliye · Lösemi, lenfoma ve plazma hücre hastalıkları",
+      "cards": [
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-01",
+          "question": "Akut lösemi tanısında kemik iliğinde blast oranı için klasik eşik nedir?",
+          "answer": "Genellikle ≥%20 blast; bazı genetik olarak tanımlanmış AML alt tiplerinde bu eşik aranmayabilir.",
+          "explanation": "Tanı morfoloji, immünfenotip ve sitogenetik/moleküler bulgularla birlikte konur."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-02",
+          "question": "AML ile ALL ayrımında hangi belirteçler yardımcıdır?",
+          "answer": "AML: miyeloperoksidaz (MPO), CD13/CD33; B-ALL: CD10/CD19/CD79a; T-ALL: sitoplazmik/surface CD3.",
+          "explanation": "Akım sitometrisi hücre soyunu ve alt tipi belirler."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-03",
+          "question": "Akut promiyelositik lösemi (APL) hangi genetik değişiklikle ilişkilidir?",
+          "answer": "PML::RARA füzyonu, klasik olarak t(15;17).",
+          "explanation": "DIC riski yüksektir; şüphede ATRA gecikmeden başlanır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-04",
+          "question": "APL'de başlangıç tedavisinde acil yaklaşım nedir?",
+          "answer": "APL şüphesinde moleküler doğrulama beklenmeden ATRA başlanır; koagülopati agresif desteklenir.",
+          "explanation": "Erken ölümün önemli nedeni kanamadır; trombosit ve fibrinojen hedefleri yakından izlenir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-05",
+          "question": "Kronik miyeloid löseminin tanımlayıcı moleküler bulgusu nedir?",
+          "answer": "BCR::ABL1 füzyonu, Philadelphia kromozomu t(9;22).",
+          "explanation": "Konstitutif tirozin kinaz aktivitesi oluşturur; tedavide tirozin kinaz inhibitörleri kullanılır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-06",
+          "question": "KML'de lökosit alkalen fosfataz (LAP) klasik olarak nasıldır?",
+          "answer": "Düşüktür; lökemoid reaksiyonda genellikle yüksektir.",
+          "explanation": "Günümüzde BCR::ABL1 testi ayırıcı tanıda daha belirleyicidir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-07",
+          "question": "KLL için tipik periferik kan ve immünfenotip bulgusu nedir?",
+          "answer": "Olgun görünümlü küçük lenfositler, smudge cell; CD5+, CD23+ klonal B hücreleri.",
+          "explanation": "Asemptomatik erken evrede her hastaya hemen tedavi başlanmaz; aktif hastalık kriterleri aranır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-08",
+          "question": "Hodgkin lenfomada klasik Reed–Sternberg hücresi hangi belirteçleri taşır?",
+          "answer": "CD15+ ve CD30+; çoğunlukla zayıf PAX5 pozitiftir.",
+          "explanation": "Klasik Hodgkin lenfomada karakteristik morfoloji ve immünfenotip tanıyı destekler."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-09",
+          "question": "Hodgkin lenfomanın yayılım paterni nasıldır?",
+          "answer": "Komşu lenf nodu istasyonlarına düzenli/ardışık yayılım eğilimindedir.",
+          "explanation": "NHL'ye göre daha öngörülebilir nodal yayılım klasik sınav ayrımıdır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-10",
+          "question": "Diffüz büyük B hücreli lenfomanın klinik davranışı nasıldır?",
+          "answer": "Agresif seyirli, hızlı büyüyen B hücreli NHL; küratif tedavi mümkün olabilir.",
+          "explanation": "R-CHOP benzeri immünokemoterapi temel tedavi yaklaşımlarındandır; alt tip ve risk belirleyicidir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-11",
+          "question": "Burkitt lenfoma hangi genetik olayla ilişkilidir?",
+          "answer": "MYC yeniden düzenlenmesi; klasik olarak t(8;14) ile IGH::MYC.",
+          "explanation": "Çok hızlı proliferasyon, yıldızlı gökyüzü görünümü ve tümör lizis riski tipiktir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-12",
+          "question": "Foliküler lenfomanın karakteristik translokasyonu nedir?",
+          "answer": "t(14;18), BCL2 aşırı ekspresyonu.",
+          "explanation": "Apoptoz baskılanır; sıklıkla indolent seyir ve kemik iliği tutulumu görülür."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-13",
+          "question": "Multipl miyelomda CRAB bulguları nelerdir?",
+          "answer": "Hiperkalsemi, renal yetmezlik, anemi ve kemik lezyonları.",
+          "explanation": "SLiM-CRAB ölçütleriyle miyelom tanısı ve tedavi gerekliliği değerlendirilir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-14",
+          "question": "Multipl miyelomda serum protein elektroforezinde tipik bulgu nedir?",
+          "answer": "Monoklonal protein (M-spike); hafif zincir hastalığında yalnızca serbest hafif zincir artışı olabilir.",
+          "explanation": "İmmünfiksasyon ve serum serbest hafif zincir testi değerlendirmeyi tamamlar."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-15",
+          "question": "Waldenström makroglobulinemisinde hangi immünoglobulin artar?",
+          "answer": "IgM.",
+          "explanation": "Hiperviskozite, nöropati ve lenfoplazmasitik kemik iliği infiltrasyonu görülebilir; litik kemik lezyonları tipik değildir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-16",
+          "question": "Tümör lizis sendromunda beklenen elektrolit değişiklikleri nelerdir?",
+          "answer": "Hiperkalemi, hiperfosfatemi, sekonder hipokalsemi ve hiperürisemi.",
+          "explanation": "Akut böbrek hasarı ve aritmi riski taşır; hidrasyon ve risk düzeyine göre allopurinol/rasburikaz kullanılır."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-17",
+          "question": "Tümör lizis sendromunda rasburikaz ne yapar?",
+          "answer": "Ürik asidi allantoin'e dönüştürür.",
+          "explanation": "G6PD eksikliğinde hemoliz/methemoglobinemi riski nedeniyle kontrendikedir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-18",
+          "question": "Febril nötropenide başlangıç yaklaşımı nedir?",
+          "answer": "Gecikmeden kültürler alınır ve antipseudomonal IV beta-laktam (örn. sefepim, piperasilin-tazobaktam veya meropenem) başlanır.",
+          "explanation": "Antibiyotik kültür sonucunu beklememelidir; klinik instabilite ve direnç riskine göre kapsam genişletilir."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-19",
+          "question": "Lenfomada evreleme için hangi sistem yaygındır?",
+          "answer": "Lugano sınıflaması (Ann Arbor temelli); PET/BT FDG-avid lenfomalarda önemlidir.",
+          "explanation": "Evreleme tedavi yoğunluğunu ve prognozu etkiler."
+        },
+        {
+          "id": "IM-HEMATOLOGY-MALIGNANCIES-20",
+          "question": "Kemik iliği baskılanmasına bağlı pansitopenide ilk değerlendirme hangi testleri içerir?",
+          "answer": "Tam kan sayımı, retikülosit, periferik yayma; klinik bağlama göre B12/folat, hemoliz testleri ve kemik iliği incelemesi.",
+          "explanation": "Düşük retikülosit üretim kusurunu düşündürür; blast veya displazi acil hematoloji değerlendirmesi gerektirir."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-cardiology-hypertension",
+      "title": "Dahiliye · Hipertansiyon",
+      "cards": [
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-01",
+          "question": "Hipertansiyon tanısı tek bir ölçümle konur mu?",
+          "answer": "Genellikle hayır; doğru teknikle tekrarlanan ofis ölçümleri ve mümkünse ev/ambulatuvar ölçümlerle doğrulanır.",
+          "explanation": "Beyaz önlük ve maskeli hipertansiyon tanıyı değiştirebilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-02",
+          "question": "Ofis kan basıncı ölçümünde hangi teknik hatalar yalancı yüksekliğe yol açar?",
+          "answer": "Uygun olmayan manşon, desteklenmeyen sırt/kol, konuşma, dolu mesane, yakın zamanda kafein/sigara/egzersiz.",
+          "explanation": "Ölçüm öncesi dinlenme, uygun manşon ve kolun kalp hizasında olması gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-03",
+          "question": "Beyaz önlük hipertansiyonu nedir?",
+          "answer": "Ofis ölçümü yüksek, ev veya ambulatuvar ölçümler normaldir.",
+          "explanation": "Tedavi kararı toplam kardiyovasküler risk ve dış ölçümlerle verilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-04",
+          "question": "Maskeli hipertansiyon nedir?",
+          "answer": "Ofis ölçümü normal, ev veya ambulatuvar kan basıncı yüksektir.",
+          "explanation": "Hedef organ hasarı ve kardiyovasküler risk nedeniyle gözden kaçırılmamalıdır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-05",
+          "question": "Hipertansif acil durum nasıl tanımlanır?",
+          "answer": "Belirgin yüksek kan basıncına eşlik eden akut hedef organ hasarı.",
+          "explanation": "Sayı tek başına acil durum değildir; ensefalopati, akut koroner sendrom, pulmoner ödem, aort diseksiyonu gibi hasar aranır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-06",
+          "question": "Hipertansif acil durumda kan basıncı ne hızda düşürülür?",
+          "answer": "Çoğu tabloda ilk saatte ortalama arter basıncı yaklaşık %20–25'ten fazla düşürülmez; özel durumlar farklı hedef gerektirir.",
+          "explanation": "Aşırı hızlı düşüş serebral/koroner/renal hipoperfüzyon oluşturabilir; aort diseksiyonu ve inme ayrı protokollere sahiptir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-07",
+          "question": "Hipertansif acilde hangi tedavi yolu tercih edilir?",
+          "answer": "Yakın monitorizasyon altında titre edilebilir IV antihipertansifler.",
+          "explanation": "İlaç seçimi hedef organ hasarına göre yapılır; asemptomatik yüksek ölçümde IV hızlı düşürme gerekmez."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-08",
+          "question": "Komplike olmayan primer hipertansiyonda temel ilk basamak ilaç sınıfları nelerdir?",
+          "answer": "Tiyazid/tiazid benzeri diüretik, ACE inhibitörü/ARB veya uzun etkili dihidropiridin kalsiyum kanal blokeri.",
+          "explanation": "Komorbidite ve hasta özellikleri ilaç seçimini belirler."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-09",
+          "question": "ACE inhibitörü ile ARB birlikte kullanılmalı mıdır?",
+          "answer": "Hayır; rutin kombinasyon önerilmez.",
+          "explanation": "Hiperkalemi, hipotansiyon ve akut böbrek hasarı riski artar; tek RAAS blokeri seçilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-10",
+          "question": "Gebelikte hipertansiyonda hangi ilaçlardan kaçınılır?",
+          "answer": "ACE inhibitörleri, ARB'ler ve direkt renin inhibitörleri.",
+          "explanation": "Fetotoksisite nedeniyle gebelikte kullanılmaz; labetalol, nifedipin ve metildopa uygun seçeneklerdir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-11",
+          "question": "Hipertansiyonda ACE inhibitörü/ARB özellikle hangi eşlik eden durumda tercih edilir?",
+          "answer": "Albuminürik kronik böbrek hastalığı ve uygun diyabetik böbrek hastalığında.",
+          "explanation": "Kreatinin ve potasyum başlangıçta ve doz artışından sonra izlenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-12",
+          "question": "ACE inhibitörü başlandıktan sonra kreatininde hafif artış nasıl yorumlanır?",
+          "answer": "Hemodinamik eGFR düşüşü nedeniyle sınırlı artış görülebilir; yaklaşık %30'a kadar artış klinik bağlamda kabul edilebilir.",
+          "explanation": "Daha büyük artışta volüm kaybı, NSAİİ, renal arter stenozu ve diğer nedenler araştırılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-13",
+          "question": "Dirençli hipertansiyon nedir?",
+          "answer": "Uygun dozda üç farklı sınıf (genellikle diüretik dahil) ilaca rağmen kontrolsüzlük veya kontrol için ≥4 ilaç gereksinimi.",
+          "explanation": "Uyum, ölçüm tekniği, beyaz önlük etkisi ve sekonder nedenler doğrulanmadan dirençli denmez."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-14",
+          "question": "Dirençli hipertansiyonda dördüncü ilaç olarak hangi ajan sıklıkla kullanılır?",
+          "answer": "Potasyum ve böbrek fonksiyonu uygunsa spironolakton.",
+          "explanation": "Hiperkalemi ve jinekomasti izlenir; eGFR/potasyum kısıtları dikkate alınır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-15",
+          "question": "Primer hiperaldosteronizm hangi klinik ipuçlarıyla düşünülür?",
+          "answer": "Dirençli hipertansiyon, spontan/diüretik ilişkili hipokalemi, adrenal insidentaloma veya erken başlangıçlı hipertansiyon.",
+          "explanation": "Hipokalemi zorunlu değildir; tarama aldosteron-renin oranıyla yapılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-16",
+          "question": "Feokromositomada tipik atak triadı nedir?",
+          "answer": "Baş ağrısı, çarpıntı ve terleme; paroksismal hipertansiyon eşlik edebilir.",
+          "explanation": "Tanıda plazma serbest veya idrar fraksiyone metanefrinler kullanılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-17",
+          "question": "Feokromositoma cerrahisi öncesi alfa ve beta blokaj sırası nasıldır?",
+          "answer": "Önce alfa blokaj, yeterli alfa blokajdan sonra gerekirse beta blokaj.",
+          "explanation": "Önce beta blokaj verilmesi karşılanmamış alfa vazokonstriksiyonuyla hipertansif krizi tetikleyebilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-18",
+          "question": "Renal arter stenozunda ACE inhibitörü/ARB sonrası hangi bulgu uyarıcıdır?",
+          "answer": "Özellikle bilateral stenoz veya tek fonksiyonel böbrekte belirgin kreatinin artışı.",
+          "explanation": "RAAS blokajı efferent arteriyolü genişletip GFR'yi düşürür."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-19",
+          "question": "Hipertansif hastada hedef organ değerlendirmesinde hangi testler temel olabilir?",
+          "answer": "Kreatinin/eGFR, elektrolitler, idrar albumin-kreatinin oranı, EKG ve klinik gereğinde göz dibi değerlendirmesi.",
+          "explanation": "Hedef organ hasarı kardiyovasküler risk sınıflamasını ve tedaviyi etkiler."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HYPERTENSION-20",
+          "question": "Hipertansiyonda yaşam tarzı müdahalelerinin temel bileşenleri nelerdir?",
+          "answer": "Tuz kısıtlaması, DASH benzeri beslenme, kilo kaybı, düzenli egzersiz, alkolün azaltılması ve sigaranın bırakılması.",
+          "explanation": "İlaç tedavisinin yerine geçmez; kan basıncı ve toplam riski azaltır."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-cardiology-acs",
+      "title": "Dahiliye · Akut koroner sendrom",
+      "cards": [
+        {
+          "id": "IM-CARDIOLOGY-ACS-01",
+          "question": "Akut koroner sendromun temel klinik alt grupları nelerdir?",
+          "answer": "ST elevasyonlu MI (STEMI), ST elevasyonsuz MI (NSTEMI) ve kararsız angina.",
+          "explanation": "EKG ve seri troponin ayrımı yapar; reperfüzyon aciliyeti özellikle STEMI'de belirgindir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-02",
+          "question": "Miyokard enfarktüsü tanısında troponin nasıl yorumlanır?",
+          "answer": "En az bir ölçümün 99. persentil üst referans sınırını aşması ve yükselme/düşme paterni ile iskemi kanıtı gerekir.",
+          "explanation": "Troponin yüksekliği tek başına MI değildir; miyokard hasarı ve klinik iskemi birlikte değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-03",
+          "question": "STEMI'de reperfüzyon stratejisinin temel tercihi nedir?",
+          "answer": "Zamanında yapılabiliyorsa primer PCI; PCI gecikecekse uygun hastada fibrinoliz değerlendirilir.",
+          "explanation": "Semptom başlangıcı, kontrendikasyon ve PCI erişim süresi kararı belirler."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-04",
+          "question": "Fibrinoliz hangi AKS tablosunda kullanılmaz?",
+          "answer": "NSTEMI ve kararsız anginada kullanılmaz.",
+          "explanation": "Fibrinoliz STEMI'de uygun zaman penceresi ve kontrendikasyon yokluğunda düşünülür."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-05",
+          "question": "STEMI'de fibrinoliz için mutlak kontrendikasyon örnekleri nelerdir?",
+          "answer": "Önceki intrakraniyal kanama, aktif kanama, yakın dönem ciddi intrakraniyal cerrahi/yaralanma ve şüpheli aort diseksiyonu.",
+          "explanation": "Kanama riski yarar-zarar değerlendirmesini değiştirebilir; güncel liste protokolden kontrol edilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-06",
+          "question": "AKS'de ilk değerlendirmede EKG ne zaman çekilmelidir?",
+          "answer": "İlk tıbbi temastan sonra mümkün olan en kısa sürede, hedef genellikle 10 dakika içindedir.",
+          "explanation": "İlk EKG tanısal olmayabilir; semptom sürerse seri EKG gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-07",
+          "question": "AKS'de aspirin nasıl verilir?",
+          "answer": "Kontrendikasyon yoksa çiğnetilerek yükleme dozu, ardından düşük doz idame.",
+          "explanation": "Trombosit COX-1'i irreversibl inhibe eder; alerji/aktif ciddi kanama dikkate alınır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-08",
+          "question": "AKS'de ikili antiplatelet tedavi hangi iki mekanizmayı hedefler?",
+          "answer": "Aspirin ile P2Y12 inhibitörü (klopidogrel, tikagrelor veya prasugrel).",
+          "explanation": "Seçim ve süre iskemi, kanama riski, PCI ve eşlik eden antikoagülasyona göre belirlenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-09",
+          "question": "AKS'de nitrat hangi durumda verilmemelidir?",
+          "answer": "Hipotansiyon, sağ ventrikül infarktüsü şüphesi veya yakın zamanda PDE-5 inhibitörü kullanımı.",
+          "explanation": "Preload düşüşü hemodinamik bozulma oluşturabilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-10",
+          "question": "AKS'de oksijen herkese rutin verilir mi?",
+          "answer": "Hayır; hipoksemi, solunum sıkıntısı veya oksijen satürasyonu düşük hastada verilir.",
+          "explanation": "Normoksemik hastada rutin oksijen yarar sağlamaz ve gereksiz olabilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-11",
+          "question": "NSTEMI'de acil invaziv yaklaşım hangi durumda gerekir?",
+          "answer": "Hemodinamik instabilite, refrakter/tekrarlayan iskemi, yaşamı tehdit eden aritmi veya mekanik komplikasyon.",
+          "explanation": "Çok yüksek riskli hastada acil anjiyografi gerekir; diğer hastalarda risk temelli zamanlama yapılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-12",
+          "question": "AKS'de yüksek yoğunluklu statin ne zaman başlanır?",
+          "answer": "Kontrendikasyon yoksa erken dönemde başlanır veya mevcut tedavi yoğunlaştırılır.",
+          "explanation": "LDL düşüşünün yanında plak stabilizasyonu ve sekonder korunma sağlar."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-13",
+          "question": "MI sonrası beta bloker hangi hastalarda özellikle endikedir?",
+          "answer": "LVEF düşüklüğü, kalp yetersizliği, aritmi veya devam eden iskemi gibi uygun klinik durumlarda.",
+          "explanation": "Şok, belirgin bradikardi, AV blok veya akut dekompanse HF'de başlanması ertelenebilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-14",
+          "question": "MI sonrası ACE inhibitörü/ARB hangi hastalarda özellikle yararlıdır?",
+          "answer": "LVEF ≤%40, anterior MI, hipertansiyon, diyabet veya kalp yetersizliği olanlarda.",
+          "explanation": "Ventriküler yeniden şekillenmeyi ve mortaliteyi azaltır; böbrek fonksiyonu/potasyum izlenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-15",
+          "question": "Sağ ventrikül MI için hangi EKG derivasyonları yardımcıdır?",
+          "answer": "Sağ prekordiyal derivasyonlar, özellikle V4R.",
+          "explanation": "İnferior STEMI ile birlikte hipotansiyon ve akciğerlerin temiz olması düşündürür; preload korunur."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-16",
+          "question": "MI'nin mekanik komplikasyonları hangi başlıklardır?",
+          "answer": "Papiller kas rüptürü, ventriküler septum rüptürü ve serbest duvar rüptürü.",
+          "explanation": "Ani hemodinamik bozulma, yeni üfürüm veya tamponad bulgusu gelişebilir; acil ekokardiyografi ve cerrahi değerlendirme gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-17",
+          "question": "MI sonrası papiller kas rüptüründe hangi klinik tablo beklenir?",
+          "answer": "Akut ağır mitral yetersizliği ve pulmoner ödem; yeni apikal sistolik üfürüm olabilir.",
+          "explanation": "Posteromedial papiller kas tek kanlanma nedeniyle daha sık etkilenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-18",
+          "question": "MI sonrası serbest duvar rüptürü hangi komplikasyona yol açar?",
+          "answer": "Hemoperikard ve kardiyak tamponad; sıklıkla PEA arrest.",
+          "explanation": "Ani hipotansiyon, juguler venöz dolgunluk ve tamponad bulguları acil müdahale gerektirir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-19",
+          "question": "MI sonrası perikardit zamanlaması nasıldır?",
+          "answer": "Erken post-MI perikardit ilk günlerde; Dressler sendromu haftalar sonra gelişebilir.",
+          "explanation": "Dressler immün aracılıdır; yeni göğüs ağrısı ve ateşle düşünülür."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ACS-20",
+          "question": "AKS'de aort diseksiyonu neden ayırıcı tanıda kritik önemdedir?",
+          "answer": "Antikoagülasyon/fibrinoliz diseksiyonda ölümcül kanamayı artırabilir.",
+          "explanation": "Ani yırtılır tarzda ağrı, nabız/tansiyon farkı veya yeni aort yetersizliği üfürümü uyarıcıdır."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-cardiology-heart-failure-valves",
+      "title": "Dahiliye · Kalp yetersizliği ve kapak hastalıkları",
+      "cards": [
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-01",
+          "question": "HFrEF hangi ejeksiyon fraksiyonu ile tanımlanır?",
+          "answer": "LVEF ≤%40.",
+          "explanation": "HFmrEF %41–49, HFpEF genellikle ≥%50 EF ve artmış dolum basıncı kanıtı ile tanımlanır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-02",
+          "question": "HFrEF'de hastalık seyrini iyileştiren dört temel ilaç grubu nelerdir?",
+          "answer": "ARNI (veya ACEİ/ARB), kanıta dayalı beta bloker, mineralokortikoid reseptör antagonisti ve SGLT2 inhibitörü.",
+          "explanation": "Konjesyon için diüretik semptomu düzeltir; dört temel grup mortalite/hastaneye yatışı azaltır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-03",
+          "question": "HFrEF'de kanıta dayalı beta blokerler hangileridir?",
+          "answer": "Bisoprolol, carvedilol ve metoprolol süksinat.",
+          "explanation": "Stabil ve övolemik hastada düşük dozla başlanıp titre edilir; akut dekompansasyonda başlanmaz."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-04",
+          "question": "ARNI'nin temel bileşenleri ve mekanizması nedir?",
+          "answer": "Sakubitril-neprilisin inhibitörü ve valsartan-ARB; natriüretik peptid etkisini artırırken RAAS'ı bloke eder.",
+          "explanation": "ACE inhibitöründen ARNI'ye geçerken anjiyoödem riskini azaltmak için en az 36 saat ara gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-05",
+          "question": "HFrEF'de spironolakton/eplerenon hangi hastada kullanılabilir?",
+          "answer": "Uygun eGFR ve potasyum düzeyinde semptomatik HFrEF'de; genellikle eGFR >30 ve K <5,0 mmol/L.",
+          "explanation": "Hiperkalemi ve böbrek fonksiyonu yakın izlenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-06",
+          "question": "SGLT2 inhibitörlerinin kalp yetersizliğindeki yeri nedir?",
+          "answer": "HFrEF ve HFpEF dahil kalp yetersizliği spektrumunda, diyabet olsun olmasın uygun hastada hastaneye yatış/olay riskini azaltır.",
+          "explanation": "Volüm durumu, genital enfeksiyon ve nadir öglisemik ketoasidoz riski değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-07",
+          "question": "Akut dekompanse kalp yetersizliğinde konjesyonun ilk farmakolojik tedavisi nedir?",
+          "answer": "IV loop diüretik (örn. furosemid), yanıt ve böbrek fonksiyonuna göre doz ayarlanır.",
+          "explanation": "Diürez, kilo, idrar çıkışı, elektrolit ve kreatinin izlenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-08",
+          "question": "Kardiyojenik pulmoner ödemde hangi klinik bulgular beklenir?",
+          "answer": "Dispne, ortopne, ral, hipoksemi ve sıklıkla bilateral alveoler/interstisyel infiltrasyon.",
+          "explanation": "Hipertansif akut pulmoner ödemde noninvaziv ventilasyon ve uygun vazodilatör hızla yarar sağlayabilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-09",
+          "question": "Kalp yetersizliğinde BNP/NT-proBNP nasıl kullanılır?",
+          "answer": "Düşük değerler akut HF'yi dışlamada yararlıdır; yüksek değerler klinik bağlamda destekleyicidir.",
+          "explanation": "Yaş, böbrek yetmezliği, AF ve obezite sonuçları etkiler; tek başına tanı koydurmaz."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-10",
+          "question": "Aort stenozunun klasik semptom triadı nedir?",
+          "answer": "Anjina, senkop ve dispne/kalp yetersizliği.",
+          "explanation": "Semptomatik ağır aort stenozunda kapak girişimi değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-11",
+          "question": "Aort stenozunda oskültasyon bulgusu nedir?",
+          "answer": "Sağ üst sternal kenarda sistolik ejeksiyon üfürümü; karotislere yayılır ve nabız parvus et tardus görülebilir.",
+          "explanation": "Şiddetli stenozda A2 zayıflayabilir; ekokardiyografi şiddeti belirler."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-12",
+          "question": "Aort yetersizliğinde tipik üfürüm nasıldır?",
+          "answer": "Sol sternal kenarda erken diyastolik, dekrescendo üfürüm.",
+          "explanation": "Geniş nabız basıncı ve sıçrayıcı nabız kronik ağır AR'yi düşündürür."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-13",
+          "question": "Mitral stenozun en sık nedeni nedir ve üfürümü nasıldır?",
+          "answer": "Romatizmal kalp hastalığı; apeksde opening snap sonrası diyastolik rumble.",
+          "explanation": "Sol atriyum basıncı artışı AF ve pulmoner hipertansiyona yol açabilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-14",
+          "question": "Mitral yetersizliğinde üfürüm nasıldır?",
+          "answer": "Apeksde pansistolik üfürüm, aksillaya yayılabilir.",
+          "explanation": "Akut ağır MR pulmoner ödem ve şok yapabilir; kronikte sol atriyum/ventrikül genişler."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-15",
+          "question": "Mitral kapak prolapsusunda tipik oskültasyon bulgusu nedir?",
+          "answer": "Orta-geç sistolik klik ve geç sistolik üfürüm.",
+          "explanation": "Ayakta/Valsalva ile klik ve üfürüm erkene kayar; çömelme ile gecikir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-16",
+          "question": "Triküspit yetersizliği üfürümü inspirasyonla nasıl değişir?",
+          "answer": "Artar (Carvallo bulgusu).",
+          "explanation": "Sağ kalp kaynaklı üfürümler inspirasyonla artma eğilimindedir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-17",
+          "question": "Enfektif endokardit için majör tanı ölçütleri hangi kanıtları içerir?",
+          "answer": "Tipik mikroorganizma ile pozitif kan kültürü ve görüntülemede endokardiyal tutulum/vejetasyon veya yeni kapak yetersizliği.",
+          "explanation": "Duke-ISCVID ölçütleri kullanılır; klinik şüphede kan kültürleri antibiyotik öncesi alınır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-18",
+          "question": "Protez kapak veya endokardit şüphesinde hangi görüntüleme temel yöntemdir?",
+          "answer": "Transtorasik EKO ilk inceleme; şüphe yüksek ve TTE negatif/yetersizse transözofageal EKO.",
+          "explanation": "Protez kapak, apse ve küçük vejetasyonlarda TEE duyarlılığı daha yüksektir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-19",
+          "question": "Tamponadda ekokardiyografide hangi bulgular görülür?",
+          "answer": "Sağ atriyum sistolik ve sağ ventrikül erken diyastolik kollapsı, dolu IVC ve solunumsal akım değişiklikleri.",
+          "explanation": "Klinik instabil tamponad acil perikardiyosentez gerektirir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-HEART-FAILURE-VALVES-20",
+          "question": "Konstriktif perikardit ile restriktif kardiyomiyopatiyi ayırmada hangi görüntüleme yardımcıdır?",
+          "answer": "Ekokardiyografi ve kardiyak MR/BT; septal bounce, annulus reversus ve perikard kalınlaşması konstriksiyonu destekler.",
+          "explanation": "Hemodinamik olarak her ikisi dolum kısıtlar; etiyoloji ve tedavi farklıdır."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-cardiology-arrhythmias",
+      "title": "Dahiliye · Aritmiler ve ileti bozuklukları",
+      "cards": [
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-01",
+          "question": "Atriyal fibrilasyon EKG'de nasıl tanınır?",
+          "answer": "Düzensiz-düzensiz RR aralıkları ve belirgin P dalgalarının olmaması.",
+          "explanation": "Ventriküler yanıt hızlı olabilir; inme riski ve hemodinami ayrıca değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-02",
+          "question": "Hemodinamik instabil taşiaritmide ilk yaklaşım nedir?",
+          "answer": "Senkronize kardiyoversiyon; nabızsız ritimde defibrilasyon/CPR algoritması uygulanır.",
+          "explanation": "İnstabilite hipotansiyon, şok, iskemi, bilinç değişikliği veya akut pulmoner ödemdir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-03",
+          "question": "Düzenli dar QRS taşikardide stabil hastada ilk basamak yaklaşım nedir?",
+          "answer": "Vagal manevralar; uygun ritimde hızlı IV adenozin.",
+          "explanation": "Adenozin AV düğüme bağımlı re-entry taşikardisini sonlandırabilir; düzensiz geniş kompleks ritimde kullanılmaz."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-04",
+          "question": "Adenozin hangi supraventriküler taşikardilerde tanısal/terapötik yarar sağlar?",
+          "answer": "AVNRT ve ortodromik AVRT gibi AV düğüme bağımlı düzenli dar kompleks taşikardiler.",
+          "explanation": "Atriyal flutterda geçici AV blok flutter dalgalarını görünür kılabilir ancak ritmi sonlandırmaz."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-05",
+          "question": "WPW sendromunda EKG'nin klasik bulguları nelerdir?",
+          "answer": "Kısa PR, delta dalgası ve geniş QRS.",
+          "explanation": "Aksesuar yol ventrikül preeksitasyonuna neden olur."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-06",
+          "question": "Preeksitasyonlu AF'de hangi AV nodal blokerlerden kaçınılır?",
+          "answer": "Adenozin, beta bloker, verapamil/diltiazem ve digoksin.",
+          "explanation": "AV düğüm blokajı aksesuar yoldan iletimi hızlandırıp ventriküler fibrilasyona yol açabilir; uygun olguda prokainamid/ibutilid veya kardiyoversiyon."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-07",
+          "question": "AF'de antikoagülasyon kararı hangi risk değerlendirmesine dayanır?",
+          "answer": "CHA2DS2-VASc/yerel kılavuz risk yaklaşımı ve kanama riskiyle birlikte klinik değerlendirme.",
+          "explanation": "Mekanik kapak ve orta-ağır romatizmal mitral stenozda DOAC yerine VKA gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-08",
+          "question": "AF'de hız kontrolünde hangi ilaçlar kullanılabilir?",
+          "answer": "Beta bloker veya diltiazem/verapamil; HFrEF'de non-dihidropiridin kalsiyum blokerlerinden kaçınılır.",
+          "explanation": "Seçim EF, kan basıncı, bronkospazm ve eşlik eden hastalıklara göre yapılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-09",
+          "question": "AF'de ritim kontrolü hangi hastalarda özellikle düşünülür?",
+          "answer": "Semptomatik hastalar, yeni tanı/uygun erken dönem ve hız kontrolü başarısız olanlar.",
+          "explanation": "Kardiyoversiyon öncesi tromboemboli riski ve antikoagülasyon gereksinimi değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-10",
+          "question": "Atriyal flutterda tipik EKG paterni nedir?",
+          "answer": "Testere dişi flutter dalgaları; tipik flutterda atriyal hız yaklaşık 250–350/dk.",
+          "explanation": "AV iletim oranına göre ventrikül hızı değişir; kavşak bağımlı re-entry ablasyonla yüksek başarıyla tedavi edilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-11",
+          "question": "Monomorfik geniş QRS taşikardi aksi kanıtlanana kadar nasıl kabul edilir?",
+          "answer": "Ventriküler taşikardi (VT).",
+          "explanation": "Özellikle yapısal kalp hastalığında SVT-aberransi varsaymak tehlikelidir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-12",
+          "question": "Torsades de pointes hangi EKG zemini üzerinde gelişir?",
+          "answer": "Uzamış QT ile ilişkili polimorfik VT; QRS kompleksleri bazal çizgi etrafında dönüyor görünür.",
+          "explanation": "Magnezyum IV, QT uzatan ilaçların kesilmesi ve elektrolit düzeltimi gerekir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-13",
+          "question": "Torsades de pointes'te hangi ilaçtan kaçınılmalıdır?",
+          "answer": "QT'yi daha da uzatan antiaritmiklerden (özellikle sınıf IA/III) kaçınılır.",
+          "explanation": "Sürdürülen instabil/pulsuz ritimde defibrilasyon; magnezyum ve hızlandırılmış pacing uygun olguda kullanılır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-14",
+          "question": "Ventriküler fibrilasyonda tedavi nedir?",
+          "answer": "Derhal CPR ve senkronize olmayan defibrilasyon.",
+          "explanation": "Şoklanabilir arrest ritmidir; epinefrin ve amiodaron/lidokain algoritmaya göre eklenir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-15",
+          "question": "İkinci derece AV blok Mobitz I ile Mobitz II EKG'de nasıl ayrılır?",
+          "answer": "Mobitz I: PR giderek uzar ve bir QRS düşer; Mobitz II: sabit PR aralıkları arasında QRS düşer.",
+          "explanation": "Mobitz II infranodal olma ve tam bloğa ilerleme riski nedeniyle daha ciddidir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-16",
+          "question": "Üçüncü derece AV blokta EKG bulgusu nedir?",
+          "answer": "Atriyum ve ventriküller bağımsız çalışır; AV disosiyasyon.",
+          "explanation": "Semptomatik hastada geçici pacing ve kalıcı pacemaker değerlendirilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-17",
+          "question": "Semptomatik bradikardide ilk acil ilaç nedir?",
+          "answer": "Atropin; yanıt yoksa transkütan pacing ve/veya dopamin/epinefrin infüzyonu.",
+          "explanation": "İnfranodal blokta atropin etkisiz olabilir; pacing geciktirilmez."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-18",
+          "question": "Uzun QT sendromunda hangi tetikleyicilerden kaçınılır?",
+          "answer": "QT uzatan ilaçlar, hipokalemi, hipomagnezemi ve hipokalsemi.",
+          "explanation": "Konjenital veya edinsel QT uzaması torsades riskini artırır."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-19",
+          "question": "Brugada sendromunun tipik EKG paterni nedir?",
+          "answer": "V1–V3'te tip 1 koved ST elevasyonu ve ardından negatif T dalgası.",
+          "explanation": "Ateş ve bazı sodyum kanal blokerleri paterni belirginleştirip ventriküler aritmi tetikleyebilir."
+        },
+        {
+          "id": "IM-CARDIOLOGY-ARRHYTHMIAS-20",
+          "question": "Senkopta kardiyak neden lehine hangi özellikler vardır?",
+          "answer": "Efor sırasında veya supin pozisyonda senkop, çarpıntı, yapısal kalp hastalığı, anormal EKG ve ailede ani ölüm.",
+          "explanation": "Kardiyak senkop yüksek risklidir; ritim izlemi ve yapısal değerlendirme gerekir."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-pulmonology-obstructive",
+      "title": "Dahiliye · Astım ve KOAH",
+      "cards": [
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-01",
+          "question": "Astım tanısı için değişken hava akımı kısıtlılığı nasıl gösterilir?",
+          "answer": "Spirometride bronkodilatör sonrası FEV1 artışı erişkinde >%12 ve >200 mL klasik reversibilite ölçütünü karşılar; değişken PEF de destekleyebilir.",
+          "explanation": "Tek bir normal spirometri astımı dışlamaz; semptom sırasında veya seri testle tekrar gerekebilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-02",
+          "question": "Astımda tipik semptom örüntüsü nasıldır?",
+          "answer": "Hışıltı, nefes darlığı, göğüste sıkışma ve öksürüğün zaman içinde değişmesi; gece/sabah erken artabilmesi.",
+          "explanation": "Değişkenlik ve tetikleyiciler tanıyı destekler; alternatif tanılar dışlanır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-03",
+          "question": "Astımda yalnız kısa etkili beta agonist (SABA) kullanımı neden önerilmez?",
+          "answer": "İnhale kortikosteroid içeren tedavi olmadan SABA kullanımı alevlenme riskini artırır.",
+          "explanation": "Güncel stratejiler tüm astım hastalarının ICS içeren tedavi almasını hedefler."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-04",
+          "question": "Astımda temel antiinflamatuvar kontrol edici ilaç nedir?",
+          "answer": "İnhale kortikosteroid (ICS).",
+          "explanation": "Doz ve kombinasyon semptom kontrolü, alevlenme riski ve basamak tedavisine göre belirlenir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-05",
+          "question": "Astım alevlenmesinde ilk tedavi bileşenleri nelerdir?",
+          "answer": "Tekrarlanan inhale SABA, oksijen gereksinimine göre kontrollü oksijen, sistemik kortikosteroid; ağır olguda ipratropium ve acil değerlendirme.",
+          "explanation": "Yanıt, solunum işi, konuşma, SpO2 ve PEF/FEV1 ile izlenir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-06",
+          "question": "Ağır astım atağında hangi bulgu yaşamı tehdit eder?",
+          "answer": "Sessiz akciğer, bilinç değişikliği, tükenme, siyanoz, kötüleşen hipoksemi veya normalleşen/yükselen PaCO2.",
+          "explanation": "Normal PaCO2, ağır atakta ventilatuvar yorgunluk belirtisi olabilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-07",
+          "question": "Astımda lökotrien reseptör antagonisti hangi ilaçtır?",
+          "answer": "Montelukast.",
+          "explanation": "ICS'den genellikle daha az etkilidir; nöropsikiyatrik yan etki uyarısı dikkate alınır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-08",
+          "question": "KOAH tanısında spirometrik ölçüt nedir?",
+          "answer": "Bronkodilatör sonrası FEV1/FVC <0,70 (GOLD sabit oran yaklaşımı).",
+          "explanation": "Klinik semptom ve maruziyet öyküsüyle birlikte yorumlanır; sınırda değerlerde tekrar gerekebilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-09",
+          "question": "KOAH'ın temel risk faktörü nedir?",
+          "answer": "Tütün dumanı; ayrıca biyokütle yakıtı, mesleki maruziyet ve erken yaşam akciğer gelişim bozuklukları.",
+          "explanation": "Sigara bırakma hastalık progresyonunu azaltan en etkili müdahaledir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-10",
+          "question": "KOAH'ta amfizem ve kronik bronşit arasındaki temel patolojik fark nedir?",
+          "answer": "Amfizem alveol duvarlarının yıkımı ve kalıcı hava boşluğu genişlemesi; kronik bronşit klinik olarak ≥2 yıl, yılda ≥3 ay balgamlı öksürük.",
+          "explanation": "İki fenotip sıklıkla birlikte bulunur."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-11",
+          "question": "KOAH alevlenmesinde antibiyotik hangi durumda düşünülür?",
+          "answer": "Pürülan balgamla birlikte dispne/balgam hacmi artışı gibi kardinal semptomlar veya mekanik ventilasyon gereksinimi varsa.",
+          "explanation": "Tedavi süresi ve seçim yerel direnç/klinik şiddete göre belirlenir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-12",
+          "question": "KOAH alevlenmesinde oksijen satürasyonu hedefi genellikle nedir?",
+          "answer": "%88–92.",
+          "explanation": "Kontrollü oksijen hiperkapni/CO2 retansiyonu riskini azaltır; kan gazı izlenir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-13",
+          "question": "KOAH'ta uzun etkili bronkodilatör seçimi nasıl yapılır?",
+          "answer": "Semptom ve alevlenme yüküne göre LABA, LAMA veya LABA+LAMA; uygun hastada ICS eklenir.",
+          "explanation": "ICS özellikle eozinofil düzeyi ve alevlenme öyküsüyle değerlendirilir; pnömoni riski vardır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-14",
+          "question": "KOAH'ta alfa-1 antitripsin eksikliği hangi durumda düşünülür?",
+          "answer": "Genç yaşta, az sigara öyküsüne rağmen amfizem; bazal ağırlıklı panasinöz amfizem veya aile öyküsü.",
+          "explanation": "Karaciğer hastalığı da eşlik edebilir; tüm KOAH hastalarında en az bir kez tarama öneren kılavuzlar vardır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-15",
+          "question": "Astım-KOAH örtüşmesinde temel tedavi güvenlik ilkesi nedir?",
+          "answer": "Astım özellikleri varsa ICS içeren tedavi verilmelidir; yalnız LABA kullanımı sakıncalıdır.",
+          "explanation": "Fenotip ve alevlenme öyküsü tedavi seçimini belirler."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-16",
+          "question": "Bronşektazide BT'nin tipik bulgusu nedir?",
+          "answer": "Bronş çapının eşlik eden pulmoner arterden büyük olması (signet ring) ve bronşların periferde görünür kalması.",
+          "explanation": "Kronik balgam, tekrarlayan enfeksiyon ve hemoptizi ile başvurabilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-17",
+          "question": "Astımda biyolojik tedavi hangi hastada düşünülür?",
+          "answer": "Yüksek doz ICS-LABA'ya rağmen kontrolsüz ağır astımda, fenotipe göre anti-IgE, anti-IL5/5R, anti-IL4R veya anti-TSLP.",
+          "explanation": "Önce tanı, inhaler tekniği, uyum ve komorbiditeler doğrulanmalıdır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-18",
+          "question": "KOAH'ta pulmoner rehabilitasyonun temel yararı nedir?",
+          "answer": "Egzersiz kapasitesi, dispne ve yaşam kalitesini iyileştirir; alevlenme sonrası yararlıdır.",
+          "explanation": "Farmakolojik tedaviye eklenir; fiziksel aktiviteyi artırır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-19",
+          "question": "KOAH'ta alevlenme riskini azaltan koruyucu müdahaleler nelerdir?",
+          "answer": "Sigara bırakma, influenza/pnömokok ve uygun diğer aşılar, inhaler tedavi uyumu ve rehabilitasyon.",
+          "explanation": "Aşı takvimi yaş, risk ve güncel ulusal önerilere göre düzenlenir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-OBSTRUCTIVE-20",
+          "question": "Astımda egzersizle tetiklenen bronkokonstriksiyonda hangi yaklaşım kullanılabilir?",
+          "answer": "Kontrol edici ICS içeren tedavi; uygun rejimde egzersiz öncesi SABA veya ICS-formoterol.",
+          "explanation": "Sık gereksinim yetersiz kontrolü düşündürür; yalnız premedikasyonla yetinilmez."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-pulmonology-pneumonia-tb",
+      "title": "Dahiliye · Pnömoni ve tüberküloz",
+      "cards": [
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-01",
+          "question": "Toplum kökenli pnömoni tanısında hangi klinik ve görüntüleme birlikteliği aranır?",
+          "answer": "Alt solunum yolu semptomları ve yeni pulmoner infiltrat.",
+          "explanation": "Klinik şüphe tek başına bakteriyel etkeni belirlemez; görüntüleme ve risk değerlendirmesi gerekir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-02",
+          "question": "Toplum kökenli pnömonide yatış kararında hangi skorlar kullanılabilir?",
+          "answer": "CURB-65 veya PSI; klinik yargı ve oksijenasyonla birlikte.",
+          "explanation": "Skorlar yoğun bakım gereksinimi, sosyal durum ve komorbiditeleri tek başına kapsamaz."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-03",
+          "question": "CURB-65 bileşenleri nelerdir?",
+          "answer": "Konfüzyon, üre >7 mmol/L, solunum sayısı ≥30/dk, düşük kan basıncı (SBP <90 veya DBP ≤60), yaş ≥65.",
+          "explanation": "Her bileşen bir puan; yüksek puan hastane değerlendirmesini destekler."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-04",
+          "question": "Pnömonide yoğun bakım gereksinimini düşündüren majör ölçütler nelerdir?",
+          "answer": "Vazopressör gerektiren septik şok veya invaziv mekanik ventilasyon gereksinimi.",
+          "explanation": "Minör ölçütler de ağır CAP sınıflamasında kullanılır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-05",
+          "question": "Pnömokok pnömonisinin klasik balgam ve Gram boyama bulgusu nedir?",
+          "answer": "Gram pozitif, lanset biçimli diplokok; lobar konsolidasyon görülebilir.",
+          "explanation": "Kültür/antijen testleri klinik bağlamda kullanılır; klasik görünüm tek başına kesin tanı değildir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-06",
+          "question": "Legionella pnömonisini düşündüren klinik ipuçları nelerdir?",
+          "answer": "Pnömoniye eşlik eden ishal, konfüzyon, hiponatremi ve su sistemleri/seyahat maruziyeti.",
+          "explanation": "İdrar antijeni L. pneumophila serogrup 1'i saptar; atipik etken tedavisi gerekir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-07",
+          "question": "Mycoplasma pneumoniae'nin hücre duvarı ile ilgili özelliği nedir?",
+          "answer": "Hücre duvarı yoktur.",
+          "explanation": "Beta-laktamlar etkisizdir; makrolid/doksisiklin gibi uygun ajanlar kullanılır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-08",
+          "question": "Aspirasyon pnömonisinde anaerobik kapsama her hastada gerekli midir?",
+          "answer": "Hayır; akciğer apsesi veya ampiyem gibi komplikasyon yoksa rutin anaerobik kapsama önerilmez.",
+          "explanation": "Aspirasyon pnömonisi ile kimyasal aspirasyon pnömoniti ayrılmalıdır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-09",
+          "question": "Pnömonide influenza testi/antiviral tedavi ne zaman önemlidir?",
+          "answer": "İnfluenza dolaşımında şüpheli veya doğrulanmış olguda, özellikle hastanede yatan/ağır veya riskli hastada antiviral geciktirilmeden başlanır.",
+          "explanation": "Oseltamivir tedavisi ideal olarak erken başlasa da ağır/yatan hastada geç başvuruda da yararlı olabilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-10",
+          "question": "Tüberkülozun en sık bulaş yolu nedir?",
+          "answer": "Akciğer veya larenks TB'li kişinin havaya yaydığı aerosol çekirdeklerinin inhalasyonu.",
+          "explanation": "Bulaş riski hastanın bulaştırıcılığı, havalandırma ve temas süresine bağlıdır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-11",
+          "question": "Aktif akciğer TB şüphesinde ilk mikrobiyolojik incelemeler nelerdir?",
+          "answer": "Balgam AFB yayması, mikobakteri kültürü ve hızlı moleküler test (NAAT/Xpert).",
+          "explanation": "Negatif yayma TB'yi dışlamaz; kültür ilaç duyarlılığı için önemini korur."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-12",
+          "question": "Latent TB enfeksiyonu ile aktif TB nasıl ayrılır?",
+          "answer": "Latent enfeksiyonda klinik/radyolojik aktif hastalık yoktur ve bulaştırıcılık beklenmez; aktif hastalıkta klinik ve mikrobiyolojik/radyolojik bulgular vardır.",
+          "explanation": "IGRA/TST enfeksiyonu gösterir, aktif hastalık tanısı koymaz."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-13",
+          "question": "TB tedavisinde ilaç duyarlı akciğer TB için klasik başlangıç rejimi nedir?",
+          "answer": "İlk 2 ay izoniazid, rifampisin, pirazinamid, etambutol; ardından duyarlılık ve klinik koşullara göre izoniazid-rifampisin devam fazı.",
+          "explanation": "Tedavi süresi ve rejim direnç, hastalık yeri, gebelik ve güncel ulusal rehbere göre değişebilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-14",
+          "question": "İzoniazid hangi vitamin eksikliğine yol açabilir?",
+          "answer": "Piridoksin (B6) eksikliği ve periferik nöropati.",
+          "explanation": "Riskli hastalara piridoksin verilir; izoniazid hepatotoksisite de yapabilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-15",
+          "question": "Rifampisinin önemli ilaç etkileşimi mekanizması nedir?",
+          "answer": "Güçlü CYP ve taşıyıcı enzim indüksiyonu.",
+          "explanation": "Oral kontraseptif, antikoagülan, antiretroviral ve çok sayıda ilacın düzeyini azaltabilir; turuncu vücut sıvısı görülebilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-16",
+          "question": "Etambutolün önemli doz kısıtlayıcı toksisitesi nedir?",
+          "answer": "Optik nörit ve kırmızı-yeşil renk ayırt etme bozukluğu.",
+          "explanation": "Görme keskinliği/renk görme izlenir; böbrek yetmezliğinde doz ayarlanır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-17",
+          "question": "Pirazinamidin önemli toksisiteleri nelerdir?",
+          "answer": "Hepatotoksisite ve hiperürisemi/artralji.",
+          "explanation": "Ürik asit artışı tek başına her zaman ilacı kesme nedeni değildir; klinik değerlendirme gerekir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-18",
+          "question": "TB tedavisinde ilaç direnci şüphesinde hangi yaklaşım gerekir?",
+          "answer": "Hızlı moleküler direnç testi, kültür ve ilaç duyarlılık testi; uzman/ulusal TB programıyla bireyselleştirilmiş rejim.",
+          "explanation": "Özellikle rifampisin direnci MDR-TB olasılığı açısından önemlidir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-19",
+          "question": "Miliyer TB'nin tipik görüntüleme bulgusu nedir?",
+          "answer": "Akciğerlerde yaygın, homojen, küçük (1–3 mm) nodüler 'millet seed' görünümü.",
+          "explanation": "Hematolojik yayılımı gösterir; ekstrapulmoner tutulum ve sistemik hastalık araştırılır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PNEUMONIA-TB-20",
+          "question": "Tüberküloz menenjitinde BOS profili tipik olarak nasıldır?",
+          "answer": "Lenfosit ağırlıklı pleositoz, yüksek protein ve düşük glukoz.",
+          "explanation": "Erken dönemde nötrofil baskınlığı olabilir; klinik şüphede tedavi tanı testleri beklenerek geciktirilmez."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-pulmonology-pulmonary-embolism",
+      "title": "Dahiliye · Pulmoner emboli",
+      "cards": [
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-01",
+          "question": "Pulmoner emboli olasılığı değerlendirmesinde ilk adım nedir?",
+          "answer": "Klinik ön olasılık (Wells/Geneva veya klinik yargı) belirlenir.",
+          "explanation": "D-dimer ve görüntüleme seçimi ön olasılığa göre yapılır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-02",
+          "question": "Düşük/orta klinik olasılıklı PE şüphesinde negatif D-dimer ne sağlar?",
+          "answer": "Uygun duyarlılıkta testle PE'yi dışlamaya yardımcı olur.",
+          "explanation": "Yüksek ön olasılıkta negatif D-dimer güvenilir dışlama sağlamaz; doğrudan görüntüleme gerekir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-03",
+          "question": "Yaşa uyarlanmış D-dimer eşiği nasıl hesaplanır?",
+          "answer": "50 yaş üzeri hastada (FEU birimiyle) yaş × 10 µg/L; yalnızca uygun klinik algoritma ve test birimiyle kullanılır.",
+          "explanation": "Birimler (FEU/DDU) karıştırılmamalı; laboratuvar ve doğrulanmış algoritma esas alınır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-04",
+          "question": "PE tanısında hemodinamik instabilite ne anlama gelir?",
+          "answer": "Kardiyak arrest, obstrüktif şok veya kalıcı hipotansiyon.",
+          "explanation": "Yüksek riskli PE'de acil reperfüzyon değerlendirmesi gerekir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-05",
+          "question": "PE'de tercih edilen görüntüleme testi nedir?",
+          "answer": "Kontrendikasyon yoksa BT pulmoner anjiyografi (CTPA).",
+          "explanation": "Gebelik, kontrast alerjisi veya böbrek işlevine göre V/Q sintigrafisi gibi alternatifler seçilebilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-06",
+          "question": "PE'de ekokardiyografi neyi gösterir?",
+          "answer": "Sağ ventrikül dilatasyonu/basınç yüklenmesi; özellikle instabil hastada risk sınıflamasına yardım eder.",
+          "explanation": "Stabil hastada normal EKO PE'yi dışlamaz."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-07",
+          "question": "PE'de troponin ve BNP yüksekliği neyi gösterir?",
+          "answer": "Sağ ventrikül miyokard hasarı/gerilimini ve daha yüksek erken risk olasılığını.",
+          "explanation": "Tek başına PE tanısı koydurmaz; görüntüleme ve klinik riskle birleştirilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-08",
+          "question": "Hemodinamik olarak stabil PE'de temel tedavi nedir?",
+          "answer": "Kontrendikasyon yoksa antikoagülasyon; uygun hastada DOAC tercih edilebilir.",
+          "explanation": "İlaç ve süre kanser, gebelik, böbrek fonksiyonu, antiphospholipid sendromu ve kanama riskine göre seçilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-09",
+          "question": "Yüksek riskli PE'de reperfüzyon için hangi tedavi düşünülür?",
+          "answer": "Sistemik tromboliz; kontrendikasyon veya başarısızlıkta kateter bazlı tedavi/cerrahi embolektomi.",
+          "explanation": "Karar kanama riski ve merkez deneyimine göre verilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-10",
+          "question": "PE'de tromboliz hangi hastada rutin verilmez?",
+          "answer": "Hemodinamik olarak stabil, düşük/orta riskli hastada rutin sistemik tromboliz önerilmez.",
+          "explanation": "Kanama riski yüksek olduğundan kurtarma tedavisi olarak seçilmiş kötüleşen hastada düşünülür."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-11",
+          "question": "Wells skorunda DVT klinik bulgularının yeri nedir?",
+          "answer": "DVT bulguları klinik olasılığı artıran puanlı bileşenlerdendir.",
+          "explanation": "Skor bileşenleri kullanılan iki veya üç kategorili sürüme göre değerlendirilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-12",
+          "question": "PERC kuralı hangi hastada kullanılabilir?",
+          "answer": "Klinik ön olasılığı çok düşük seçilmiş hastada, tüm PERC kriterleri negatifse ileri testten kaçınmak için.",
+          "explanation": "Orta/yüksek olasılıklı veya uygunsuz hastada PERC uygulanmaz."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-13",
+          "question": "PE sonrası antikoagülasyon süresi nasıl belirlenir?",
+          "answer": "En az 3 ay; provoke/geçici risk faktörü, kalıcı risk, kanser ve nüks/kanama riskiyle uzatma kararı verilir.",
+          "explanation": "İlk olayın nedeni tedavi süresinin ana belirleyicisidir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-14",
+          "question": "Gebelikte PE şüphesinde hangi ilke geçerlidir?",
+          "answer": "Gebeliğe özgü doğrulanmış algoritma kullanılır; gerekli görüntüleme geciktirilmez ve LMWH genellikle antikoagülan seçeneğidir.",
+          "explanation": "D-dimer gebelikte fizyolojik yükselir; tek başına yorumlanmaz."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-15",
+          "question": "Kronik tromboembolik pulmoner hipertansiyondan ne zaman şüphelenilir?",
+          "answer": "PE sonrası süren dispne/egzersiz kısıtlılığı ve pulmoner hipertansiyon bulgularında.",
+          "explanation": "V/Q sintigrafisi CTEPH taramasında duyarlıdır; normal perfüzyon taraması olasılığı düşürür."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-16",
+          "question": "PE'de inferior vena kava filtresi hangi durumda düşünülür?",
+          "answer": "Antikoagülasyon mutlak kontrendike ise veya uygun tedaviye rağmen seçilmiş tekrarlayan emboli durumunda.",
+          "explanation": "Rutin olarak antikoagülasyona eklenmez; mümkünse çıkarılabilir filtre sonradan alınır."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-17",
+          "question": "Derin ven trombozunda tek taraflı bacak şişliği hangi mekanizmayla oluşur?",
+          "answer": "Venöz obstrüksiyon nedeniyle distal venöz basınç artışı ve ödem.",
+          "explanation": "Klinik olasılık skoru ve kompresyon ultrasonografisiyle değerlendirilir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-18",
+          "question": "Masif PE'de arrest mekanizması çoğunlukla nedir?",
+          "answer": "Akut sağ ventrikül yetmezliği, sol ventrikül doluşunun azalması ve obstrüktif şok.",
+          "explanation": "PE ilişkili arrestte tromboliz/embolektomi seçilmiş olguda resüsitasyon stratejisidir."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-19",
+          "question": "PE'de erken taburculuk hangi hastada düşünülebilir?",
+          "answer": "Düşük riskli, hemodinamik stabil, kanama riski düşük ve güvenli takip/ilaç erişimi olan hastada.",
+          "explanation": "PESI/sPESI veya Hestia gibi araçlar klinik değerlendirmeyi destekler."
+        },
+        {
+          "id": "IM-PULMONOLOGY-PULMONARY-EMBOLISM-20",
+          "question": "PE profilaksisi hangi hastalarda önemlidir?",
+          "answer": "Hastanede yatan immobil, cerrahi sonrası veya ek VTE risk faktörü olan hastalarda.",
+          "explanation": "Farmakolojik profilaksi kanama riskiyle dengelenir; uygun değilse mekanik yöntem kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-gastroenterology-liver",
+      "title": "Dahiliye · Karaciğer hastalıkları",
+      "cards": [
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-01",
+          "question": "Hepatoselüler hasar paterni hangi laboratuvar değişikliğiyle tanımlanır?",
+          "answer": "ALT/AST artışının ALP artışına göre baskın olması.",
+          "explanation": "R değeri (ALT/ULN)/(ALP/ULN) paterni sınıflandırmaya yardım eder."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-02",
+          "question": "Kolestatik karaciğer hasarı paterni nasıldır?",
+          "answer": "ALP ve GGT artışı aminotransferaz artışına göre baskındır.",
+          "explanation": "GGT, ALP yüksekliğinin hepatobiliyer kaynaklı olduğunu destekler."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-03",
+          "question": "AST/ALT oranının >2 olması hangi etiyolojiyi düşündürür?",
+          "answer": "Alkol ilişkili hepatit olasılığını artırır.",
+          "explanation": "Tek başına tanı koydurmaz; ileri fibroz ve diğer nedenler de oranı etkileyebilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-04",
+          "question": "Akut viral hepatitte hangi serolojik belirteçler önemlidir?",
+          "answer": "HAV IgM; HBV için HBsAg ve anti-HBc IgM; HCV için HCV RNA (antikor tarama sonrası); HEV IgM/RNA uygun bağlamda.",
+          "explanation": "Seroloji enfeksiyon evresine göre yorumlanır; pencere dönemleri vardır."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-05",
+          "question": "HBsAg pozitifliği neyi gösterir?",
+          "answer": "Mevcut HBV enfeksiyonunu; akut/kronik ayrımı için süre ve diğer belirteçler gerekir.",
+          "explanation": "HBsAg'nin ≥6 ay sürmesi kronik enfeksiyon lehinedir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-06",
+          "question": "Akut HBV enfeksiyonunu güçlü biçimde gösteren antikor hangisidir?",
+          "answer": "Anti-HBc IgM.",
+          "explanation": "Pencere döneminde anti-HBc IgM tek pozitif belirteç olabilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-07",
+          "question": "HBV aşısı sonrası beklenen serolojik profil nedir?",
+          "answer": "Anti-HBs pozitif; anti-HBc negatif.",
+          "explanation": "Doğal enfeksiyon geçirilmiş kişide anti-HBc de pozitiftir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-08",
+          "question": "Kronik HCV enfeksiyonu nasıl doğrulanır?",
+          "answer": "HCV RNA saptanmasıyla.",
+          "explanation": "Anti-HCV antikoru geçirilmiş enfeksiyon veya mevcut enfeksiyonu gösterebilir; aktif viremi için RNA gerekir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-09",
+          "question": "Sirozda portal hipertansiyonun klinik sonuçları nelerdir?",
+          "answer": "Özofagus/gastrik varis, asit, splenomegali-hipersplenizm ve portosistemik kollateraller.",
+          "explanation": "Portal basınç artışı dekompansasyon ve kanama riskini belirler."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-10",
+          "question": "Siroz dekompansasyonunun temel klinik olayları nelerdir?",
+          "answer": "Asit, varis kanaması, hepatik ensefalopati ve sarılık.",
+          "explanation": "İlk dekompansasyon prognozu belirgin kötüleştirir; transplant değerlendirmesi gündeme gelir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-11",
+          "question": "Asitli siroz hastasında tanısal parasentez ne zaman yapılmalıdır?",
+          "answer": "Yeni başlayan asitte ve hastaneye yatırılan siroz+asit hastasında, özellikle klinik kötüleşmede.",
+          "explanation": "SBP sessiz olabilir; parasentez geciktirilmemelidir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-12",
+          "question": "Spontan bakteriyel peritonit tanısında asit PMN eşiği nedir?",
+          "answer": "Asit polimorfonükleer lökosit ≥250 hücre/mm³.",
+          "explanation": "Kültür negatif olsa da nötrofil eşiği tanı ve ampirik tedavi için yeterlidir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-13",
+          "question": "SBP'de ampirik antibiyotik yaklaşımı nedir?",
+          "answer": "Toplum kökenli olguda üçüncü kuşak sefalosporin (örn. sefotaksim/ seftriakson); direnç riskinde yerel protokol.",
+          "explanation": "Albumin, özellikle böbrek yetmezliği/ yüksek riskte, renal disfonksiyon ve mortaliteyi azaltır."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-14",
+          "question": "Sirozda özofagus varis kanaması şüphesinde ilk yaklaşım nedir?",
+          "answer": "Hemodinamik resüsitasyon, vasoaktif ajan (terlipressin/octreotide), antibiyotik profilaksisi ve erken endoskopik bant ligasyonu.",
+          "explanation": "Aşırı transfüzyondan kaçınılır; uygun hastada kurtarma TIPS değerlendirilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-15",
+          "question": "Hepatik ensefalopatide ilk basamak tedavi nedir?",
+          "answer": "Tetikleyiciyi düzeltmek ve laktüloz; tekrarlayan/ek tedavi gereken olguda rifaksimin eklenebilir.",
+          "explanation": "Enfeksiyon, GİS kanama, konstipasyon, dehidratasyon ve elektrolit bozukluğu aranır."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-16",
+          "question": "Hepatorenal sendrom-AKI tanısı hangi zeminde düşünülür?",
+          "answer": "Siroz ve asitli hastada AKI gelişmesi, volüm/nefrotoksin nedenleri düzeltildikten sonra böbrek fonksiyonunun düzelmemesi.",
+          "explanation": "Güncel tanı ölçütleri değişmiştir; albümin ve vazokonstriktör tedavi uzman gözetiminde verilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-17",
+          "question": "Hepatoselüler karsinom taraması sirozda nasıl yapılır?",
+          "answer": "Genellikle 6 ayda bir karaciğer USG; uygun hastada AFP eklenebilir.",
+          "explanation": "Riskli kronik HBV hastalarında siroz olmasa da tarama endikasyonu olabilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-18",
+          "question": "Alkol ilişkili hepatitte tipik klinik ve laboratuvar örüntüsü nedir?",
+          "answer": "Yakın dönem yoğun alkol kullanımı, sarılık, AST/ALT >1,5 ve aminotransferazların çoğunlukla <400 IU/L olması.",
+          "explanation": "Enfeksiyon ve diğer karaciğer hasarı nedenleri dışlanır; ağır olguda steroid kararı Lille/Maddrey gibi ölçütlerle değerlendirilir."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-19",
+          "question": "Wilson hastalığında hangi laboratuvar ve klinik ipuçları bulunur?",
+          "answer": "Düşük seruloplazmin, artmış idrar bakır, Kayser-Fleischer halkası; gençte hepatik/nöropsikiyatrik bulgu.",
+          "explanation": "Seruloplazmin tek başına tanı koydurmaz; ATP7B ilişkili bakır metabolizması bozukluğudur."
+        },
+        {
+          "id": "IM-GASTROENTEROLOGY-LIVER-20",
+          "question": "Hemokromatozda tarama için hangi testler kullanılır?",
+          "answer": "Transferrin satürasyonu ve ferritin; uygun hastada HFE genotipleme.",
+          "explanation": "Ferritin inflamasyonda da artar; yüksek transferrin satürasyonu demir yüklenmesini destekler."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-nephrology-aki-ckd",
+      "title": "Dahiliye · Akut böbrek hasarı ve kronik böbrek hastalığı",
+      "cards": [
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-01",
+          "question": "KDIGO'ya göre akut böbrek hasarı (AKI) hangi ölçütlerle tanımlanır?",
+          "answer": "48 saatte kreatinin ≥0,3 mg/dL artışı; 7 günde ≥1,5 kat artış veya idrar çıkışı <0,5 mL/kg/saat en az 6 saat.",
+          "explanation": "Tek ölçüt yeterlidir; kreatinin gecikmeli yükseldiğinden idrar çıkışı önemlidir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-02",
+          "question": "Prerenal AKI'nin temel mekanizması nedir?",
+          "answer": "Böbrek parankimi başlangıçta sağlamken renal perfüzyonun azalması.",
+          "explanation": "Volüm kaybı, düşük efektif dolaşan hacim ve hemodinamik nedenler sık nedenlerdir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-03",
+          "question": "Prerenal azotemide tipik idrar bulguları nelerdir?",
+          "answer": "Konsantre idrar, düşük idrar sodyumu ve düşük FENa (genellikle <%1).",
+          "explanation": "Diüretik kullanımı, CKD ve glomerüler hastalık FENa yorumunu bozar; FEÜre yardımcı olabilir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-04",
+          "question": "Akut tübüler nekrozda idrar sedimentinde ne görülür?",
+          "answer": "Muddy brown granüler silendirler ve tübüler epitel hücreleri.",
+          "explanation": "İskemik veya nefrotoksik tübüler hasarı destekler."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-05",
+          "question": "Postrenal AKI'nin sık nedenleri nelerdir?",
+          "answer": "Prostat büyümesi, taş, tümör veya bilateral/tek böbrek üreter obstrüksiyonu.",
+          "explanation": "Mesane taraması ve renal USG obstrüksiyonu araştırmada ilk testlerdendir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-06",
+          "question": "AKI'de acil renal replasman tedavisi gerektiren klasik durumlar nelerdir?",
+          "answer": "Refrakter asidoz, elektrolit bozukluğu (özellikle hiperkalemi), intoksikasyon, volüm yükü/pulmoner ödem ve üremik komplikasyonlar.",
+          "explanation": "AEIOU mnemonic'i karar desteğidir; tek kreatinin eşiği diyaliz endikasyonu değildir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-07",
+          "question": "Kreatinin yükselen hastada ilaç kaynaklı AKI açısından hangi ajanlar gözden geçirilir?",
+          "answer": "NSAİİ, ACEİ/ARB, diüretik, aminoglikozid, kontrast ve diğer nefrotoksinler.",
+          "explanation": "İlaç kesme/ayarlama kararı volüm durumu ve endikasyona göre yapılır; kontrast gerekli inceleme geciktirilmemelidir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-08",
+          "question": "CKD tanımı için süre ve temel ölçüt nedir?",
+          "answer": "En az 3 ay süren eGFR <60 mL/dk/1,73 m² veya böbrek hasarı belirteci (örn. albuminüri, yapısal anormallik).",
+          "explanation": "Tek ölçüm kronikliği kanıtlamaz."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-09",
+          "question": "CKD evrelemesinde G ve A kategorileri neyi ifade eder?",
+          "answer": "G: eGFR kategorisi; A: albuminüri kategorisi (UACR).",
+          "explanation": "Prognoz ve takip sıklığı iki eksenle belirlenir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-10",
+          "question": "CKD'de albuminüri kategorileri nelerdir?",
+          "answer": "A1 <30 mg/g, A2 30–300 mg/g, A3 >300 mg/g UACR.",
+          "explanation": "Albuminüri kardiyovasküler ve renal risk belirtecidir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-11",
+          "question": "Albuminürik CKD'de ACEİ/ARB'nin temel yararı nedir?",
+          "answer": "İntraglomerüler basıncı ve albuminüriyi azaltarak böbrek hastalığı progresyonunu yavaşlatır.",
+          "explanation": "Potasyum ve kreatinin izlenir; ACEİ+ARB birlikte kullanılmaz."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-12",
+          "question": "CKD'de SGLT2 inhibitörü hangi hastalarda düşünülür?",
+          "answer": "Tip 2 diyabet ve CKD'de; ayrıca kılavuz ölçütlerine uyan diyabetsiz CKD hastalarında eGFR/albuminüri ve kalp yetersizliği durumuna göre.",
+          "explanation": "Glisemik etkiden bağımsız renal/kardiyovasküler koruma sağlar; başlama eGFR eşiği ve devam ölçütü preparat/kılavuza göre değişir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-13",
+          "question": "CKD'de aneminin temel mekanizması nedir?",
+          "answer": "Azalmış eritropoietin üretimi; demir eksikliği, inflamasyon ve kan kaybı katkıda bulunabilir.",
+          "explanation": "Normositer anemi tipiktir; demir durumu değerlendirilmeden ESA başlanmaz."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-14",
+          "question": "CKD-mineral kemik bozukluğunda tipik laboratuvar değişiklikleri nelerdir?",
+          "answer": "Fosfat artışı, kalsitriol azalması, sekonder hiperparatiroidi; ileri evrede kalsiyum düşebilir.",
+          "explanation": "PTH, kalsiyum, fosfat ve ALP birlikte izlenir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-15",
+          "question": "Hiperkalemide EKG'de erken bulgu nedir?",
+          "answer": "Sivri, dar tabanlı T dalgaları; ilerledikçe PR uzaması, P kaybı ve QRS genişlemesi.",
+          "explanation": "EKG normal olsa da ciddi hiperkalemi olabilir; klinik ve potasyum düzeyi birlikte ele alınır."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-16",
+          "question": "Hayatı tehdit eden hiperkalemide ilk kardiyak stabilizasyon tedavisi nedir?",
+          "answer": "IV kalsiyum glukonat veya uygun koşulda kalsiyum klorür.",
+          "explanation": "Kalsiyum potasyumu düşürmez; miyokard membranını stabilize eder."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-17",
+          "question": "Hiperkalemide potasyumu hücre içine kaydıran acil tedaviler nelerdir?",
+          "answer": "IV insülin+glukoz ve inhale beta-2 agonist; seçilmiş olguda bikarbonat (özellikle asidoz varsa).",
+          "explanation": "Etki geçicidir; potasyumun vücuttan uzaklaştırılması ayrıca gerekir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-18",
+          "question": "Hiponatremide serum osmolalitesi neden ölçülür?",
+          "answer": "Hipotonik, izotonik (psödohiponatremi) ve hipertonik hiponatremiyi ayırmak için.",
+          "explanation": "Tedavi etiyolojiye göre değişir; glukoz yüksekliği sodyumu düşürülmüş gösterir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-19",
+          "question": "Semptomatik ağır hiponatremide düzeltme hızı neden sınırlandırılır?",
+          "answer": "Aşırı hızlı düzeltme ozmotik demiyelinizasyon sendromuna yol açabilir.",
+          "explanation": "Acil nörolojik semptomda hipertonik salin bolusları kullanılır; hedef başlangıçta sınırlı artış ve yüksek riskte daha düşük günlük düzeltmedir."
+        },
+        {
+          "id": "IM-NEPHROLOGY-AKI-CKD-20",
+          "question": "Metabolik asidozda anyon açıklığı nasıl hesaplanır?",
+          "answer": "Na − (Cl + HCO3); albümine göre düzeltilmesi gerekebilir.",
+          "explanation": "Yüksek anyon açıklığı laktat, keton, üremi ve toksinleri; normal açıklık diyare/RTA gibi nedenleri düşündürür."
+        }
+      ]
+    },
+    {
+      "id": "internal-medicine-endocrine-diabetes-thyroid",
+      "title": "Dahiliye · Diyabet ve tiroid hastalıkları",
+      "cards": [
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-01",
+          "question": "Diabetes mellitus tanısında kabul edilen laboratuvar eşikleri nelerdir?",
+          "answer": "HbA1c ≥%6,5; açlık plazma glukozu ≥126 mg/dL; 75 g OGTT 2. saat ≥200 mg/dL veya klasik semptom/krizle rastgele glukoz ≥200 mg/dL.",
+          "explanation": "Açık hiperglisemi yoksa anormal sonuç tekrar doğrulanır; HbA1c bazı durumlarda güvenilmez olabilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-02",
+          "question": "Prediyabet için HbA1c aralığı nedir?",
+          "answer": "%5,7–6,4.",
+          "explanation": "Açlık glukozu 100–125 mg/dL veya OGTT 2. saat 140–199 mg/dL de prediyabet ölçütüdür."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-03",
+          "question": "Tip 1 ve tip 2 diyabetin temel patofizyolojik farkı nedir?",
+          "answer": "Tip 1: otoimmün beta hücre yıkımı ve mutlak insülin eksikliği; tip 2: insülin direnci ve ilerleyici beta hücre yetersizliği.",
+          "explanation": "Klinik görünüm örtüşebilir; otoantikor ve C-peptid seçilmiş olguda ayrım sağlar."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-04",
+          "question": "DKA tanısında temel üçlü nedir?",
+          "answer": "Hiperglisemi/diabetes öyküsü, ketoz ve metabolik asidoz.",
+          "explanation": "Öglisemik DKA, özellikle SGLT2 inhibitörü ve açlık/gebelikte normal veya hafif yüksek glukozla görülebilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-05",
+          "question": "DKA'da tedavi sıralamasının temel ilkesi nedir?",
+          "answer": "İzotonik sıvı, potasyum değerlendirme/düzeltme, ardından IV insülin; tetikleyici neden tedavisi.",
+          "explanation": "K <3,5 mmol/L ise insülin potasyum verilene kadar ertelenir; glukoz düştüğünde dekstroz eklenerek ketoz çözülene kadar insülin sürdürülür."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-06",
+          "question": "HHS'yi DKA'dan ayıran tipik özellik nedir?",
+          "answer": "Belirgin hiperozmolarite ve ağır dehidratasyon; ketoz/asidoz genellikle yok veya daha hafiftir.",
+          "explanation": "Tip 2 diyabette, yaşlılarda sık; nörolojik bozukluk belirgin olabilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-07",
+          "question": "Diyabette ilk basamak kronik tedavi seçimi nasıl yapılır?",
+          "answer": "Yaşam tarzı ve metformin uygun hastada; ASCVD, kalp yetersizliği veya CKD varsa kardiyorenal yararı kanıtlı SGLT2i/GLP-1 RA öncelik kazanabilir.",
+          "explanation": "Tedavi yalnız HbA1c değil, kardiyovasküler/renal risk, kilo, hipoglisemi ve maliyete göre seçilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-08",
+          "question": "Diyabetik böbrek hastalığında ACEİ/ARB hangi durumda endikedir?",
+          "answer": "Hipertansiyonla birlikte albuminüri veya CKD varlığında, tolere ediliyorsa.",
+          "explanation": "Normotansif ve normoalbuminürik hastada primer korunma için rutin RAAS blokajı önerilmez."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-09",
+          "question": "Diyabette retinopati taraması ne zaman başlar?",
+          "answer": "Tip 2 diyabette tanı anında; tip 1 diyabette başlangıçtan yaklaşık 5 yıl sonra erişkinde.",
+          "explanation": "Sonraki sıklık retinopati bulgusu, glisemik kontrol ve oftalmoloji önerisine göre belirlenir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-10",
+          "question": "Hipoglisemi düzeyi 1 ve 2 için eşikler nelerdir?",
+          "answer": "Düzey 1: <70 ve ≥54 mg/dL; düzey 2: <54 mg/dL; düzey 3 klinik olarak ciddi ve yardım gerektiren olaydır.",
+          "explanation": "Bilinç bozukluğu/yardım ihtiyacı glukoz değerinden bağımsız ciddi hipoglisemidir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-11",
+          "question": "Bilinçli ve oral alabilen hastada hipoglisemi nasıl tedavi edilir?",
+          "answer": "15–20 g hızlı emilen glukoz verilir, 15 dakika sonra tekrar ölçülür ve gerekirse yinelenir.",
+          "explanation": "Ardından öğün/uzun etkili karbonhidrat; bilinçsiz hastaya oral gıda verilmez."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-12",
+          "question": "Primer hipotiroidide tipik TSH ve serbest T4 paterni nedir?",
+          "answer": "TSH yüksek, serbest T4 düşük.",
+          "explanation": "Subklinik hipotiroidide TSH yüksek, serbest T4 normaldir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-13",
+          "question": "Primer hipertiroidide tipik laboratuvar paterni nedir?",
+          "answer": "TSH baskılı, serbest T4 ve/veya T3 yüksek.",
+          "explanation": "T3 toksikozunda serbest T4 normal kalabilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-14",
+          "question": "Graves hastalığını destekleyen antikor hangisidir?",
+          "answer": "TSH reseptör antikoru (TRAb/TSI).",
+          "explanation": "Diffüz guatr, oftalmopati ve pretibial miksödem eşlik edebilir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-15",
+          "question": "Graves hastalığında antitiroid ilaç seçimi nasıldır?",
+          "answer": "Metimazol çoğu hastada ilk tercih; gebeliğin ilk trimesterinde ve tiroid fırtınasında PTU tercih edilir.",
+          "explanation": "Agranülositoz ve hepatotoksisite uyarıları verilir; ateş/farenjitte ilaç kesilip acil hemogram gerekir."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-16",
+          "question": "Tiroid fırtınası klinik olarak nasıl tanınır?",
+          "answer": "Tirotoksikoz zemininde ateş, belirgin taşikardi/AF, ajitasyon-deliryum ve gastrointestinal/hepatik bozukluk.",
+          "explanation": "Acil yoğun bakım tedavisi; beta blokaj, tionamid, iyot (tionamidden sonra), steroid ve tetikleyici tedavi."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-17",
+          "question": "Miksödem komasında ilk tedavi bileşenleri nelerdir?",
+          "answer": "IV levotiroksin, stres dozunda IV hidrokortizon ve destek tedavisi.",
+          "explanation": "Hipotermi, hipoventilasyon, hiponatremi ve bilinç bozukluğu ile ağır hipotiroidi tablosudur."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-18",
+          "question": "Subakut granülomatöz tiroiditte tipik klinik özellik nedir?",
+          "answer": "Ağrılı hassas tiroid, viral prodrom ve yüksek ESR/CRP; erken dönemde geçici tirotoksikoz.",
+          "explanation": "Radyoiyot tutulumu düşüktür; tedavi NSAİİ, ağır olguda kortikosteroid ve semptomatik beta blokaj."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-19",
+          "question": "Tiroid nodülünde malignite riskini değerlendirmede ilk görüntüleme nedir?",
+          "answer": "Tiroid ultrasonografisi; TSH ölçülür.",
+          "explanation": "TSH düşükse sintigrafi otonom nodülü değerlendirebilir; USG özellikleri biyopsi kararını belirler."
+        },
+        {
+          "id": "IM-ENDOCRINE-DIABETES-THYROID-20",
+          "question": "Feokromositoma için biyokimyasal tarama testi nedir?",
+          "answer": "Plazma serbest metanefrin veya 24 saatlik idrar fraksiyone metanefrin.",
+          "explanation": "Görüntüleme biyokimyasal doğrulamadan sonra yapılır; cerrahi öncesi alfa blokaj şarttır."
+        }
+      ]
     }
   ]
 }
