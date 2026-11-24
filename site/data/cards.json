@@ -2135,6 +2135,282 @@
           "explanation": "Lenfatik drenaj çoğunlukla organ arterlerini izler; mide, pankreas ve kolorektal tümör evrelemesinde önemlidir."
         }
       ]
+    },
+    {
+      "id": "anatomy-pelvis-perineum",
+      "title": "Anatomi · Pelvis ve perine",
+      "cards": [
+        {
+          "id": "ANAT-PP-012-01",
+          "question": "Pelvisin büyük ve küçük bölümleri hangi anatomik sınırla ayrılır?",
+          "answer": "Linea terminalis (pelvik brim); üstte pelvis major, altta pelvis minor bulunur.",
+          "explanation": "Pelvik giriş düzlemi promontorium, linea arcuata, pecten pubis ve pubik krest boyunca uzanır."
+        },
+        {
+          "id": "ANAT-PP-012-02",
+          "question": "Pelvik girişin sınırları nelerdir?",
+          "answer": "Arkada sakral promontorium ve ala sacri; yanlarda linea arcuata ve pecten pubis; önde pubik krest ve symphysis pubica'nın üst kenarı.",
+          "explanation": "Obstetrik pelvimetride girişin ön-arka, transvers ve oblik çapları önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-03",
+          "question": "Pelvik çıkışın sınırları nelerdir?",
+          "answer": "Önde symphysis pubica'nın alt kenarı; yanlarda pubik ark ve tuber ischiadicum; arkada lig. sacrotuberale ve coccyx ucu.",
+          "explanation": "Pelvik çıkış doğum kanalının alt bölümünü sınırlar."
+        },
+        {
+          "id": "ANAT-PP-012-04",
+          "question": "Pelvisin tipik kadın-erkek morfoloji farkları nelerdir?",
+          "answer": "Kadın pelvisinde giriş daha geniş ve oval/yuvarlak, subpubik açı daha geniş, sakrum daha kısa-geniş ve çıkış daha geniştir; erkek pelvis genellikle daha dar ve derindir.",
+          "explanation": "Bunlar popülasyon düzeyinde eğilimlerdir; bireysel varyasyon vardır."
+        },
+        {
+          "id": "ANAT-PP-012-05",
+          "question": "Sakroiliak eklemi hangi bağlar stabilize eder?",
+          "answer": "Ön ve arka sakroiliak bağlar ile özellikle güçlü lig. interosseum sacroiliacum; ayrıca lig. sacrotuberale ve sacrospinale pelvik stabiliteye katkı verir.",
+          "explanation": "Sakrotuberöz ve sakrospinöz bağlar siyatik çentikleri foramina ischiadica'ya dönüştürür."
+        },
+        {
+          "id": "ANAT-PP-012-06",
+          "question": "Foramen ischiadicum majus ve minus hangi bağların katkısıyla oluşur?",
+          "answer": "Lig. sacrotuberale ve lig. sacrospinale, incisura ischiadica major/minor'u büyük ve küçük siyatik foramene dönüştürür.",
+          "explanation": "Piriformis büyük siyatik forameni suprapiriform ve infrapiriform geçitlere ayırır."
+        },
+        {
+          "id": "ANAT-PP-012-07",
+          "question": "Pelvik duvarın temel kasları hangileridir?",
+          "answer": "M. obturatorius internus ve m. piriformis pelvik yan ve arka duvarın başlıca kaslarıdır.",
+          "explanation": "Obturator internus tendonu küçük siyatik foramenden geçer; piriformis büyük siyatik foramenden çıkar."
+        },
+        {
+          "id": "ANAT-PP-012-08",
+          "question": "Pelvik diyaframı hangi kaslar oluşturur?",
+          "answer": "M. levator ani (puborectalis, pubococcygeus, iliococcygeus) ve m. coccygeus.",
+          "explanation": "Pelvik diyafram pelvik organ desteği, kontinans ve doğum mekaniğinde rol oynar."
+        },
+        {
+          "id": "ANAT-PP-012-09",
+          "question": "M. puborectalis'in fekal kontinanstaki işlevi nedir?",
+          "answer": "Anorektal bileşke çevresinde askı oluşturarak anorektal açıyı korur; kasılması kontinansa katkı sağlar.",
+          "explanation": "Defekasyon sırasında gevşemesi ve anorektal açının düzleşmesi gerekir."
+        },
+        {
+          "id": "ANAT-PP-012-10",
+          "question": "Perineal body hangi kaslar için önemli tutunma merkezidir?",
+          "answer": "Bulbospongiosus, superficial/deep transverse perineal kaslar, external anal sphincter ve levator ani'nin bazı lifleri.",
+          "explanation": "Doğum sırasında yırtılması pelvik taban desteğini bozabilir."
+        },
+        {
+          "id": "ANAT-PP-012-11",
+          "question": "Endopelvik fasya ve pelvik fasya hangi işlevi görür?",
+          "answer": "Pelvik organları, damar-sinir demetlerini ve pelvik tabanı destekleyen bağ dokusu kılıfları ve yoğunlaşmaları oluşturur.",
+          "explanation": "Kardinal ve uterosakral ligament kompleksleri serviks ve vajinanın apikal desteğine katkı verir."
+        },
+        {
+          "id": "ANAT-PP-012-12",
+          "question": "Retropubik (Retzius) aralık nerede bulunur?",
+          "answer": "Pubis arka yüzü ile mesanenin ön yüzü arasında, ekstraperitoneal potansiyel aralıktır.",
+          "explanation": "Retropubik cerrahi yaklaşımlarda ve mesane yaralanmalarında önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-13",
+          "question": "İç iliak arterin posterior bölümünün tipik dalları hangileridir?",
+          "answer": "A. iliolumbalis, aa. sacrales laterales ve a. glutea superior.",
+          "explanation": "Dallanma varyasyonları sıktır; cerrahi ve anjiyografide dikkate alınır."
+        },
+        {
+          "id": "ANAT-PP-012-14",
+          "question": "İç iliak arterin anterior bölümünün başlıca dalları nelerdir?",
+          "answer": "A. umbilicalis (superior vesical dallar), obturator, uterin/vaginal (kadında), inferior vesical (erkekte), middle rectal, internal pudendal ve inferior gluteal arterler.",
+          "explanation": "Dalların kökenleri değişkendir; uterin ve obturator arter varyasyonları cerrahide önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-15",
+          "question": "A. pudenda interna perineuma hangi yoldan ulaşır?",
+          "answer": "Büyük siyatik foramenden infrapiriform çıkar, spina ischiadica çevresinde lig. sacrospinale'yi dolanır ve küçük siyatik foramenden perineuma girer.",
+          "explanation": "N. pudendus ile birlikte Alcock kanalında seyreder."
+        },
+        {
+          "id": "ANAT-PP-012-16",
+          "question": "Pelvik venöz pleksusların klinik önemi nedir?",
+          "answer": "Vezikal, prostatik, uterin ve rektal venöz pleksuslar arasında bağlantılar bulunur; vertebral venöz pleksuslarla bağlantılar metastaz yayılımına katkı sağlayabilir.",
+          "explanation": "Prostatik pleksus ile internal vertebral venöz pleksus bağlantısı prostat kanserinin vertebral yayılımında önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-17",
+          "question": "Pelvik organların lenfatik drenajında temel örüntüler nelerdir?",
+          "answer": "Mesane çoğunlukla eksternal/internal iliak; serviks internal-eksternal iliak ve sakral; prostat internal iliak/sakral; üst rektum inferior mezenterik; anal kanal pektinat çizgi altı yüzeyel inguinal nodlara drene olur.",
+          "explanation": "Lenfatik drenaj tümör evrelemesinde anatomik bölgeye göre değerlendirilir."
+        },
+        {
+          "id": "ANAT-PP-012-18",
+          "question": "Pelvik parasempatik lifler hangi seviyelerden çıkar?",
+          "answer": "S2–S4 ventral ramuslarından çıkan pelvik splanknik sinirlerle taşınır.",
+          "explanation": "Pelvik splanknik sinirler sakral parasempatik çıkıştır; sempatik lomber splanknik sinirlerle karıştırılmamalıdır."
+        },
+        {
+          "id": "ANAT-PP-012-19",
+          "question": "Hipogastrik sinirler ve inferior hipogastrik pleksus hangi lifleri taşır?",
+          "answer": "Hipogastrik sinirler sempatik lifleri pelvise taşır; inferior hipogastrik pleksus sempatik ve pelvik splanknik parasempatik lifleri birleştirir.",
+          "explanation": "Pelvik cerrahide pleksus hasarı mesane, rektum ve cinsel işlev bozukluğuna neden olabilir."
+        },
+        {
+          "id": "ANAT-PP-012-20",
+          "question": "N. pudendus hangi köklerden oluşur ve temel innervasyon alanı nedir?",
+          "answer": "S2–S4; perine derisi, dış anal ve dış üretral sfinkterler ile perine kaslarının önemli bölümüne somatik innervasyon sağlar.",
+          "explanation": "Pudendal sinir somatiktir; pelvik organların otonom innervasyonunu sağlamaz."
+        },
+        {
+          "id": "ANAT-PP-012-21",
+          "question": "Alcock kanalının içeriği ve duvarı nedir?",
+          "answer": "Obturator internus fasyasının oluşturduğu kanalda n. pudendus, a. pudenda interna ve eşlik eden venler seyreder.",
+          "explanation": "Kanal lateral perineal duvarda bulunur."
+        },
+        {
+          "id": "ANAT-PP-012-22",
+          "question": "Mesane trigonu hangi noktalar arasında yer alır?",
+          "answer": "İki üreter orifisi ile internal urethral orifis arasında kalan düzgün mukozalı üçgensel alandır.",
+          "explanation": "Trigon mukozası alttaki kas tabakasına sıkıca tutunur; sistoskopide ayırt edilir."
+        },
+        {
+          "id": "ANAT-PP-012-23",
+          "question": "Üreterin pelvise girişte ve kadın pelvisindeki kritik komşuluğu nedir?",
+          "answer": "Pelvik brimde iliak damarları çaprazlar; kadında uterin arterin altından, erkekte ductus deferens'in altından geçer.",
+          "explanation": "Histerektomide uterin arter bağlanırken üreter yaralanma riski taşır."
+        },
+        {
+          "id": "ANAT-PP-012-24",
+          "question": "Mesanenin otonom ve somatik innervasyonu işlevsel olarak nasıldır?",
+          "answer": "S2–S4 pelvik splanknik parasempatik lifler detrusoru kasar; T11–L2 sempatik lifler depolama fazını destekler. Dış üretral sfinkter pudendal sinirle kontrol edilir.",
+          "explanation": "İşeme ve depolama fazları otonom-somatik koordinasyon gerektirir."
+        },
+        {
+          "id": "ANAT-PP-012-25",
+          "question": "Erkek üretrasının bölümleri proksimalden distale nasıl sıralanır?",
+          "answer": "Preprostatik/intramural, prostatik, membranöz ve spongioz (penil) üretra.",
+          "explanation": "Membranöz bölüm dış üretral sfinkter kompleksi içinden geçer; spongioz bölüm corpus spongiosum içindedir."
+        },
+        {
+          "id": "ANAT-PP-012-26",
+          "question": "Kadın üretrasının anatomik özellikleri nelerdir?",
+          "answer": "Yaklaşık 3–4 cm uzunluğunda, kısa ve nispeten düz bir kanaldır; vestibülde vajinal açıklığın önünde açılır.",
+          "explanation": "Kısa üretra, bakterilerin mesaneye ulaşmasını kolaylaştıran anatomik faktörlerden biridir."
+        },
+        {
+          "id": "ANAT-PP-012-27",
+          "question": "Rektumun peritoneal örtüsü üst, orta ve alt bölümlerde nasıldır?",
+          "answer": "Üst üçte bir ön ve yanlardan; orta üçte bir yalnız önden peritonla örtülür; alt üçte bir peritonla örtülmez.",
+          "explanation": "Periton yansımasının düzeyi cerrahi yaklaşımda önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-28",
+          "question": "Pektinat çizginin üstü ve altında anal kanalın duyu ve lenfatik özellikleri nasıl değişir?",
+          "answer": "Üstte visseral duyu ve inferior mezenterik/internal iliak lenfatikler; altta somatik inferior rectal sinir duyusu ve yüzeyel inguinal lenfatikler baskındır.",
+          "explanation": "Pektinat çizgi embriyolojik ve nörovasküler farklılıkların önemli sınırıdır."
+        },
+        {
+          "id": "ANAT-PP-012-29",
+          "question": "İç ve dış anal sfinkterlerin kas tipi ve innervasyonu nedir?",
+          "answer": "İç sfinkter düz kas ve istemsizdir; dış sfinkter çizgili kas ve istemlidir, başlıca inferior rectal sinirle innerve edilir.",
+          "explanation": "İstirahat anal tonusunun büyük bölümü iç sfinkterden kaynaklanır."
+        },
+        {
+          "id": "ANAT-PP-012-30",
+          "question": "Prostatın klinik açıdan önemli zonları ve hastalık ilişkileri nelerdir?",
+          "answer": "Transizyonel zon benign prostat hiperplazisinin; periferik zon prostat adenokarsinomunun en sık geliştiği bölgedir.",
+          "explanation": "Periferik zon rektal muayenede palpe edilebilir."
+        },
+        {
+          "id": "ANAT-PP-012-31",
+          "question": "Ductus deferens pelviste hangi yapıyla çaprazlaşır?",
+          "answer": "Mesaneye yaklaşırken üreterin üstünden geçer; ampullası seminal vezikül kanalıyla birleşerek ejakülatuvar kanalı oluşturur.",
+          "explanation": "Bu çaprazlaşma erkek pelvis cerrahisinde anatomik işarettir."
+        },
+        {
+          "id": "ANAT-PP-012-32",
+          "question": "Ejakülatuvar kanal nasıl oluşur ve nereye açılır?",
+          "answer": "Ductus deferens ampullası ile seminal vezikül kanalının birleşmesiyle oluşur; prostatik üretrada seminal kollikulus çevresine açılır.",
+          "explanation": "Ejakülatuvar kanallar prostat içinden geçer."
+        },
+        {
+          "id": "ANAT-PP-012-33",
+          "question": "Spermatik kordun temel içerikleri nelerdir?",
+          "answer": "Ductus deferens, testiküler/deferens/kremasterik arterler, pampiniform pleksus, genital ramus genitofemoral sinir, otonom lifler ve lenfatikler.",
+          "explanation": "N. ilioinguinalis kordun içeriği değildir; inguinal kanal boyunca kordla birlikte seyreder."
+        },
+        {
+          "id": "ANAT-PP-012-34",
+          "question": "Testisin lenfatik drenajı neden paraaortik nodlara olur?",
+          "answer": "Testis embriyolojik olarak posterior abdominal duvardan geliştiği için lenfi testiküler damarları izleyerek renal damar düzeyindeki paraaortik/lateral aortik nodlara gider.",
+          "explanation": "Skrotum derisi yüzeyel inguinal nodlara drene olur; testis tümörü yayılımında ayrım kritiktir."
+        },
+        {
+          "id": "ANAT-PP-012-35",
+          "question": "Uterusun temel bölümleri ve normal pozisyon terimleri nelerdir?",
+          "answer": "Fundus, corpus, isthmus ve cervix; uterus çoğunlukla anteversiyon ve antefleksiyon konumundadır.",
+          "explanation": "Anteversiyon vajina eksenine, antefleksiyon serviks-gövde eksenine göre tanımlanır."
+        },
+        {
+          "id": "ANAT-PP-012-36",
+          "question": "Uterusun başlıca destekleri nelerdir?",
+          "answer": "Pelvik diyafram ve perineal body dinamik destek sağlar; kardinal ve uterosakral ligamentler apikal desteğin temel bağ dokusu bileşenleridir.",
+          "explanation": "Lig. teres uteri anteversiyonu korumaya katkı sağlar; ana apikal destek değildir."
+        },
+        {
+          "id": "ANAT-PP-012-37",
+          "question": "Uterin arter ile üreterin ilişkisi ve klinik önemi nedir?",
+          "answer": "Uterin arter üreterin üstünden geçer; üreter servikse yakın uterin arterin altından ilerler.",
+          "explanation": "Histerektomide uterin arter pedikülü bağlanırken üreter yaralanması önlenmelidir."
+        },
+        {
+          "id": "ANAT-PP-012-38",
+          "question": "Ovaryumun arteriyel kanlanması ve venöz drenajı nasıldır?",
+          "answer": "A. ovarica abdominal aortadan çıkar; sağ ovaryan ven VCI'ye, sol ovaryan ven sol renal vene dökülür.",
+          "explanation": "Ovaryan damarlar suspensory ligament of ovary içinde seyreder."
+        },
+        {
+          "id": "ANAT-PP-012-39",
+          "question": "Tuba uterinanın bölümleri lateralden mediale nasıl sıralanır?",
+          "answer": "Infundibulum (fimbrialar), ampulla, isthmus ve intramural/uterin bölüm.",
+          "explanation": "Fertilizasyon en sık ampullada gerçekleşir; tubal ektopik gebelik açısından önemlidir."
+        },
+        {
+          "id": "ANAT-PP-012-40",
+          "question": "Broad ligament hangi peritoneal yapraklardan oluşur ve hangi yapıları taşır?",
+          "answer": "Uterusun yanlarından pelvik duvarlara uzanan çift katlı periton kıvrımıdır; uterin tüp ve ilişkili mezoları içerir.",
+          "explanation": "Mesovarium, mesosalpinx ve mesometrium bölümleri ayırt edilir."
+        },
+        {
+          "id": "ANAT-PP-012-41",
+          "question": "Yüzeyel ve derin perineal aralıklar nerede bulunur?",
+          "answer": "Yüzeyel aralık perineal membranın altında; derin aralık perineal membranın üstünde ve pelvik diyaframın altında yer alır.",
+          "explanation": "Erkekte yüzeyel aralıkta kök erektil dokular ve ilişkili kaslar; derin aralıkta dış üretral sfinkter kompleksi bulunur."
+        },
+        {
+          "id": "ANAT-PP-012-42",
+          "question": "İskiyoanal fossanın sınırları ve işlevi nedir?",
+          "answer": "Yağ dokusuyla dolu kama biçimli aralıktır; medialde dış anal sfinkter/levator ani, lateralde obturator internus ve ischial tuberosity ile sınırlanır.",
+          "explanation": "Anal kanalın genişlemesine izin verir; enfeksiyon derin posterior bağlantılarla karşı tarafa yayılabilir."
+        },
+        {
+          "id": "ANAT-PP-012-43",
+          "question": "Pudendal sinir bloğu hangi kemik işaretinden uygulanır?",
+          "answer": "Spina ischiadica palpe edilerek, yakınından geçen pudendal sinir çevresine lokal anestezik verilir.",
+          "explanation": "Doğum analjezisi için kullanılır."
+        },
+        {
+          "id": "ANAT-PP-012-44",
+          "question": "Obstetrik perine yırtıklarında hangi yapılar korunmalıdır?",
+          "answer": "Perineal body ve anal sfinkter kompleksi; ileri derece yırtıklarda dış/iç anal sfinkter ve rektal mukoza etkilenebilir.",
+          "explanation": "Mediolateral epizyotomi anal sfinktere doğrudan uzanma riskini azaltmak amacıyla tercih edilebilir."
+        },
+        {
+          "id": "ANAT-PP-012-45",
+          "question": "Pelvik organ prolapsusunda temel destek mekanizması hangi yapılara dayanır?",
+          "answer": "Levator ani, endopelvik fasya ve kardinal-uterosakral ligament desteği birlikte rol oynar.",
+          "explanation": "Doğum travması, levator ani hasarı ve bağ dokusu desteğinin zayıflaması prolapsusa katkı verir."
+        }
+      ]
     }
   ]
 }
