@@ -13,8 +13,8 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | Alt ekstremite | Gluteal bölge; uyluk üçgenleri ve kompartımanları; diz arkası çukuru; bacak ve ayak; lumbosakral pleksus; periferik sinir lezyonları; arteriyel/venöz dolaşım; eklemler ve yürüme | **Kısmi** — [alt ekstremite seti](lower-limb.md) yayımlandı; ayrıntılı kemik işaretleri, kasların tam origo/insertio ve eklem bağları için genişletilecek |
 | Sırt ve vertebral kolon | Vertebra özellikleri; omurga eklemleri ve bağları; sırt kasları; spinal meninksler ve aralıklar; spinal sinirler; dermatomlar ve miyotomlar; klinik girişimler | **Kısmi** — [sırt ve vertebral kolon seti](back-vertebral-column.md) ile bölgesel osteoloji, bağlar, kaslar ve meninksler eklendi; daha ayrıntılı varyasyonlar ve görüntüleme anatomisi genişletilecek |
 | Toraks | Göğüs duvarı; interkostal aralıklar; diyafram; plevra ve akciğerler; mediasten; kalp ve perikard; büyük damarlar; özofagus ve torasik lenfatikler; klinik ilişkiler | **Kısmi** — [toraks seti](thorax.md) yayımlandı; kardiyak damar varyasyonları, segmental anatomi ve görüntüleme ilişkileri daha ayrıntılı denetlenecek |
-| Abdomen | Karın duvarı ve inguinal kanal; periton ve boşluklar; mide, bağırsaklar ve ilişkileri; karaciğer, safra yolları, pankreas, dalak; böbrek ve adrenal bez; abdominal aorta dalları; portal sistem; otonom innervasyon ve lenfatik drenaj | **Başlanmadı** |
-| Pelvis ve perine | Pelvik duvar ve taban; pelvik fasya ve boşluklar; mesane ve üreter; rektum; genital organlar; perineal üçgenler; pudendal kanal ve nörovasküler yapılar; obstetrik/ürolojik klinik anatomi | **Başlanmadı** |
+| Abdomen | Karın duvarı ve inguinal kanal; periton ve boşluklar; mide, bağırsaklar ve ilişkileri; karaciğer, safra yolları, pankreas, dalak; böbrek ve adrenal bez; abdominal aorta dalları; portal sistem; otonom innervasyon ve lenfatik drenaj | **Kısmi** — [abdomen seti](abdomen.md) yayımlandı; organ varyantları, görüntüleme ve klinik/cerrahi ilişkiler genişletilecek |
+| Pelvis ve perine | Pelvik kemik ve eklemler; pelvik duvar ve taban; pelvik fasya ve boşluklar; mesane ve üreter; rektum ve anal kanal; genital organlar; perineal üçgenler ve aralıklar; pudendal kanal ve nörovasküler yapılar; obstetrik/ürolojik klinik anatomi | **Kısmi** — [pelvis ve perine seti](pelvis-perineum.md) yayımlandı; pelvik görüntüleme, ayrıntılı organ topografisi, varyasyonlar ve cerrahi ilişkiler için genişletilecek |
 | Baş ve boyun | Kafa ve yüz kemikleri; skalp ve yüz; ağız, burun ve paranazal sinüsler; orbita; kulak; farinks ve larinks; boyun fasya ve üçgenleri; tükürük ve tiroid bezleri; kraniyal sinirler; baş-boyun damarları ve lenfatikleri | **Kısmi** — kraniyal sinirler, orbita, farinks ve larinks işlendi; diğer bölgeler eksik |
 | Nöroanatomi | MSS organizasyonu; spinal kord ve çıkan/inen yollar; beyin sapı; kraniyal sinir çekirdekleri; serebellum; bazal gangliyonlar; talamus ve hipotalamus; korteks ve Brodmann alanları; internal kapsül; limbik sistem; ventriküller ve BOS; kanlanma ve klinik sendromlar | **Kısmi** — spinal kord, beyin sapı, serebellum, bazal gangliyonlar, talamus ve kraniyal sinirler işlendi; korteks, internal kapsül, limbik sistem, hipotalamus ve diğer başlıklar eksik |
 
@@ -33,13 +33,14 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | [Sırt ve vertebral kolon](back-vertebral-column.md) | 31 | Sırt, vertebra, meninksler ve klinik anatomi |
 | [Toraks](thorax.md) | 41 | Göğüs duvarı, plevra-akciğer, mediasten, kalp ve torasik nörovasküler anatomi |
 | [Abdomen](abdomen.md) | 43 | Karın duvarı, periton, sindirim sistemi, hepatobiliyer organlar, retroperitoneum, damarlar ve innervasyon |
+| [Pelvis ve perine](pelvis-perineum.md) | 45 | Pelvik iskelet ve taban, fasya, damar-sinir, üriner/genital organlar, anal kanal ve obstetrik/ürolojik klinik anatomi |
 | [Brakiyal pleksus](brachial-plexus.md) | 20 | Üst ekstremite — pleksus ve ilişkili periferik sinir anatomisi |
 | [Kraniyal sinirler](cranial-nerves.md) | 30 | Baş-boyun ve nöroanatomi — kraniyal sinirlerin seyri/fonksiyonları |
 | [Orbita, farinks ve larinks](orbit-pharynx-larynx.md) | 30 | Baş-boyun — seçilmiş üç bölge |
 | [Spinal kord yolları ve beyin sapı](spinal-cord-brainstem.md) | 30 | Nöroanatomi — spinal yollar ve beyin sapı |
 | [Serebellum, bazal gangliyonlar ve talamus](cerebellum-basal-ganglia-thalamus.md) | 30 | Nöroanatomi — seçilmiş supratentoryal ve infratentoryal yapılar |
 
-Mevcut toplam 345 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
+Mevcut toplam 390 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
 
 ## Üretim sırası
 
@@ -51,7 +52,7 @@ Aşağıdaki sıra, mevcut boşlukları kapatırken tarihsel soru sıklığını
 4. **Sırt ve vertebral kolonu tamamlama** — kemik, eklem, bağ, kas ve klinik anatomi.
 5. **Toraksın genişletilmesi** — kardiyak damar varyasyonları, segmental anatomi ve görüntüleme ilişkileri.
 6. **Abdomenin genişletilmesi** — organ varyasyonları, bölgesel görüntüleme anatomisi ve klinik cerrahi ilişkiler.
-7. **Pelvis ve perine** — pelvik organlar, taban, perine ve nörovasküler yapılar.
+7. **Pelvis ve perinenin genişletilmesi** — pelvik organ topografisi, destek yapıları, varyasyonlar ve cerrahi ilişkiler.
 8. **Baş ve boynu tamamlama** — henüz kapsanmayan yüz, ağız, burun, kulak, boyun, damar ve lenfatik konuları.
 9. **Nöroanatomi boşluklarını tamamlama** — korteks, internal kapsül, limbik sistem, hipotalamus, ventriküller/BOS, kanlanma ve kalan klinik korelasyonlar.
 
