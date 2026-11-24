@@ -2,19 +2,19 @@
 
 Bu deste, biyokimya ile doğrudan kesişen moleküler mekanizmaları ve TUS'ta seçenek elemesini destekleyen klasik genetik ayrımlarını kapsar. Ayrıntılı genetik katalog değildir.
 
-## 1. DNA replikasyonunda ökaryotlarda öncül RNA-DNA primerini hangi enzim oluşturur; başlıca uzatma polimerazları hangileridir?
+## 1. Ökaryotik DNA replikasyonunda primeri hangi enzim oluşturur; başlıca polimerazlar ve replikasyon çatalındaki temel proteinlerin görevleri nelerdir?
 
-**Yanıt:** Primaz aktivitesi taşıyan DNA polimeraz α primeri başlatır; DNA polimeraz ε öncü zinciri, DNA polimeraz δ geciken zinciri uzatır.
+**Yanıt:** Primaz aktivitesi taşıyan DNA polimeraz α primeri başlatır; DNA polimeraz ε öncü zinciri, δ geciken zinciri uzatır. Helikaz çift sarmalı açar; topoizomeraz süpersarmal gerilimini giderir; RPA açılmış zincirleri stabilize eder; DNA ligaz kesintileri ve Okazaki parçalarını birleştirir.
 
-**Ayırt ettiren nokta:** DNA polimeraz δ ayrıca RNA primerlerinin uzaklaştırılması sonrası boşlukların doldurulmasına katkı verir; ligaz I Okazaki parçalarını birleştirir.
+**Ayırt ettiren nokta:** DNA polimeraz δ, RNA primerleri uzaklaştırıldıktan sonra boşlukların doldurulmasına da katkı verir. Bu enzimlerin görevlerini birbirinden ayırmak replikasyon sorularındaki temel karar noktasıdır.
 
-## 2. DNA replikasyonunda helikaz, topoizomeraz, SSB ve ligazın görevleri nelerdir?
+## 2. Telomerazın enzimatik niteliği ve temel işlevi nedir?
 
 **Yanıt:** Helikaz çift sarmalı açar; topoizomeraz süpersarmal gerilimini giderir; tek zincir bağlayıcı proteinler (SSB/RPA) açılmış zincirleri stabilize eder; DNA ligaz kesintileri kapatır.
 
 **Ayırt ettiren nokta:** Okazaki parçalarının birleştirilmesi ligaz gerektirir; topoizomeraz inhibitörleri bu basamağı hedefleyebilir.
 
-## 3. Telomerazın enzimatik niteliği ve temel işlevi nedir?
+## 2. Telomerazın enzimatik niteliği ve temel işlevi nedir?
 
 **Yanıt:** Kendi RNA kalıbını kullanan bir ters transkriptazdır; kromozomların telomer uçlarını uzatır.
 
@@ -86,9 +86,9 @@ Bu deste, biyokimya ile doğrudan kesişen moleküler mekanizmaları ve TUS'ta s
 
 **Ayırt ettiren nokta:** Otozomal dominanttır; tekrar sayısı arttıkça daha erken başlangıç ve ağır hastalık görülebilir.
 
-## 15. Fra­jil X sendromunda hangi tekrar genişler ve gen susturulması nasıl gelişir?
+## 15. Fragil X sendromunda hangi tekrar genişler ve gen susturulması nasıl gelişir?
 
-**Yanıt:** FMR1 geninin 5′ UTR bölgesinde CGG tekrar genişlemesi; tam mutasyonda promoter hip metilasyonu FMR1 ekspresyonunu baskılar.
+**Yanıt:** FMR1 geninin 5′ UTR bölgesinde CGG tekrar genişlemesi; tam mutasyonda promotör hipermetilasyonu FMR1 ekspresyonunu baskılar.
 
 **Ayırt ettiren nokta:** X'e bağlı kalıtım gösterir; büyük tekrar genişlemesi özellikle maternal geçişte görülür. Premutasyon taşıyıcılarında farklı ilişkili tablolar olabilir.
 
