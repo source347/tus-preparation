@@ -18,6 +18,7 @@ Anatomi flash kartları konu bazlı hazırlanır. TUS'ta bir dönemde anatomi i�
 | Brakiyal pleksus | 20 | [brachial-plexus.md](brachial-plexus.md) |
 | Kraniyal sinirler | 30 | [cranial-nerves.md](cranial-nerves.md) |
 | Orbita, farinks ve larenks | 30 | [orbit-pharynx-larynx.md](orbit-pharynx-larynx.md) |
+| Baş-boyun bölgesel anatomi | 36 | [head-neck-regional.md](head-neck-regional.md) |
 | Spinal kord yolları ve beyin sapı | 30 | [spinal-cord-brainstem.md](spinal-cord-brainstem.md) |
 | Serebellum, bazal gangliyonlar ve talamus | 30 | [cerebellum-basal-ganglia-thalamus.md](cerebellum-basal-ganglia-thalamus.md) |
 
