@@ -15,3 +15,4 @@ Konu bazlı, yüksek verimli flash kartlar. Amaç bütün biyokimya ayrıntılar
 - [Lipid metabolizması ve lipoproteinler — yüksek verimli kartlar](lipid-metabolism-lipoproteins.md)
 - [Vitaminler, koenzimler ve eksiklikler — yüksek verimli kartlar](vitamins-coenzymes-deficiencies.md)
 - [Enzim kinetiği ve düzenlenmesi — yüksek verimli kartlar](enzyme-kinetics-regulation.md)
+- [Moleküler biyoloji ve tıbbi genetik — yüksek verimli kartlar](molecular-biology-medical-genetics.md)
