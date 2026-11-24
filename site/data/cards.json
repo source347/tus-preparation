@@ -2987,6 +2987,120 @@
           "explanation": "Özellikle glikojen depoları azalmış kişide risk yüksektir."
         }
       ]
+    },
+    {
+      "id": "biochemistry-amino-acid-metabolism",
+      "title": "Biyokimya · Amino asit metabolizması ve üre döngüsü",
+      "cards": [
+        {
+          "id": "BIO-AA-001-01",
+          "question": "Amino asitler arasında amino grubunun aktarılmasını hangi enzimler katalizler?",
+          "answer": "Aminotransferazlar (transaminazlar); kofaktörleri piridoksal fosfattır (PLP, B6).",
+          "explanation": "Amino grubunu çoğunlukla α-ketoglutarata aktararak glutamat oluştururlar."
+        },
+        {
+          "id": "BIO-AA-001-02",
+          "question": "Üre döngüsüne giren iki azot atomu hangi kaynaklardan gelir?",
+          "answer": "Serbest amonyak (NH₃) ve aspartat.",
+          "explanation": "Ürenin karbonil karbonu CO₂/HCO₃⁻ kaynaklıdır; iki azot farklı kaynaklardan gelir."
+        },
+        {
+          "id": "BIO-AA-001-03",
+          "question": "Üre döngüsünün hız kısıtlayıcı mitokondriyal enzimi hangisidir ve ne aktive eder?",
+          "answer": "Karbamoil fosfat sentetaz I (CPS-I); N-asetilglutamat (NAG) zorunlu aktivatörüdür.",
+          "explanation": "NAG sentezi argininle uyarılır. CPS-I, sitozolik pirimidin sentezindeki CPS-II ile karıştırılmamalıdır."
+        },
+        {
+          "id": "BIO-AA-001-04",
+          "question": "Ornitin transkarbamoilaz (OTC) hangi reaksiyonu katalizler?",
+          "answer": "Karbamoil fosfat + ornitin → sitrülin; mitokondri matriksinde gerçekleşir.",
+          "explanation": "Sitrülin daha sonra sitozole taşınır."
+        },
+        {
+          "id": "BIO-AA-001-05",
+          "question": "OTC eksikliğinde kalıtım ve ayırt ettirici laboratuvar bulgusu nedir?",
+          "answer": "X'e bağlı kalıtım; hiperamonyemi, düşük sitrülin ve yüksek idrar orotik asidi.",
+          "explanation": "Fazla mitokondriyal karbamoil fosfat sitozolik pirimidin sentezine yönelir ve orotik asit artar."
+        },
+        {
+          "id": "BIO-AA-001-06",
+          "question": "CPS-I eksikliği ile OTC eksikliği hiperamonyemide nasıl ayırt edilir?",
+          "answer": "Her ikisinde sitrülin düşüktür; CPS-I eksikliğinde idrar orotik asidi düşük/normal, OTC eksikliğinde yüksektir.",
+          "explanation": "Orotik asit, OTC blokajında karbamoil fosfatın pirimidin yoluna taşması nedeniyle yükselir."
+        },
+        {
+          "id": "BIO-AA-001-07",
+          "question": "Sitrülinemi tip I hangi enzim eksikliğidir ve hangi amino asit yükselir?",
+          "answer": "Argininosüksinat sentetaz (ASS1) eksikliği; plazma sitrülini belirgin yükselir.",
+          "explanation": "Argininosüksinat oluşamaz; hiperamonyemi eşlik edebilir."
+        },
+        {
+          "id": "BIO-AA-001-08",
+          "question": "Argininosüksinik asidüride eksik enzim ve karakteristik klinik ipucu nedir?",
+          "answer": "Argininosüksinat liyaz (ASL); kırılgan/kaba saç ve trichorrhexis nodosa görülebilir.",
+          "explanation": "Argininosüksinat plazma ve idrarda yükselir."
+        },
+        {
+          "id": "BIO-AA-001-09",
+          "question": "Arjinaz eksikliği hangi metaboliti yükseltir ve tipik nörolojik bulgusu nedir?",
+          "answer": "Arjinin yükselir; ilerleyici spastisite, özellikle alt ekstremitelerde belirgindir.",
+          "explanation": "Diğer üre döngüsü kusurlarına göre ağır neonatal hiperamonyemi daha az tipiktir."
+        },
+        {
+          "id": "BIO-AA-001-10",
+          "question": "Üre döngüsü bozukluğunda yenidoğanda protein alımı sonrası hangi tablo gelişebilir?",
+          "answer": "Beslenme sonrası kusma, letarji, taşipne ve hızla ilerleyen ensefalopati; laboratuvarda hiperamonyemi.",
+          "explanation": "Başlangıçta normal görünen yenidoğanda sepsis benzeri tablo yapabilir; açıklanamayan hiperamonyemi metabolik inceleme gerektirir."
+        },
+        {
+          "id": "BIO-AA-001-11",
+          "question": "Fenilketonürinin klasik formunda eksik enzim ve biriken amino asit nedir?",
+          "answer": "Fenilalanin hidroksilaz (PAH) eksikliği; fenilalanin yükselir, tirozin azalır.",
+          "explanation": "Fenilalanin → tirozin dönüşümü bozulur; tedavisiz olguda nörogelişimsel hasar, hipopigmentasyon ve küf/fare kokusu olabilir."
+        },
+        {
+          "id": "BIO-AA-001-12",
+          "question": "BH₄ eksikliği, klasik PAH eksikliğinden hangi kritik açıdan ayrılır?",
+          "answer": "BH₄ eksikliği yalnız fenilalanin hidroksilazı değil, tirozin ve triptofan hidroksilazlarını da etkileyerek dopamin ve serotonin sentezini bozar.",
+          "explanation": "Hiperfenilalaninemiye nörotransmitter eksikliği eşlik eder; yalnız fenilalanin kısıtlaması yeterli olmayabilir."
+        },
+        {
+          "id": "BIO-AA-001-13",
+          "question": "Akçaağaç şurubu idrar hastalığında (MSUD) eksik enzim kompleksi ve etkilenen amino asitler hangileridir?",
+          "answer": "Dallı zincirli α-ketoasit dehidrogenaz kompleksi; lösin, izolösin ve valin yıkımı bozulur.",
+          "explanation": "İdrar/kulak kiri akçaağaç şurubu kokabilir; lösin ve alloisolösin artışı tipiktir."
+        },
+        {
+          "id": "BIO-AA-001-14",
+          "question": "Klasik homosistinürinin en sık biyokimyasal nedeni nedir?",
+          "answer": "Sistationin β-sentaz (CBS) eksikliği; homosistein ve genellikle metiyonin yükselir.",
+          "explanation": "B6 (piridoksin) yanıtlı veya yanıtsız olabilir; B6 kofaktördür."
+        },
+        {
+          "id": "BIO-AA-001-15",
+          "question": "Homosistinüride Marfan benzeri görünümden ayıran en önemli klinik ipuçları nelerdir?",
+          "answer": "Tromboemboli eğilimi ve lensin aşağıya (inferonazale) yer değiştirmesi.",
+          "explanation": "Marfan sendromunda lens tipik olarak yukarı-dışa yer değiştirir; homosistinüride tromboz belirgindir."
+        },
+        {
+          "id": "BIO-AA-001-16",
+          "question": "Alkaptonüride eksik enzim ve klasik üçlü nedir?",
+          "answer": "Homogentizat 1,2-dioksijenaz eksikliği; beklemiş idrarın koyulaşması, okronozis ve omurga/büyük eklem artriti.",
+          "explanation": "Tirozin yıkımında homogentisik asit birikir."
+        },
+        {
+          "id": "BIO-AA-001-17",
+          "question": "Tirozinemi tip I için en ayırt ettirici metabolik belirteç ve eksik enzim nedir?",
+          "answer": "Süksinilaseton artışı; fum arilasetoasetat hidrolaz (FAH) eksikliği.",
+          "explanation": "Hepatorenal hasar, karaciğer yetmezliği ve renal tübülopati yapabilir; nitisinon toksik metabolit oluşumunu azaltır."
+        },
+        {
+          "id": "BIO-AA-001-18",
+          "question": "Homosistein yüksekliğinde CBS eksikliği ile remetilasyon kusuru nasıl ayrılır?",
+          "answer": "CBS eksikliğinde metiyonin genellikle yüksek; remetilasyon kusurlarında (B12/folat döngüsü) metiyonin düşük veya normal-düşüktür.",
+          "explanation": "Her iki durumda total homosistein yükselebilir; metiyonin düzeyi ayırıcıdır."
+        }
+      ]
     }
   ]
 }
