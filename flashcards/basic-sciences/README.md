@@ -7,6 +7,6 @@ Planned subjects:
 - histology-embryology — high-yield histology and embryology cards
 - physiology — yüksek verimli fizyoloji kartları
 - biochemistry
-- microbiology
+- microbiology — yüksek verimli mikrobiyoloji kartları
 - pathology
 - pharmacology
