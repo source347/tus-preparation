@@ -3101,6 +3101,120 @@
           "explanation": "Her iki durumda total homosistein yükselebilir; metiyonin düzeyi ayırıcıdır."
         }
       ]
+    },
+    {
+      "id": "biochemistry-lipid-metabolism",
+      "title": "Biyokimya · Lipid metabolizması ve lipoproteinler: yüksek verimli karar noktaları",
+      "cards": [
+        {
+          "id": "BIO-LIP-001-01",
+          "question": "Yağ asidi sentezinin hız kısıtlayıcı enzimi ve temel kofaktörü nedir?",
+          "answer": "Asetil-CoA karboksilaz (ACC); biotin ve ATP kullanarak asetil-CoA'yı malonil-CoA'ya çevirir.",
+          "explanation": "İnsülin ve sitrat aktive eder; AMPK/fosforilasyon ve uzun zincirli yağ asil-CoA'ları inhibe eder."
+        },
+        {
+          "id": "BIO-LIP-001-02",
+          "question": "Malonil-CoA yağ asidi sentezi ile β-oksidasyon arasında nasıl bir anahtar görevi görür?",
+          "answer": "ACC ürünü malonil-CoA, CPT-I'i inhibe ederek uzun zincirli yağ asitlerinin mitokondriye girişini azaltır.",
+          "explanation": "Sentez aktifken aynı anda mitokondriyal yağ asidi yıkımını baskılar."
+        },
+        {
+          "id": "BIO-LIP-001-03",
+          "question": "Uzun zincirli yağ asitleri mitokondri matriksine hangi taşıma sistemiyle girer?",
+          "answer": "Karnitin mekiği: CPT-I, karnitin-açil-karnitin translokazı ve CPT-II.",
+          "explanation": "CPT-I dış mitokondriyal membranda; CPT-II matriks tarafında görev yapar."
+        },
+        {
+          "id": "BIO-LIP-001-04",
+          "question": "Yağ asidi β-oksidasyonu hücrede nerede gerçekleşir ve her döngüde ne oluşur?",
+          "answer": "Başlıca mitokondri matriksinde; bir asetil-CoA, bir FADH₂ ve bir NADH oluşur, zincir iki karbon kısalır.",
+          "explanation": "Çok uzun zincirli yağ asitlerinin ilk kısaltılması peroksizomda başlayabilir."
+        },
+        {
+          "id": "BIO-LIP-001-05",
+          "question": "Orta zincirli açil-CoA dehidrogenaz (MCAD) eksikliğinin tipik açlık laboratuvar örüntüsü nedir?",
+          "answer": "Hipoketotik hipoglisemi; orta zincirli açilkarnitinler ve dikarboksilik asitler artabilir.",
+          "explanation": "Yağ asidi oksidasyonu ve keton üretimi yetersizdir; açlık veya enfeksiyonla metabolik kriz tetiklenebilir."
+        },
+        {
+          "id": "BIO-LIP-001-06",
+          "question": "Açlıkta ketogenez hangi organda ve hücresel kompartımanda gerçekleşir?",
+          "answer": "Karaciğer mitokondrisinde.",
+          "explanation": "Düşük insülin/yüksek glukagon, yağ asidi akışını ve β-oksidasyonu artırır."
+        },
+        {
+          "id": "BIO-LIP-001-07",
+          "question": "Ketogenezde hız kısıtlayıcı enzim hangisidir?",
+          "answer": "Mitokondriyal HMG-CoA sentaz.",
+          "explanation": "HMG-CoA liyaz sonraki basamakta HMG-CoA'yı asetoasetata dönüştürür."
+        },
+        {
+          "id": "BIO-LIP-001-08",
+          "question": "Karaciğer keton cisimlerini neden kendisi enerji amacıyla kullanamaz?",
+          "answer": "SCOT (süksinil-CoA:3-oksoasit CoA transferaz/tiyoforaz) enzimi bulunmadığı için.",
+          "explanation": "Karaciğer keton üretir ancak periferik dokular ketonları SCOT aracılığıyla kullanır."
+        },
+        {
+          "id": "BIO-LIP-001-09",
+          "question": "Keton cisimleri hangileridir ve hangisi klasik olarak idrarda nitroprussid testine yanıt verir?",
+          "answer": "Asetoasetat, β-hidroksibütirat ve aseton; nitroprussid testi asetoasetatı (ve daha zayıf aseton) saptar, β-hidroksibütiratı saptamaz.",
+          "explanation": "Ağır ketoasidozda β-hidroksibütirat baskın olabileceğinden test ketozisin şiddetini olduğundan düşük gösterebilir."
+        },
+        {
+          "id": "BIO-LIP-001-10",
+          "question": "Şilomikronların temel apolipoproteini ve temel görevi nedir?",
+          "answer": "ApoB-48; bağırsakta sentezlenir ve diyet trigliseritlerini periferik dokulara taşır.",
+          "explanation": "ApoB-48 şilomikronun yapısal proteinidir; ApoB-100 ile karıştırılmamalıdır."
+        },
+        {
+          "id": "BIO-LIP-001-11",
+          "question": "Lipoprotein lipazı (LPL) aktive eden apolipoprotein hangisidir?",
+          "answer": "ApoC-II.",
+          "explanation": "LPL, şilomikron ve VLDL trigliseritlerini hidroliz ederek yağ asidi açığa çıkarır."
+        },
+        {
+          "id": "BIO-LIP-001-12",
+          "question": "Şilomikron kalıntılarının karaciğer tarafından tanınmasında hangi apolipoprotein kritiktir?",
+          "answer": "ApoE.",
+          "explanation": "ApoE, kalıntı partiküllerin hepatik reseptör aracılı alımını sağlar."
+        },
+        {
+          "id": "BIO-LIP-001-13",
+          "question": "VLDL'den LDL'ye dönüşüm sırası ve VLDL'nin temel taşıdığı lipid nedir?",
+          "answer": "VLDL → IDL → LDL; VLDL karaciğer kaynaklı endojen trigliserit taşır.",
+          "explanation": "ApoB-100 VLDL, IDL ve LDL'nin yapısal apolipoproteinidir."
+        },
+        {
+          "id": "BIO-LIP-001-14",
+          "question": "LDL reseptörü hangi apolipoproteinleri tanır?",
+          "answer": "ApoB-100 ve ApoE.",
+          "explanation": "LDL reseptörü LDL'yi ve ApoE taşıyan kalıntı partikülleri hücre içine alır."
+        },
+        {
+          "id": "BIO-LIP-001-15",
+          "question": "Ailesel hiperkolesterolemide klasik mekanizma ve klinik ipucu nedir?",
+          "answer": "Çoğunlukla LDL reseptörü işlev kaybı; belirgin LDL yüksekliği, tendon ksantomları ve erken ateroskleroz.",
+          "explanation": "ApoB-100 kusurları veya PCSK9 işlev kazanımı da benzer fenotip oluşturabilir."
+        },
+        {
+          "id": "BIO-LIP-001-16",
+          "question": "Kolesterol sentezinin hız kısıtlayıcı enzimi ve statinlerin hedefi nedir?",
+          "answer": "HMG-CoA redüktaz; statinler bu enzimi kompetitif inhibe eder.",
+          "explanation": "Hepatosit kolesterolü azalınca LDL reseptör ekspresyonu artar ve plazma LDL temizlenmesi hızlanır."
+        },
+        {
+          "id": "BIO-LIP-001-17",
+          "question": "Ezetimib bağırsakta hangi proteini inhibe ederek kolesterol emilimini azaltır?",
+          "answer": "NPC1L1.",
+          "explanation": "Diyet ve safra kaynaklı kolesterolün enterosite girişini azaltır."
+        },
+        {
+          "id": "BIO-LIP-001-18",
+          "question": "HDL'nin temel apolipoproteini ve kolesterol esterleşmesini sağlayan enzimi nedir?",
+          "answer": "ApoA-I; LCAT'ı aktive eder.",
+          "explanation": "LCAT serbest kolesterolü kolesterol esterine çevirerek ters kolesterol taşınmasını destekler."
+        }
+      ]
     }
   ]
 }
