@@ -4,7 +4,7 @@ Subject directories follow the basic-sciences TUS structure. Topic files will be
 
 Planned subjects:
 - anatomy
-- histology-embryology
+- histology-embryology — high-yield histology and embryology cards
 - physiology
 - biochemistry
 - microbiology
