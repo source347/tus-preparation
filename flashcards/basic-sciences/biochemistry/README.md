@@ -12,3 +12,4 @@ Konu bazlı, yüksek verimli flash kartlar. Amaç bütün biyokimya ayrıntılar
 ## Konular
 - [Karbonhidrat metabolizması — yüksek verimli kartlar](carbohydrate-metabolism.md)
 - [Amino asit metabolizması ve üre döngüsü — yüksek verimli kartlar](amino-acid-metabolism-urea-cycle.md)
+- [Lipid metabolizması ve lipoproteinler — yüksek verimli kartlar](lipid-metabolism-lipoproteins.md)
