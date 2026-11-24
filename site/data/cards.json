@@ -2633,6 +2633,234 @@
           "explanation": "Jugulodigastrik nod tonsil; jugulo-omohyoid nod dil lenfatik drenajında klinik olarak öne çıkar."
         }
       ]
+    },
+    {
+      "id": "anatomy-neuroanatomy-advanced",
+      "title": "Anatomi · Nöroanatomi: korteks, limbik sistem, BOS ve serebral dolaşım",
+      "cards": [
+        {
+          "id": "ANAT-NEURO-014-01",
+          "question": "Korteksin primer motor alanı hangi Brodmann alanıdır ve vücut temsilinin temel organizasyonu nasıldır?",
+          "answer": "BA 4; motor homunkulusta alt ekstremite medial hemisfer yüzünde, yüz ve üst ekstremite daha lateral yüzdedir.",
+          "explanation": "Precentral girus primer motor kortekstir. Kortikospinal liflerin önemli bölümü buradan başlar; temsil kontralateraldir."
+        },
+        {
+          "id": "ANAT-NEURO-014-02",
+          "question": "Primer somatik duyu korteksi hangi Brodmann alanlarından oluşur?",
+          "answer": "Postcentral girustaki BA 3, 1 ve 2.",
+          "explanation": "Primer somatik duyu korteksi karşı vücut yarısından gelen somatik duyuyu işler; BA 3 başlıca talamokortikal girdiyi alır."
+        },
+        {
+          "id": "ANAT-NEURO-014-03",
+          "question": "Primer görme korteksi hangi Brodmann alanıdır ve anatomik olarak nerededir?",
+          "answer": "BA 17; oksipital lobda kalkarin sulkus çevresinde.",
+          "explanation": "Kalkarin sulkusun üst dudağı kuneus, alt dudağı lingual girusla ilişkilidir. Makula temsili oksipital polde yoğunlaşır."
+        },
+        {
+          "id": "ANAT-NEURO-014-04",
+          "question": "Primer işitme korteksi hangi Brodmann alanlarında bulunur?",
+          "answer": "BA 41 ve 42; temporal lobdaki Heschl transvers giruslarında.",
+          "explanation": "İşitsel korteks bilateral girdiler alır; tek taraflı kortikal lezyon genellikle tam sağırlık oluşturmaz."
+        },
+        {
+          "id": "ANAT-NEURO-014-05",
+          "question": "Broca ve Wernicke alanlarının tipik hemisferik yerleşimleri ve temel işlevleri nelerdir?",
+          "answer": "Broca: dominant inferior frontal girus, BA 44–45; konuşma üretimi. Wernicke: dominant posterior superior temporal bölge, klasik olarak BA 22; dilin anlaşılması.",
+          "explanation": "Broca afazisinde konuşma akıcılığı bozulur; Wernicke afazisinde akıcı ancak anlam içeriği bozuk konuşma ve anlama kusuru görülür. Ağlar daha geniştir."
+        },
+        {
+          "id": "ANAT-NEURO-014-06",
+          "question": "Primer motor korteksin alt ekstremite temsili hangi arterin sulama alanında yer alır?",
+          "answer": "Çoğunlukla a. cerebri anterior (ACA).",
+          "explanation": "Medial frontal-parietal yüz ACA; lateral konveksitenin büyük bölümü MCA tarafından beslenir. ACA enfarktında karşı bacakta güçsüzlük belirgindir."
+        },
+        {
+          "id": "ANAT-NEURO-014-07",
+          "question": "Dominant inferior frontal girus lezyonu hangi afazi tablosuna yol açar?",
+          "answer": "Broca (ekspresif/nonfluent) afazisi.",
+          "explanation": "Konuşma üretimi çabalı ve akıcılık azalmıştır; anlama görece korunur. Lezyon genellikle dominant hemisferin MCA superior divizyon alanındadır."
+        },
+        {
+          "id": "ANAT-NEURO-014-08",
+          "question": "Dominant posterior superior temporal bölge lezyonu hangi afazi tablosuna yol açar?",
+          "answer": "Wernicke (reseptif/fluent) afazisi.",
+          "explanation": "Akıcı fakat parafaziler içeren, anlamsal açıdan bozuk konuşma ve işitsel sözel anlama kusuru görülür; genellikle MCA inferior divizyonu etkilenir."
+        },
+        {
+          "id": "ANAT-NEURO-014-09",
+          "question": "Internal kapsülün başlıca bölümleri nelerdir?",
+          "answer": "Ön bacak, genu, arka bacak, retrolentiküler ve sublentiküler bölümler.",
+          "explanation": "Lentiform çekirdek ile kaudat çekirdek/talamus arasındaki beyaz cevher kitlesidir; yoğun projeksiyon lifleri içerir."
+        },
+        {
+          "id": "ANAT-NEURO-014-10",
+          "question": "Internal kapsülün genu bölümünden başlıca hangi lifler geçer?",
+          "answer": "Kortikobulber (kortikonükleer) lifler.",
+          "explanation": "Genu lezyonu özellikle alt yüz ve dil gibi kraniyal motor çekirdeklerin supranükleer kontrolünü bozabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-11",
+          "question": "Internal kapsülün arka bacağında hangi önemli projeksiyon lifleri bulunur?",
+          "answer": "Kortikospinal lifler ve somatik duyu taşıyan talamokortikal lifler; ayrıca kortikoretiküler bağlantılar.",
+          "explanation": "Motor lifler anterior kesimde, duyusal talamokortikal lifler daha posterior kesimde yer alır; somatotopik düzen klinik lokalizasyona yardım eder."
+        },
+        {
+          "id": "ANAT-NEURO-014-12",
+          "question": "Retrolentiküler ve sublentiküler internal kapsül bölümleri hangi liflerle ilişkilidir?",
+          "answer": "Retrolentiküler bölümde optik radyasyon; sublentiküler bölümde işitsel radyasyon ve temporal bağlantı lifleri bulunur.",
+          "explanation": "Retrolentiküler lezyon görme alanı defekti; sublentiküler lezyon işitsel yol etkilenmesi oluşturabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-13",
+          "question": "Küçük bir laküner enfarkt internal kapsülde neden ağır motor defisit oluşturabilir?",
+          "answer": "Kortikospinal ve kortikobulber lifler burada dar bir alanda yoğun biçimde paketlenmiştir.",
+          "explanation": "Lentikülostriat arterlerin tıkanması posterior bacak veya genuyu etkileyerek saf motor hemiparezi oluşturabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-14",
+          "question": "Korpus kallozumun ana bölümleri nelerdir?",
+          "answer": "Rostrum, genu, gövde (trunkus) ve splenium.",
+          "explanation": "Komissüral lifler iki hemisferin kortikal alanları arasında bilgi aktarır; splenium posterior hemisferik bölgeleri bağlar."
+        },
+        {
+          "id": "ANAT-NEURO-014-15",
+          "question": "Hippokampusun temel işlevi ve ana anatomik yerleşimi nedir?",
+          "answer": "Medial temporal lobda yer alır; yeni deklaratif/episodik anıların oluşumu ve konsolidasyonunda kritik rol oynar.",
+          "explanation": "İki taraflı hasarı belirgin anterograd amneziye yol açabilir. Uzun süreli anılar tek başına hippokampusta depolanmaz."
+        },
+        {
+          "id": "ANAT-NEURO-014-16",
+          "question": "Forniks hangi yapıyı başlıca hangi limbik hedeflere bağlar?",
+          "answer": "Hippokampal formasyonu septal alan ve hipotalamustaki mamiller cisimlere, ayrıca diğer bazal ön beyin hedeflerine bağlayan ana efferent yoldur.",
+          "explanation": "Forniks Papez devresinin önemli bağlantısıdır; hasarı bellek bozukluğuna katkı verebilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-17",
+          "question": "Papez devresinin klasik sıralaması nasıldır?",
+          "answer": "Hippokampus → fornix → mamiller cisim → mamillotalamik trakt → talamus anterior çekirdeği → singulat girus → singulum/entorhinal korteks → hippokampus.",
+          "explanation": "Duygu ve bellek ağlarının klasik anatomik modelidir; güncel limbik ağ anlayışı bu devreden daha geniştir."
+        },
+        {
+          "id": "ANAT-NEURO-014-18",
+          "question": "Amigdalanın temel işlevsel rolü nedir?",
+          "answer": "Duygusal önem, özellikle tehdit/korku öğrenmesi ve otonom-duygusal yanıtların işlenmesi.",
+          "explanation": "Amigdala medial temporal lobda, hippokampusun anteriorunda yer alır; hipotalamus ve beyin sapı otonom merkezleriyle bağlantılıdır."
+        },
+        {
+          "id": "ANAT-NEURO-014-19",
+          "question": "Hipotalamusun supraoptik ve paraventriküler çekirdekleri hangi hormonlarla ilişkilidir?",
+          "answer": "Supraoptik çekirdek ağırlıklı ADH; paraventriküler çekirdek ağırlıklı oksitosin sentezler; her ikisi de iki hormonu da üretebilir.",
+          "explanation": "Hormonlar aksonlarla nörohipofize taşınır ve buradan kana salınır. Çekirdeklerin katkısı mutlak olarak tek hormonla sınırlı değildir."
+        },
+        {
+          "id": "ANAT-NEURO-014-20",
+          "question": "Hipotalamusun arkuat çekirdeği hangi önemli nöroendokrin işlevi görür?",
+          "answer": "Hipofiz ön lobunu düzenleyen releasing/inhibiting hormon sistemlerine ve dopaminerjik tuberoinfundibular yola katkı sağlar.",
+          "explanation": "Arkuat çekirdek iştah ve enerji homeostazı devrelerinde de rol oynar."
+        },
+        {
+          "id": "ANAT-NEURO-014-21",
+          "question": "Hipotalamusun ventromedial ve lateral alanları klasik olarak hangi işlevlerle ilişkilendirilir?",
+          "answer": "Ventromedial çekirdek tokluk; lateral hipotalamik alan beslenme/iştah davranışıyla ilişkilendirilir.",
+          "explanation": "Bu klasik eşleştirme öğretici bir şemadır; iştah kontrolü dağıtık nöral ağlarla yürütülür."
+        },
+        {
+          "id": "ANAT-NEURO-014-22",
+          "question": "Hipotalamusun anterior ve posterior bölgeleri ısı düzenlenmesinde nasıl farklılaşır?",
+          "answer": "Anterior/preoptik bölge ısı kaybını ve terlemeyi; posterior bölge ısı korunması ve üretimini destekler.",
+          "explanation": "Anterior hipotalamik hasar hipertermiye, posterior hasar hipotermi eğilimine yol açabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-23",
+          "question": "Hipotalamusun suprakiazmatik çekirdeği hangi fizyolojik ritmi düzenler?",
+          "answer": "Sirkadiyen ritmi; retina kaynaklı ışık bilgisini alarak biyolojik saati senkronize eder.",
+          "explanation": "Retinohipotalamik trakt üzerinden ışık bilgisi alır; pineal melatonin ritminin düzenlenmesine dolaylı katkı verir."
+        },
+        {
+          "id": "ANAT-NEURO-014-24",
+          "question": "Talamusun VPL ve VPM çekirdekleri hangi duyusal bilgileri taşır?",
+          "answer": "VPL gövde/ekstremitelerden; VPM yüz ve ağızdan gelen somatik duyuyu primer somatik duyu korteksine iletir.",
+          "explanation": "VPL medial lemniskus ve spinotalamik sistemden; VPM trigeminal yollar ve tatla ilişkili girdiler alır."
+        },
+        {
+          "id": "ANAT-NEURO-014-25",
+          "question": "Talamusun LGN ve MGN çekirdekleri hangi duyu yollarının röle istasyonlarıdır?",
+          "answer": "LGN görme; MGN işitme yolunun talamik röle çekirdeğidir.",
+          "explanation": "LGN oksipital primer görme korteksine, MGN temporal primer işitme korteksine projekte olur."
+        },
+        {
+          "id": "ANAT-NEURO-014-26",
+          "question": "Talamusun VA ve VL çekirdekleri hangi motor devrelerden girdi alır?",
+          "answer": "VA ağırlıklı bazal gangliyon; VL ağırlıklı serebellar çıktı alarak motor/premotor kortekse projekte olur.",
+          "explanation": "Bu çekirdekler hareketin planlanması ve yürütülmesinde kortiko-bazal gangliyon ve kortiko-serebellar döngüleri birbirine bağlar."
+        },
+        {
+          "id": "ANAT-NEURO-014-27",
+          "question": "Talamusun anterior çekirdeği hangi limbik devreyle ilişkilidir?",
+          "answer": "Papez devresi; mamiller cisimlerden mamillotalamik trakt aracılığıyla girdi alır ve singulat girusa projekte olur.",
+          "explanation": "Bellek ve limbik işlevlerle ilişkilidir."
+        },
+        {
+          "id": "ANAT-NEURO-014-28",
+          "question": "Hidrosefalide BOS hangi anatomik yol üzerinden ventriküllerden subaraknoid aralığa geçer?",
+          "answer": "Lateral ventrikül → foramen interventriculare (Monro) → III. ventrikül → aqueductus cerebri (Sylvius) → IV. ventrikül → apertura mediana (Magendie) ve aperturae laterales (Luschka) → subaraknoid aralık.",
+          "explanation": "Aqueductus cerebri darlığı lateral ve III. ventrikülleri genişletirken IV. ventrikül genellikle genişlemez."
+        },
+        {
+          "id": "ANAT-NEURO-014-29",
+          "question": "BOS başlıca nerede üretilir ve normal dolaşımda nereden emilir?",
+          "answer": "Koroid pleksuslarda üretilir; araknoid granülasyonlar üzerinden dural venöz sinüslere, özellikle superior sagittal sinüse emilir.",
+          "explanation": "BOS dolaşımı ventriküler sistem ile subaraknoid aralığı birbirine bağlar; emilim venöz basınç gradyanına bağlıdır."
+        },
+        {
+          "id": "ANAT-NEURO-014-30",
+          "question": "Komünikan ve nonkomünikan hidrosefali anatomik olarak nasıl ayrılır?",
+          "answer": "Komünikan hidrosefalide ventrikül sistemi içindeki akım yolu açık olmakla birlikte BOS emilimi bozulur; nonkomünikan hidrosefalide ventriküler sistem içinde obstrüksiyon vardır.",
+          "explanation": "Aqueductus stenozu tipik nonkomünikan örnektir; araknoid granülasyon hasarı veya meningeal fibrozis komünikan tablo oluşturabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-31",
+          "question": "A. cerebri anterior enfarktında tipik nörolojik defisit dağılımı nasıldır?",
+          "answer": "Karşı alt ekstremitede belirgin motor ve duyu kaybı; bazen davranış değişikliği, abuli ve idrar inkontinansı.",
+          "explanation": "ACA medial frontal ve parietal yüzü, parasantral lobül dahil, besler."
+        },
+        {
+          "id": "ANAT-NEURO-014-32",
+          "question": "A. cerebri media enfarktında hangi klinik bulgular beklenir?",
+          "answer": "Karşı yüz ve üst ekstremitede belirgin güçsüzlük/duyu kaybı; dominant hemisferde afazi, nondominantta ihmal görülebilir.",
+          "explanation": "MCA lateral hemisfer konveksitesini besler; superior divizyon frontal, inferior divizyon temporal-parietal alanları ağırlıklı etkiler."
+        },
+        {
+          "id": "ANAT-NEURO-014-33",
+          "question": "A. cerebri posterior enfarktının klasik kortikal bulgusu nedir?",
+          "answer": "Karşı homonim hemianopsi; makula korunması görülebilir.",
+          "explanation": "PCA oksipital korteksi ve inferomedial temporal alanları besler; dominant splenium etkilenirse aleksi-agrafisiz görülebilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-34",
+          "question": "Lentikülostriat arterler hangi damardan çıkar ve hangi derin yapıları besler?",
+          "answer": "A. cerebri media'nın M1 segmentinden; bazal gangliyonların bölümleri ve internal kapsülün önemli kısımlarını besler.",
+          "explanation": "Bu küçük perforan arterlerin tıkanması laküner enfarkt ve saf motor/duyusal sendromlara neden olabilir."
+        },
+        {
+          "id": "ANAT-NEURO-014-35",
+          "question": "A. choroidea anterior tıkanmasında klasik olarak hangi yapıların etkilenmesi beklenir?",
+          "answer": "Posterior internal kapsül, optik trakt/lateral genikulat bölge ve medial temporal yapılara uzanan alanlar etkilenebilir; klasik triad hemipleji, hemisensoryel kayıp ve homonim hemianopsidir.",
+          "explanation": "Varyasyonlar ve kollateral dolaşım nedeniyle tam triad her hastada görülmez."
+        },
+        {
+          "id": "ANAT-NEURO-014-36",
+          "question": "Unkal herniasyonda ilk etkilenen kraniyal sinir bulgusu neden ipsilateral pupilla dilatasyonudur?",
+          "answer": "Unkusun III. sinirin yüzeyel parasempatik liflerini komprese etmesi nedeniyle.",
+          "explanation": "İlerleyen basınç beyin sapı ve posterior serebral arterleri de etkileyebilir; acil nöroşirürjik durumdur."
+        },
+        {
+          "id": "ANAT-NEURO-014-37",
+          "question": "Subfalsin herniasyonda hangi damar komprese olabilir ve sonuç ne olabilir?",
+          "answer": "Falx cerebri altından kayan singulat girus karşı ACA'yı komprese edebilir; medial frontal enfarkt gelişebilir.",
+          "explanation": "Kitle etkisiyle oluşan transtentoryal olmayan klasik herniasyon tipidir."
+        }
+      ]
     }
   ]
 }
