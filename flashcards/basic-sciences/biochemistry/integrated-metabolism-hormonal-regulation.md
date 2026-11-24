@@ -50,13 +50,7 @@ Bu deste, TUS'ta klinik ve biyokimyasal seçenekleri ayıran temel enzim, metabo
 
 **Ayırt ettiren nokta:** Yağ dokusu gliserolü glukoneogeneze; yağ asitlerini enerji ve keton üretimine sağlar.
 
-## 9. Alkol metabolizması açlıkta neden hipoglisemi ve laktik asidoz yapabilir?
-
-**Yanıt:** Etanol oksidasyonu NADH/NAD⁺ oranını artırır; pirüvat laktata, oksaloasetat malata kayar ve glukoneogenez baskılanır.
-
-**Ayırt ettiren nokta:** Açlıkta glikojen depoları düşük olduğundan hipoglisemi riski belirginleşir.
-
-## 10. Karaciğer, iskelet kası ve yağ dokusunun temel metabolik görevleri nasıl ayrılır?
+## 9. Karaciğer, iskelet kası ve yağ dokusunun temel metabolik görevleri nasıl ayrılır?
 
 **Yanıt:** Karaciğer kan glukozu ve keton üretimini düzenler; kas kendi ATP ihtiyacı için yakıt kullanır; yağ dokusu trigliserid depolar ve açlıkta yağ asidi/gliserol salar.
 
