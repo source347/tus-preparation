@@ -5393,6 +5393,864 @@
           "explanation": "C3b mikroorganizmaları fagositler için işaretler; C5a güçlü kemotaktik/anafilatoksik etkidedir."
         }
       ]
+    },
+    {
+      "id": "microbiology-general",
+      "title": "Mikrobiyoloji · Genel mikrobiyoloji ve sterilizasyon",
+      "cards": [
+        {
+          "id": "MICRO-GENERAL-01",
+          "question": "Gram boyamada mor ve pembe görünüm neyi gösterir?",
+          "answer": "Gram-pozitif bakteriler mor, gram-negatif bakteriler pembe/kırmızı görünür.",
+          "explanation": "Gram-pozitif kalın peptidoglikan kristal viyoleyi tutar; gram-negatif dış membran ve ince peptidoglikan nedeniyle karşı boyayı alır."
+        },
+        {
+          "id": "MICRO-GENERAL-02",
+          "question": "Gram-negatif bakterilerin dış membranındaki endotoksin hangi yapıdır?",
+          "answer": "Lipopolisakkarit (LPS); toksik lipid A bölümüdür.",
+          "explanation": "Lipid A, TNF ve IL-1 gibi inflamatuvar mediyatörleri tetikleyerek ateş, hipotansiyon ve şoka katkıda bulunur."
+        },
+        {
+          "id": "MICRO-GENERAL-03",
+          "question": "Bakteri hücre duvarındaki peptidoglikan sentezini beta-laktamlar hangi hedef üzerinden inhibe eder?",
+          "answer": "Penisilin bağlayan proteinler (PBP), özellikle transpeptidaz.",
+          "explanation": "Çapraz bağlanma bozulur; hücre duvarı zayıflar ve bakterisidal etki oluşur."
+        },
+        {
+          "id": "MICRO-GENERAL-04",
+          "question": "Vancomycin bakteride hangi basamağı inhibe eder?",
+          "answer": "Peptidoglikan öncülündeki D-Ala-D-Ala ucuna bağlanır.",
+          "explanation": "Transglikozilasyon/transpeptidasyon basamaklarını engeller; gram-pozitiflere etkilidir."
+        },
+        {
+          "id": "MICRO-GENERAL-05",
+          "question": "Makrolidler ribozomun hangi alt birimine bağlanır?",
+          "answer": "50S alt birimine.",
+          "explanation": "Translokasyonu inhibe eder; eritromisin, klaritromisin ve azitromisin bu gruptadır."
+        },
+        {
+          "id": "MICRO-GENERAL-06",
+          "question": "Aminoglikozidler ribozomun hangi alt birimine bağlanır ve tipik etkisi nedir?",
+          "answer": "30S alt birimine bağlanıp mRNA'nın hatalı okunmasına yol açar.",
+          "explanation": "Oksijen bağımlı taşınma nedeniyle anaeroplara etkisizdir; bakterisidaldir."
+        },
+        {
+          "id": "MICRO-GENERAL-07",
+          "question": "Tetrasiklinler ve doksisiklin hangi ribozomal hedefi inhibe eder?",
+          "answer": "30S alt birimine bağlanarak aminoasil-tRNA'nın A bölgesine girişini engeller.",
+          "explanation": "Gebelikte ve küçük çocuklarda diş/kemik etkileri nedeniyle genellikle kaçınılır."
+        },
+        {
+          "id": "MICRO-GENERAL-08",
+          "question": "Kloramfenikol ve klindamisin hangi ribozomal alt birimi hedefler?",
+          "answer": "50S alt birimi.",
+          "explanation": "Kloramfenikol peptidil transferazı; klindamisin protein sentezini/translokasyonu inhibe eder."
+        },
+        {
+          "id": "MICRO-GENERAL-09",
+          "question": "Florokinolonların temel hedefi nedir?",
+          "answer": "DNA giraz (topoizomeraz II) ve topoizomeraz IV.",
+          "explanation": "DNA replikasyonunu bozar; direnç hedef mutasyonu veya efluksla gelişebilir."
+        },
+        {
+          "id": "MICRO-GENERAL-10",
+          "question": "Rifampisin hangi enzimi inhibe eder?",
+          "answer": "DNA'ya bağımlı RNA polimeraz.",
+          "explanation": "RNA sentezini engeller; tüberküloz tedavisinde kombinasyon içinde kullanılır."
+        },
+        {
+          "id": "MICRO-GENERAL-11",
+          "question": "Metronidazol hangi mikroorganizmalara karşı özellikle etkilidir?",
+          "answer": "Anaerop bakteriler ve bazı protozoonlar.",
+          "explanation": "İndirgenmiş nitro grubu reaktif ara ürünler oluşturarak DNA hasarı yapar."
+        },
+        {
+          "id": "MICRO-GENERAL-12",
+          "question": "Bakteri sporlarını güvenilir biçimde yok eden standart sterilizasyon yöntemi nedir?",
+          "answer": "Basınçlı doymuş buharla otoklavlama.",
+          "explanation": "Tipik koşul 121 °C, yaklaşık 15 psi, en az 15 dakika; yük ve cihaz doğrulamasına göre süre değişebilir."
+        },
+        {
+          "id": "MICRO-GENERAL-13",
+          "question": "Pastörizasyon sterilizasyon mudur?",
+          "answer": "Hayır; patojen yükünü azaltır, tüm sporları yok etmez.",
+          "explanation": "Süt ve içeceklerde mikrobiyal güvenliği artırmak için kontrollü ısı uygulamasıdır."
+        },
+        {
+          "id": "MICRO-GENERAL-14",
+          "question": "Prionlar neden klasik dezenfeksiyona dirençlidir?",
+          "answer": "Nükleik asit içermeyen, yanlış katlanmış enfeksiyöz proteinlerdir.",
+          "explanation": "Standart sterilizasyon protokolleri yetersiz olabilir; özel dekontaminasyon protokolleri gerekir."
+        },
+        {
+          "id": "MICRO-GENERAL-15",
+          "question": "Kapsülün bakteriye sağladığı en önemli virülans avantajı nedir?",
+          "answer": "Fagositozdan kaçış.",
+          "explanation": "Kapsül antijenleri serotiplendirmede de kullanılır; polisakkarit kapsüller konjuge aşılarla hedeflenebilir."
+        },
+        {
+          "id": "MICRO-GENERAL-16",
+          "question": "Bakteriyel biyofilm klinik açıdan neden önemlidir?",
+          "answer": "Yüzeylere tutunma, kronik enfeksiyon ve antimikrobiyal tolerans sağlar.",
+          "explanation": "Kateter, protez ve kalp kapakçığı gibi yüzeylerde tedavi başarısını zorlaştırabilir."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-gram-positive",
+      "title": "Mikrobiyoloji · Gram-pozitif koklar ve basiller",
+      "cards": [
+        {
+          "id": "MICRO-GRAM-POSITIVE-01",
+          "question": "Katalaz testi Staphylococcus ve Streptococcus'u nasıl ayırır?",
+          "answer": "Staphylococcus katalaz pozitif, Streptococcus katalaz negatiftir.",
+          "explanation": "Hidrojen peroksitten oksijen kabarcığı oluşması katalaz pozitifliğini gösterir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-02",
+          "question": "Koagülaz pozitif, insanlarda klinik açıdan en önemli stafilokok hangisidir?",
+          "answer": "Staphylococcus aureus.",
+          "explanation": "Apse, pnömoni, osteomiyelit, endokardit ve toksin aracılı hastalık yapabilir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-03",
+          "question": "S. aureus'un protein A'sı hangi immünoglobulin bölümüne bağlanır?",
+          "answer": "IgG'nin Fc bölümüne.",
+          "explanation": "Opsonizasyonu ve fagositozu bozar."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-04",
+          "question": "S. aureus'un eksfolyatif toksini hangi klinik tabloyu oluşturur?",
+          "answer": "Stafilokokal haşlanmış deri sendromu.",
+          "explanation": "Desmoglein-1'i parçalayarak yüzeyel epidermal ayrışma yapar."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-05",
+          "question": "S. aureus enterotoksiniyle oluşan gıda zehirlenmesinin tipik özelliği nedir?",
+          "answer": "Önceden oluşmuş, ısıya dayanıklı toksin nedeniyle hızlı başlayan kusma.",
+          "explanation": "Genellikle birkaç saat içinde başlar; ateş çoğunlukla belirgin değildir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-06",
+          "question": "Koagülaz negatif, novobiosine dirençli stafilokok hangisidir?",
+          "answer": "Staphylococcus saprophyticus.",
+          "explanation": "Genç kadınlarda komplike olmayan üriner enfeksiyonla ilişkilidir; S. epidermidis novobiosine duyarlıdır."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-07",
+          "question": "Streptococcus pyogenes hangi hemoliz ve Lancefield grubundadır?",
+          "answer": "Beta-hemolitik, grup A streptokok.",
+          "explanation": "M proteini antifagositiktir; farenjit, impetigo, erizipel ve nekrotizan fasiit yapabilir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-08",
+          "question": "S. pyogenes enfeksiyonundan sonra görülen akut romatizmal ateş hangi enfeksiyonla ilişkilidir?",
+          "answer": "A grubu streptokokal farenjit.",
+          "explanation": "M proteiniyle moleküler taklit sonucu gelişir; uygun farenjit tedavisi riski azaltır."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-09",
+          "question": "Poststreptokokal glomerülonefrit hangi enfeksiyonlardan sonra gelişebilir?",
+          "answer": "Nefritojenik A grubu streptokok suşlarına bağlı boğaz veya deri enfeksiyonlarından sonra.",
+          "explanation": "İmmün kompleks aracılıdır; deri enfeksiyonundan sonra da görülebilir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-10",
+          "question": "S. agalactiae hangi Lancefield grubu ve hangi yenidoğan enfeksiyonuyla ilişkilidir?",
+          "answer": "Grup B; neonatal sepsis, pnömoni ve menenjit.",
+          "explanation": "Gebelerde vajinal-rektal tarama ve intrapartum profilaksi erken başlangıçlı hastalığı önlemeye yöneliktir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-11",
+          "question": "Viridans streptokoklar hangi klinik durumla klasik olarak ilişkilidir?",
+          "answer": "Diş işlemi veya kötü dentisyon sonrası subakut endokardit.",
+          "explanation": "Ağız florası üyeleridir; dekstran aracılı diş yüzeyine tutunma önemlidir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-12",
+          "question": "Streptococcus pneumoniae'nin mikroskopi ve kültür ayırt edici özellikleri nelerdir?",
+          "answer": "Lancet biçimli, gram-pozitif diplokok; alfa-hemolitik, optokine duyarlı ve safra ile çözünür.",
+          "explanation": "Polisakkarit kapsül başlıca virülans faktörüdür."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-13",
+          "question": "Enterococcus faecalis için tipik laboratuvar özellikleri nelerdir?",
+          "answer": "Grup D antijeni, safra eskülin pozitifliği ve %6,5 NaCl'de üreme.",
+          "explanation": "Vankomisin direnci (VRE) klinik açıdan önemlidir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-14",
+          "question": "Corynebacterium diphtheriae toksini hangi hücresel hedefi inhibe eder?",
+          "answer": "EF-2'yi ADP-ribozilleyerek protein sentezini durdurur.",
+          "explanation": "Psödomembranlı farenjit, miyokardit ve nöropati yapabilir; toksin faj aracılıdır."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-15",
+          "question": "Listeria monocytogenes'in gebelik ve yenidoğan açısından önemi nedir?",
+          "answer": "Gebede plasentayı geçerek fetal kayıp veya neonatal sepsis/menenjit yapabilir.",
+          "explanation": "Soğukta üreyebilir; tumbling motilite ve hücreden hücreye yayılımı aktin polimerizasyonuyla olur."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-16",
+          "question": "Clostridium tetani toksini nasıl spastik paralizi oluşturur?",
+          "answer": "Tetanospazmin, inhibitör interneuronlardan GABA ve glisin salınımını engeller.",
+          "explanation": "Retrograd aksonal taşınma ile santral sinir sistemine ulaşır."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-17",
+          "question": "C. botulinum toksini nasıl flask paralizi yapar?",
+          "answer": "Presinaptik asetilkolin salınımını SNARE proteinlerini parçalayarak engeller.",
+          "explanation": "İnen flask paralizi, diplopi ve pupilla bulguları görülebilir."
+        },
+        {
+          "id": "MICRO-GRAM-POSITIVE-18",
+          "question": "Clostridium perfringens gazlı gangren ve gıda zehirlenmesinde hangi toksin önemlidir?",
+          "answer": "Alfa toksin (lesitinaz/fosfolipaz C) hücre membranını parçalar.",
+          "explanation": "Gazlı gangren, hemoliz ve doku nekrozu yapar; gıda zehirlenmesinde enterotoksin rol oynar."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-gram-negative",
+      "title": "Mikrobiyoloji · Gram-negatif bakteriler",
+      "cards": [
+        {
+          "id": "MICRO-GRAM-NEGATIVE-01",
+          "question": "Neisseria gonorrhoeae'nin ayırt edici laboratuvar özelliği nedir?",
+          "answer": "Gram-negatif, oksidaz pozitif diplokok; glukozu fermente eder, maltozu etmez.",
+          "explanation": "İnsan tek rezervuardır; kapsülü yoktur ve antijenik değişkenlik gösterir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-02",
+          "question": "Neisseria meningitidis hangi şekerleri fermente eder ve hangi virülans faktörü önemlidir?",
+          "answer": "Glukoz ve maltozu fermente eder; polisakkarit kapsülü önemlidir.",
+          "explanation": "Menenjit ve meningokoksemi yapabilir; endotoksin benzeri LOS şoka katkı verir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-03",
+          "question": "Haemophilus influenzae üremek için hangi faktörlere ihtiyaç duyar?",
+          "answer": "X faktörü (hemin) ve V faktörü (NAD).",
+          "explanation": "Çikolata agarda ürer; kapsüllü tip b invaziv hastalık yapar."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-04",
+          "question": "Bordetella pertussis'in toksini hangi sinyal yolunu etkiler?",
+          "answer": "Gi proteinini ADP-ribozilleyerek cAMP'yi artırır.",
+          "explanation": "Boğmaca toksini lenfositoz ve solunum epiteli işlev bozukluğuna katkıda bulunur."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-05",
+          "question": "Legionella pneumophila hangi ortamda ürer ve hangi hücre içinde çoğalır?",
+          "answer": "BCYE agarda (sistein ve demir gerekir); alveoler makrofaj içinde çoğalır.",
+          "explanation": "Su sistemleri ve aerosol bulaşı önemlidir; idrar antijeni çoğunlukla L. pneumophila serogrup 1'i saptar."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-06",
+          "question": "Pseudomonas aeruginosa için tipik pigment ve metabolik özellik nedir?",
+          "answer": "Piyosiyanin (mavi-yeşil) ve piyoverdin (floresan sarı-yeşil); nonfermenter, oksidaz pozitif.",
+          "explanation": "Yanık, nötropeni, kistik fibrozis ve ventilatör ilişkili enfeksiyonlarda önemlidir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-07",
+          "question": "Pseudomonas'ın ekzotoksin A'sı hangi hedefi inhibe eder?",
+          "answer": "EF-2'yi ADP-ribozilleyerek protein sentezini durdurur.",
+          "explanation": "Etki mekanizması difteri toksinine benzer."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-08",
+          "question": "E. coli'nin EHEC suşu hangi toksini üretir ve hangi komplikasyonla ilişkilidir?",
+          "answer": "Shiga-benzeri toksin; hemolitik üremik sendrom (HÜS).",
+          "explanation": "Kanlı ishal yapabilir; antibiyotik ve antimotilite ilaçları toksin salınımı/HÜS riskini artırabileceğinden kaçınılır."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-09",
+          "question": "ETEC ishali hangi toksin mekanizmalarıyla oluşturur?",
+          "answer": "LT adenilat siklazı/cAMP'yi, ST guanilat siklazı/cGMP'yi artırır.",
+          "explanation": "Seyahat ishali ve sulu diyare yapar."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-10",
+          "question": "EPEC'nin tipik patogenezi nedir?",
+          "answer": "Enterositlere tutunup attaching-and-effacing lezyon oluşturarak mikrovillusları siler.",
+          "explanation": "Özellikle bebeklerde sulu ishale neden olur."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-11",
+          "question": "Shigella'nın invazyonu ve toksini hangi klinik tabloyu oluşturur?",
+          "answer": "Kolon mukozasına invazyon; S. dysenteriae Shiga toksiniyle hücre hasarı.",
+          "explanation": "Düşük enfeksiyon dozu, ateşli dizanteri ve bazen HÜS ile ilişkilidir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-12",
+          "question": "Salmonella Typhi'nin rezervuarı ve temel klinik tablosu nedir?",
+          "answer": "İnsan rezervuar; enterik ateş (tifo).",
+          "explanation": "Safra kesesinde taşıyıcılık ve retiküloendotelyal yayılım önemlidir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-13",
+          "question": "Nontifoidal Salmonella için tipik bulaş kaynağı nedir?",
+          "answer": "Yumurta, kümes hayvanı ve sürüngen teması gibi kontamine gıdalar.",
+          "explanation": "İnvaziv hastalık özellikle orak hücreli hastalarda osteomiyelit ile ilişkilidir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-14",
+          "question": "Campylobacter jejuni'nin ayırt edici özellikleri nelerdir?",
+          "answer": "Kavisli/virgül biçimli, oksidaz pozitif; 42 °C'de ürer.",
+          "explanation": "Kümes hayvanı kaynaklı kanlı ishal; Guillain-Barré ve reaktif artrit sonrası gelişebilir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-15",
+          "question": "Helicobacter pylori hangi enzim sayesinde asidik midede yaşar?",
+          "answer": "Üreaz.",
+          "explanation": "Üreyi amonyak ve CO₂'ye dönüştürür; gastrit, peptik ülser ve mide kanseri/MALT lenfoma riskiyle ilişkilidir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-16",
+          "question": "Vibrio cholerae toksini hangi ikinci habercinin artmasına yol açar?",
+          "answer": "Gs alfa alt birimini ADP-ribozilleyerek cAMP'yi artırır.",
+          "explanation": "Bol miktarda pirinç suyu görünümünde sekretuar ishal yapar; invazyon beklenmez."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-17",
+          "question": "Yersinia pestis'in klasik vektörü ve mikroskopik görünümü nedir?",
+          "answer": "Pire vektörü; bipolar boyanma ile emniyet iğnesi görünümü.",
+          "explanation": "Bubon, pnömonik veba ve septisemik tablo yapabilir."
+        },
+        {
+          "id": "MICRO-GRAM-NEGATIVE-18",
+          "question": "Klebsiella pneumoniae için tipik klinik ve laboratuvar ipuçları nelerdir?",
+          "answer": "Kalın polisakkarit kapsül, laktoz fermentasyonu ve mukoid koloni; aspirasyon/alkol kullanımında lobar pnömoni.",
+          "explanation": "Koyu, jölemsi balgam klasik tanımlamadır; ESBL ve karbapenemaz direnci önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-atypical",
+      "title": "Mikrobiyoloji · Atipik bakteriler, mikobakteriler ve spiroketler",
+      "cards": [
+        {
+          "id": "MICRO-ATYPICAL-01",
+          "question": "Mycoplasma pneumoniae neden beta-laktamlara doğal dirençlidir?",
+          "answer": "Hücre duvarı/peptidoglikanı yoktur.",
+          "explanation": "Soğuk aglütininleri, atipik pnömoni ve bullöz mirinjit ile ilişkilidir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-02",
+          "question": "Chlamydia türlerinin hücre içi yaşam döngüsündeki iki formu nedir?",
+          "answer": "Enfeksiyöz elementary body ve çoğalan reticulate body.",
+          "explanation": "Elementary body hücreye girer; reticulate body hücre içinde çoğalır."
+        },
+        {
+          "id": "MICRO-ATYPICAL-03",
+          "question": "Chlamydia trachomatis hangi serovarlarla hangi hastalıkları yapar?",
+          "answer": "A–C trahom; D–K ürogenital enfeksiyon/yenidoğan konjonktiviti; L1–L3 lenfogranüloma venereum.",
+          "explanation": "Serovar ayrımı klinik sendromu öngörür."
+        },
+        {
+          "id": "MICRO-ATYPICAL-04",
+          "question": "Rickettsia türleri temel olarak nasıl bulaşır ve hangi hücreleri tutar?",
+          "answer": "Artropod vektörlerle; çoğunlukla endotel hücrelerini enfekte eder.",
+          "explanation": "Vaskülit, döküntü ve sistemik bulgular oluşturur; doksisiklin temel tedavidir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-05",
+          "question": "Coxiella burnetii'nin bulaş yolu ve klasik klinik tablosu nedir?",
+          "answer": "Enfekte hayvanların aerosolize doğum ürünlerinin inhalasyonu; Q ateşi.",
+          "explanation": "Endokardit ve hepatit yapabilir; hücre içi, spor benzeri dayanıklı formu vardır."
+        },
+        {
+          "id": "MICRO-ATYPICAL-06",
+          "question": "Mycobacterium tuberculosis'in hücre duvarında asit-fast boyanmayı sağlayan yapı nedir?",
+          "answer": "Mikolik asitçe zengin lipid hücre duvarı.",
+          "explanation": "Ziehl-Neelsen veya auramin boyasıyla gösterilebilir; yavaş ürer."
+        },
+        {
+          "id": "MICRO-ATYPICAL-07",
+          "question": "Tüberkülozda latent enfeksiyon ile aktif hastalığı ayırmada IGRA/TST neyi gösterir?",
+          "answer": "M. tuberculosis antijenlerine karşı hücresel immün duyarlanmayı gösterir; aktif hastalığı tek başına kanıtlamaz.",
+          "explanation": "Aktif hastalık klinik, görüntüleme ve mikrobiyolojik testlerle değerlendirilir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-08",
+          "question": "M. tuberculosis'te granülom ve kazeifikasyon hangi immün mekanizmayla gelişir?",
+          "answer": "Th1 yanıtı, IFN-γ ile makrofaj aktivasyonu ve tip IV aşırı duyarlılık.",
+          "explanation": "TNF granülomun sürdürülmesinde önemlidir; anti-TNF tedavisi reaktivasyon riskini artırır."
+        },
+        {
+          "id": "MICRO-ATYPICAL-09",
+          "question": "M. leprae hangi hücreleri tutar ve hangi bölgelerde çoğalır?",
+          "answer": "Schwann hücreleri ve makrofajlar; soğuk periferik dokular.",
+          "explanation": "Periferik nöropati, duyu kaybı ve deri lezyonları yapar; rutin kültürde üretilemez."
+        },
+        {
+          "id": "MICRO-ATYPICAL-10",
+          "question": "Lepromatöz ve tüberküloid lepra immün yanıt açısından nasıl ayrılır?",
+          "answer": "Tüberküloid: güçlü hücresel yanıt, az basil; lepromatöz: zayıf hücresel yanıt, çok basil.",
+          "explanation": "Klinik spektrum Th1/Th2 yanıt dengesiyle ilişkilidir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-11",
+          "question": "Treponema pallidum hangi hastalığa neden olur ve rutin kültürde neden üretilemez?",
+          "answer": "Sifiliz; yapay besiyerinde rutin olarak üretilemez.",
+          "explanation": "Tanı serolojik testlerle konur; karanlık alan mikroskopisi bazı lezyonlarda kullanılabilir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-12",
+          "question": "Sifilizde nontreponemal ve treponemal testleri örnekleriyle ayırın.",
+          "answer": "VDRL/RPR nontreponemal; FTA-ABS/TP-PA treponemal.",
+          "explanation": "RPR/VDRL aktivite ve tedavi yanıtını izlemek için titreyle kullanılır; treponemal testler uzun süre pozitif kalabilir."
+        },
+        {
+          "id": "MICRO-ATYPICAL-13",
+          "question": "Leptospira enfeksiyonunda tipik maruziyet ve ağır hastalık bulgusu nedir?",
+          "answer": "Hayvan idrarıyla kontamine su; Weil hastalığında sarılık, böbrek yetmezliği ve kanama.",
+          "explanation": "Konjonktival suffüzyon ve baldır ağrısı klasik ipuçlarıdır."
+        },
+        {
+          "id": "MICRO-ATYPICAL-14",
+          "question": "Borrelia burgdorferi hangi vektörle bulaşır ve erken lokalize hastalık bulgusu nedir?",
+          "answer": "Ixodes kenesi; eritema migrans.",
+          "explanation": "Lyme hastalığında nörolojik, kardiyak ve eklem bulguları evrelere göre gelişebilir."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-virology",
+      "title": "Mikrobiyoloji · Viroloji",
+      "cards": [
+        {
+          "id": "MICRO-VIROLOGY-01",
+          "question": "Zarflı virüslerin çevresel dayanıklılığı zarfsızlara göre nasıldır?",
+          "answer": "Genellikle daha düşüktür; deterjan, kuruma ve ısıya daha duyarlıdır.",
+          "explanation": "Zarf lipid yapılıdır; bulaş çoğunlukla yakın temas, damlacık veya vücut sıvılarıyla olur."
+        },
+        {
+          "id": "MICRO-VIROLOGY-02",
+          "question": "DNA virüslerinin çoğu nerede replike olur; temel istisna hangisidir?",
+          "answer": "Çoğu çekirdekte; Poxviridae sitoplazmada replike olur.",
+          "explanation": "Poxvirüs kendi transkripsiyon/replikasyon enzimlerini taşır."
+        },
+        {
+          "id": "MICRO-VIROLOGY-03",
+          "question": "RNA virüslerinin çoğu nerede replike olur; temel istisna hangisidir?",
+          "answer": "Çoğu sitoplazmada; influenza gibi Orthomyxoviridae çekirdek evresi kullanır.",
+          "explanation": "Retrovirüsler de DNA ara ürünü üzerinden çekirdekle ilişkilidir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-04",
+          "question": "Pozitif polariteli tek iplikli RNA virüsü hücreye girdiğinde genomu nasıl davranır?",
+          "answer": "Doğrudan mRNA gibi çevrilebilir.",
+          "explanation": "Negatif polariteli RNA virüsü ise RNA-bağımlı RNA polimeraz taşımak zorundadır."
+        },
+        {
+          "id": "MICRO-VIROLOGY-05",
+          "question": "RNA virüslerinde yüksek mutasyon hızının temel nedeni nedir?",
+          "answer": "RNA-bağımlı RNA polimerazın çoğunlukla proofreading aktivitesinin olmaması.",
+          "explanation": "Antijenik drift ve hızlı varyasyon gelişebilir; influenza segment reassortment ile shift de yapabilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-06",
+          "question": "İnfluenza antijenik drift ve shift nasıl ayrılır?",
+          "answer": "Drift: küçük mutasyon birikimi; shift: segmentlerin yeniden eşleşmesiyle büyük antijenik değişim.",
+          "explanation": "Shift özellikle influenza A'da pandemilere yol açabilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-07",
+          "question": "İnfluenza virüsünün hemaglutinin ve nöraminidaz proteinleri ne yapar?",
+          "answer": "Hemaglutinin hücreye tutunma/giriş; nöraminidaz yeni virionların salınmasını kolaylaştırır.",
+          "explanation": "Oseltamivir nöraminidazı inhibe eder."
+        },
+        {
+          "id": "MICRO-VIROLOGY-08",
+          "question": "RSV'nin bebeklerde oluşturduğu tipik alt solunum yolu hastalığı nedir?",
+          "answer": "Bronşiolit.",
+          "explanation": "Sinsityum oluşturan zarflı negatif iplikli RNA virüsüdür; prematüre ve riskli bebeklerde palivizumab/nirsevimab profilaksisi kullanılabilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-09",
+          "question": "Paramyxoviridae ailesinde kızamık, kabakulak ve parainfluenza için önemli ortak özellik nedir?",
+          "answer": "Zarflı, negatif polariteli, segmentsiz tek iplikli RNA virüsleri olmaları.",
+          "explanation": "Kızamıkta Koplik lekeleri; kabakulakta parotit ve orşit; parainfluenzada krup tipiktir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-10",
+          "question": "Kızamıkta SSPE hangi mekanizmayla ve ne zaman gelişir?",
+          "answer": "Virüsün santral sinir sisteminde persistan kalmasıyla yıllar sonra gelişen progresif ensefalit.",
+          "explanation": "Miyoklonus, bilişsel gerileme ve karakteristik EEG bulguları görülebilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-11",
+          "question": "Adenovirüs hangi klinik birliktelikle sık hatırlanır?",
+          "answer": "Farenjokonjonktival ateş ve bazı tiplerle hemorajik sistit.",
+          "explanation": "Zarfsız çift iplikli DNA virüsüdür."
+        },
+        {
+          "id": "MICRO-VIROLOGY-12",
+          "question": "Parvovirus B19 hangi hücreleri enfekte eder ve hangi komplikasyonu oluşturabilir?",
+          "answer": "Eritroid öncül hücreleri; aplastik kriz.",
+          "explanation": "Çocukta tokatlanmış yanak döküntüsü, gebelikte fetal anemi/hidrops yapabilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-13",
+          "question": "EBV hangi reseptör üzerinden B lenfositleri enfekte eder?",
+          "answer": "CD21 (CR2).",
+          "explanation": "Enfeksiyöz mononükleoz; heterofil antikor pozitifliği ve atipik lenfositoz görülebilir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-14",
+          "question": "CMV'nin histolojik klasik bulgusu nedir?",
+          "answer": "Büyük hücrelerde intranükleer ve sitoplazmik inklüzyonlar; intranükleer 'baykuş gözü'.",
+          "explanation": "Konjenital enfeksiyon, retinit ve immünsüpresyonda organ hastalığı yapar."
+        },
+        {
+          "id": "MICRO-VIROLOGY-15",
+          "question": "HSV-1 ve HSV-2 için latent rezervuar tipik olarak neresidir?",
+          "answer": "HSV-1 trigeminal ganglion; HSV-2 sakral duyu ganglionları.",
+          "explanation": "Her iki tip de oral veya genital enfeksiyon yapabilir; yerleşim mutlak değildir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-16",
+          "question": "VZV primer enfeksiyon ve reaktivasyonda hangi klinik tabloları yapar?",
+          "answer": "Primerde suçiçeği; reaktivasyonda dermatomal zona.",
+          "explanation": "Duyu ganglionlarında latent kalır; döküntü genellikle orta hattı geçmez."
+        },
+        {
+          "id": "MICRO-VIROLOGY-17",
+          "question": "HPV'nin yüksek riskli tipleri hangi tümör baskılayıcı proteinleri etkisizleştirir?",
+          "answer": "E6 p53'ü, E7 Rb'yi inhibe eder.",
+          "explanation": "16 ve 18 başlıca yüksek riskli tiplerdir; 6 ve 11 genital siğillerle ilişkilidir."
+        },
+        {
+          "id": "MICRO-VIROLOGY-18",
+          "question": "HBV genomu ve replikasyonu bakımından hangi özelliğiyle sıra dışıdır?",
+          "answer": "Kısmen çift iplikli DNA genomu ve ters transkriptaz kullanan replikasyon döngüsü vardır.",
+          "explanation": "Hepadnaviridae üyesidir; HBsAg yüzey, HBcAg kor, HBeAg replikasyon/bulaştırıcılık göstergesidir."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-hepatitis-hiv",
+      "title": "Mikrobiyoloji · Hepatit virüsleri ve HIV",
+      "cards": [
+        {
+          "id": "MICRO-HEPATITIS-HIV-01",
+          "question": "Akut HBV enfeksiyonunda erken saptanan temel antijen hangisidir?",
+          "answer": "HBsAg.",
+          "explanation": "HBsAg'nin varlığı mevcut enfeksiyonu gösterir; tek başına akut-kronik ayrımı yapmaz."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-02",
+          "question": "Akut HBV enfeksiyonunda pencere döneminin en önemli serolojik belirteci nedir?",
+          "answer": "IgM anti-HBc.",
+          "explanation": "HBsAg kaybolmuş, anti-HBs henüz oluşmamış olabilir."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-03",
+          "question": "HBV'de anti-HBs pozitifliği neyi gösterir?",
+          "answer": "Bağışıklığı; geçirilmiş enfeksiyon veya aşı sonrası gelişebilir.",
+          "explanation": "Anti-HBc geçirilmiş doğal enfeksiyonda bulunur; aşılanan kişide anti-HBc olmaz."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-04",
+          "question": "Kronik HBV enfeksiyonunun temel serolojik tanımı nedir?",
+          "answer": "HBsAg'nin en az 6 ay kalıcı olması.",
+          "explanation": "HBeAg ve HBV DNA replikasyon/bulaştırıcılık değerlendirmesine katkı sağlar."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-05",
+          "question": "HCV enfeksiyonunda akut tarama ve aktif enfeksiyon doğrulaması nasıl yapılır?",
+          "answer": "Anti-HCV antikor taraması; aktif viremi HCV RNA ile doğrulanır.",
+          "explanation": "Antikor geçirilmiş enfeksiyonda da kalabilir; RNA aktif enfeksiyonu gösterir."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-06",
+          "question": "HDV enfeksiyonu için hangi virüsün varlığı gerekir?",
+          "answer": "HBV; HDV'nin HBsAg'ye ihtiyacı vardır.",
+          "explanation": "HBV ile koenfeksiyon veya kronik HBV üzerine süperenfeksiyon şeklinde görülür; süperenfeksiyon daha ağır olabilir."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-07",
+          "question": "HEV hangi hasta grubunda ağır seyredebilir?",
+          "answer": "Özellikle gebeliğin geç dönemindeki kadınlarda.",
+          "explanation": "Fekal-oral bulaşır; immünsüprese kişilerde kronikleşebilir."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-08",
+          "question": "HIV hücreye girişte hangi iki koreseptörü kullanabilir?",
+          "answer": "CCR5 veya CXCR4; CD4'e bağlanmanın ardından kullanılır.",
+          "explanation": "gp120 CD4/koreseptöre, gp41 membran füzyonuna aracılık eder."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-09",
+          "question": "HIV'in CD4 hücre sayısını azaltmasının temel hedef hücreleri nelerdir?",
+          "answer": "CD4 T lenfositler; ayrıca makrofaj ve dendritik hücreler enfekte olabilir.",
+          "explanation": "İmmün yetmezlik fırsatçı enfeksiyon ve malignite riskini artırır."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-10",
+          "question": "HIV yaşam döngüsündeki üç temel enzim nedir?",
+          "answer": "Reverse transkriptaz, integraz ve proteaz.",
+          "explanation": "Sırasıyla DNA sentezi, proviral entegrasyon ve poliprotein olgunlaşmasını sağlarlar."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-11",
+          "question": "AIDS tanımında CD4 eşiği ve AIDS belirleyici durumlar nasıl kullanılır?",
+          "answer": "CD4 <200 hücre/µL veya AIDS tanımlayıcı hastalık.",
+          "explanation": "Tedavi başlanması için CD4'ün bu düzeye düşmesi beklenmez; antiretroviral tedavi tüm HIV tanılı bireylere önerilir."
+        },
+        {
+          "id": "MICRO-HEPATITIS-HIV-12",
+          "question": "HIV'de antiretroviral tedavinin temel hedefi nedir?",
+          "answer": "Viral replikasyonu baskılayarak viral yükü saptanamaz düzeye indirmek.",
+          "explanation": "Kombinasyon tedavisi direnç gelişimini azaltır ve immün fonksiyonu korur."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-mycology",
+      "title": "Mikrobiyoloji · Tıbbi mikoloji",
+      "cards": [
+        {
+          "id": "MICRO-MYCOLOGY-01",
+          "question": "Candida albicans'ı diğer Candida türlerinden ayırmada klasik test nedir?",
+          "answer": "Germ tüp testi pozitiftir.",
+          "explanation": "Psödohif ve blastokonidya oluşturabilir; mukozal kandidiyaz ve invaziv enfeksiyon yapar."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-02",
+          "question": "Candida glabrata ve Candida krusei klinik açıdan neden önemlidir?",
+          "answer": "Azollere azalmış duyarlılık veya intrinsik flukonazol direnci gösterebilirler.",
+          "explanation": "Tür düzeyinde tanımlama tedavi seçimini etkiler."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-03",
+          "question": "Cryptococcus neoformans'ın kapsülü hangi boyayla klasik olarak gösterilir?",
+          "answer": "Çini mürekkebi (India ink) ile negatif boyanma.",
+          "explanation": "Üreaz pozitif, kapsüllü maya; özellikle AIDS'te menenjit yapar. Kriptokok antijeni duyarlı tanı testidir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-04",
+          "question": "Aspergillus fumigatus'un histolojik hif özelliği nedir?",
+          "answer": "Septalı, dar açılı (yaklaşık 45°) dallanan hifler.",
+          "explanation": "İnvaziv anjioinvazyon, aspergilloma ve alerjik bronkopulmoner aspergilloz yapabilir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-05",
+          "question": "Mucorales enfeksiyonunda hiflerin tipik görünümü nedir?",
+          "answer": "Geniş, şeritimsi, az septalı/aseptalı ve yaklaşık 90° dallanan hifler.",
+          "explanation": "Diyabetik ketoasidoz ve nötropenide rino-orbito-serebral invaziv hastalık yapabilir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-06",
+          "question": "Histoplasma capsulatum hangi dokuda ve hangi biçimde görülür?",
+          "answer": "Makrofaj içinde küçük tomurcuklanan mayalar.",
+          "explanation": "Kuş/yarasa dışkısıyla zengin toprak aerosolü; Ohio-Mississippi vadisi klasik coğrafi ilişki."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-07",
+          "question": "Blastomyces dermatitidis için karakteristik maya görünümü nedir?",
+          "answer": "Geniş tabanlı tomurcuklanan maya.",
+          "explanation": "Akciğer ve deri/kemik tutulumu yapabilir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-08",
+          "question": "Coccidioides dokuda hangi yapıyı oluşturur?",
+          "answer": "Endospor içeren sferüller.",
+          "explanation": "Çöl bölgelerinde toprak aerosolleriyle bulaşır; eozinofili ve eritema nodozum eşlik edebilir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-09",
+          "question": "Sporothrix schenckii hangi bulaş ve klinik dağılımla ilişkilidir?",
+          "answer": "Gül dikeni/bitki teması; lenfatik hat boyunca nodüller.",
+          "explanation": "Dimorfik mantardır; deri ve lenfatik yayılım tipiktir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-10",
+          "question": "Dermatofitler hangi dokuları enfekte eder?",
+          "answer": "Keratinize deri, saç ve tırnak.",
+          "explanation": "Trichophyton, Microsporum ve Epidermophyton cinsleri; derin canlı dokulara genellikle invaze olmaz."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-11",
+          "question": "Pneumocystis jirovecii hangi hasta grubunda pnömoni yapar ve tanıda hangi örnek kullanılır?",
+          "answer": "İleri HIV veya diğer immünsüpresyon; indüklenmiş balgam/BAL örneği.",
+          "explanation": "Hipoksemi ve bilateral interstisyel infiltrasyon; gümüş boyasıyla kistler görülebilir."
+        },
+        {
+          "id": "MICRO-MYCOLOGY-12",
+          "question": "Malassezia furfur hangi yüzeyel enfeksiyonla ilişkilidir?",
+          "answer": "Tinea versicolor (pityriasis versicolor).",
+          "explanation": "KOH preparatında kısa hif ve maya kümeleri 'spagetti ve köfte' görünümü oluşturur."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-parasitology-protozoa",
+      "title": "Mikrobiyoloji · Protozoonlar",
+      "cards": [
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-01",
+          "question": "Entamoeba histolytica'nın invaziv bağırsak hastalığına ait klasik mikroskopik ipucu nedir?",
+          "answer": "Eritrosit fagosite etmiş trofozoit.",
+          "explanation": "Kanlı ishal ve karaciğer apsesi yapabilir; apse aspiratı tipik olarak çikolata/ançüez ezmesi görünümündedir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-02",
+          "question": "Giardia duodenalis hangi klinik tabloyu ve bulaş yolunu oluşturur?",
+          "answer": "Kontamine suyla bulaşan, yağlı-kötü kokulu malabsorptif ishal.",
+          "explanation": "Kist enfektif formdur; trofozoit armut biçimli ve iki çekirdeklidir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-03",
+          "question": "Trichomonas vaginalis'in ayırt edici özelliği nedir?",
+          "answer": "Kamçılı trofozoit formu vardır; kist formu yoktur.",
+          "explanation": "Cinsel yolla bulaşır; köpüklü akıntı ve çilek serviks görülebilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-04",
+          "question": "Toxoplasma gondii için gebelikte hangi bulaş yolu fetal enfeksiyona neden olur?",
+          "answer": "Primer maternal enfeksiyonda transplasental bulaş.",
+          "explanation": "Konjenital triad: koryoretinit, hidrosefali ve intrakraniyal kalsifikasyon."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-05",
+          "question": "AIDS hastasında Toxoplasma ensefalitinin tipik görüntüleme bulgusu nedir?",
+          "answer": "Bazal gangliyonlarda çoklu halka şeklinde kontrastlanan lezyonlar.",
+          "explanation": "Reaktivasyonla gelişir; seropozitiflik ve CD4 düşüklüğü risk göstergesidir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-06",
+          "question": "Plasmodium falciparum sıtmasında periferik yaymada hangi bulgular ayırt ettirir?",
+          "answer": "Çoklu ince halka formları ve kenara yerleşmiş appliqué formlar; olgun trofozoitler sıklıkla periferik kanda görülmez.",
+          "explanation": "Ağır sıtma ve serebral sıtma yapabilir; eritrosit yaşına seçici değildir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-07",
+          "question": "P. vivax ve P. ovale relaps yapmasının nedeni nedir?",
+          "answer": "Karaciğerde dormant hipnozoitlerin kalması.",
+          "explanation": "Radikal kür için G6PD değerlendirmesi sonrası primakin/tafenoquin gerekir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-08",
+          "question": "Plasmodium sıtmasında ateş nöbetlerinin mekanizması nedir?",
+          "answer": "Enfekte eritrositlerin senkron parçalanması ve pirojen salınımı.",
+          "explanation": "Parazitin türüne göre ateş periyodisitesi değişir; klinikte ateş paterni tek başına tanı koydurmaz."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-09",
+          "question": "Babesia mikrobiyolojide hangi yayma görünümüyle hatırlanır?",
+          "answer": "Eritrosit içinde Maltese cross (dörtlü) formu.",
+          "explanation": "Ixodes kenesiyle bulaşır; splenektomide ağır hemolitik hastalık yapabilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-10",
+          "question": "Leishmania'nın insan dokusunda görülen formu nedir?",
+          "answer": "Makrofaj içinde amastigot (Leishman-Donovan cisimciği).",
+          "explanation": "Sandfly ile bulaşır; kutanöz, mukokutanöz ve visseral kala-azar tabloları oluşturur."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-11",
+          "question": "Trypanosoma cruzi hangi vektör ve kronik organ komplikasyonlarıyla ilişkilidir?",
+          "answer": "Triatomin (öpücük) böceği; dilate kardiyomiyopati ve megaözofagus/megakolon.",
+          "explanation": "Amerikan tripanozomiyazisi (Chagas) yapar."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-PROTOZOA-12",
+          "question": "Trypanosoma brucei hangi vektörle bulaşır ve hangi klinik tabloyu oluşturur?",
+          "answer": "Çeçe sineği; Afrika uyku hastalığı.",
+          "explanation": "Uyku-uyanıklık bozukluğu, lenfadenopati ve santral sinir sistemi tutulumu yapar."
+        }
+      ]
+    },
+    {
+      "id": "microbiology-parasitology-helminths",
+      "title": "Mikrobiyoloji · Helmintler ve ektoparazitler",
+      "cards": [
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-01",
+          "question": "Enterobius vermicularis tanısında en uygun örnek ve yöntem nedir?",
+          "answer": "Sabah tuvalet ve yıkanma öncesi perianal selofan bant testi.",
+          "explanation": "Gece perianal kaşıntı tipiktir; yumurtalar dışkı incelemesinde kaçabilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-02",
+          "question": "Ascaris lumbricoides larva göçü sırasında hangi akciğer bulgusunu yapabilir?",
+          "answer": "Geçici eozinofilik pnömoni (Löffler sendromu).",
+          "explanation": "Ağır erişkin enfeksiyonu bağırsak obstrüksiyonu ve biliyer komplikasyon yapabilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-03",
+          "question": "Trichuris trichiura ağır enfeksiyonda hangi klinik tabloyla ilişkilidir?",
+          "answer": "Çocukta rektal prolapsus ve dizanteri benzeri ishal.",
+          "explanation": "Kamçı biçimli erişkin parazit kolonda yaşar."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-04",
+          "question": "Ancylostoma duodenale ve Necator americanus hangi temel patolojiye yol açar?",
+          "answer": "Kronik kan kaybına bağlı demir eksikliği anemisi.",
+          "explanation": "Larvalar deriden girer; erişkinler ince bağırsakta kan emer."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-05",
+          "question": "Strongyloides stercoralis'i diğer bağırsak nematodlarından ayıran önemli özellik nedir?",
+          "answer": "Otoenfeksiyon yapabilmesi ve immünsüpresyonda hiperenfeksiyon oluşturması.",
+          "explanation": "Kortikosteroid kullanımıyla ağır, yaygın enfeksiyon gelişebilir; dışkıda larva aranır."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-06",
+          "question": "Taenia solium'da nörosistiserkoz hangi formun alınmasıyla gelişir?",
+          "answer": "Yumurtaların fekal-oral alınmasıyla.",
+          "explanation": "Az pişmiş domuz etindeki sistiserkler erişkin bağırsak tenyası yapar; yumurta alımı doku larva enfeksiyonu oluşturur."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-07",
+          "question": "Taenia saginata ile T. solium'un ara konağı nasıl ayrılır?",
+          "answer": "T. saginata sığır; T. solium domuz.",
+          "explanation": "T. solium yumurtaları insanda sistiserkoza neden olabilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-08",
+          "question": "Echinococcus granulosus enfeksiyonunda insan hangi rolü üstlenir?",
+          "answer": "Tesadüfi ara konak; kist hidatik gelişir.",
+          "explanation": "Köpek kesin konak, koyun tipik ara konaktır; kistin rüptürü anafilaksi ve yayılıma yol açabilir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-09",
+          "question": "Diphyllobothrium latum hangi vitamin eksikliğine neden olabilir?",
+          "answer": "B₁₂ eksikliği ve megaloblastik anemi.",
+          "explanation": "Balık tenyasıdır; tatlı su balığıyla bulaşır."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-10",
+          "question": "Schistosoma türleri diğer trematodlardan hangi özelliğiyle ayrılır?",
+          "answer": "Dişi ve erkek ayrı cinsiyettedir; serkaryalar deriden girer.",
+          "explanation": "S. haematobium mesane skuamöz hücreli kanser; S. mansoni/japonicum portal hipertansiyonla ilişkilidir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-11",
+          "question": "Fasciola hepatica hangi besin ve organla ilişkilidir?",
+          "answer": "Su teresi gibi su bitkileri; karaciğer ve safra yolları.",
+          "explanation": "Fasciolopsis buski bağırsak trematodudur; Fasciola karaciğer flukesidir."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-12",
+          "question": "Onchocerca volvulus hangi vektör ve klinik komplikasyonla ilişkilidir?",
+          "answer": "Simulium (kara sinek); nehir körlüğü.",
+          "explanation": "Mikrofilarialar deri ve gözde inflamasyon yapar; ivermektin mikrofilarial yükü azaltır."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-13",
+          "question": "Wuchereria bancrofti hangi kronik klinik tabloya neden olur?",
+          "answer": "Lenfatik filaryazis, elefantiyazis ve hidrosel.",
+          "explanation": "Sivrisinekle bulaşır; erişkinler lenfatik damarlarda yaşar."
+        },
+        {
+          "id": "MICRO-PARASITOLOGY-HELMINTHS-14",
+          "question": "Loa loa hangi vektör ve tipik klinik bulguyla ilişkilidir?",
+          "answer": "Chrysops (geyik sineği); gözde erişkin parazitin göçü ve Calabar şişlikleri.",
+          "explanation": "Mikrofilarialar gündüz periferik kanda belirginleşir; yüksek yükte ivermektin ciddi nörolojik risk taşıyabilir."
+        }
+      ]
     }
   ]
 }
