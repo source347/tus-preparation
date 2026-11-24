@@ -54,9 +54,9 @@
 
 ### 9. Keton cisimleri hangileridir ve hangisi klasik olarak idrarda nitroprussid testine yanıt verir?
 
-**C:** Asetoasetat, β-hidroksibütirat ve aseton; nitroprussid testi asetoasetatı (ve daha zayıf aseton) saptar, β-hidroksibütiratı saptamaz.
+**C:** Asetoasetat, β-hidroksibütirat ve aseton.
 
-**Neden önemli?:** Ağır ketoasidozda β-hidroksibütirat baskın olabileceğinden test ketozisin şiddetini olduğundan düşük gösterebilir.
+**Neden önemli?:** β-hidroksibütirat redoks durumuna bağlı olarak ağır ketoasidozda baskın keton cismi olabilir.
 
 ### 10. Şilomikronların temel apolipoproteini ve temel görevi nedir?
 
