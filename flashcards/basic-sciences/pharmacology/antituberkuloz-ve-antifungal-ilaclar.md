@@ -36,7 +36,7 @@ TUS için yüksek verimli, mekanizma ve ayırt edici yan etki odaklı kartlar.
 
 **Yanıt:** β-1,3-D-glukan sentazı inhibe eder.
 
-**Açıklama:** Candida ve Aspergillus'a etkilidir; Cryptococcus'a etkisizdir.
+**Açıklama:** Candida'ya karşı fungisidaldir; Aspergillus'a karşı çoğunlukla fungistatik/yardımcı aktivite gösterir ve invaziv aspergillozda genellikle tek başına ilk seçenek değildir. Cryptococcus'a etkisizdir.
 
 ### 7. Flusitozin mantar hücresinde hangi metabolite dönüşür?
 
