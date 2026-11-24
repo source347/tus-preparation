@@ -3215,6 +3215,120 @@
           "explanation": "LCAT serbest kolesterolü kolesterol esterine çevirerek ters kolesterol taşınmasını destekler."
         }
       ]
+    },
+    {
+      "id": "biochemistry-vitamins-coenzymes",
+      "title": "Biyokimya · Vitaminler, koenzimler ve eksiklikler: yüksek verimli karar noktaları",
+      "cards": [
+        {
+          "id": "BIO-VIT-001-01",
+          "question": "Tiamin (B1) hangi metabolik enzimlerin kofaktörüdür?",
+          "answer": "TPP; pirüvat dehidrogenaz, α-ketoglutarat dehidrogenaz, dallı zincirli α-ketoasit dehidrogenaz ve transketolaz.",
+          "explanation": "Eksiklikte enerji üretimi bozulur; özellikle beyin, periferik sinir ve kalp etkilenir."
+        },
+        {
+          "id": "BIO-VIT-001-02",
+          "question": "Tiamin eksikliğinin klasik klinik tabloları nelerdir?",
+          "answer": "Wernicke-Korsakoff sendromu, kuru beriberi (periferik nöropati) ve yaş beriberi (yüksek debili kalp yetmezliği/ödem).",
+          "explanation": "Wernicke: konfüzyon, ataksi ve oftalmopleji; Korsakoff: anterograd amnezi ve konfabulasyon."
+        },
+        {
+          "id": "BIO-VIT-001-03",
+          "question": "Malnütrisyon veya alkol kullanım bozukluğu olan hastada glukoz verilmeden önce ne yapılmalıdır?",
+          "answer": "Tiamin verilmelidir.",
+          "explanation": "Tiamin eksikliğinde glukoz yükü laktat üretimini ve nörolojik hasarı artırabilir; acil hipoglisemi tedavisini geciktirmemek gerekir."
+        },
+        {
+          "id": "BIO-VIT-001-04",
+          "question": "Riboflavin (B2) hangi koenzimlerin öncülüdür ve eksikliği ne düşündürür?",
+          "answer": "FMN ve FAD; angular keilit, stomatit, glossit ve seboreik dermatit.",
+          "explanation": "Oksidasyon-redüksiyon reaksiyonlarında görev alır; ağız kenarı çatlakları klasik ipucudur."
+        },
+        {
+          "id": "BIO-VIT-001-05",
+          "question": "Niasin (B3) hangi koenzimlerin öncülüdür; eksikliğinin klasik tablosu nedir?",
+          "answer": "NAD⁺ ve NADP⁺; pellagra.",
+          "explanation": "Üç D: dermatitis (fotosensitif), diarrhea ve dementia. Niasin triptofandan sentezlenebilir."
+        },
+        {
+          "id": "BIO-VIT-001-06",
+          "question": "Piridoksin (B6) aktif formu ve sınavda ayırt ettiren eksiklik ilişkisi nedir?",
+          "answer": "Piridoksal fosfat (PLP); sideroblastik anemi, periferik nöropati ve nöbet.",
+          "explanation": "İzoniazid B6'yı tüketebilir; PLP hem sentezi ve amino asit metabolizmasında kofaktördür."
+        },
+        {
+          "id": "BIO-VIT-001-07",
+          "question": "Folat (B9) hangi biyokimyasal işlevi görür ve eksikliği neye yol açar?",
+          "answer": "Tetrahidrofolat aracılığıyla tek karbon transferi; megaloblastik anemi ve gebelikte nöral tüp defekti riski.",
+          "explanation": "DNA sentezi bozulur; folat eksikliğinde tipik olarak nörolojik bulgu beklenmez."
+        },
+        {
+          "id": "BIO-VIT-001-08",
+          "question": "B12 vitamininin iki kritik enzimatik reaksiyondaki görevi nedir?",
+          "answer": "Metiyonin sentazda homosistein → metiyonin; metilmalonil-CoA mutazda metilmalonil-CoA → süksinil-CoA.",
+          "explanation": "B12 eksikliği her iki reaksiyonu da bozar."
+        },
+        {
+          "id": "BIO-VIT-001-09",
+          "question": "B12 eksikliğini folat eksikliğinden laboratuvar ve nöroloji açısından ayıran bulgu nedir?",
+          "answer": "B12 eksikliğinde metilmalonik asit ve homosistein artar; nörolojik bulgular görülebilir. Folat eksikliğinde homosistein artar, metilmalonik asit normaldir.",
+          "explanation": "Her ikisi megaloblastik anemi yapar; B12 eksikliği subakut kombine dejenerasyon oluşturabilir."
+        },
+        {
+          "id": "BIO-VIT-001-10",
+          "question": "C vitamini kollajen sentezinde hangi basamağı destekler; eksikliği nasıl görünür?",
+          "answer": "Prolin ve lizinin hidroksilasyonunu destekler; eksikliği skorbüt yapar.",
+          "explanation": "Diş eti kanaması, peteşi/ekimoz, kötü yara iyileşmesi ve perifoliküler kanama görülebilir."
+        },
+        {
+          "id": "BIO-VIT-001-11",
+          "question": "A vitamini eksikliğinin en karakteristik erken görme bulgusu nedir?",
+          "answer": "Gece körlüğü (rod işlev bozukluğu); ilerleyince Bitot lekeleri ve kseroftalmi.",
+          "explanation": "Retinal görme döngüsü ve epitel farklılaşması için gereklidir."
+        },
+        {
+          "id": "BIO-VIT-001-12",
+          "question": "D vitamini eksikliği çocukta ve erişkinde hangi kemik hastalıklarını yapar?",
+          "answer": "Çocukta raşitizm, erişkinde osteomalazi.",
+          "explanation": "Kalsiyum/fosfat emilimi azalır; sekonder hiperparatiroidi ve alkalen fosfataz artışı eşlik edebilir."
+        },
+        {
+          "id": "BIO-VIT-001-13",
+          "question": "E vitamini eksikliğinde hangi iki klinik bulgu özellikle hatırlanmalıdır?",
+          "answer": "Hemolitik anemi ve nörolojik bozukluk (ataksi/periferik nöropati).",
+          "explanation": "Lipit membranları oksidatif hasardan koruyan antioksidandır; prematürite ve yağ emilim bozukluğunda risk artar."
+        },
+        {
+          "id": "BIO-VIT-001-14",
+          "question": "K vitamini hangi pıhtılaşma proteinlerinin γ-karboksilasyonu için gereklidir?",
+          "answer": "Faktör II, VII, IX, X ile protein C ve S.",
+          "explanation": "Eksiklikte PT/INR önce uzar; faktör VII'nin yarı ömrü kısadır."
+        },
+        {
+          "id": "BIO-VIT-001-15",
+          "question": "Biyotin (B7) hangi reaksiyonlarda kofaktördür; klasik edinilmiş eksiklik nedeni nedir?",
+          "answer": "Karboksilasyon reaksiyonları; çiğ yumurta akındaki avidinin biyotini bağlaması.",
+          "explanation": "Dermatit, alopesi ve enterit görülebilir; karboksilazlar arasında pirüvat ve asetil-CoA karboksilaz bulunur."
+        },
+        {
+          "id": "BIO-VIT-001-16",
+          "question": "Pantotenik asit (B5) hangi temel molekülün yapısına katılır?",
+          "answer": "Koenzim A (CoA) ve yağ asidi sentazın fosfopantetein kolu.",
+          "explanation": "Açil grubu taşınması ve enerji metabolizmasında görev alır; eksikliği nadirdir."
+        },
+        {
+          "id": "BIO-VIT-001-17",
+          "question": "A vitamini toksisitesinde hangi önemli klinik riskler görülür?",
+          "answer": "Hepatotoksisite, intrakraniyal basınç artışı ve gebelikte teratojenite.",
+          "explanation": "Retinoid fazlalığı baş ağrısı, görme yakınmaları ve kemik ağrısı yapabilir."
+        },
+        {
+          "id": "BIO-VIT-001-18",
+          "question": "D vitamini toksisitesinin temel biyokimyasal sonucu ve klinik tehlikesi nedir?",
+          "answer": "Hiperkalsemi; nefrolitiyazis/nefrökalsinozis ve yumuşak doku kalsifikasyonu.",
+          "explanation": "Yağda çözünen vitaminlerin depolanması toksisite riskini artırır."
+        }
+      ]
     }
   ]
 }
