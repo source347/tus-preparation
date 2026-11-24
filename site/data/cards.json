@@ -3157,8 +3157,8 @@
         {
           "id": "BIO-LIP-001-09",
           "question": "Keton cisimleri hangileridir ve hangisi klasik olarak idrarda nitroprussid testine yanıt verir?",
-          "answer": "Asetoasetat, β-hidroksibütirat ve aseton; nitroprussid testi asetoasetatı (ve daha zayıf aseton) saptar, β-hidroksibütiratı saptamaz.",
-          "explanation": "Ağır ketoasidozda β-hidroksibütirat baskın olabileceğinden test ketozisin şiddetini olduğundan düşük gösterebilir."
+          "answer": "Asetoasetat, β-hidroksibütirat ve aseton.",
+          "explanation": "β-hidroksibütirat redoks durumuna bağlı olarak ağır ketoasidozda baskın keton cismi olabilir."
         },
         {
           "id": "BIO-LIP-001-10",
@@ -3235,8 +3235,8 @@
         {
           "id": "BIO-VIT-001-03",
           "question": "Malnütrisyon veya alkol kullanım bozukluğu olan hastada glukoz verilmeden önce ne yapılmalıdır?",
-          "answer": "Tiamin verilmelidir.",
-          "explanation": "Tiamin eksikliğinde glukoz yükü laktat üretimini ve nörolojik hasarı artırabilir; acil hipoglisemi tedavisini geciktirmemek gerekir."
+          "answer": "Mümkünse tiamin glukozdan önce veya glukozla eşzamanlı verilmelidir.",
+          "explanation": "Tiamin eksikliği şüphesinde replasman geciktirilmemelidir; ancak acil hipoglisemi tedavisi tiamin beklenerek ertelenmez."
         },
         {
           "id": "BIO-VIT-001-04",
@@ -3254,7 +3254,7 @@
           "id": "BIO-VIT-001-06",
           "question": "Piridoksin (B6) aktif formu ve sınavda ayırt ettiren eksiklik ilişkisi nedir?",
           "answer": "Piridoksal fosfat (PLP); sideroblastik anemi, periferik nöropati ve nöbet.",
-          "explanation": "İzoniazid B6'yı tüketebilir; PLP hem sentezi ve amino asit metabolizmasında kofaktördür."
+          "explanation": "İzoniazid PLP oluşumunu/işlevini bozarak B6 eksikliğine yol açabilir; PLP hem sentezi ve amino asit metabolizmasında kofaktördür."
         },
         {
           "id": "BIO-VIT-001-07",
@@ -3735,12 +3735,6 @@
           "question": "Açlıkta yağ dokusu lipolizi ve karaciğer ketogenezi nasıl eşleşir?",
           "answer": "Düşük insülin/yüksek karşı düzenleyici hormonlar lipolizi artırır; serbest yağ asitleri karaciğerde β-oksidasyon ve ketogenezi besler.",
           "explanation": "Yağ dokusu gliserolü glukoneogeneze; yağ asitlerini enerji ve keton üretimine sağlar."
-        },
-        {
-          "id": "BIO-INT-001-09",
-          "question": "Alkol metabolizması açlıkta neden hipoglisemi ve laktik asidoz yapabilir?",
-          "answer": "Etanol oksidasyonu NADH/NAD⁺ oranını artırır; pirüvat laktata, oksaloasetat malata kayar ve glukoneogenez baskılanır.",
-          "explanation": "Açlıkta glikojen depoları düşük olduğundan hipoglisemi riski belirginleşir."
         },
         {
           "id": "BIO-INT-001-10",
