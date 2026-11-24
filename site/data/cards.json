@@ -7241,6 +7241,900 @@
           "explanation": "Ülserasyon da evre/prognoz açısından önemlidir."
         }
       ]
+    },
+    {
+      "id": "pharmacology-general",
+      "title": "Farmakoloji · Genel farmakoloji ve farmakokinetik",
+      "cards": [
+        {
+          "id": "PHARM-GENERAL-01",
+          "question": "Tam agonist, parsiyel agonist ve antagonist arasındaki temel fark nedir?",
+          "answer": "Tam agonist maksimum yanıtı oluşturur; parsiyel agonist daha düşük Emax'a ulaşır; antagonist reseptörü aktive etmeden agonistin etkisini engeller.",
+          "explanation": "Parsiyel agonist, tam agonist varlığında fonksiyonel antagonist gibi davranabilir."
+        },
+        {
+          "id": "PHARM-GENERAL-02",
+          "question": "Kompetitif antagonizma doz-yanıt eğrisini nasıl değiştirir?",
+          "answer": "Agonistin EC50'sini artırır; Emax değişmez.",
+          "explanation": "Yeterli agonist artışı antagonizmayı aşabilir; eğri sağa kayar."
+        },
+        {
+          "id": "PHARM-GENERAL-03",
+          "question": "Nonkompetitif antagonizma doz-yanıt eğrisini nasıl değiştirir?",
+          "answer": "Genellikle Emax'ı azaltır.",
+          "explanation": "Reseptörün işlevsel kapasitesi azalır; agonist artışı maksimum yanıtı geri getiremez."
+        },
+        {
+          "id": "PHARM-GENERAL-04",
+          "question": "Potens ile etkinlik (efficacy) arasındaki fark nedir?",
+          "answer": "Potens EC50 ile; etkinlik Emax ile değerlendirilir.",
+          "explanation": "Daha düşük EC50 daha yüksek potens demektir; daha yüksek Emax daha yüksek etkinliktir."
+        },
+        {
+          "id": "PHARM-GENERAL-05",
+          "question": "Terapötik indeks nasıl hesaplanır?",
+          "answer": "TD50/ED50 veya LD50/ED50.",
+          "explanation": "Dar terapötik indeksli ilaçlarda kan düzeyi ve klinik izlem önemlidir."
+        },
+        {
+          "id": "PHARM-GENERAL-06",
+          "question": "Yükleme dozu hangi farmakokinetik parametreye bağlıdır?",
+          "answer": "Dağılım hacmine (Vd) ve hedef konsantrasyona.",
+          "explanation": "Yükleme dozu ≈ hedef plazma konsantrasyonu × Vd / biyoyararlanım."
+        },
+        {
+          "id": "PHARM-GENERAL-07",
+          "question": "İdame dozunu esas olarak hangi parametre belirler?",
+          "answer": "Klerens (Cl) ve hedef kararlı durum konsantrasyonu.",
+          "explanation": "İdame doz hızı ≈ hedef Css × Cl / biyoyararlanım."
+        },
+        {
+          "id": "PHARM-GENERAL-08",
+          "question": "Eliminasyon yarı ömrü hangi iki parametreyle ilişkilidir?",
+          "answer": "Vd ve klerens: t½ = 0,693 × Vd/Cl.",
+          "explanation": "Vd artışı yarı ömrünü uzatır; klerens artışı kısaltır."
+        },
+        {
+          "id": "PHARM-GENERAL-09",
+          "question": "Birinci derece eliminasyonda ilaç miktarı nasıl azalır?",
+          "answer": "Birim zamanda sabit fraksiyon elimine edilir.",
+          "explanation": "Çoğu ilaç bu kinetiği gösterir; yarı ömür konsantrasyondan bağımsızdır."
+        },
+        {
+          "id": "PHARM-GENERAL-10",
+          "question": "Sıfırıncı derece eliminasyonda ne sabittir?",
+          "answer": "Birim zamanda elimine edilen miktar sabittir.",
+          "explanation": "Etanol, yüksek dozda fenitoin ve yüksek dozda aspirin klasik örneklerdir."
+        },
+        {
+          "id": "PHARM-GENERAL-11",
+          "question": "Karaciğer ilk geçiş metabolizması oral biyoyararlanımı nasıl etkiler?",
+          "answer": "Sistemik dolaşıma ulaşan ilaç fraksiyonunu azaltır.",
+          "explanation": "Nitrogliserin gibi belirgin ilk geçişe uğrayan ilaçlarda dilaltı yol tercih edilebilir."
+        },
+        {
+          "id": "PHARM-GENERAL-12",
+          "question": "CYP450 enzim indüksiyonu eşzamanlı ilaç düzeyini nasıl etkiler?",
+          "answer": "Substrat ilaçların metabolizmasını hızlandırıp düzeyini azaltabilir.",
+          "explanation": "Ön ilaçlarda aktivasyon artabilir; rifampisin, karbamazepin ve fenitoin indükleyicidir."
+        },
+        {
+          "id": "PHARM-GENERAL-13",
+          "question": "CYP450 inhibisyonu eşzamanlı ilaç düzeyini nasıl etkiler?",
+          "answer": "Substrat ilaçların metabolizmasını yavaşlatıp düzeyini artırabilir.",
+          "explanation": "Makrolidler, azol antifungaller ve bazı antiviral ilaçlar inhibitör olabilir."
+        },
+        {
+          "id": "PHARM-GENERAL-14",
+          "question": "Faz I ve Faz II biyotransformasyon reaksiyonları nelerdir?",
+          "answer": "Faz I: oksidasyon, redüksiyon, hidroliz; Faz II: konjugasyon.",
+          "explanation": "Faz II genellikle daha polar metabolit oluşturup atılımı kolaylaştırır."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-autonomic",
+      "title": "Farmakoloji · Otonom sinir sistemi",
+      "cards": [
+        {
+          "id": "PHARM-AUTONOMIC-01",
+          "question": "Muskarinik reseptörler hangi G proteinleriyle eşleşir?",
+          "answer": "M1/M3/M5: Gq; M2/M4: Gi.",
+          "explanation": "M3 düz kas ve bezlerde; M2 kalpte baskın etki gösterir."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-02",
+          "question": "Atropin zehirlenmesinin tipik bulguları nelerdir?",
+          "answer": "Miydriyazis, ağız kuruluğu, taşikardi, sıcak-kuru cilt, üriner retansiyon ve deliryum.",
+          "explanation": "Santral ve periferik antimuskarinik sendrom oluşturur."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-03",
+          "question": "Organofosfat zehirlenmesinde antidot yaklaşımı nedir?",
+          "answer": "Atropin ve pralidoksim; destek ve dekontaminasyon.",
+          "explanation": "Atropin muskarinik etkileri antagonize eder; pralidoksim yaşlanma öncesi AChE'yi reaktive eder."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-04",
+          "question": "Neostigmin hangi klinik durumlarda kullanılır?",
+          "answer": "Myastenia gravis, nondepolarizan nöromüsküler blok geri çevrilmesi ve postoperatif ileus/üriner retansiyon.",
+          "explanation": "Kuaterner amin olduğundan kan-beyin bariyerini anlamlı geçmez."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-05",
+          "question": "Pilokarpinin başlıca klinik kullanımı nedir?",
+          "answer": "Glokom ve kserostomi.",
+          "explanation": "Muskarinik agonist; miyozis ve siliyer kas kasılmasıyla göz içi basıncını düşürür."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-06",
+          "question": "β1 reseptör uyarımı hangi etkileri oluşturur?",
+          "answer": "Kalp hızı, kontraktilite ve renin salınımında artış.",
+          "explanation": "β1 kalp ve jukstaglomerüler hücrelerde bulunur."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-07",
+          "question": "β2 reseptör uyarımı hangi temel etkileri oluşturur?",
+          "answer": "Bronkodilatasyon, uterin gevşeme ve iskelet kası damarlarında vazodilatasyon.",
+          "explanation": "Gs üzerinden cAMP artışı düz kası gevşetir."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-08",
+          "question": "Selektif olmayan β-blokerlerin önemli sakıncası nedir?",
+          "answer": "Bronkospazm ve hipoglisemi belirtilerinin maskelenmesi.",
+          "explanation": "Astım/KOAH ve diyabetiklerde dikkat gerekir; propranolol tipik örnektir."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-09",
+          "question": "α1 blokerler hangi klinik durumlarda kullanılır ve hangi yan etkiyi yapar?",
+          "answer": "BPH ve hipertansiyon; ilk doz ortostatik hipotansiyon/senkop yapabilir.",
+          "explanation": "Prazosin, doksazosin ve tamsulosin bu gruptadır; tamsulosin α1A'ya daha seçicidir."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-10",
+          "question": "α2 agonistlerin antihipertansif etkisi nasıl oluşur?",
+          "answer": "Santral sempatik çıkışı azaltarak.",
+          "explanation": "Klonidin ve metildopa örneklerdir; metildopa gebelik hipertansiyonunda kullanılabilir."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-11",
+          "question": "Adrenalin anafilakside neden ilk seçenektir?",
+          "answer": "α1 vazokonstriksiyon, β1 kardiyak destek ve β2 bronkodilatasyon sağlar.",
+          "explanation": "İntramüsküler uygulama uyluğun anterolateral bölgesine yapılır."
+        },
+        {
+          "id": "PHARM-AUTONOMIC-12",
+          "question": "Süksinilkolin hangi nöromüsküler blok tipini oluşturur?",
+          "answer": "Depolarizan blok; başlangıçta fasikülasyon, ardından paralizi.",
+          "explanation": "Plazma psödokolinesterazıyla yıkılır; hiperpotasemi ve malign hipertermi riski önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-cardiovascular",
+      "title": "Farmakoloji · Kardiyovasküler ilaçlar",
+      "cards": [
+        {
+          "id": "PHARM-CARDIOVASCULAR-01",
+          "question": "ACE inhibitörleri hangi iki temel mekanizmayla kan basıncını düşürür?",
+          "answer": "Anjiyotensin II ve aldosteronu azaltır; bradikinin yıkımını da azaltır.",
+          "explanation": "Öksürük ve anjiyoödem bradikinin artışıyla ilişkilidir; gebelikte kontrendikedir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-02",
+          "question": "ACE inhibitörlerinin tipik laboratuvar yan etkileri nelerdir?",
+          "answer": "Hiperkalemi ve kreatinin artışı.",
+          "explanation": "Bilateral renal arter stenozunda belirgin akut böbrek fonksiyon bozulması yapabilir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-03",
+          "question": "ARB'ler ACE inhibitörlerinden hangi yan etki açısından ayrılır?",
+          "answer": "Bradikinin yıkımını etkilemedikleri için öksürük/anjiyoödem daha azdır.",
+          "explanation": "Gebelikte kontrendikedir ve hiperkalemi yapabilir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-04",
+          "question": "Dihidropiridin kalsiyum kanal blokerleri hangi damar etkisini yapar?",
+          "answer": "Arteriyoler vazodilatasyon.",
+          "explanation": "Amlodipin/nifedipin periferik ödem, baş ağrısı ve refleks taşikardi yapabilir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-05",
+          "question": "Verapamil ve diltiazemin önemli kardiyak etkileri nelerdir?",
+          "answer": "AV iletimi ve kalp hızını azaltır; negatif inotropiktir.",
+          "explanation": "HFrEF ve belirgin bradikardi/AV blokta kaçınılır; verapamil konstipasyon yapar."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-06",
+          "question": "Nitratların antianginal etkisinin baskın mekanizması nedir?",
+          "answer": "Venodilatasyonla preload ve miyokard oksijen gereksinimini azaltır.",
+          "explanation": "PDE-5 inhibitörleriyle birlikte ciddi hipotansiyon yapar."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-07",
+          "question": "Nitrat toleransını azaltmak için ne yapılır?",
+          "answer": "Günlük nitrat içermeyen aralık bırakılır.",
+          "explanation": "Uzun etkili preparatlarda genellikle 10–12 saatlik aralık planlanır."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-08",
+          "question": "HFrEF'de mortaliteyi azalttığı kanıtlanmış temel ilaç grupları hangileridir?",
+          "answer": "ARNI/ACEİ/ARB, kanıta dayalı β-bloker, mineralokortikoid reseptör antagonisti ve SGLT2 inhibitörü.",
+          "explanation": "Diüretikler konjesyonu azaltır; tek başına mortalite yararı sağlayan temel grup değildir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-09",
+          "question": "Loop diüretikler Henle kulpunun hangi taşıyıcısını inhibe eder?",
+          "answer": "Kalın çıkan kolda Na⁺-K⁺-2Cl⁻ kotransporterini (NKCC2).",
+          "explanation": "Hipokalemi, metabolik alkaloz, hipomagnezemi, hipokalsemi ve ototoksisite yapabilir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-10",
+          "question": "Tiyazid diüretikler hangi taşıyıcıyı inhibe eder ve kalsiyumu nasıl etkiler?",
+          "answer": "Distal tübülde Na⁺-Cl⁻ kotransporterini inhibe eder; kalsiyum geri emilimini artırır.",
+          "explanation": "Hiponatremi, hipokalemi, hiperürisemi ve hiperglisemi yapabilir."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-11",
+          "question": "Spironolakton ve eplerenonun ayırt edici yan etkisi nedir?",
+          "answer": "Hiperkalemi; spironolakton jinekomasti ve cinsel yan etkiler yapabilir.",
+          "explanation": "Mineralokortikoid reseptörünü bloke eder; HFrEF ve hiperaldosteronizmde kullanılır."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-12",
+          "question": "Digoksin hücre içi kalsiyumu nasıl artırır?",
+          "answer": "Na⁺/K⁺-ATPaz inhibisyonu → hücre içi Na⁺ artışı → Na⁺/Ca²⁺ değiştirici aktivitesinin azalması.",
+          "explanation": "Vagal tonusu artırıp AV iletimi yavaşlatır."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-13",
+          "question": "Digoksin toksisitesinin tipik bulguları nelerdir?",
+          "answer": "Bulantı, görme bozukluğu/sarı-yeşil görme ve çeşitli aritmiler.",
+          "explanation": "Hipokalemi toksisite riskini artırır; ağır toksisitede digoksin-spesifik Fab kullanılır."
+        },
+        {
+          "id": "PHARM-CARDIOVASCULAR-14",
+          "question": "Amiodaronun önemli uzun dönem toksisiteleri nelerdir?",
+          "answer": "Akciğer fibrozisi, tiroid bozukluğu, hepatotoksisite, kornea birikimi ve deri fotosensitivitesi.",
+          "explanation": "İyot içeriği ve çoklu organ birikimi nedeniyle izlem gerekir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-renal-coagulation",
+      "title": "Farmakoloji · Antikoagülanlar ve hematolojik ilaçlar",
+      "cards": [
+        {
+          "id": "PHARM-RENAL-COAGULATION-01",
+          "question": "Heparin antitrombin üzerinden hangi faktörleri inhibe eder?",
+          "answer": "Başta trombin (IIa) ve faktör Xa; UFH ayrıca IXa, XIa ve XIIa'yı inhibe eder.",
+          "explanation": "UFH aPTT ile izlenir; protaminle geri çevrilebilir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-02",
+          "question": "Düşük molekül ağırlıklı heparinlerin UFH'ye göre farkı nedir?",
+          "answer": "Anti-Xa etkisi anti-IIa'dan baskındır; doz yanıtı daha öngörülebilirdir.",
+          "explanation": "Enoksaparin örnektir; çoğu durumda rutin aPTT izlemi gerekmez."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-03",
+          "question": "Warfarin hangi enzimi inhibe eder?",
+          "answer": "Vitamin K epoksit redüktazı (VKORC1).",
+          "explanation": "II, VII, IX, X ve protein C/S γ-karboksilasyonunu azaltır; INR ile izlenir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-04",
+          "question": "Warfarinin başlangıçta geçici hiperkoagülabilite yapmasının nedeni nedir?",
+          "answer": "Protein C'nin kısa yarı ömrü nedeniyle önce azalması.",
+          "explanation": "Yüksek riskli akut trombozda uygun heparin köprülemesi gerekir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-05",
+          "question": "Warfarin etkisi hangi ajanlarla geri çevrilebilir?",
+          "answer": "Vitamin K; ciddi kanama/acil geri çevirme için dört faktörlü PCC (uygunsa).",
+          "explanation": "Taze donmuş plazma alternatif olabilir; klinik aciliyet önemlidir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-06",
+          "question": "Dabigatran hangi hedefi inhibe eder ve antidotu nedir?",
+          "answer": "Doğrudan trombin (IIa) inhibitörü; idarucizumab.",
+          "explanation": "Oral direkt antikoagülandır."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-07",
+          "question": "Apiksaban ve rivaroksaban hangi faktörü inhibe eder?",
+          "answer": "Faktör Xa.",
+          "explanation": "Andeksanet alfa seçilmiş ciddi kanamalarda geri çevirme ajanıdır; PCC de klinik bağlama göre kullanılabilir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-08",
+          "question": "Aspirinin trombosit etkisi neden geri dönüşümsüzdür?",
+          "answer": "COX-1'i irreversibl asetilleyerek tromboksan A2 sentezini azaltır.",
+          "explanation": "Trombosit yeni enzim sentezleyemez; etki trombosit ömrü boyunca sürer."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-09",
+          "question": "Klopidogrel hangi reseptörü bloke eder?",
+          "answer": "ADP P2Y12 reseptörünü irreversibl bloke eder.",
+          "explanation": "Ön ilaçtır; CYP2C19 aktivasyonu gerekir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-10",
+          "question": "Trombolitikler pıhtıyı hangi mekanizmayla çözer?",
+          "answer": "Plazminojeni plazmine dönüştürerek fibrini parçalar.",
+          "explanation": "Alteplaz/tenekteplaz ciddi kanama ve intrakraniyal kanama riski taşır."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-11",
+          "question": "Statinler hangi enzimi inhibe eder ve hangi reseptörü artırır?",
+          "answer": "HMG-CoA redüktazı inhibe eder; hepatik LDL reseptör ekspresyonunu artırır.",
+          "explanation": "LDL düşürür; miyopati ve transaminaz artışı izlenebilir."
+        },
+        {
+          "id": "PHARM-RENAL-COAGULATION-12",
+          "question": "Ezetimib kolesterol emilimini nasıl azaltır?",
+          "answer": "İnce bağırsakta NPC1L1 taşıyıcısını inhibe eder.",
+          "explanation": "Statine eklendiğinde LDL düşüşünü artırır."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-antibiotics-cellwall",
+      "title": "Farmakoloji · Antibakteriyeller: hücre duvarı ve protein sentezi",
+      "cards": [
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-01",
+          "question": "β-laktam antibiyotikler bakteriyi hangi mekanizmayla öldürür?",
+          "answer": "Penisilin bağlayıcı proteinleri (PBP/transpeptidaz) inhibe ederek peptidoglikan çapraz bağlanmasını engeller.",
+          "explanation": "Aktif çoğalan bakterilerde bakterisid etki gösterir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-02",
+          "question": "β-laktamaz inhibitörleri tek başına neden antibiyotik değildir?",
+          "answer": "Enzimleri inhibe ederek eşlik eden β-laktamı korurlar.",
+          "explanation": "Klavulanat, sulbaktam, tazobaktam ve avibaktam örneklerdir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-03",
+          "question": "MRSA'nın β-laktamlara direncinin temel mekanizması nedir?",
+          "answer": "mecA ile kodlanan düşük afiniteli PBP2a.",
+          "explanation": "Seçilmiş ajanlar arasında vankomisin, linezolid ve daptomisin bulunur; enfeksiyon yerine göre seçim yapılır."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-04",
+          "question": "Vankomisin hücre duvarı sentezini nasıl inhibe eder?",
+          "answer": "D-Ala-D-Ala ucuna bağlanarak peptidoglikan uzamasını/çapraz bağlanmasını engeller.",
+          "explanation": "Gram pozitiflere etkilidir; nefrotoksisite ve infüzyon ilişkili reaksiyon görülebilir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-05",
+          "question": "Aminoglikozidlerin etki mekanizması ve temel toksisiteleri nelerdir?",
+          "answer": "30S'e irreversibl bağlanıp yanlış protein sentezi oluşturur; nefro- ve ototoksisite yapar.",
+          "explanation": "Oksijen gerektiren alım nedeniyle anaeroplara etkisizdir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-06",
+          "question": "Tetrasiklinler hangi ribozomal alt birimi inhibe eder?",
+          "answer": "30S; aminoasil-tRNA'nın A bölgesine bağlanmasını engeller.",
+          "explanation": "Diş renklenmesi/kemik gelişimi etkisi nedeniyle gebelik ve küçük çocuklarda kaçınılır."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-07",
+          "question": "Makrolidlerin başlıca etki mekanizması nedir?",
+          "answer": "50S'e bağlanıp translokasyonu inhibe eder.",
+          "explanation": "QT uzaması ve ilaç etkileşimi; eritromisin/ klaritromisin CYP3A4 inhibisyonu yapabilir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-08",
+          "question": "Klindamisin için önemli klinik risk nedir?",
+          "answer": "Clostridioides difficile ilişkili kolit.",
+          "explanation": "50S inhibitörüdür; anaerop ve Gram pozitif kapsama sağlar."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-09",
+          "question": "Linezolid hangi ribozomal basamağı engeller ve önemli yan etkisi nedir?",
+          "answer": "50S üzerinde başlangıç kompleksinin oluşmasını engeller; trombositopeni ve serotonin sendromu riski taşır.",
+          "explanation": "MRSA ve VRE gibi dirençli Gram pozitiflerde kullanılabilir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-CELLWALL-10",
+          "question": "Kloramfenikolün ciddi toksisitesi nedir?",
+          "answer": "Doza bağlı kemik iliği baskılanması ve nadir idiyosenkratik aplastik anemi.",
+          "explanation": "Yenidoğanda gri bebek sendromu yapabilir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-antibiotics-dna-folate",
+      "title": "Farmakoloji · Antibakteriyeller: DNA, folat ve diğer hedefler",
+      "cards": [
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-01",
+          "question": "Florokinolonlar hangi bakteriyel enzimleri inhibe eder?",
+          "answer": "DNA giraz (topoizomeraz II) ve topoizomeraz IV.",
+          "explanation": "Tendon hasarı, QT uzaması, periferik nöropati ve aort komplikasyonu riski nedeniyle seçici kullanılır."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-02",
+          "question": "Metronidazol hangi mikroorganizmalarda DNA hasarı oluşturur?",
+          "answer": "Anaerop bakteriler ve bazı protozoalarda indirgenerek reaktif metabolit oluşturur.",
+          "explanation": "Nörotoksisite ve metalik tat görülebilir; alkolle reaksiyon uyarısı gelenekseldir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-03",
+          "question": "Rifampisinin etki mekanizması ve ayırt edici yan etkisi nedir?",
+          "answer": "DNA-bağımlı RNA polimerazı inhibe eder; vücut sıvılarını turuncuya boyar.",
+          "explanation": "Güçlü CYP/P-gp indükleyicisidir; çok sayıda ilaç etkileşimi yapar."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-04",
+          "question": "Sülfonamidler folat sentezini hangi basamakta engeller?",
+          "answer": "PABA analoğu olarak dihidropteroat sentazı inhibe eder.",
+          "explanation": "Döküntü, fotosensitivite, hemoliz (G6PD) ve kernikterus riski önemlidir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-05",
+          "question": "Trimetoprim hangi enzimi inhibe eder?",
+          "answer": "Dihidrofolat redüktaz.",
+          "explanation": "Sülfametoksazolle ardışık folat blokajı yapar; hiperkalemi ve kemik iliği baskılanması görülebilir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-06",
+          "question": "Daptomisin hangi membran etkisiyle bakterisid olur?",
+          "answer": "Gram pozitif bakteri membranını depolarize eder.",
+          "explanation": "Pnömonide surfaktan tarafından inaktive edildiği için kullanılmaz; CK ve miyopati izlenir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-07",
+          "question": "Polimiksinlerin etki mekanizması nedir?",
+          "answer": "Gram negatif dış membran fosfolipit/LPS yapısını bozarak membran geçirgenliğini artırır.",
+          "explanation": "Nefro- ve nörotoksisite nedeniyle dirençli Gram negatiflerde kurtarma tedavisi olabilir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-08",
+          "question": "Nitrofurantoin hangi enfeksiyonda kullanılır ve nerede kullanılmaz?",
+          "answer": "Alt üriner sistem enfeksiyonunda; piyelonefritte uygun değildir.",
+          "explanation": "Yüksek idrar, düşük serum/doku düzeyi sağlar; akciğer toksisitesi ve hemoliz riski vardır."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-09",
+          "question": "Fosfomisin hangi hücre duvarı basamağını inhibe eder?",
+          "answer": "MurA enzimini inhibe ederek erken peptidoglikan sentezini engeller.",
+          "explanation": "Komplike olmayan sistitte tek doz oral kullanım seçeneğidir."
+        },
+        {
+          "id": "PHARM-ANTIBIOTICS-DNA-FOLATE-10",
+          "question": "Antibiyotik sonrası C. difficile kolitinde temel tedavi yaklaşımı nedir?",
+          "answer": "Uygun olguda oral vankomisin veya fidaksomisin; sorumlu antibiyotiği kesmek mümkünse kesmek.",
+          "explanation": "Fidaksomisin nüks riskini azaltabilir; tedavi şiddete ve güncel kılavuza göre seçilir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-antitubercular-antifungal",
+      "title": "Farmakoloji · Antitüberküloz ve antifungal ilaçlar",
+      "cards": [
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-01",
+          "question": "İzoniazid mikolik asit sentezini hangi mekanizmayla engeller?",
+          "answer": "KatG ile aktive olur ve InhA üzerinden mikolik asit sentezini inhibe eder.",
+          "explanation": "Hepatotoksisite ve periferik nöropati yapabilir; piridoksin nöropati riskini azaltır."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-02",
+          "question": "Etambutol hangi mikobakteriyel hedefi inhibe eder?",
+          "answer": "Arabinogalaktan sentezinde görevli arabinozil transferazı.",
+          "explanation": "Optik nörit ve kırmızı-yeşil renk ayırt etme bozukluğu yapabilir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-03",
+          "question": "Pirazinamid hangi koşulda aktive olur ve önemli toksisitesi nedir?",
+          "answer": "Asidik ortamda pncA ile pirazinoik aside dönüşür; hepatotoksisite ve hiperürisemi yapar.",
+          "explanation": "Makrofaj içi ve kazeöz lezyonlarda etkilidir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-04",
+          "question": "Amfoterisin B mantar hücresinde hangi yapıya bağlanır?",
+          "answer": "Ergosterole bağlanıp membranda por oluşturur.",
+          "explanation": "Nefrotoksisite, hipokalemi/hipomagnezemi ve infüzyon reaksiyonu yapabilir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-05",
+          "question": "Azol antifungaller hangi enzimi inhibe eder?",
+          "answer": "14-α-demetilaz (CYP51); ergosterol sentezini azaltır.",
+          "explanation": "Karaciğer toksisitesi ve CYP aracılı etkileşimler önemlidir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-06",
+          "question": "Ekinokandinler mantar hücre duvarını nasıl etkiler?",
+          "answer": "β-1,3-D-glukan sentazı inhibe eder.",
+          "explanation": "Candida ve Aspergillus'a etkilidir; Cryptococcus'a etkisizdir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-07",
+          "question": "Flusitozin mantar hücresinde hangi metabolite dönüşür?",
+          "answer": "5-fluorourasile dönüşerek DNA/RNA sentezini bozar.",
+          "explanation": "Kriptokok menenjiti tedavisinde amfoterisin B ile kombinasyon kullanılır; kemik iliği baskılanması yapabilir."
+        },
+        {
+          "id": "PHARM-ANTITUBERCULAR-ANTIFUNGAL-08",
+          "question": "Terbinafin hangi enzimi inhibe eder?",
+          "answer": "Skualen epoksidaz.",
+          "explanation": "Dermatofit enfeksiyonlarında kullanılır; hepatotoksisite ve tat bozukluğu görülebilir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-antiviral",
+      "title": "Farmakoloji · Antiviral ilaçlar",
+      "cards": [
+        {
+          "id": "PHARM-ANTIVIRAL-01",
+          "question": "Asiklovir viral timidinkinazla aktive olduktan sonra hangi enzimi inhibe eder?",
+          "answer": "Viral DNA polimerazı; DNA zincir sonlanmasına yol açar.",
+          "explanation": "HSV ve VZV'ye etkilidir; kristal nefropatisi ve nörotoksisite riski vardır."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-02",
+          "question": "Valasiklovir asiklovirden hangi farmakokinetik açıdan ayrılır?",
+          "answer": "Asiklovirin oral biyoyararlanımı daha yüksek ön ilacıdır.",
+          "explanation": "HSV/VZV enfeksiyonlarında oral kullanım kolaylığı sağlar."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-03",
+          "question": "Gansiklovirin başlıca kullanım alanı ve toksisitesi nedir?",
+          "answer": "CMV enfeksiyonları; kemik iliği baskılanması.",
+          "explanation": "Valgansiklovir oral ön ilaçtır; nötropeni ve trombositopeni izlenir."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-04",
+          "question": "Oseltamivir hangi viral hedefi inhibe eder?",
+          "answer": "İnfluenza A/B nöraminidazı.",
+          "explanation": "Erken başlanması yararı artırır; bulantı-kusma yapabilir."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-05",
+          "question": "HIV tedavisinde NRTI'ların temel mekanizması nedir?",
+          "answer": "Ters transkriptaz için hatalı substrat olup DNA zincir sonlanmasına neden olurlar.",
+          "explanation": "Tenofovir, emtrisitabin ve abakavir örneklerdir."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-06",
+          "question": "Efavirenz hangi antiretroviral sınıftadır ve tipik yan etkisi nedir?",
+          "answer": "Non-nükleozid ters transkriptaz inhibitörü (NNRTI); santral sinir sistemi etkileri ve döküntü.",
+          "explanation": "CYP etkileşimleri ve teratojenite kaygısı klinik değerlendirmede önemlidir."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-07",
+          "question": "Proteaz inhibitörleri HIV yaşam döngüsünde hangi basamağı bozar?",
+          "answer": "Gag-Pol poliproteinlerinin olgun virion proteinlerine kesilmesini engeller.",
+          "explanation": "Ritonavir çoğu rejimde farmakokinetik güçlendirici olarak kullanılır."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-08",
+          "question": "İntegraz inhibitörleri hangi enzimi hedefler?",
+          "answer": "HIV integrazı; viral DNA'nın konak genomuna entegrasyonunu engeller.",
+          "explanation": "Dolutegravir ve biktegravir örneklerdir; katyonlarla şelasyon etkileşimi olabilir."
+        },
+        {
+          "id": "PHARM-ANTIVIRAL-09",
+          "question": "Hepatit C doğrudan etkili antivirallerinin temel hedefleri nelerdir?",
+          "answer": "NS3/4A proteaz, NS5A ve NS5B RNA polimeraz.",
+          "explanation": "Pangenotipik kombinasyonlar yüksek kür oranı sağlar; ilaç etkileşimleri kontrol edilir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-cns",
+      "title": "Farmakoloji · Santral sinir sistemi ilaçları",
+      "cards": [
+        {
+          "id": "PHARM-CNS-01",
+          "question": "Benzodiazepinler GABA-A reseptöründe neyi artırır?",
+          "answer": "Klor kanalının açılma sıklığını artırır.",
+          "explanation": "Barbitüratlardan farkı sıklığı artırmalarıdır; barbitüratlar açılma süresini uzatır."
+        },
+        {
+          "id": "PHARM-CNS-02",
+          "question": "Benzodiazepin zehirlenmesinde spesifik antagonist nedir?",
+          "answer": "Flumazenil.",
+          "explanation": "Kronik benzodiazepin kullanımı, nöbet riski veya trisiklik antidepresan zehirlenmesinde dikkat/kaçınma gerekir."
+        },
+        {
+          "id": "PHARM-CNS-03",
+          "question": "Barbitüratların benzodiazepinlerden önemli toksikolojik farkı nedir?",
+          "answer": "Yüksek dozda solunum-kardiyovasküler depresyon ve terapötik indeks darlığı daha belirgindir.",
+          "explanation": "CYP enzim indüksiyonu da yapabilirler."
+        },
+        {
+          "id": "PHARM-CNS-04",
+          "question": "SSRI'ların temel etki mekanizması ve önemli yan etkileri nelerdir?",
+          "answer": "Serotonin geri alım taşıyıcısını inhibe eder; cinsel disfonksiyon, GI yakınmalar ve serotonin sendromu yapabilir.",
+          "explanation": "Kesilme sendromu ve hiponatremi de görülebilir."
+        },
+        {
+          "id": "PHARM-CNS-05",
+          "question": "SNRI'lar hangi iki monoaminin geri alımını inhibe eder?",
+          "answer": "Serotonin ve noradrenalin.",
+          "explanation": "Venlafaksin ve duloksetin örnektir; kan basıncını artırabilir."
+        },
+        {
+          "id": "PHARM-CNS-06",
+          "question": "Trisiklik antidepresan zehirlenmesinde EKG'de hangi bulgu ve tedavi önemlidir?",
+          "answer": "QRS genişlemesi; IV sodyum bikarbonat.",
+          "explanation": "Na kanal blokajı, aritmi, hipotansiyon ve nöbet yapabilir."
+        },
+        {
+          "id": "PHARM-CNS-07",
+          "question": "MAO inhibitörleri tiraminle birlikte hangi tehlikeli tabloyu oluşturabilir?",
+          "answer": "Hipertansif kriz.",
+          "explanation": "Serotonerjik ilaçlarla serotonin sendromu riski de vardır."
+        },
+        {
+          "id": "PHARM-CNS-08",
+          "question": "Lityum toksisitesini artıran sık etkileşimler nelerdir?",
+          "answer": "Tiyazidler, NSAİİ ve ACE inhibitörleri/ARB'ler.",
+          "explanation": "Dar terapötik aralığı vardır; tremor, ataksi, poliüri ve nörolojik bulgular gelişebilir."
+        },
+        {
+          "id": "PHARM-CNS-09",
+          "question": "Valproatın önemli yan etkileri nelerdir?",
+          "answer": "Hepatotoksisite, pankreatit, trombositopeni ve nöral tüp defekti riski.",
+          "explanation": "Gebelikte kaçınılması gereken antiepileptiklerdendir."
+        },
+        {
+          "id": "PHARM-CNS-10",
+          "question": "Karbamazepinin önemli yan etkileri ve etkileşim özelliği nedir?",
+          "answer": "Aplastik anemi/agranülositoz, SIADH-hiponatremi, döküntü; CYP indükler.",
+          "explanation": "HLA-B*1502 bazı Asya kökenli popülasyonlarda SJS/TEN riskiyle ilişkilidir."
+        },
+        {
+          "id": "PHARM-CNS-11",
+          "question": "Lamotrijinin doz artırımı neden yavaş yapılır?",
+          "answer": "Stevens-Johnson sendromu ve ciddi döküntü riskini azaltmak için.",
+          "explanation": "Valproat lamotrijin düzeyini artırır."
+        },
+        {
+          "id": "PHARM-CNS-12",
+          "question": "Levodopa neden karbidopa ile kombine edilir?",
+          "answer": "Periferik dopa dekarboksilazı inhibe ederek levodopanın beyne ulaşan fraksiyonunu artırır.",
+          "explanation": "Bulantı, ortostatik hipotansiyon, diskinezi ve motor dalgalanmalar görülebilir."
+        },
+        {
+          "id": "PHARM-CNS-13",
+          "question": "Tipik antipsikotikler ekstrapiramidal yan etkileri hangi mekanizmayla yapar?",
+          "answer": "Nigrostriatal D2 blokajı.",
+          "explanation": "Akut distoni, akatizi, parkinsonizm ve tardif diskinezi görülebilir."
+        },
+        {
+          "id": "PHARM-CNS-14",
+          "question": "Klozapin hangi iki ciddi yan etki nedeniyle özel izlem gerektirir?",
+          "answer": "Agranülositoz/nötropeni ve miyokardit.",
+          "explanation": "Tedaviye dirençli şizofrenide etkilidir; metabolik sendrom ve nöbet riski de vardır."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-endocrine",
+      "title": "Farmakoloji · Endokrin ilaçlar",
+      "cards": [
+        {
+          "id": "PHARM-ENDOCRINE-01",
+          "question": "Metimazol ve propiltiyourasil tiroid hormon sentezini nasıl inhibe eder?",
+          "answer": "Tiroid peroksidazı inhibe ederek organifikasyon ve kuplajı azaltır.",
+          "explanation": "PTU ayrıca periferik T4→T3 dönüşümünü inhibe eder."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-02",
+          "question": "PTU hangi klinik durumda metimazole tercih edilebilir?",
+          "answer": "Tiroid fırtınasında ve gebeliğin ilk trimesterinde.",
+          "explanation": "PTU ciddi hepatotoksisite riski taşır; gebeliğin ilerleyen döneminde genellikle metimazole geçilir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-03",
+          "question": "Metimazolün nadir fakat ciddi yan etkileri nelerdir?",
+          "answer": "Agranülositoz ve kolestatik hepatotoksisite; gebeliğin ilk trimesterinde embriyopati riski.",
+          "explanation": "Ateş/boğaz ağrısında nötropeni açısından acil değerlendirme gerekir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-04",
+          "question": "İnsülinin en önemli akut yan etkisi nedir?",
+          "answer": "Hipoglisemi; ayrıca kilo artışı ve hipokalemi yapabilir.",
+          "explanation": "Potasyumu hücre içine taşır."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-05",
+          "question": "Sülfonilüreler insülin salınımını nasıl artırır?",
+          "answer": "β-hücre KATP kanalını kapatarak depolarizasyon ve Ca²⁺ girişini artırır.",
+          "explanation": "Hipoglisemi ve kilo artışı yapar; endojen insülin varlığı gerekir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-06",
+          "question": "Metforminin temel mekanizması ve önemli kontrendikasyon bağlamı nedir?",
+          "answer": "Hepatik glukoneogenezi azaltır ve insülin duyarlılığını artırır; ağır böbrek yetmezliğinde kullanılmaz.",
+          "explanation": "GI yan etkiler ve uzun dönemde B12 düşüklüğü görülebilir; laktik asidoz nadirdir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-07",
+          "question": "SGLT2 inhibitörleri glukozu nasıl düşürür ve ayırt edici riskleri nelerdir?",
+          "answer": "Proksimal tübülde glukoz geri emilimini azaltıp glukozüri yapar; genital mantar enfeksiyonu ve öglisemik DKA riski taşır.",
+          "explanation": "Kalp yetersizliği ve kronik böbrek hastalığında sınıf yararları vardır; endikasyon/filtrasyon sınırı ajana göre değişir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-08",
+          "question": "GLP-1 reseptör agonistleri hangi etkileri oluşturur?",
+          "answer": "Glukoza bağımlı insülin salınımını artırır, glukagonu azaltır, mide boşalmasını yavaşlatır ve tokluk sağlar.",
+          "explanation": "Kilo kaybı, bulantı-kusma; bazı ajanlarda safra kesesi/pankreatit uyarıları vardır."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-09",
+          "question": "Glukokortikoidlerin uzun dönem sistemik yan etkileri nelerdir?",
+          "answer": "Cushingoid görünüm, osteoporoz, hiperglisemi, enfeksiyon, adrenal baskılanma ve kas zayıflığı.",
+          "explanation": "Uzun süreli kullanım sonrası ani kesilmemeli; kademeli azaltım gerekebilir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-10",
+          "question": "Tamoksifen hangi reseptör üzerinde nasıl davranır?",
+          "answer": "Östrojen reseptöründe meme dokusunda antagonist, endometriumda parsiyel agonist.",
+          "explanation": "Endometrium kanseri ve venöz tromboembolizm riskini artırabilir."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-11",
+          "question": "Aromataz inhibitörlerinin önemli yan etkileri nelerdir?",
+          "answer": "Artralji, kemik kaybı/osteoporoz ve sıcak basması.",
+          "explanation": "Postmenopozal hormon duyarlı meme kanserinde östrojen sentezini azaltırlar."
+        },
+        {
+          "id": "PHARM-ENDOCRINE-12",
+          "question": "Bisfosfonatlar kemik rezorpsiyonunu nasıl azaltır?",
+          "answer": "Osteoklast aktivitesini baskılar; azotlu olanlar farnesil pirofosfat sentazı inhibe eder.",
+          "explanation": "Özofajit, çene osteonekrozu ve atipik femur kırığı riski önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-analgesia-anesthesia",
+      "title": "Farmakoloji · Analjezikler, NSAİİ ve anestezikler",
+      "cards": [
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-01",
+          "question": "NSAİİ'ler ağrıyı ve inflamasyonu hangi mekanizmayla azaltır?",
+          "answer": "Siklooksijenazı inhibe ederek prostaglandin sentezini azaltır.",
+          "explanation": "GİS ülseri/kanama, böbrek perfüzyonunda azalma ve sıvı retansiyonu yapabilir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-02",
+          "question": "Aspirinin diğer NSAİİ'lerden temel farmakodinamik farkı nedir?",
+          "answer": "COX enzimini irreversibl inhibe eder; düşük dozda trombosit TXA2'sini azaltır.",
+          "explanation": "Diğer çoğu NSAİİ reversibl inhibisyon yapar."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-03",
+          "question": "Parasetamolün antiinflamatuvar etkisi neden zayıftır?",
+          "answer": "Periferik inflamatuvar dokuda COX inhibisyonu sınırlıdır; analjezik-antipiretik etki baskındır.",
+          "explanation": "Aşırı dozda NAPQI birikimi hepatotoksisite yapar; antidot N-asetilsisteindir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-04",
+          "question": "Opioidler analjeziyi hangi reseptör üzerinden ağırlıklı sağlar?",
+          "answer": "μ-opioid reseptörü.",
+          "explanation": "Gi üzerinden cAMP azalır, K⁺ çıkışı artar ve presinaptik Ca²⁺ girişi azalır."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-05",
+          "question": "Opioid zehirlenmesinin klasik üçlüsü ve antidotu nedir?",
+          "answer": "Solunum depresyonu, bilinç kaybı ve miyozis; nalokson.",
+          "explanation": "Naloksonun etki süresi bazı opioidlerden kısa olduğundan tekrar doz/izlem gerekebilir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-06",
+          "question": "Morfinin önemli yan etkileri nelerdir?",
+          "answer": "Solunum depresyonu, konstipasyon, bulantı, miyozis ve histamin salınımı.",
+          "explanation": "Böbrek yetmezliğinde aktif metabolit birikimi toksisiteyi artırabilir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-07",
+          "question": "Lokal anestezikler sinir iletimini hangi kanalı bloke ederek durdurur?",
+          "answer": "Voltaj kapılı Na⁺ kanallarını.",
+          "explanation": "Sistemik toksisite nöbet ve kardiyotoksisite yapabilir; ağır olguda lipid emülsiyonu kullanılır."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-08",
+          "question": "Lidokain ile bupivakainin toksisite açısından önemli farkı nedir?",
+          "answer": "Bupivakain kardiyotoksisitesi daha belirgindir.",
+          "explanation": "Lidokain ayrıca sınıf IB antiaritmiktir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-09",
+          "question": "Propofolün tipik özellikleri ve yan etkileri nelerdir?",
+          "answer": "Hızlı indüksiyon ve uyanma; hipotansiyon ve solunum depresyonu.",
+          "explanation": "Analjezi sağlamaz; uzun infüzyonda nadir propofol infüzyon sendromu görülebilir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-10",
+          "question": "Ketamin hangi reseptörü antagonize eder ve hemodinamik etkisi nedir?",
+          "answer": "NMDA reseptör antagonisti; sempatik aktivasyonla kalp hızı/kan basıncını artırabilir.",
+          "explanation": "Dissosiyatif anestezi, analjezi ve bronkodilatasyon yapar; emergence reaksiyonları görülebilir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-11",
+          "question": "Uçucu anesteziklerle ilişkili malign hiperterminin tetikleyicileri nelerdir?",
+          "answer": "Volatil anestezikler ve süksinilkolin.",
+          "explanation": "RYR1 ilişkili sarkoplazmik retikulum Ca²⁺ salınımı artar; tedavi dantrolendir."
+        },
+        {
+          "id": "PHARM-ANALGESIA-ANESTHESIA-12",
+          "question": "Dantrolen malign hipertermide nasıl etki eder?",
+          "answer": "İskelet kası riyanodin reseptörünü (RyR1) inhibe ederek Ca²⁺ salınımını azaltır.",
+          "explanation": "Hipertermi, rijidite, hiperkalemi ve rabdomiyoliz acil tedavi gerektirir."
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-toxicology",
+      "title": "Farmakoloji · Toksikoloji ve antidotlar",
+      "cards": [
+        {
+          "id": "PHARM-TOXICOLOGY-01",
+          "question": "Parasetamol aşırı dozunda antidot nedir ve nasıl etki eder?",
+          "answer": "N-asetilsistein; glutatyon depolarını yenileyip NAPQI'yi detoksifiye eder.",
+          "explanation": "Tedavi nomogram ve alım zamanı/kan düzeyine göre planlanır; gecikmiş başvuruda da yarar sağlayabilir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-02",
+          "question": "Metanol zehirlenmesinde görme bozukluğu hangi metabolitle ilişkilidir?",
+          "answer": "Formik asit; antidot fomepizol (veya uygun durumda etanol).",
+          "explanation": "Yüksek anyon açıklı metabolik asidoz ve görme kaybı gelişebilir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-03",
+          "question": "Etilen glikol zehirlenmesinde böbrek hasarını hangi metabolit oluşturur?",
+          "answer": "Oksalik asit/kalsiyum oksalat kristalleri.",
+          "explanation": "Fomepizol alkol dehidrogenazı inhibe eder; ağır olguda hemodiyaliz gerekebilir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-04",
+          "question": "Methemoglobinemiye neden olan oksidan ilaçlara örnekler nelerdir?",
+          "answer": "Dapson, nitrat/nitrit ve lokal anestezik benzokain.",
+          "explanation": "Siyanoz, oksijene dirençli düşük pulse oksimetre ve çikolata rengi kan görülebilir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-05",
+          "question": "Semptomatik methemoglobinemide antidot nedir?",
+          "answer": "Metilen mavisi.",
+          "explanation": "G6PD eksikliğinde etkisiz/hemoliz riski; serotonerjik ilaçlarla serotonin sendromu riski vardır."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-06",
+          "question": "Siyanür mitokondride hangi enzimi inhibe eder?",
+          "answer": "Sitokrom c oksidaz (kompleks IV).",
+          "explanation": "Hücresel oksijen kullanımını durdurur; laktik asidoz ve venöz kanın parlak görünümü gelişebilir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-07",
+          "question": "Siyanür zehirlenmesinde kullanılan antidot seçenekleri nelerdir?",
+          "answer": "Hidroksokobalamin; uygun protokollerde sodyum tiyosülfat.",
+          "explanation": "Hidroksokobalamin siyanürü siyanokobalamine bağlar."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-08",
+          "question": "Opioid aşırı dozunda ilk spesifik antidot nedir?",
+          "answer": "Nalokson.",
+          "explanation": "Solunum desteği esastır; uzun etkili opioidlerde tekrarlayan doz ve gözlem gerekir."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-09",
+          "question": "Benzodiazepin aşırı dozunda flumazenil neden herkese verilmez?",
+          "answer": "Kronik kullanımda veya karma zehirlenmede nöbet/aritmi tetikleyebilir.",
+          "explanation": "Özellikle trisiklik antidepresan eş alımında kaçınılır."
+        },
+        {
+          "id": "PHARM-TOXICOLOGY-10",
+          "question": "Demir zehirlenmesinde şelatör antidot nedir?",
+          "answer": "Deferoksamin.",
+          "explanation": "Ağır GI belirtiler, şok ve metabolik asidoz sistemik toksisiteyi düşündürür."
+        }
+      ]
     }
   ]
 }
