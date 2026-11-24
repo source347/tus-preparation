@@ -16,3 +16,7 @@ Konu bazlı, yüksek verimli flash kartlar. Amaç bütün biyokimya ayrıntılar
 - [Vitaminler, koenzimler ve eksiklikler — yüksek verimli kartlar](vitamins-coenzymes-deficiencies.md)
 - [Enzim kinetiği ve düzenlenmesi — yüksek verimli kartlar](enzyme-kinetics-regulation.md)
 - [Moleküler biyoloji ve tıbbi genetik — yüksek verimli kartlar](molecular-biology-medical-genetics.md)
+- [Pürin ve pirimidin metabolizması — yüksek verimli kartlar](purine-pyrimidine-metabolism.md)
+- [Hem sentezi, porfiriler ve bilirubin — yüksek verimli kartlar](heme-synthesis-porphyrias-bilirubin.md)
+- [Entegre metabolizma ve hormonal düzenleme — yüksek verimli kartlar](integrated-metabolism-hormonal-regulation.md)
+- [Klinik biyokimyasal tanı ve laboratuvar örüntüleri — yüksek verimli kartlar](clinical-biochemical-diagnostics.md)
