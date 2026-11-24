@@ -8135,6 +8135,114 @@
           "explanation": "Ağır GI belirtiler, şok ve metabolik asidoz sistemik toksisiteyi düşündürür."
         }
       ]
+    },
+    {
+      "id": "internal-medicine-anemia-iron-deficiency",
+      "title": "Dahiliye · Anemiye yaklaşım ve demir eksikliği",
+      "cards": [
+        {
+          "id": "IM-ANEMIA-IDA-01",
+          "question": "Erişkinde anemi tanımı hangi ilkeye göre yapılır?",
+          "answer": "Hemoglobin düzeyinin yaş, cinsiyet, gebelik durumu ve laboratuvarın referans aralığına göre beklenen alt sınırın altında olmasıdır.",
+          "explanation": "Anemi tanımı tek bir evrensel Hb eşiğine indirgenmez; klinik bağlam ve örneklem özellikleri dikkate alınır."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-02",
+          "question": "Anemiye ilk laboratuvar yaklaşımında eritrosit indeksleri hangi sınıflamayı sağlar?",
+          "answer": "MCV'ye göre mikrositer (<80 fL), normositer (80–100 fL) ve makrositer (>100 fL) anemi.",
+          "explanation": "MCV sınıflaması ayırıcı tanıyı daraltır; tek başına etiyolojik tanı koydurmaz."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-03",
+          "question": "Anemide retikülosit yanıtı nasıl yorumlanır?",
+          "answer": "Düzeltilmiş retikülosit yanıtı/RPI düşükse üretim yetersizliği; yüksekse kan kaybı veya hemoliz ön plandadır.",
+          "explanation": "Retikülosit yüzdesi anemi şiddetine göre düzeltilmelidir; yalnızca ham yüzde yanıltıcı olabilir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-04",
+          "question": "Mikrositer aneminin temel ayırıcı tanı grupları nelerdir?",
+          "answer": "Demir eksikliği, talasemi, kronik inflamasyon anemisi ve sideroblastik anemi/kurşun maruziyeti.",
+          "explanation": "Ferritin ve demir çalışmaları ilk ayrımda yardımcıdır; mikrositoz otomatik olarak demir eksikliği anlamına gelmez."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-05",
+          "question": "Demir eksikliği anemisinde tipik demir çalışmaları nasıldır?",
+          "answer": "Ferritin düşük, serum demiri düşük, total demir bağlama kapasitesi (TDBK) yüksek ve transferrin satürasyonu düşüktür.",
+          "explanation": "Ferritin demir depolarını en iyi yansıtan rutin testtir; inflamasyonda yalancı normal/yüksek olabilir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-06",
+          "question": "Kronik inflamasyon anemisinde demir çalışmaları demir eksikliğinden nasıl ayrılır?",
+          "answer": "Serum demiri ve transferrin satürasyonu düşük; ferritin normal/yüksek, TDBK düşük veya normaldir.",
+          "explanation": "Hepcidin artışı demirin makrofajlardan salınmasını ve bağırsaktan emilimini azaltır; eşlik eden mutlak demir eksikliği mümkündür."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-07",
+          "question": "İnflamasyon varlığında normal ferritin demir eksikliğini dışlar mı?",
+          "answer": "Hayır. Ferritin akut faz reaktanıdır; CRP/ESR ve transferrin satürasyonu gibi verilerle birlikte yorumlanmalıdır.",
+          "explanation": "İnflamasyon ferritini yükselterek depolar azalmış olsa bile normal veya yüksek sonuç oluşturabilir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-08",
+          "question": "Anemisi olan erişkinde demir eksikliği için AGA'nın önerdiği ferritin tanı eşiği nedir?",
+          "answer": "Ferritin <45 ng/mL (µg/L) demir eksikliğini destekler; <15 ng/mL daha özgül olmakla birlikte duyarlılığı daha düşüktür.",
+          "explanation": "Kronik inflamasyon veya kronik böbrek hastalığında ferritin tek başına yeterli olmayabilir; transferrin satürasyonu ve inflamasyon belirteçleri eklenir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-09",
+          "question": "Demir eksikliği anemisinde periferik yaymada hangi bulgular beklenir?",
+          "answer": "Mikrositoz, hipokromi, anizositoz ve poikilositoz; kalem hücreleri görülebilir.",
+          "explanation": "Yayma destekleyicidir; tanı demir çalışmalarıyla doğrulanır."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-10",
+          "question": "Talasemi taşıyıcılığı ile demir eksikliği mikrositozu arasında hangi CBC ipucu ayrımda yardımcıdır?",
+          "answer": "Talasemi taşıyıcılığında MCV belirgin düşükken eritrosit sayısı sıklıkla korunmuş/yüksek ve RDW görece normaldir; demir eksikliğinde RDW çoğunlukla artar.",
+          "explanation": "Mentzer indeksi (MCV/RBC) <13 talasemi taşıyıcılığını düşündürebilir; kesin tanı testi değildir ve demir eksikliği eşlik edebilir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-11",
+          "question": "Açıklanamayan demir eksikliği anemisinde erişkin erkek ve postmenopozal kadında hangi etiyoloji özellikle dışlanmalıdır?",
+          "answer": "Gastrointestinal kan kaybı ve özellikle gastrointestinal malignite; genellikle üst endoskopi ve kolonoskopi ile değerlendirilir.",
+          "explanation": "AGA, belirgin başka neden bulunmayan asemptomatik erkek ve postmenopozal kadınlarda çift yönlü endoskopiyi önerir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-12",
+          "question": "Premenopozal kadında demir eksikliği anemisi saptanırsa değerlendirme nasıl yapılmalıdır?",
+          "answer": "Menstrüel/obstetrik kayıp ve diğer nedenler sorgulanır; gastrointestinal inceleme kararı yaş, semptom, risk ve alternatif açıklamalara göre bireyselleştirilir.",
+          "explanation": "AGA çift yönlü endoskopiyi koşullu olarak önerir; yalnızca menstruasyona bağlamak veya her hastaya otomatik endoskopi yapmak doğru değildir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-13",
+          "question": "Demir eksikliği anemisinde çölyak hastalığı nasıl araştırılır?",
+          "answer": "Uygun hastada ilk aşamada doku transglutaminaz IgA ve total IgA ile serolojik tarama yapılır; pozitiflikte doğrulama değerlendirilir.",
+          "explanation": "IgA eksikliğinde IgG temelli testler seçilir. Açıklanamayan demir eksikliğinde çölyak malabsorpsiyon nedeni olabilir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-14",
+          "question": "Erişkinde demir eksikliği anemisinin başlangıç oral tedavisi nedir?",
+          "answer": "Genellikle günde bir tablet ferrous sulfate, fumarate veya gluconate; tolere edilemiyorsa gün aşırı doz veya alternatif preparat düşünülebilir.",
+          "explanation": "Doz, preparatın elementer demir içeriğine göre değerlendirilir. Altta yatan kan kaybı/malabsorpsiyon nedeni de araştırılmalıdır."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-15",
+          "question": "Oral demir tedavisine erken hemoglobin yanıtı ne zaman beklenir ve tanısal değeri nedir?",
+          "answer": "Hb'de yaklaşık 2 haftada ≥1 g/dL artış mutlak demir eksikliğini güçlü biçimde destekler.",
+          "explanation": "Yanıt yoksa uyum, devam eden kan kaybı, malabsorpsiyon, yanlış tanı veya eşlik eden inflamasyon araştırılır."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-16",
+          "question": "Hemoglobin normale geldikten sonra oral demir tedavisi ne kadar sürdürülür?",
+          "answer": "Demir depolarını doldurmak için Hb normalleştikten sonra yaklaşık 3 ay daha sürdürülür.",
+          "explanation": "Tedavi yalnızca Hb düzeltmeye değil, demir depolarının yerine konmasına yöneliktir; yanıt ve tolerans izlenir."
+        },
+        {
+          "id": "IM-ANEMIA-IDA-17",
+          "question": "Demir eksikliği anemisinde intravenöz demir hangi durumlarda düşünülür?",
+          "answer": "Oral demir kontrendike, etkisiz veya tolere edilemiyorsa; malabsorpsiyon varsa ya da hızlı düzeltme gerekiyorsa.",
+          "explanation": "İntravenöz demir seçimi klinik gereksinim, preparat özellikleri ve infüzyon reaksiyonu/hipofosfatemi gibi risklere göre yapılır."
+        }
+      ]
     }
   ]
 }
