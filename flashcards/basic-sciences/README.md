@@ -9,4 +9,4 @@ Planned subjects:
 - biochemistry
 - microbiology — yüksek verimli mikrobiyoloji kartları
 - pathology — yüksek verimli patoloji kartları
-- pharmacology
+- pharmacology — yüksek verimli farmakoloji kartları
