@@ -4475,6 +4475,924 @@
           "explanation": "Anti-D, maternal immün sistemin fetal RhD antijenine karşı aktif yanıt geliştirmesini önler."
         }
       ]
+    },
+    {
+      "id": "physiology-cell-membrane",
+      "title": "Fizyoloji · Hücre zarı, membran potansiyeli ve taşıma",
+      "cards": [
+        {
+          "id": "PHYS-CELL-MEMBRANE-01",
+          "question": "Na⁺/K⁺-ATPaz her ATP başına kaç iyonu hangi yönde taşır?",
+          "answer": "3 Na⁺ hücre dışına, 2 K⁺ hücre içine taşır.",
+          "explanation": "Elektrojeniktir; net bir pozitif yükü dışarı çıkarır ve hücre içinin negatifliğine katkıda bulunur."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-02",
+          "question": "İstirahat membran potansiyelini en çok hangi iyonun geçirgenliği belirler?",
+          "answer": "K⁺ geçirgenliği.",
+          "explanation": "İstirahat halinde K⁺ sızıntı kanalları baskındır; potansiyel K⁺ denge potansiyeline yakındır."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-03",
+          "question": "Hücre dışı K⁺ artışı membran potansiyelini nasıl değiştirir?",
+          "answer": "Depolarizasyona yol açar.",
+          "explanation": "K⁺ gradyanı azalır; istirahat potansiyeli daha az negatif olur. Ağır hiperkalemi uyarılabilirliği ve iletimi bozabilir."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-04",
+          "question": "Hücre dışı Ca²⁺ azalması sinir-kas uyarılabilirliğini nasıl etkiler?",
+          "answer": "Artırır; tetaniye yatkınlık oluşturur.",
+          "explanation": "Düşük ekstrasellüler Ca²⁺ voltaj kapılı Na⁺ kanallarının açılma eşiğini düşürür."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-05",
+          "question": "Basit difüzyon ile kolaylaştırılmış difüzyonun ortak özelliği nedir?",
+          "answer": "ATP harcamadan, elektrokimyasal gradyan yönünde gerçekleşmeleri.",
+          "explanation": "Kolaylaştırılmış difüzyon taşıyıcı veya kanal kullanır; doygunluk ve seçicilik gösterebilir."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-06",
+          "question": "Primer aktif taşımaya örnek verin.",
+          "answer": "Na⁺/K⁺-ATPaz, Ca²⁺-ATPaz ve H⁺/K⁺-ATPaz.",
+          "explanation": "Enerji doğrudan ATP hidrolizinden sağlanır."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-07",
+          "question": "Sekonder aktif taşımada enerji nereden sağlanır?",
+          "answer": "Başka bir iyonun, çoğunlukla Na⁺'ın elektrokimyasal gradyanından.",
+          "explanation": "Na⁺-glukoz kotransportu (SGLT) simport; Na⁺/Ca²⁺ değiştiricisi antiport örneğidir."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-08",
+          "question": "Osmolarite ile tonisite arasındaki temel fark nedir?",
+          "answer": "Tonicite, membranı geçemeyen etkili osmollerin hücre hacmine etkisini ifade eder.",
+          "explanation": "Üre osmolariteye katkıda bulunur ancak hücre zarını geçtiği için uzun vadede tonisiteye etkisi sınırlıdır."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-09",
+          "question": "Hipertonik ekstrasellüler sıvı hücre hacmini nasıl değiştirir?",
+          "answer": "Hücreden su çıkarır; hücre büzüşür.",
+          "explanation": "Su, etkili osmolaritesi yüksek kompartımana geçer."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-10",
+          "question": "Nernst denklemi neyi hesaplar?",
+          "answer": "Tek bir iyon için elektrokimyasal denge potansiyelini.",
+          "explanation": "İyonun konsantrasyon gradyanını dengeleyen elektriksel potansiyeldir."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-11",
+          "question": "Goldman denklemi hangi bilgiyi kullanır?",
+          "answer": "Birden fazla iyonun konsantrasyonlarını ve membran geçirgenliklerini.",
+          "explanation": "Gerçek membran potansiyelini, birden fazla iyonun katkısını hesaba katarak tahmin eder."
+        },
+        {
+          "id": "PHYS-CELL-MEMBRANE-12",
+          "question": "Aksiyon potansiyelinin mutlak refrakter döneminin nedeni nedir?",
+          "answer": "Voltaj kapılı Na⁺ kanallarının inaktive durumda olması.",
+          "explanation": "Bu dönemde uyaran şiddeti artırılsa da yeni aksiyon potansiyeli oluşturulamaz."
+        }
+      ]
+    },
+    {
+      "id": "physiology-neuro",
+      "title": "Fizyoloji · Sinir sistemi ve sinaptik iletim",
+      "cards": [
+        {
+          "id": "PHYS-NEURO-01",
+          "question": "Miyelinli aksonda aksiyon potansiyeli hangi bölgelerde yenilenir?",
+          "answer": "Ranvier boğumlarında.",
+          "explanation": "Saltatorik iletimde impuls boğumdan boğuma sıçrar; iletim hızlanır ve enerji tasarrufu sağlar."
+        },
+        {
+          "id": "PHYS-NEURO-02",
+          "question": "Sinir iletim hızını en çok artıran iki özellik nedir?",
+          "answer": "Miyelinasyon ve akson çapının artması.",
+          "explanation": "Miyelin membran direncini artırıp kapasitansı azaltır; geniş çap iç direnci düşürür."
+        },
+        {
+          "id": "PHYS-NEURO-03",
+          "question": "Kimyasal sinapsta nörotransmitter salınımını başlatan olay nedir?",
+          "answer": "Presinaptik voltaj kapılı Ca²⁺ kanallarından Ca²⁺ girişi.",
+          "explanation": "Ca²⁺, sinaptik vezikül füzyonunu ve ekzositozu tetikler."
+        },
+        {
+          "id": "PHYS-NEURO-04",
+          "question": "EPSP'nin temel iyonik mekanizması nedir?",
+          "answer": "Katyon kanallarının açılmasıyla net pozitif yük girişi, çoğunlukla Na⁺ girişi.",
+          "explanation": "Postsinaptik membranı eşik potansiyeline yaklaştırır."
+        },
+        {
+          "id": "PHYS-NEURO-05",
+          "question": "IPSP hangi iki temel mekanizmayla oluşabilir?",
+          "answer": "Cl⁻ geçirgenliğinin artması veya K⁺ çıkışının artması.",
+          "explanation": "Membran hiperpolarize olur veya şant inhibisyonu gelişir."
+        },
+        {
+          "id": "PHYS-NEURO-06",
+          "question": "Temporal ve spatial summasyon arasındaki fark nedir?",
+          "answer": "Temporal: aynı sinapstan kısa aralıklarla; spatial: farklı sinapslardan eşzamanlı uyarıların toplanması.",
+          "explanation": "Akson başlangıç segmentindeki toplam postsinaptik etki eşik aşımını belirler."
+        },
+        {
+          "id": "PHYS-NEURO-07",
+          "question": "GABA-A reseptörünün temel etkisi nedir?",
+          "answer": "Cl⁻ kanalını açarak hızlı inhibitör etki oluşturur.",
+          "explanation": "Benzodiazepinler GABA-A reseptörünün allosterik modülatörüdür."
+        },
+        {
+          "id": "PHYS-NEURO-08",
+          "question": "GABA-B reseptörü hangi tip reseptördür?",
+          "answer": "G proteinine bağlı metabotrop reseptör.",
+          "explanation": "K⁺ çıkışını artırıp Ca²⁺ girişini azaltarak yavaş inhibisyon oluşturabilir."
+        },
+        {
+          "id": "PHYS-NEURO-09",
+          "question": "Serebellar lezyonda ekstremite bulguları genellikle hangi taraftadır?",
+          "answer": "Lezyonla aynı tarafta (ipsilateral).",
+          "explanation": "Serebellar bağlantıların çift çaprazlanması nedeniyle klinik bulgular çoğunlukla ipsilateral görülür."
+        },
+        {
+          "id": "PHYS-NEURO-10",
+          "question": "Bazal gangliyonların direkt yolu hareketi nasıl etkiler?",
+          "answer": "Talamusu disinhibe ederek hareketi kolaylaştırır.",
+          "explanation": "Striatumun GPi/SNr üzerindeki inhibisyonu azalınca talamokortikal uyarı artar."
+        },
+        {
+          "id": "PHYS-NEURO-11",
+          "question": "Substantia nigra pars compacta dopamini direkt ve indirekt yolları nasıl etkiler?",
+          "answer": "D1 üzerinden direkt yolu uyarır, D2 üzerinden indirekt yolu baskılar; net etki hareketi artırmaktır.",
+          "explanation": "Parkinson hastalığında nigrostriatal dopamin kaybı hipokineziye katkıda bulunur."
+        },
+        {
+          "id": "PHYS-NEURO-12",
+          "question": "Kas iğciği neyi algılar?",
+          "answer": "Kas uzunluğunu ve uzunluk değişim hızını.",
+          "explanation": "Ia ve II afferentleri gerilme refleksinde rol alır."
+        },
+        {
+          "id": "PHYS-NEURO-13",
+          "question": "Golgi tendon organı neyi algılar?",
+          "answer": "Kas-tendon ünitesindeki gerilimi.",
+          "explanation": "Ib afferentleri üzerinden aşırı gerilmeye karşı otogenik inhibisyon oluşturabilir."
+        },
+        {
+          "id": "PHYS-NEURO-14",
+          "question": "Parasempatik postgangliyonik liflerin temel nörotransmitteri nedir?",
+          "answer": "Asetilkolin; hedefte çoğunlukla muskarinik reseptör.",
+          "explanation": "Otonom ganglionda hem sempatik hem parasempatik pregangliyonik lifler nikotinik Nn reseptör kullanır."
+        },
+        {
+          "id": "PHYS-NEURO-15",
+          "question": "Sempatik ter bezi innervasyonunun istisnası nedir?",
+          "answer": "Postgangliyonik lif kolinerjiktir ve muskarinik reseptörleri uyarır.",
+          "explanation": "Sempatik postgangliyonik liflerin çoğu noradrenerjiktir; ekrin ter bezleri klasik istisnadır."
+        }
+      ]
+    },
+    {
+      "id": "physiology-muscle",
+      "title": "Fizyoloji · İskelet, düz ve kalp kası",
+      "cards": [
+        {
+          "id": "PHYS-MUSCLE-01",
+          "question": "İskelet kasında Ca²⁺ hangi proteine bağlanarak kasılmayı başlatır?",
+          "answer": "Troponin C.",
+          "explanation": "Ca²⁺ bağlanması tropomiyozini yerinden kaydırır ve aktin üzerindeki miyozin bağlanma bölgelerini açığa çıkarır."
+        },
+        {
+          "id": "PHYS-MUSCLE-02",
+          "question": "İskelet kasında kasılma sırasında hangi bantların uzunluğu değişmez?",
+          "answer": "A bandı değişmez; I bandı ve H zonu kısalır.",
+          "explanation": "A bandı kalın filament uzunluğunu temsil eder."
+        },
+        {
+          "id": "PHYS-MUSCLE-03",
+          "question": "Kasılma sırasında sarkomerin hangi bölümü kısalır?",
+          "answer": "Z çizgileri birbirine yaklaşır; sarkomer kısalır.",
+          "explanation": "Aktin ve miyozin filamentlerinin boyu değişmez, birbirleri üzerinde kayarlar."
+        },
+        {
+          "id": "PHYS-MUSCLE-04",
+          "question": "İskelet kasında aksiyon potansiyeli T-tübülde hangi reseptörü aktive eder?",
+          "answer": "Dihidropiridin reseptörü (L tipi Ca²⁺ kanal sensörü).",
+          "explanation": "İskelet kasında DHPR, sarkoplazmik retikulumdaki riyanodin reseptörü RyR1 ile mekanik olarak eşleşmiştir."
+        },
+        {
+          "id": "PHYS-MUSCLE-05",
+          "question": "Kalp kasında kasılmayı başlatan Ca²⁺ artışı nasıl oluşur?",
+          "answer": "L tipi Ca²⁺ kanallarından giren Ca²⁺, RyR2 üzerinden sarkoplazmik retikulumdan ek Ca²⁺ salınmasını tetikler.",
+          "explanation": "Bu mekanizma calcium-induced calcium release olarak adlandırılır."
+        },
+        {
+          "id": "PHYS-MUSCLE-06",
+          "question": "Düz kasta Ca²⁺ kasılmayı hangi yol üzerinden başlatır?",
+          "answer": "Kalmoduline bağlanır; Ca²⁺-kalmodulin, MLCK'yi aktive eder.",
+          "explanation": "MLCK miyozin hafif zincirini fosforile ederek çapraz-köprü döngüsünü başlatır."
+        },
+        {
+          "id": "PHYS-MUSCLE-07",
+          "question": "Düz kasta gevşemeyi sağlayan temel enzim hangisidir?",
+          "answer": "Miyozin hafif zincir fosfataz (MLCP).",
+          "explanation": "Miyozin hafif zincirinin defosforilasyonu kasılmayı azaltır."
+        },
+        {
+          "id": "PHYS-MUSCLE-08",
+          "question": "İskelet kasında tetanik kasılma neden mümkündür, kalp kasında neden normalde mümkün değildir?",
+          "answer": "İskelet kasının refrakter dönemi kısadır; kalp kasının aksiyon potansiyeli ve refrakter dönemi uzundur.",
+          "explanation": "Kalpte uzun plato fazı, kasılmaların üst üste binmesini ve tetanizasyonu önler."
+        },
+        {
+          "id": "PHYS-MUSCLE-09",
+          "question": "İskelet kasında motor ünite nedir?",
+          "answer": "Bir alfa motor nöron ve innerve ettiği tüm kas lifleri.",
+          "explanation": "İnce motor kontrol için küçük, kuvvet üretimi için büyük motor üniteler kullanılır."
+        },
+        {
+          "id": "PHYS-MUSCLE-10",
+          "question": "Kas iğciğinin duyarlılığını gamma motor nöronlar nasıl düzenler?",
+          "answer": "İntrafüzal lifleri kasarak iğciği gerilmeye duyarlı tutar.",
+          "explanation": "Alfa-gamma koaktivasyonu kasılma sırasında kas iğciğinin duyarlılığını korur."
+        },
+        {
+          "id": "PHYS-MUSCLE-11",
+          "question": "Kas yorgunluğunda tek bir metabolitin birikmesi tüm olayı açıklar mı?",
+          "answer": "Hayır; iyon dengesi, metabolitler, enerji kullanılabilirliği ve santral etkenler birlikte rol oynar.",
+          "explanation": "Laktatı tek ve evrensel neden olarak göstermek doğru değildir."
+        },
+        {
+          "id": "PHYS-MUSCLE-12",
+          "question": "İzometrik kasılmada kasın uzunluğu ve gerilimi nasıl değişir?",
+          "answer": "Uzunluk sabit kalır, gerilim artar.",
+          "explanation": "İzotonik kasılmada yük altında kas uzunluğu değişir."
+        }
+      ]
+    },
+    {
+      "id": "physiology-cardiovascular",
+      "title": "Fizyoloji · Kardiyovasküler sistem",
+      "cards": [
+        {
+          "id": "PHYS-CARDIOVASCULAR-01",
+          "question": "Kalp debisi hangi iki değişkenin çarpımıdır?",
+          "answer": "Kalp hızı × atım hacmi.",
+          "explanation": "CO = HR × SV."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-02",
+          "question": "Frank-Starling mekanizması kalp debisini nasıl artırır?",
+          "answer": "Artan venöz dönüş end-diyastolik hacmi ve miyokard lif gerilimini artırır; atım hacmi yükselir.",
+          "explanation": "Fizyolojik sınırlar içinde başlangıç dolumu arttıkça kasılma kuvveti artar."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-03",
+          "question": "Preload ve afterload neyi ifade eder?",
+          "answer": "Preload diyastol sonu miyokard gerilimini; afterload ventrikülün kanı atarken karşılaştığı yükü ifade eder.",
+          "explanation": "Venöz dönüş/preload ve arteriyel basınç/afterload kavramlarını ayırın."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-04",
+          "question": "Sol ventrikül afterload artışı akut olarak atım hacmini nasıl etkiler?",
+          "answer": "Azaltır.",
+          "explanation": "Aynı kontraktilitede ventrikülün kanı atması zorlaşır; end-sistolik hacim artar."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-05",
+          "question": "Ejeksiyon fraksiyonu nasıl hesaplanır?",
+          "answer": "Atım hacmi / end-diyastolik hacim × 100.",
+          "explanation": "Sistolik fonksiyonun temel ölçütüdür; düşük EF sistolik disfonksiyonu düşündürür."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-06",
+          "question": "Arteriyel kan basıncını belirleyen temel hemodinamik ilişki nedir?",
+          "answer": "Ortalama arter basıncı ≈ kalp debisi × sistemik vasküler direnç.",
+          "explanation": "Küçük venöz basınç ihmal edildiğinde MAP ≈ CO × SVR."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-07",
+          "question": "Ortalama arter basıncı nabız basıncı ve diyastolik basınçtan nasıl yaklaşık hesaplanır?",
+          "answer": "Diyastolik basınç + nabız basıncının üçte biri.",
+          "explanation": "Normal kalp hızlarında diyastol süresi daha uzun olduğu için diyastolik basınç ağırlığı fazladır."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-08",
+          "question": "Baroreseptörler nerede bulunur ve hangi değişikliği algılar?",
+          "answer": "Karotis sinüsü ve aort kavsinde; damar duvarı gerilimini algılar.",
+          "explanation": "Basınç artınca ateşleme artar, sempatik tonus azalır ve parasempatik tonus artar."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-09",
+          "question": "Ayağa kalkınca ilk saniyelerde beklenen barorefleks yanıtı nedir?",
+          "answer": "Venöz dönüş ve arter basıncı azalır; sempatik aktivite artar, kalp hızı ve vazokonstriksiyon artar.",
+          "explanation": "Ortostatik yanıtın temelidir."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-10",
+          "question": "Koroner kan akımı sol ventrikülde en çok hangi fazda gerçekleşir?",
+          "answer": "Diyastolde.",
+          "explanation": "Sistolde intramiyokardiyal damarlar sıkışır; taşikardi diyastol süresini kısaltarak perfüzyonu azaltabilir."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-11",
+          "question": "Kalp seslerinin oluşumu S1 ve S2 için nasıl eşleştirilir?",
+          "answer": "S1: mitral ve triküspit kapanması; S2: aort ve pulmoner kapanması.",
+          "explanation": "S1 sistol başlangıcı, S2 sistol sonu/diyastol başlangıcıdır."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-12",
+          "question": "S3 kalp sesi hangi durumlarda duyulabilir?",
+          "answer": "Hızlı ventrikül doluşunda; gençlerde fizyolojik, ileri yaşta volüm yüklenmesi/kalp yetersizliğiyle ilişkili olabilir.",
+          "explanation": "S3, diyastolün erken döneminde duyulur."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-13",
+          "question": "S4 kalp sesinin temel mekanizması nedir?",
+          "answer": "Atriyum kasılmasının sert ventriküle kan göndermesi.",
+          "explanation": "Ventrikül kompliyansının azaldığı hipertansiyon veya hipertrofide görülebilir; atriyal fibrilasyonda oluşmaz."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-14",
+          "question": "Parasempatik uyarı SA düğüm hızını nasıl azaltır?",
+          "answer": "M2 reseptörleri üzerinden cAMP ve If akımını azaltır, K⁺ geçirgenliğini artırır.",
+          "explanation": "Faz 4 spontan depolarizasyon eğimi azalır."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-15",
+          "question": "Sempatik uyarı kalp hızını ve kontraktiliteyi nasıl artırır?",
+          "answer": "β1 reseptörü–Gs–cAMP/PKA yoluyla.",
+          "explanation": "SA düğümde If ve Ca²⁺ akımları; miyokardda Ca²⁺ kullanımı artar."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-16",
+          "question": "Ventrikül aksiyon potansiyelinin plato fazını hangi iyon akımları oluşturur?",
+          "answer": "L tipi Ca²⁺ girişi ile K⁺ çıkışının dengelenmesi.",
+          "explanation": "Plato fazı uzun refrakter döneme katkıda bulunur."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-17",
+          "question": "Arteriollerin sistemik vasküler dirençteki rolü nedir?",
+          "answer": "Başlıca direnç damarlarıdır.",
+          "explanation": "Çaplarındaki küçük değişiklikler direnç ve organ kan akımını belirgin etkiler."
+        },
+        {
+          "id": "PHYS-CARDIOVASCULAR-18",
+          "question": "Venöz sistem neden kanın kapasitans damar yatağıdır?",
+          "answer": "Yüksek kompliyansı nedeniyle kanın büyük bölümünü düşük basınçta depolar.",
+          "explanation": "Venokonstriksiyon venöz dönüşü ve preload'u artırır."
+        }
+      ]
+    },
+    {
+      "id": "physiology-respiratory",
+      "title": "Fizyoloji · Solunum sistemi",
+      "cards": [
+        {
+          "id": "PHYS-RESPIRATORY-01",
+          "question": "Alveoler ventilasyonu belirleyen ilişki nedir?",
+          "answer": "(Solunum sayısı × tidal hacim) − dakika ölü boşluk ventilasyonu.",
+          "explanation": "VA = f × (VT − VD). Hızlı-yüzeyel solunum alveoler ventilasyonu düşürebilir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-02",
+          "question": "Alveoler gaz denklemine göre alveoler O₂ basıncını en çok hangi iki değişken belirler?",
+          "answer": "İnspire edilen O₂ basıncı ve alveoler CO₂ basıncı.",
+          "explanation": "PAO₂ ≈ PIO₂ − PaCO₂/R; R yaklaşık 0,8 kabul edilir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-03",
+          "question": "V/Q oranı akciğer apeksinde ve bazalinde nasıldır?",
+          "answer": "Apekste daha yüksek, bazalde daha düşüktür.",
+          "explanation": "Apeks kan akımına göre daha iyi ventile olur; bazalde perfüzyon artışı ventilasyon artışından fazladır."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-04",
+          "question": "V/Q = 0 neyi ifade eder?",
+          "answer": "Şant: perfüzyon var, ventilasyon yok.",
+          "explanation": "Pnömoni veya atelektazi örnektir; %100 oksijene yanıt sınırlı olabilir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-05",
+          "question": "V/Q sonsuz olduğunda ne olur?",
+          "answer": "Ölü boşluk: ventilasyon var, perfüzyon yok.",
+          "explanation": "Pulmoner emboli klasik örnektir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-06",
+          "question": "Şant hipoksemisi ile difüzyon bozukluğuna bağlı hipoksemi oksijene yanıt açısından nasıl ayrılır?",
+          "answer": "Şantta yanıt sınırlı; difüzyon bozukluğunda genellikle oksijenle belirgin düzelme olur.",
+          "explanation": "Şantta kan ventile alveolle temas etmeden dolaşıma katılır."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-07",
+          "question": "CO₂ taşınmasının en büyük bölümü hangi formdadır?",
+          "answer": "Bikarbonat (HCO₃⁻) olarak.",
+          "explanation": "Eritrosit karbonik anhidrazı CO₂'yi H₂CO₃ ve ardından HCO₃⁻ + H⁺'a dönüştürür."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-08",
+          "question": "Bohr etkisi nedir?",
+          "answer": "CO₂ ve H⁺ artışının hemoglobinin O₂ afinitesini azaltıp eğriyi sağa kaydırması.",
+          "explanation": "Dokularda O₂ bırakılmasını kolaylaştırır."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-09",
+          "question": "Haldane etkisi nedir?",
+          "answer": "Deoksijenize hemoglobinin CO₂ ve H⁺ taşıma kapasitesinin artması.",
+          "explanation": "Akciğerde oksijenlenme CO₂'nin serbestleşmesini kolaylaştırır."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-10",
+          "question": "2,3-BPG artışı oksijen-hemoglobin dissosiyasyon eğrisini nasıl değiştirir?",
+          "answer": "Sağa kaydırır; O₂ afinitesini azaltır.",
+          "explanation": "Anemi, yüksek irtifa ve kronik hipoksemi adaptasyonunda artabilir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-11",
+          "question": "Santral kemoreseptörler solunumu esas olarak hangi değişikliğe yanıt vererek artırır?",
+          "answer": "BOS'ta CO₂ kaynaklı H⁺ artışına.",
+          "explanation": "H⁺ kan-beyin bariyerini kolay geçmez; CO₂ geçerek BOS pH'sını değiştirir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-12",
+          "question": "Periferik kemoreseptörlerde hipoksik ventilasyon yanıtı hangi PaO₂ düzeyinin altında belirginleşir?",
+          "answer": "Yaklaşık 60 mmHg altında.",
+          "explanation": "Karotis cisimciği başlıca sensördür; PaCO₂ ve pH değişikliklerine de yanıt verir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-13",
+          "question": "Restriktif ve obstrüktif hastalıklar FEV1/FVC oranını nasıl etkiler?",
+          "answer": "Obstrüksiyonda azalır; restriksiyonda normal veya artmış olabilir.",
+          "explanation": "Restriksiyonda FEV1 ve FVC birlikte azalır, FVC genellikle orantılı veya daha fazla etkilenir."
+        },
+        {
+          "id": "PHYS-RESPIRATORY-14",
+          "question": "Akciğer kompliyansı fibroziste ve amfizemde nasıl değişir?",
+          "answer": "Fibroziste azalır; amfizemde artar.",
+          "explanation": "Elastik geri çekilme fibroziste artar, amfizemde azalır."
+        }
+      ]
+    },
+    {
+      "id": "physiology-renal-acidbase",
+      "title": "Fizyoloji · Böbrek, sıvı-elektrolit ve asit-baz",
+      "cards": [
+        {
+          "id": "PHYS-RENAL-ACIDBASE-01",
+          "question": "Glomerüler filtrasyon hızını (GFR) artıran afferent arteriyol değişikliği nedir?",
+          "answer": "Afferent arteriyol dilatasyonu.",
+          "explanation": "Glomerüler kapiller hidrostatik basınç ve renal kan akımı artar."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-02",
+          "question": "Afferent ve efferent arteriyol konstriksiyonu GFR'yi nasıl etkiler?",
+          "answer": "Afferent konstriksiyon GFR'yi azaltır; efferent konstriksiyon orta derecede ise GFR'yi artırabilir.",
+          "explanation": "Şiddetli efferent konstriksiyon renal kan akımını çok azaltıp GFR'yi de düşürebilir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-03",
+          "question": "Kreatinin klirensi GFR'yi neden hafif yüksek tahmin edebilir?",
+          "answer": "Kreatinin glomerülden filtre edilir ve az miktarda tübüler sekresyona uğrar.",
+          "explanation": "İleri böbrek yetmezliğinde sekresyonun göreli katkısı artabilir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-04",
+          "question": "Proksimal tübülde filtre edilen Na⁺ ve suyun yaklaşık ne kadarı geri emilir?",
+          "answer": "Yaklaşık %65.",
+          "explanation": "İzoozmotik geri emilim gerçekleşir; glukoz, amino asit ve bikarbonatın büyük kısmı da burada geri emilir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-05",
+          "question": "Henle kulpunun kalın çıkan kolu için ayırt ettirici özellik nedir?",
+          "answer": "Na⁺-K⁺-2Cl⁻ kotransporteri (NKCC2) bulunur; suya geçirimsizdir.",
+          "explanation": "Medüller ozmotik gradyanın oluşumuna katkı sağlar; loop diüretikleri NKCC2'yi inhibe eder."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-06",
+          "question": "Distal kıvrımlı tübülde hangi taşıyıcı baskındır ve hangi diüretik sınıfı bunu inhibe eder?",
+          "answer": "Na⁺-Cl⁻ kotransporteri (NCC); tiyazidler inhibe eder.",
+          "explanation": "Tiyazidler Ca²⁺ geri emilimini artırır."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-07",
+          "question": "Toplayıcı kanalda aldosteron principal hücrede ne yapar?",
+          "answer": "ENaC ve Na⁺/K⁺-ATPaz aktivitesini artırır; K⁺ sekresyonunu artırır.",
+          "explanation": "Na⁺ tutulumu ve K⁺ atılımı artar; H⁺ sekresyonu interkale hücrelerde de artabilir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-08",
+          "question": "ADH toplayıcı kanalda su geri emilimini hangi mekanizmayla artırır?",
+          "answer": "V2 reseptörü–Gs–cAMP yoluyla aquaporin-2 kanallarını apikal membrana yerleştirir.",
+          "explanation": "ADH yokluğunda idrar seyreltik, yüksek ADH'de konsantredir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-09",
+          "question": "Serbest su klirensinin negatif olması neyi gösterir?",
+          "answer": "Böbreğin plazmaya göre hiperozmotik idrar oluşturduğunu; serbest su tuttuğunu gösterir.",
+          "explanation": "Pozitif serbest su klirensi seyreltik idrarla su atımını ifade eder."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-10",
+          "question": "Renin salınımını artıran üç temel uyarı nedir?",
+          "answer": "Afferent arteriyolde düşük basınç, makula densaya düşük NaCl ulaşması ve β1 sempatik uyarı.",
+          "explanation": "Renin-anjiyotensin-aldosteron sistemini aktive eder."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-11",
+          "question": "Anjiyotensin II efferent arteriyolü nasıl etkiler?",
+          "answer": "Tercihen konstrikte eder.",
+          "explanation": "Özellikle düşük perfüzyonda glomerüler basıncı ve GFR'yi destekler."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-12",
+          "question": "Metabolik asidozda beklenen solunumsal kompansasyon nedir?",
+          "answer": "Hiperventilasyonla PaCO₂'nin düşmesi.",
+          "explanation": "Winter formülü: beklenen PaCO₂ = 1,5 × HCO₃⁻ + 8 ± 2 mmHg."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-13",
+          "question": "Metabolik alkalozda beklenen solunumsal kompansasyon nedir?",
+          "answer": "Hipoventilasyonla PaCO₂'nin yükselmesi.",
+          "explanation": "Hipoventilasyon hipoksemiyle sınırlanır; kompansasyon genellikle tam değildir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-14",
+          "question": "Anyon açıklığı nasıl hesaplanır?",
+          "answer": "Na⁺ − (Cl⁻ + HCO₃⁻).",
+          "explanation": "Potasyum genellikle formüle katılmaz; laboratuvar referansına göre normal aralık değişir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-15",
+          "question": "Yüksek anyon açıklıklı metabolik asidozun klasik nedenleri nelerdir?",
+          "answer": "Laktik asidoz, ketoasidoz, ileri böbrek yetmezliği ve toksik alkoller/salisilatlar.",
+          "explanation": "Önce anyon açıklığı, sonra uygun kompansasyon ve eşlik eden karma bozukluk değerlendirilir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-16",
+          "question": "Kusma hangi primer asit-baz bozukluğuna yol açar?",
+          "answer": "Metabolik alkaloz.",
+          "explanation": "Mide HCl kaybı ve hacim/klorür azalması böbreğin bikarbonat atmasını sınırlar."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-17",
+          "question": "İshal hangi primer asit-baz bozukluğuna yol açar?",
+          "answer": "Normal anyon açıklıklı (hiperkloremik) metabolik asidoz.",
+          "explanation": "Bikarbonat kaybı klorür artışıyla dengelenir."
+        },
+        {
+          "id": "PHYS-RENAL-ACIDBASE-18",
+          "question": "Hiperkalemi asit-baz ilişkisi bakımından hangi bozuklukla sık birliktedir?",
+          "answer": "Metabolik asidozla, özellikle mineral asit yükünde.",
+          "explanation": "H⁺/K⁺ hücre içi-dışı kaymaları ve renal etkiler katkıda bulunur; her asidozda zorunlu değildir."
+        }
+      ]
+    },
+    {
+      "id": "physiology-gastrointestinal",
+      "title": "Fizyoloji · Gastrointestinal sistem",
+      "cards": [
+        {
+          "id": "PHYS-GASTROINTESTINAL-01",
+          "question": "Pariyetal hücre hangi iki temel maddeyi salgılar?",
+          "answer": "HCl ve intrinsik faktör.",
+          "explanation": "İntrinsik faktör B₁₂'nin terminal ileumdan emilimi için gereklidir."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-02",
+          "question": "Gastrik asit sekresyonunu artıran üç temel uyaran nedir?",
+          "answer": "Asetilkolin (M3), gastrin (CCK-B) ve histamin (H2).",
+          "explanation": "Üçü pariyetal hücre asit sekresyonunu sinerjik artırır; proton pompası son ortak basamaktır."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-03",
+          "question": "Proton pompa inhibitörleri hangi taşıyıcıyı inhibe eder?",
+          "answer": "Pariyetal hücre apikal H⁺/K⁺-ATPazını.",
+          "explanation": "Gastrik asit sekresyonunun son basamağını baskılar."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-04",
+          "question": "Gastrin salınımını hangi durumlar artırır?",
+          "answer": "Peptitler/amino asitler, gastrik distansiyon ve vagal GRP.",
+          "explanation": "Düşük gastrik pH gastrin salınımını somatostatin üzerinden baskılar."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-05",
+          "question": "Sekretin hangi uyaranla salınır ve temel etkisi nedir?",
+          "answer": "Duodenuma asit gelmesiyle S hücrelerinden salınır; pankreatik ve biliyer HCO₃⁻ sekresyonunu artırır.",
+          "explanation": "Asidi nötralize ederek ince bağırsak enzimleri için uygun pH sağlar."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-06",
+          "question": "CCK hangi uyaranla salınır ve temel etkileri nelerdir?",
+          "answer": "Yağ asitleri ve amino asitlerle I hücrelerinden salınır; safra kesesini kasar, pankreatik enzim sekresyonunu artırır.",
+          "explanation": "Oddi sfinkterinin gevşemesine de katkı sağlar."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-07",
+          "question": "Pankreasın ekzokrin enzim sekresyonunu hangi hormon artırır?",
+          "answer": "CCK.",
+          "explanation": "Asiner hücrelerden sindirim enzimi salınmasını artırır."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-08",
+          "question": "Safra tuzları yağ sindiriminde ne yapar?",
+          "answer": "Yağları emülsifiye eder ve misel oluşumunu sağlar.",
+          "explanation": "Misel, yağ asitleri ve monogliseritleri enterosit yüzeyine taşır; safra tuzları terminal ileumda geri emilir."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-09",
+          "question": "B₁₂ vitamini hangi bölgede emilir ve hangi faktöre ihtiyaç duyar?",
+          "answer": "Terminal ileumda, intrinsik faktörle birlikte.",
+          "explanation": "Terminal ileum hastalığı veya rezeksiyonu B₁₂ eksikliği ve safra tuzu kaybı yapabilir."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-10",
+          "question": "Demir emilimi en çok hangi bağırsak bölümünde gerçekleşir?",
+          "answer": "Duodenum ve proksimal jejunum.",
+          "explanation": "Fe²⁺ formu emilim için daha elverişlidir; hepsidin ferroportini baskılayarak demir çıkışını azaltır."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-11",
+          "question": "Kolonda su ve elektrolit emilimini artıran temel fizyolojik görev nedir?",
+          "answer": "Sıvı içeriğini yoğunlaştırmak ve dışkıyı şekillendirmek.",
+          "explanation": "Kolon bakterileri kısa zincirli yağ asitleri üretir; bunlar kolonositler için enerji kaynağıdır."
+        },
+        {
+          "id": "PHYS-GASTROINTESTINAL-12",
+          "question": "Migrating motor complex (MMC) hangi durumda görülür ve hangi hormonla ilişkilidir?",
+          "answer": "Açlık döneminde; motilinle ilişkilidir.",
+          "explanation": "Öğünler arasında bağırsak içeriğini süpüren periyodik motilite örüntüsüdür; yemekle baskılanır."
+        }
+      ]
+    },
+    {
+      "id": "physiology-endocrine",
+      "title": "Fizyoloji · Endokrin sistem",
+      "cards": [
+        {
+          "id": "PHYS-ENDOCRINE-01",
+          "question": "Peptid hormonlar ve steroid hormonlar reseptör yerleşimi bakımından nasıl ayrılır?",
+          "answer": "Peptid hormonlar çoğunlukla hücre yüzeyi; steroid hormonlar hücre içi/nükleer reseptör kullanır.",
+          "explanation": "Peptid hormonlar depolanıp ekzositozla salınır; steroidler çoğunlukla sentezlendikçe salınır."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-02",
+          "question": "Gs, Gi ve Gq proteinlerinin temel ikinci haberci etkileri nelerdir?",
+          "answer": "Gs: adenilat siklaz/cAMP artar; Gi: cAMP azalır; Gq: PLC–IP₃/DAG ve hücre içi Ca²⁺ artar.",
+          "explanation": "Reseptör eşleştirmeleri sınavda sık ayırt ettirir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-03",
+          "question": "İnsülinin iskelet kası ve yağ dokusunda glukoz alımını artıran taşıyıcısı hangisidir?",
+          "answer": "GLUT4.",
+          "explanation": "İnsülin GLUT4'ü hücre membranına taşır; karaciğer glukoz alımında GLUT2 kullanır."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-04",
+          "question": "İnsülin karaciğerde glikojen ve glukoz metabolizmasını nasıl etkiler?",
+          "answer": "Glikojen sentezini ve glikolizi artırır; glukoneogenez ve glikojenolizi azaltır.",
+          "explanation": "Anabolik, hipoglisemik hormondur."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-05",
+          "question": "Glukagonun temel hedef organı ve etkisi nedir?",
+          "answer": "Başlıca karaciğer; glikojenoliz ve glukoneogenezi artırır.",
+          "explanation": "İskelet kasında anlamlı doğrudan glukagon etkisi yoktur."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-06",
+          "question": "Kortizolün metabolik etkileri nelerdir?",
+          "answer": "Glukoneogenezi ve protein yıkımını artırır; periferik glukoz kullanımını azaltır; lipolizi destekler.",
+          "explanation": "Uzun süreli fazlalık hiperglisemi ve kas kaybına yol açabilir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-07",
+          "question": "Aldosteron hangi bölgede sentezlenir ve başlıca hangi uyaranlarla artar?",
+          "answer": "Adrenal korteks zona glomerulozada; anjiyotensin II ve yüksek K⁺ ile artar.",
+          "explanation": "ACTH'nin etkisi sınırlı ve kısa sürelidir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-08",
+          "question": "Adrenal korteks tabakalarını ürünleriyle eşleştirin.",
+          "answer": "Zona glomeruloza: mineralokortikoid; fasikülata: glukokortikoid; retikülaris: androjen.",
+          "explanation": "G-F-R: salt, sugar, sex."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-09",
+          "question": "Tiroit hormon sentezinde iyot organifikasyonunu hangi enzim katalizler?",
+          "answer": "Tiroit peroksidaz (TPO).",
+          "explanation": "TPO iyodürü oksitler ve tiroglobulindeki tirozin kalıntılarına bağlar; ayrıca eşleşmeyi katalizler."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-10",
+          "question": "Tiroit hormonları dolaşımda çoğunlukla hangi formda taşınır ve hangisi daha aktiftir?",
+          "answer": "Çoğu taşıyıcı proteinlere bağlıdır; T₃ biyolojik olarak T₄'ten daha aktiftir.",
+          "explanation": "T₄ periferde T₃'e dönüştürülebilir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-11",
+          "question": "PTH serum kalsiyum ve fosfatını nasıl değiştirir?",
+          "answer": "Kalsiyumu artırır, fosfatı azaltır.",
+          "explanation": "Böbrekte Ca²⁺ geri emilimini artırır, fosfat geri emilimini azaltır; D vitamini aktivasyonunu artırır."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-12",
+          "question": "Kalsitoninin erişkin insandaki fizyolojik rolü PTH'ye göre nasıldır?",
+          "answer": "Daha sınırlıdır; osteoklast aktivitesini baskılayarak Ca²⁺'u azaltabilir.",
+          "explanation": "Kalsiyum homeostazının temel uzun dönem düzenleyicileri PTH, D vitamini ve böbrek/kemiktir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-13",
+          "question": "ADH salınımını en güçlü uyaran nedir?",
+          "answer": "Plazma osmolalitesinin artması.",
+          "explanation": "Belirgin hipovolemi de osmotik eşikten bağımsız güçlü uyaran olabilir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-14",
+          "question": "IGF-1 esas olarak hangi hormonun büyüme etkilerine aracılık eder?",
+          "answer": "Büyüme hormonu (GH).",
+          "explanation": "GH karaciğerde IGF-1 üretimini artırır; büyüme plağında kemik büyümesini destekler."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-15",
+          "question": "Prolaktin salınımını tonik olarak hangi hipotalamik hormon baskılar?",
+          "answer": "Dopamin.",
+          "explanation": "Dopamin etkisinin kesilmesi prolaktini artırır; emzirme ve TRH da salınımı artırabilir."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-16",
+          "question": "Oksitosinin doğum ve laktasyondaki iki temel etkisi nedir?",
+          "answer": "Uterus düz kas kontraksiyonu ve meme alveol çevresi miyoepitelyal hücrelerin kasılması.",
+          "explanation": "Süt sentezini prolaktin, süt ejeksiyonunu oksitosin sağlar."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-17",
+          "question": "Negatif geri bildirim endokrin eksenlerde neyi sağlar?",
+          "answer": "Periferik hormonun hipofiz ve hipotalamus salınımını baskılamasını.",
+          "explanation": "Örneğin yüksek kortizol CRH ve ACTH'yi baskılar."
+        },
+        {
+          "id": "PHYS-ENDOCRINE-18",
+          "question": "Primer ve sekonder hipotiroidide TSH nasıl değişir?",
+          "answer": "Primer hipotiroidide TSH yüksek; santral/sekonder hipotiroidide düşük veya uygunsuz normaldir.",
+          "explanation": "Serbest T₄ düşükken TSH yanıtı bozuksa hipofiz/hipotalamus kaynaklı hastalık düşünülür."
+        }
+      ]
+    },
+    {
+      "id": "physiology-reproductive",
+      "title": "Fizyoloji · Üreme sistemi ve gebelik",
+      "cards": [
+        {
+          "id": "PHYS-REPRODUCTIVE-01",
+          "question": "Menstrüel siklusta ovulasyonu tetikleyen olay nedir?",
+          "answer": "Östrojenin sürdürülen yüksek düzeyine bağlı pozitif geri bildirimle LH piki.",
+          "explanation": "LH piki ovulasyonu ve luteinizasyonu başlatır."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-02",
+          "question": "Foliküler fazda baskın hormon ve temel kaynağı nedir?",
+          "answer": "Östradiol; gelişen dominant folikülün granüloza hücreleri.",
+          "explanation": "FSH granüloza hücrelerinde aromatazı artırır; teka hücreleri androjen sağlar."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-03",
+          "question": "Luteal fazın temel hormonu ve kaynağı nedir?",
+          "answer": "Progesteron; korpus luteum.",
+          "explanation": "Endometriumu sekretuar faza geçirir ve gebeliğe hazırlar."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-04",
+          "question": "İnhibin B ve inhibin A hangi gonadotropini baskılar?",
+          "answer": "FSH.",
+          "explanation": "İnhibinler gonadal geri bildirimde seçici olarak FSH'yi baskılar."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-05",
+          "question": "AMH'nin kadın üreme fizyolojisindeki kaynağı ve klinik kullanımı nedir?",
+          "answer": "Preantral ve küçük antral folikül granüloza hücreleri; over rezervinin dolaylı göstergesidir.",
+          "explanation": "AMH folikül havuzuyla ilişkilidir; tek başına doğal fertiliteyi kesin göstermez."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-06",
+          "question": "Sertoli hücrelerinin iki yüksek verimli işlevi nedir?",
+          "answer": "Kan-testis bariyerini oluşturmak ve inhibin B/androjen bağlayıcı protein salgılamak.",
+          "explanation": "FSH Sertoli hücrelerini uyarır; fetal dönemde AMH üretirler."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-07",
+          "question": "Leydig hücrelerini hangi hormon uyarır?",
+          "answer": "LH.",
+          "explanation": "Testosteron sentezlerler; Sertoli hücreleri FSH ile uyarılır."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-08",
+          "question": "Testosteronun DHT'ye dönüşümünü hangi enzim sağlar?",
+          "answer": "5-alfa redüktaz.",
+          "explanation": "DHT prostat, dış genital yapı ve kıl folikülünde güçlü androjen etkisi gösterir."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-09",
+          "question": "hCG erken gebelikte hangi yapıyı sürdürür?",
+          "answer": "Korpus luteumu.",
+          "explanation": "LH reseptörünü uyararak progesteron üretiminin devamını sağlar; trofoblast kaynaklıdır."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-10",
+          "question": "Plasentada progesteron üretimi için başlıca prekürsör nedir?",
+          "answer": "Maternal kolesterolden sentezlenen pregnenolon.",
+          "explanation": "Plasenta progesteron sentezler ancak fetal adrenal DHEA-S olmadan yeterli östrojen üretimi yapamaz."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-11",
+          "question": "Gebelikte maternal insülin direncini artıran plasental hormonlardan biri nedir?",
+          "answer": "Human plasental laktojen (hPL).",
+          "explanation": "Maternal metabolizmayı fetüse glukoz sağlayacak biçimde değiştirir."
+        },
+        {
+          "id": "PHYS-REPRODUCTIVE-12",
+          "question": "Süt sentezi ve süt ejeksiyonunu hangi hormonlar yönetir?",
+          "answer": "Süt sentezi prolaktin; ejeksiyon oksitosin.",
+          "explanation": "Emme refleksi prolaktin ve oksitosin salınımını artırır."
+        }
+      ]
+    },
+    {
+      "id": "physiology-blood",
+      "title": "Fizyoloji · Kan, hemostaz ve bağışıklık",
+      "cards": [
+        {
+          "id": "PHYS-BLOOD-01",
+          "question": "Eritropoietin hangi organdan ve hangi uyarıyla salgılanır?",
+          "answer": "Erişkinlerde başlıca böbrekten, doku hipoksisine yanıt olarak.",
+          "explanation": "Peritübüler interstisyel hücrelerde HIF yolu EPO üretimini düzenler."
+        },
+        {
+          "id": "PHYS-BLOOD-02",
+          "question": "Eritrosit 2,3-BPG artışı hemoglobinin O₂ afinitesini nasıl etkiler?",
+          "answer": "Azaltır; oksijen-hemoglobin eğrisini sağa kaydırır.",
+          "explanation": "Dokulara oksijen bırakılmasını kolaylaştırır."
+        },
+        {
+          "id": "PHYS-BLOOD-03",
+          "question": "Fetal hemoglobinin (HbF) erişkin hemoglobinden daha yüksek O₂ afinitesinin nedeni nedir?",
+          "answer": "2,3-BPG'ye daha düşük bağlanması.",
+          "explanation": "HbF'nin γ zincirleri 2,3-BPG ile daha zayıf etkileşir; plasentada maternal kandan O₂ alımını kolaylaştırır."
+        },
+        {
+          "id": "PHYS-BLOOD-04",
+          "question": "Primer hemostazın temel hücresel olayı nedir?",
+          "answer": "Trombosit adezyonu, aktivasyonu ve agregasyonu ile trombosit tıkacı oluşması.",
+          "explanation": "vWF trombosit GPIb aracılı adezyonda; GPIIb/IIIa-fibrinojen agregasyonda önemlidir."
+        },
+        {
+          "id": "PHYS-BLOOD-05",
+          "question": "Sekonder hemostazın son ürünü nedir?",
+          "answer": "Fibrin ağıyla güçlendirilmiş pıhtı.",
+          "explanation": "Trombin fibrinojeni fibrine çevirir; faktör XIII fibrini çapraz bağlar."
+        },
+        {
+          "id": "PHYS-BLOOD-06",
+          "question": "PT/INR hangi koagülasyon yolunu ağırlıklı değerlendirir?",
+          "answer": "Ekstrinsik ve ortak yol; özellikle faktör VII ile X, V, II ve fibrinojen.",
+          "explanation": "Warfarin takibinde kullanılır."
+        },
+        {
+          "id": "PHYS-BLOOD-07",
+          "question": "aPTT hangi koagülasyon yolunu ağırlıklı değerlendirir?",
+          "answer": "İntrinsik ve ortak yol; XII, XI, IX, VIII ve ortak yol faktörleri.",
+          "explanation": "Heparin takibinde klasik olarak kullanılır."
+        },
+        {
+          "id": "PHYS-BLOOD-08",
+          "question": "vWF'nin iki temel görevi nedir?",
+          "answer": "Trombositleri hasarlı subendotele bağlamak ve faktör VIII'i taşımak/korumak.",
+          "explanation": "vWF eksikliği mukokütanöz kanama ve uzamış kanama zamanı eğilimi oluşturur."
+        },
+        {
+          "id": "PHYS-BLOOD-09",
+          "question": "Trombositlerin ömrü yaklaşık ne kadardır ve nerede temizlenir?",
+          "answer": "Yaklaşık 7–10 gün; başlıca dalakta temizlenir.",
+          "explanation": "Trombositopenide dalak sekestrasyonu önemli mekanizmadır."
+        },
+        {
+          "id": "PHYS-BLOOD-10",
+          "question": "Nötrofillerin temel işlevi nedir?",
+          "answer": "Akut bakteriyel enfeksiyonlarda fagositoz ve oksidatif öldürme.",
+          "explanation": "İlk yanıt veren dolaşan lökositlerdir."
+        },
+        {
+          "id": "PHYS-BLOOD-11",
+          "question": "Eozinofiller hangi iki durumda özellikle artar?",
+          "answer": "Paraziter helmint enfeksiyonları ve alerjik hastalıklar.",
+          "explanation": "Granüllerindeki major basic protein parazitlere karşı etkilidir."
+        },
+        {
+          "id": "PHYS-BLOOD-12",
+          "question": "Kompleman C3b'nin temel görevi nedir?",
+          "answer": "Opsonizasyon.",
+          "explanation": "C3b mikroorganizmaları fagositler için işaretler; C5a güçlü kemotaktik/anafilatoksik etkidedir."
+        }
+      ]
     }
   ]
 }
