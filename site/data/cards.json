@@ -3413,6 +3413,126 @@
           "explanation": "Doku dağılımları farklı olabilir; bu özellik laboratuvar testlerinde doku kaynağını ayırt etmeye yardım eder."
         }
       ]
+    },
+    {
+      "id": "biochemistry-molecular-biology-genetics",
+      "title": "Biyokimya · Moleküler biyoloji ve tıbbi genetik: yüksek verimli karar noktaları",
+      "cards": [
+        {
+          "id": "BIO-MBG-001-01",
+          "question": "DNA replikasyonunda ökaryotlarda öncül RNA-DNA primerini hangi enzim oluşturur; başlıca uzatma polimerazları hangileridir?",
+          "answer": "Primaz aktivitesi taşıyan DNA polimeraz α primeri başlatır; DNA polimeraz ε öncü zinciri, DNA polimeraz δ geciken zinciri uzatır.",
+          "explanation": "DNA polimeraz δ ayrıca RNA primerlerinin uzaklaştırılması sonrası boşlukların doldurulmasına katkı verir; ligaz I Okazaki parçalarını birleştirir."
+        },
+        {
+          "id": "BIO-MBG-001-02",
+          "question": "DNA replikasyonunda helikaz, topoizomeraz, SSB ve ligazın görevleri nelerdir?",
+          "answer": "Helikaz çift sarmalı açar; topoizomeraz süpersarmal gerilimini giderir; tek zincir bağlayıcı proteinler (SSB/RPA) açılmış zincirleri stabilize eder; DNA ligaz kesintileri kapatır.",
+          "explanation": "Okazaki parçalarının birleştirilmesi ligaz gerektirir; topoizomeraz inhibitörleri bu basamağı hedefleyebilir."
+        },
+        {
+          "id": "BIO-MBG-001-03",
+          "question": "Telomerazın enzimatik niteliği ve temel işlevi nedir?",
+          "answer": "Kendi RNA kalıbını kullanan bir ters transkriptazdır; kromozomların telomer uçlarını uzatır.",
+          "explanation": "Germ hücreleri, kök hücreler ve birçok kanser hücresinde aktiftir; çoğu somatik hücrede aktivitesi düşüktür."
+        },
+        {
+          "id": "BIO-MBG-001-04",
+          "question": "Aşağıdaki ilaçlardan hangileri DNA sentezini hangi basamaklarda baskılar: hidroksiüre, metotreksat ve asiklovir?",
+          "answer": "Hidroksiüre ribonükleotid redüktazı; metotreksat dihidrofolat redüktazı inhibe eder; asiklovir viral timidinkinazla aktive edilip viral DNA polimerazı inhibe eder ve zincir sonlandırır.",
+          "explanation": "Asiklovirin viral enzimlere seçiciliği, herpes virüslerine karşı seçiciliğini açıklar."
+        },
+        {
+          "id": "BIO-MBG-001-05",
+          "question": "Ökaryotik RNA polimeraz II'yi güçlü biçimde inhibe eden toksin hangisidir?",
+          "answer": "α-Amanitin (Amanita phalloides).",
+          "explanation": "mRNA sentezini baskılar; amatoksin zehirlenmesinde ağır hepatotoksisite gelişebilir. RNA polimeraz I ve III farklı duyarlılıktadır."
+        },
+        {
+          "id": "BIO-MBG-001-06",
+          "question": "Bakteriyel protein sentezini hedefleyen başlıca antibiyotik sınıfları hangi ribozomal alt birime bağlanır?",
+          "answer": "Aminoglikozidler, tetrasiklinler ve makrolidler 30S/50S alt birimlerde farklı basamakları hedefler: aminoglikozidler 30S'de yanlış okuma; tetrasiklinler 30S'de aminoasil-tRNA girişini; makrolidler 50S'de translokasyonu bozar.",
+          "explanation": "Kloramfenikol 50S peptidil transferazı inhibe eder. İnsan mitokondriyal ribozomları nedeniyle bazı ilaçların mitokondriyal toksisiteleri olabilir."
+        },
+        {
+          "id": "BIO-MBG-001-07",
+          "question": "Replikasyon sırasında yanlış eşleşmiş bazları düzelten mismatch repair (MMR) kusuru hangi kalıtsal kanser sendromuyla ilişkilidir?",
+          "answer": "Lynch sendromu; MLH1, MSH2, MSH6, PMS2 veya EPCAM ile ilişkili MMR işlev kaybı.",
+          "explanation": "Kolorektal ve endometriyal kanser riski artar; mikrosatellit instabilitesi tipik moleküler bulgudur."
+        },
+        {
+          "id": "BIO-MBG-001-08",
+          "question": "UV ışınının oluşturduğu pirimidin dimerlerini hangi DNA tamir yolu düzeltir; kusuru hangi hastalığı yapar?",
+          "answer": "Nükleotid eksizyon tamiri (NER); kusuru kseroderma pigmentozuma yol açar.",
+          "explanation": "UV duyarlılığı, erken başlayan güneş hasarı ve deri kanseri riskinde belirgin artış tipiktir."
+        },
+        {
+          "id": "BIO-MBG-001-09",
+          "question": "Okside veya deamine olmuş tek bir bazın çıkarılmasında hangi DNA tamir yolu kullanılır?",
+          "answer": "Baz eksizyon tamiri (BER); DNA glikozilaz hasarlı bazı çıkarır, ardından AP endonükleaz ve polimeraz/ligaz basamakları tamamlar.",
+          "explanation": "BER küçük, heliks yapısını belirgin bozmayan baz lezyonları için; NER hacimli, heliksi bozan lezyonlar için önemlidir."
+        },
+        {
+          "id": "BIO-MBG-001-10",
+          "question": "Çift zincir DNA kırıkları homolog rekombinasyon ve nonhomolog uç birleştirme ile nasıl ayrılır?",
+          "answer": "Homolog rekombinasyon (HR) kardeş kromatidi kalıp kullanarak görece hatasız onarım yapar; BRCA1/BRCA2 kusurları HR'yi bozar. NHEJ kalıp kullanmadan uçları birleştirir ve daha hata eğilimlidir.",
+          "explanation": "HR özellikle S/G2'de; NHEJ hücre döngüsünün daha geniş evrelerinde çalışır. BRCA kusuru meme/over kanseri yatkınlığıyla ilişkilidir."
+        },
+        {
+          "id": "BIO-MBG-001-11",
+          "question": "PCR'nin üç temel sıcaklık basamağı ve amaçları nelerdir?",
+          "answer": "Denatürasyon: DNA zincirleri ayrılır; annealing: primerler hedefe bağlanır; uzama: ısıya dayanıklı DNA polimeraz yeni zinciri sentezler.",
+          "explanation": "PCR belirli bir DNA bölgesini çoğaltır; RNA analizi için önce ters transkripsiyonla cDNA oluşturulan RT-PCR kullanılır."
+        },
+        {
+          "id": "BIO-MBG-001-12",
+          "question": "Southern, Northern ve Western blot hangi molekülü saptar?",
+          "answer": "Southern: DNA; Northern: RNA; Western: protein.",
+          "explanation": "Southern DNA dizisi/büyüklüğü, Northern RNA ekspresyonu, Western protein varlığı veya düzeyini değerlendirir."
+        },
+        {
+          "id": "BIO-MBG-001-13",
+          "question": "Bir baz değişikliğinin sessiz, missense, nonsense veya frameshift olarak sınıflandırılması neye bağlıdır?",
+          "answer": "Sessiz: aminoasit değişmez; missense: farklı aminoasit; nonsense: erken stop kodonu; frameshift: üçlü olmayan sayıda nükleotid eklenmesi/silinmesi okuma çerçevesini kaydırır.",
+          "explanation": "Üçün katları kadar ekleme/silinme okuma çerçevesini korur; etkisi aminoasit ekleme veya çıkarma olabilir."
+        },
+        {
+          "id": "BIO-MBG-001-14",
+          "question": "Huntington hastalığı, hangi trinükleotid tekrarının hangi gen bölgesinde artmasıyla oluşur?",
+          "answer": "HTT geninin kodlayan bölgesinde CAG tekrar artışı; poliglutamin genişlemesi oluşturur.",
+          "explanation": "Otozomal dominanttır; tekrar sayısı arttıkça daha erken başlangıç ve ağır hastalık görülebilir."
+        },
+        {
+          "id": "BIO-MBG-001-15",
+          "question": "Fra­jil X sendromunda hangi tekrar genişler ve gen susturulması nasıl gelişir?",
+          "answer": "FMR1 geninin 5′ UTR bölgesinde CGG tekrar genişlemesi; tam mutasyonda promoter hip metilasyonu FMR1 ekspresyonunu baskılar.",
+          "explanation": "X'e bağlı kalıtım gösterir; büyük tekrar genişlemesi özellikle maternal geçişte görülür. Premutasyon taşıyıcılarında farklı ilişkili tablolar olabilir."
+        },
+        {
+          "id": "BIO-MBG-001-16",
+          "question": "Antisipasyon nedir; hangi iki hastalık bu kavram için klasik örnektir?",
+          "answer": "Nesiller ilerledikçe tekrar sayısının artmasıyla hastalığın daha erken yaşta ve/veya daha ağır ortaya çıkmasıdır; Huntington hastalığı ve miyotonik distrofi tip 1 klasik örneklerdir.",
+          "explanation": "Miyotonik distrofi tip 1'de DMPK geninde CTG tekrarı; Huntington'da HTT geninde CAG tekrarı artar."
+        },
+        {
+          "id": "BIO-MBG-001-17",
+          "question": "Prader-Willi ve Angelman sendromları aynı 15q11-q13 bölgesindeki ebeveyn kökenine bağlı ekspresyon kaybıyla nasıl ayrılır?",
+          "answer": "Prader-Willi: paternal kökenli ekspresyon kaybı; Angelman: maternal kökenli UBE3A ekspresyon kaybı.",
+          "explanation": "Mekanizma delesyon, uniparental dizomi veya imprinting kusuru olabilir; ebeveyn kökeni ayırıcıdır."
+        },
+        {
+          "id": "BIO-MBG-001-18",
+          "question": "Uniparental dizomi (UPD) nedir ve imprinting hastalıklarına nasıl yol açabilir?",
+          "answer": "Bir kromozom çiftinin iki kopyasının da tek ebeveynden gelmesidir; ilgili bölgede diğer ebeveyne ait aktif gen kopyası bulunmadığında imprinting hastalığı gelişebilir.",
+          "explanation": "15. kromozomda maternal UPD Prader-Willi; paternal UPD Angelman fenotipine yol açabilir."
+        },
+        {
+          "id": "BIO-MBG-001-19",
+          "question": "Mitokondriyal kalıtımda soy ağacında beklenen temel örüntü nedir?",
+          "answer": "Etkilenen anne mutasyonu tüm çocuklarına aktarabilir; etkilenen baba mitokondriyal DNA'yı çocuklarına aktarmaz.",
+          "explanation": "Heteroplazmi ve eşik etkisi nedeniyle aynı anneden çocuklarda hastalık şiddeti değişebilir; yüksek enerji gerektiren dokular sık etkilenir."
+        }
+      ]
     }
   ]
 }
