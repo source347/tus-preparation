@@ -3329,6 +3329,90 @@
           "explanation": "Yağda çözünen vitaminlerin depolanması toksisite riskini artırır."
         }
       ]
+    },
+    {
+      "id": "biochemistry-enzyme-kinetics",
+      "title": "Biyokimya · Enzim kinetiği ve düzenlenmesi",
+      "cards": [
+        {
+          "id": "BIO-ENZ-001-01",
+          "question": "Michaelis–Menten kinetiğinde Km neyi ifade eder?",
+          "answer": "Reaksiyon hızının Vmax'ın yarısına ulaştığı substrat konsantrasyonudur.",
+          "explanation": "Basit Michaelis–Menten sisteminde düşük Km genellikle daha yüksek substrat afinitesiyle ilişkilidir; Km her enzim için doğrudan bağlanma afinitesi değildir."
+        },
+        {
+          "id": "BIO-ENZ-001-02",
+          "question": "Vmax hangi koşullarda artar?",
+          "answer": "Enzim miktarı arttığında Vmax artar; substrat konsantrasyonunu artırmak enzimi doyuma ulaştıktan sonra Vmax'ı artırmaz.",
+          "explanation": "Vmax enzim konsantrasyonuna bağlıdır; Km enzim miktarından bağımsızdır."
+        },
+        {
+          "id": "BIO-ENZ-001-03",
+          "question": "Kompetitif inhibitör Km ve Vmax'ı nasıl değiştirir?",
+          "answer": "Görünür Km artar, Vmax değişmez.",
+          "explanation": "Substratla yarışır; yüksek substrat konsantrasyonu inhibisyonu aşabilir."
+        },
+        {
+          "id": "BIO-ENZ-001-04",
+          "question": "Saf nonkompetitif inhibitör Km ve Vmax'ı nasıl değiştirir?",
+          "answer": "Vmax azalır, Km değişmez.",
+          "explanation": "İnhibitör serbest enzime ve enzim-substrat kompleksine eşit afiniteli bağlanır; substratı artırmak Vmax kaybını düzeltmez. Bu, saf nonkompetitif inhibisyondur; karma inhibisyonda Km değişebilir."
+        },
+        {
+          "id": "BIO-ENZ-001-05",
+          "question": "Unkompetitif inhibitör Km ve Vmax'ı nasıl değiştirir?",
+          "answer": "Görünür Km ve Vmax birlikte azalır.",
+          "explanation": "İnhibitör yalnızca enzim-substrat kompleksine bağlanır."
+        },
+        {
+          "id": "BIO-ENZ-001-06",
+          "question": "Üç temel geri dönüşümlü inhibitör tipini tek bakışta nasıl ayırırsın?",
+          "answer": "Kompetitif: Km ↑, Vmax aynı. Saf nonkompetitif: Km aynı, Vmax ↓. Unkompetitif: Km ↓, Vmax ↓.",
+          "explanation": "Km ve Vmax yönlerini birlikte değerlendir; yalnızca inhibitörün bağlandığı bölgeye bakma."
+        },
+        {
+          "id": "BIO-ENZ-001-07",
+          "question": "Lineweaver–Burk grafiğinde eksenler ve kesişimler neyi gösterir?",
+          "answer": "Y ekseni 1/v, X ekseni 1/[S]; Y-kesişimi 1/Vmax, X-kesişimi −1/Km'dir.",
+          "explanation": "Kompetitif inhibisyonda Y-kesişimi aynı kalır; nonkompetitifte X-kesişimi aynı kalır; unkompetitifte iki kesişim de değişir."
+        },
+        {
+          "id": "BIO-ENZ-001-08",
+          "question": "Allosterik enzimler Michaelis–Menten eğrisinden nasıl ayrılır?",
+          "answer": "Genellikle sigmoidal hız–substrat eğrisi gösterir; kooperativite görülebilir.",
+          "explanation": "Düzenleyici molekül aktif bölgeden farklı bir allosterik bölgeye bağlanır; aktivatör veya inhibitör olabilir. Km yerine sıklıkla K0.5 kullanılır."
+        },
+        {
+          "id": "BIO-ENZ-001-09",
+          "question": "Geri bildirim inhibisyonunun temel mantığı nedir?",
+          "answer": "Bir metabolik yolun son ürünü, genellikle yolun erken/taahhüt edilmiş basamağındaki enzimi allosterik olarak inhibe eder.",
+          "explanation": "Ürün birikimini önler; çoğunlukla ilk özgül basamak hedeflenir."
+        },
+        {
+          "id": "BIO-ENZ-001-10",
+          "question": "Fosforilasyon enzim aktivitesini her zaman artırır mı?",
+          "answer": "Hayır; etkisi enzime özgüdür.",
+          "explanation": "Glikojen fosforilaz fosforilasyonla aktive olur; glikojen sentaz fosforilasyonla inhibe olur. “Fosforilasyon daima aktivasyon yapar” genellemesi yanlıştır."
+        },
+        {
+          "id": "BIO-ENZ-001-11",
+          "question": "Zimojen nedir ve klinik açıdan neden önemlidir?",
+          "answer": "Proteolitik kesilme ile aktifleşen inaktif enzim öncüsüdür.",
+          "explanation": "Tripsinojen → tripsin; pepsinojen → pepsin; prokaspaz → kaspaz. Erken aktivasyon doku hasarına yol açabilir."
+        },
+        {
+          "id": "BIO-ENZ-001-12",
+          "question": "CK izoenzimleri hangi dokuyla ilişkilidir?",
+          "answer": "CK-MM iskelet kası, CK-MB kalp kası, CK-BB başlıca beyin dokusuyla ilişkilidir.",
+          "explanation": "CK-MB tarihsel olarak miyokard hasarı belirtecidir; günümüzde akut miyokard enfarktüsünde kardiyak troponin tercih edilir."
+        },
+        {
+          "id": "BIO-ENZ-001-13",
+          "question": "İzoenzimler neyi ifade eder?",
+          "answer": "Aynı reaksiyonu katalizleyen, ancak yapısal ve fizikokimyasal özellikleri farklı enzim formlarıdır.",
+          "explanation": "Doku dağılımları farklı olabilir; bu özellik laboratuvar testlerinde doku kaynağını ayırt etmeye yardım eder."
+        }
+      ]
     }
   ]
 }
