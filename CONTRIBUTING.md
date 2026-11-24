@@ -1,17 +1,19 @@
 # Katkı Rehberi
 
-Katkılarınızı bekliyoruz. İlk öncelik güvenilir, özenle kürate edilmiş bir flash kart koleksiyonu oluşturmaktır.
+Katkılarınızı bekliyoruz. Öncelik, TUS'ta doğru seçeneği bulmaya yardımcı olan yüksek verimli flash kartlardır.
 
-## Üretim ve teslim standardı
+## Üretim standardı
 
-- Kart sayısı, TUS'ta ilgili derse ayrılan soru sayısına göre hesaplanmaz. Sınav kotası, dersin tüm öğrenme kapsamını temsil etmez.
-- Teslim partisi varsayılan olarak **30 karttır**; bu yalnızca çalışma ve inceleme birimidir, kota değildir.
-- Bir konu 30 yüksek kaliteli kartı desteklemiyorsa daha küçük parti sunulabilir. Gereksiz ayrıntı, tekrar veya zayıf kartlarla sayı doldurulmaz.
-- Dersin kapsamı konu ve alt başlıklar üzerinden izlenir. Anatomi katkıları için [Kapsam Matrisi](flashcards/basic-sciences/anatomy/coverage-matrix.md) esas alınır.
+- Kartlar kapsam kataloğu değil, öğrencinin kullandığı karar araçlarıdır.
+- Sık sınanan, klinik açıdan anlamlı ve çeldiricilerden ayırıcı bilgileri seçin.
+- Her kart, seçenek eleme veya doğru yanıtı tanıma becerisine somut katkı sağlamalıdır.
+- Kart sayısı kota değildir; gereksiz ayrıntı, tekrar veya zayıf kartlarla sayı doldurulmaz.
+- İlgili TUS soru başına **20 kart kesin üst sınırdır**; daha az kart yeterliyse daha az hazırlanır.
+- Nadir ayrıntıları ve düşük verimli istisnaları yalnızca belirgin sınav değeri varsa ekleyin.
 
 ## Kartların konumu
 
-Kartları `flashcards/` altındaki uygun ders dizinine ekleyin. Ders başına tek ve büyük bir dosya yerine, bütünlüklü her konu için ayrı bir Markdown dosyası tercih edin.
+Kartları `flashcards/` altındaki uygun ders dizinine ekleyin. Bütünlüklü konu dosyaları tercih edilir.
 
 ## Kart biçimi
 
@@ -20,25 +22,23 @@ Kartları `flashcards/` altındaki uygun ders dizinine ekleyin. Ders başına te
 
 **C:** [Kısa, doğru ve yeterli yanıt.]
 
-**Neden önemli?:** [İsteğe bağlı mekanizma, ayırt edici özellik veya sınav tuzağı.]
+**Neden önemli?:** [Seçenek elemesine yarayan ayırıcı özellik veya sınav tuzağı.]
 
 **Kaynaklar:**
 - [Kaynak başlığı](URL) — erişim tarihi: YYYY-AA-GG
 ```
 
-Her kart tek bir öğrenme hedefine odaklanmalıdır. Belirsiz sorulardan, gereksiz ayrıntılardan, yinelenen bilgilerden ve bağlamı belirtilmemiş yanıtlardan kaçının.
-
 ## Kalite kontrol listesi
 
-- [ ] Doğru ders ve konu seçildi.
-- [ ] Her kart tek bir öğrenme hedefini ölçüyor.
+- [ ] Kart yüksek verimli ve sınavda ayırt ettirici.
+- [ ] Kart tek bir karar noktasına odaklanıyor.
 - [ ] Yanıt tıbben doğru ve gerekli nitelemeleri içeriyor.
-- [ ] Atlanması yanıltıcı olabilecek istisnalar belirtildi.
+- [ ] Açıklama, yalnızca seçenek elemesine katkı sağlıyorsa eklenmiş.
 - [ ] Kaynaklar iddiayı gerçekten destekliyor.
 - [ ] İfade özgün; telifli soru veya açıklama kopyalanmadı.
 - [ ] Yinelenen veya çok benzer kart yok.
-- [ ] Türkçe yazım, karakterler ve tıbbi terminoloji kontrol edildi.
+- [ ] İlgili TUS soru başına 20 kart sınırı aşılmıyor.
 
 ## Pull request
 
-Katkının hangi konuyu kapsadığını, yaklaşık kart sayısını ve temel kaynakları açıklayın. Tartışmalı veya kılavuza bağlı bilgileri özellikle işaretleyin. Kaynağı zayıf, tekrarlı veya yeterince yüksek verimli olmayan kartlar için düzeltme istenebilir ya da katkı reddedilebilir.
+Katkının hangi sınav karar noktalarını hedeflediğini, kart sayısını ve temel kaynakları açıklayın. Kaynağı zayıf, tekrarlı veya düşük verimli kartlar düzeltilmek üzere geri çevrilebilir.
