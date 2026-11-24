@@ -1,5 +1,13 @@
-# Medical Biochemistry
+# TUS Biyokimya
 
-Topic-based flashcards for medical biochemistry.
+Konu bazlı, yüksek verimli flash kartlar. Amaç bütün biyokimya ayrıntılarını kataloglamak değil; TUS'ta seçenek elemesini ve doğru yanıtı tanımayı destekleyen ayırt edici bilgileri sunmaktır.
 
-Planned allocation target: approximately 360 cards (18 questions × 20 cards).
+## Kart standardı
+- Yalnızca sınav açısından anlamlı enzimler, hız kısıtlayıcı basamaklar, düzenleme, klinik tablolar ve ayırıcı eşleştirmeler.
+- Her kart tek bir karar noktasını hedefler.
+- Gereksiz ara basamaklar, nadir ayrıntılar ve tekrarlar eklenmez.
+- Kart sayısı önceden belirlenmiş kota değildir; konu için gerekli en küçük etkili set tercih edilir.
+- Üst sınır: ilgili TUS soru başına en fazla 20 kart. Bu hedef veya doldurulması gereken kota değildir.
+
+## Konular
+- [Karbonhidrat metabolizması — yüksek verimli kartlar](carbohydrate-metabolism.md)
