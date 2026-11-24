@@ -10385,6 +10385,510 @@
           "explanation": "Hastalık sonrası doğal bağışıklık güvenilir değildir; aşı serisi tamamlanmalıdır."
         }
       ]
+    },
+    {
+      "id": "im-hemostaz-transfuzyon",
+      "title": "Dahiliye · Hemostaz, koagülasyon ve transfüzyon",
+      "cards": [
+        {
+          "id": "IM-HEM-01",
+          "question": "Primer hemostaz bozukluğunda kanama paterni nasıldır?",
+          "answer": "Mukokütanöz kanama: peteşi, purpura, epistaksis, diş eti ve menoraji.",
+          "explanation": "Trombosit sayısı/fonksiyonu veya von Willebrand faktörü bozukluğu düşündürür."
+        },
+        {
+          "id": "IM-HEM-02",
+          "question": "Sekonder hemostaz bozukluğunda tipik kanama paterni nedir?",
+          "answer": "Derin doku, kas ve eklem içi kanama; gecikmiş kanama.",
+          "explanation": "Koagülasyon faktörü eksikliği, özellikle hemofili lehinedir."
+        },
+        {
+          "id": "IM-HEM-03",
+          "question": "İzole uzamış PT hangi yolak veya faktörleri düşündürür?",
+          "answer": "Ekstrinsik yol; özellikle faktör VII eksikliği veya erken varfarin etkisi.",
+          "explanation": "Karaciğer hastalığı ve vitamin K eksikliği de PT'yi uzatabilir."
+        },
+        {
+          "id": "IM-HEM-04",
+          "question": "İzole uzamış aPTT'nin başlıca nedenleri nelerdir?",
+          "answer": "Hemofili A/B, heparin, lupus antikoagülanı ve faktör inhibitörleri.",
+          "explanation": "Önce örnek/ilaç etkisi değerlendirilir; mixing testi ayırıcı tanıya yardım eder."
+        },
+        {
+          "id": "IM-HEM-05",
+          "question": "PT ve aPTT birlikte uzunsa hangi durumlar düşünülür?",
+          "answer": "Yaygın koagülasyon faktörü eksikliği: DIC, ağır karaciğer hastalığı, ciddi vitamin K eksikliği veya masif dilüsyon.",
+          "explanation": "Trombosit ve fibrinojen de birlikte değerlendirilir."
+        },
+        {
+          "id": "IM-HEM-06",
+          "question": "Mixing testinde aPTT'nin normalleşmesi neyi destekler?",
+          "answer": "Faktör eksikliğini.",
+          "explanation": "Normal plazma eksik faktörü tamamlar; düzelmeme inhibitör veya lupus antikoagülanı düşündürür."
+        },
+        {
+          "id": "IM-HEM-07",
+          "question": "Von Willebrand hastalığında temel hemostaz kusuru nedir?",
+          "answer": "Trombosit adezyonunun bozulması ve faktör VIII taşımasının azalması.",
+          "explanation": "Mukozal kanama; vWF antijeni/aktivitesi ve faktör VIII değerlendirilir."
+        },
+        {
+          "id": "IM-HEM-08",
+          "question": "Hemofili A ve B hangi faktörlerin eksikliğidir?",
+          "answer": "A: faktör VIII; B: faktör IX.",
+          "explanation": "X'e bağlı kalıtım ve derin doku/hemartroz kanaması tipiktir."
+        },
+        {
+          "id": "IM-HEM-09",
+          "question": "Hemofili A'da inhibitör gelişmişse hangi tedavi seçenekleri kullanılabilir?",
+          "answer": "Bölümüne göre bypass ajanları (rFVIIa veya aktive PCC); emicizumab profilaksi seçeneğidir.",
+          "explanation": "İnhibitör varlığında standart faktör replasmanı etkisiz kalabilir; uzman merkez yönetir."
+        },
+        {
+          "id": "IM-HEM-10",
+          "question": "İmmün trombositopenide (ITP) tipik laboratuvar paterni nedir?",
+          "answer": "İzole trombositopeni; periferik yaymada büyük trombositler görülebilir.",
+          "explanation": "Anemi/lökopeni veya anormal yayma başka tanı düşündürür."
+        },
+        {
+          "id": "IM-HEM-11",
+          "question": "TTP'nin klasik laboratuvar ve klinik özellikleri nelerdir?",
+          "answer": "Mikroanjiyopatik hemolitik anemi, trombositopeni ve ADAMTS13 aktivitesinde ağır azalma.",
+          "explanation": "Şüphede plazma değişimi acildir; pentadın tamamlanması beklenmez."
+        },
+        {
+          "id": "IM-HEM-12",
+          "question": "DIC'de beklenen laboratuvar değişiklikleri nelerdir?",
+          "answer": "Trombosit ve fibrinojen düşer; PT/aPTT ve D-dimer artar.",
+          "explanation": "Altta yatan neden tedavi edilir; kan ürünü desteği aktif kanama/prosedür gereksinimine göre verilir."
+        },
+        {
+          "id": "IM-HEM-13",
+          "question": "HIT tip 2 hangi zamanlama ve mekanizmayla gelişir?",
+          "answer": "Heparin başlangıcından çoğunlukla 5–10 gün sonra PF4-heparin antikorlarıyla trombosit aktivasyonu.",
+          "explanation": "Trombosit sayısı düşerken tromboz riski artar; heparin hemen kesilir."
+        },
+        {
+          "id": "IM-HEM-14",
+          "question": "HIT şüphesinde antikoagülasyon nasıl yönetilir?",
+          "answer": "Tüm heparin kesilir ve uygun hastada argatroban, bivalirudin veya fondaparinuks gibi heparin dışı antikoagülan başlanır.",
+          "explanation": "Warfarin trombosit düzelmeden başlanmaz; 4T skoru olasılığı sınıflandırır."
+        },
+        {
+          "id": "IM-HEM-15",
+          "question": "Vitamin K eksikliği ilk olarak hangi koagülasyon testini uzatır?",
+          "answer": "PT/INR; faktör VII'nin yarı ömrü kısadır.",
+          "explanation": "II, VII, IX ve X ile protein C/S vitamin K bağımlıdır."
+        },
+        {
+          "id": "IM-HEM-16",
+          "question": "Varfarin etkisini izlemek için hangi test kullanılır?",
+          "answer": "PT üzerinden hesaplanan INR.",
+          "explanation": "Hedef INR endikasyona göre değişir; mekanik kapaklarda çoğunlukla daha yüksektir."
+        },
+        {
+          "id": "IM-HEM-17",
+          "question": "Varfarin ilişkili ciddi kanamada geri çevirme yaklaşımı nedir?",
+          "answer": "IV vitamin K ve dört faktörlü PCC; PCC yoksa plazma düşünülebilir.",
+          "explanation": "Hayatı tehdit eden kanamada yalnız vitamin K'nın etkisi yavaştır."
+        },
+        {
+          "id": "IM-HEM-18",
+          "question": "Eritrosit transfüzyonu için stabil erişkinde genel restriktif eşik nedir?",
+          "answer": "Çoğu hemodinamik stabil hastada Hb yaklaşık <7 g/dL; klinik bağlama göre bireyselleştirilir.",
+          "explanation": "Aktif iskemi, semptom, kanama ve kardiyovasküler durum eşik kararını değiştirir."
+        },
+        {
+          "id": "IM-HEM-19",
+          "question": "Akut hemolitik transfüzyon reaksiyonunda ilk yapılacak işlem nedir?",
+          "answer": "Transfüzyonu derhal durdurmak; damar yolunu serum fizyolojikle açık tutup kan bankasına haber vermek.",
+          "explanation": "ABO uyumsuzluğu, ateş, bel ağrısı, hipotansiyon ve hemoglobinüri görülebilir."
+        },
+        {
+          "id": "IM-HEM-20",
+          "question": "Febril nonhemolitik ve akut hemolitik transfüzyon reaksiyonunu ayıran kritik nokta nedir?",
+          "answer": "Hemoliz bulguları, hipotansiyon, hemoglobinüri ve böbrek hasarı akut hemolitik reaksiyonu düşündürür.",
+          "explanation": "Her reaksiyonda transfüzyon durdurulur ve hemoliz/uyumsuzluk araştırılır."
+        }
+      ]
+    },
+    {
+      "id": "im-gastro-ileri",
+      "title": "Dahiliye · Gastroenteroloji: malabsorpsiyon ve neoplaziler",
+      "cards": [
+        {
+          "id": "IM-GI2-01",
+          "question": "Malabsorpsiyon sendromunda steatore dışında hangi besin eksiklikleri görülebilir?",
+          "answer": "Demir, folat, B12, kalsiyum, D vitamini ve yağda çözünen vitamin eksiklikleri.",
+          "explanation": "Tutulan bağırsak segmenti ve hastalık mekanizması eksiklik profilini belirler."
+        },
+        {
+          "id": "IM-GI2-02",
+          "question": "Terminal ileum hastalığı veya rezeksiyonu hangi iki eksikliğe yol açabilir?",
+          "answer": "Vitamin B12 ve safra tuzu emilim bozukluğu.",
+          "explanation": "B12 eksikliği megaloblastik anemi; safra tuzu kaybı ishal ve geniş rezeksiyonda steatore yapabilir."
+        },
+        {
+          "id": "IM-GI2-03",
+          "question": "Pankreas ekzokrin yetmezliğinde en yararlı dışkı testi nedir?",
+          "answer": "Fekal elastaz-1.",
+          "explanation": "Düşük değer pankreatik enzim yetersizliğini destekler; sulu dışkı yalancı düşük sonuç verebilir."
+        },
+        {
+          "id": "IM-GI2-04",
+          "question": "Laktoz intoleransının temel mekanizması nedir?",
+          "answer": "İnce bağırsak laktaz eksikliğiyle laktozun kolonda fermantasyonu.",
+          "explanation": "Süt sonrası şişkinlik, gaz ve ozmotik ishal yapar; hidrojen nefes testi kullanılabilir."
+        },
+        {
+          "id": "IM-GI2-05",
+          "question": "Whipple hastalığını düşündüren klasik klinik birliktelik nedir?",
+          "answer": "Kilo kaybı, ishal/malabsorpsiyon, artralji ve PAS-pozitif makrofajlar.",
+          "explanation": "Tropheryma whipplei neden olur; ince bağırsak biyopsisi tanıda önemlidir."
+        },
+        {
+          "id": "IM-GI2-06",
+          "question": "Mikroskopik kolitte kolonoskopi görünümü genellikle nasıldır?",
+          "answer": "Makroskopik olarak normal veya normale yakın; tanı biyopsiyle konur.",
+          "explanation": "Kronik sulu, kanamasız ishalde düşünülür; kollajenöz ve lenfositik tipleri vardır."
+        },
+        {
+          "id": "IM-GI2-07",
+          "question": "İskemik kolit en sık hangi klinik bağlamda görülür?",
+          "answer": "Özellikle yaşlı/aterosklerotik hastada ani kramp tarzı karın ağrısı ve ardından hematokezya.",
+          "explanation": "Splenik fleksura ve rektosigmoid sınır bölgeleri duyarlıdır."
+        },
+        {
+          "id": "IM-GI2-08",
+          "question": "Divertikülitte tipik klinik ve görüntüleme bulgusu nedir?",
+          "answer": "Sol alt kadran ağrısı, ateş ve lökositoz; BT'de divertikül çevresi inflamasyon.",
+          "explanation": "Komplikasyonsuz olguda tedavi seçimi klinik şiddet ve risklere göre belirlenir."
+        },
+        {
+          "id": "IM-GI2-09",
+          "question": "Akut mezenter iskemi için en önemli klinik uyarı nedir?",
+          "answer": "Muayene bulgularına göre orantısız şiddette karın ağrısı.",
+          "explanation": "Emboli, tromboz veya düşük akım nedenleri; acil BT anjiyografi ve cerrahi değerlendirme gerekir."
+        },
+        {
+          "id": "IM-GI2-10",
+          "question": "Kolorektal kanser taramasında ortalama riskli erişkin için yaygın başlangıç yaşı nedir?",
+          "answer": "Birçok kılavuzda 45 yaş.",
+          "explanation": "Tarama yöntemi ve aralığı ülke kılavuzu, aile öyküsü ve risk durumuna göre seçilir."
+        },
+        {
+          "id": "IM-GI2-11",
+          "question": "Demir eksikliği anemisi olan erişkin erkekte hangi gastrointestinal değerlendirme önemlidir?",
+          "answer": "Gizli gastrointestinal kan kaybı için üst ve alt endoskopik değerlendirme.",
+          "explanation": "Kolorektal veya üst GİS malignitesi dışlanmalıdır."
+        },
+        {
+          "id": "IM-GI2-12",
+          "question": "Lynch sendromunda hangi moleküler sistem bozulur?",
+          "answer": "DNA mismatch repair genleri; MLH1, MSH2, MSH6, PMS2 veya EPCAM ilişkili.",
+          "explanation": "Kolorektal ve endometrium başta olmak üzere çeşitli kanser riskleri artar."
+        },
+        {
+          "id": "IM-GI2-13",
+          "question": "Ailesel adenomatöz polipoziste temel genetik kusur ve risk nedir?",
+          "answer": "APC tümör baskılayıcı gen mutasyonu; çok sayıda adenomatöz polip ve tedavisiz yüksek kolorektal kanser riski.",
+          "explanation": "Profilaktik cerrahi ve üst GİS izlemi gündeme gelir."
+        },
+        {
+          "id": "IM-GI2-14",
+          "question": "GİS stromal tümör (GIST) hangi belirteçlerle ilişkilidir?",
+          "answer": "KIT (CD117) ve DOG1 pozitifliği; sıklıkla KIT veya PDGFRA mutasyonu.",
+          "explanation": "İmatinib seçilmiş ileri/metastatik veya adjuvan olgularda kullanılır."
+        },
+        {
+          "id": "IM-GI2-15",
+          "question": "Hepatoselüler karsinomda sirozlu hastada tanısal görüntüleme paterni nedir?",
+          "answer": "Çok fazlı BT/MR'de arteriyel fazda hiperenhansman ve portal/geç fazda washout.",
+          "explanation": "Uygun risk grubunda tipik görüntüleme noninvaziv tanı sağlayabilir."
+        },
+        {
+          "id": "IM-GI2-16",
+          "question": "Pankreas adenokarsinomunda baş ve gövde tümörlerinin klinik farkı nedir?",
+          "answer": "Baş tümörü ağrısız obstrüktif sarılık yapabilir; gövde/kuyruk tümörü daha geç belirti verebilir.",
+          "explanation": "Yeni başlangıçlı diyabet, kilo kaybı ve sırt ağrısı uyarıcı olabilir."
+        },
+        {
+          "id": "IM-GI2-17",
+          "question": "Özofagus adenokarsinomu için başlıca risk faktörleri nelerdir?",
+          "answer": "Barrett özofagusu, kronik GERD, obezite ve sigara.",
+          "explanation": "Distal özofagusta daha sık görülür."
+        },
+        {
+          "id": "IM-GI2-18",
+          "question": "Özofagus skuamöz hücreli karsinomunun önemli risk faktörleri nelerdir?",
+          "answer": "Sigara, alkol, akalazya ve kostik darlık öyküsü.",
+          "explanation": "Üst/orta özofagus yerleşimi daha tipiktir."
+        },
+        {
+          "id": "IM-GI2-19",
+          "question": "Barrett özofagusu nasıl tanımlanır ve neden izlenir?",
+          "answer": "Distal özofagusta intestinal metaplazi; adenokarsinom öncül lezyonudur.",
+          "explanation": "Endoskopik biyopsi ve displazi derecesine göre takip/tedavi yapılır."
+        },
+        {
+          "id": "IM-GI2-20",
+          "question": "Karsinoid sendrom hangi durumda ortaya çıkar?",
+          "answer": "Özellikle karaciğer metastazı olan nöroendokrin tümörden serotonin ve diğer mediyatörlerin sistemik salınmasıyla.",
+          "explanation": "Flushing, sekretuar ishal, bronkospazm ve sağ kalp kapak fibrozisi görülebilir."
+        }
+      ]
+    },
+    {
+      "id": "im-nefro-tubuler-diyaliz",
+      "title": "Dahiliye · Nefroloji: tübüler hastalıklar ve diyaliz",
+      "cards": [
+        {
+          "id": "IM-REN2-01",
+          "question": "Fanconi sendromunda proksimal tübül hangi maddeleri geri ememez?",
+          "answer": "Glukoz, fosfat, bikarbonat, aminoasit ve ürik asit.",
+          "explanation": "Normoglisemik glukozüri, fosfat kaybı ve proksimal RTA görülebilir."
+        },
+        {
+          "id": "IM-REN2-02",
+          "question": "Distal renal tübüler asidozda idrar pH'sı neden yüksektir?",
+          "answer": "Distal nefron hidrojen iyonu salgılayamadığı için idrar pH'sı genellikle >5,5 kalır.",
+          "explanation": "Hipokalemi, nefrolitiyazis ve nefrokalsinozis eşlik edebilir."
+        },
+        {
+          "id": "IM-REN2-03",
+          "question": "Tip 4 renal tübüler asidozun temel mekanizması nedir?",
+          "answer": "Aldosteron eksikliği veya direnciyle azalmış potasyum ve hidrojen atılımı.",
+          "explanation": "Hiperkalemik normal anyon açıklıklı metabolik asidoz tipiktir."
+        },
+        {
+          "id": "IM-REN2-04",
+          "question": "Bartter sendromunda hangi nefron bölgesi ve klinik patern etkilenir?",
+          "answer": "Henle kulpunun kalın çıkan kolu; hipokalemik metabolik alkaloz, normotansiyon ve yüksek renin/aldosteron.",
+          "explanation": "Loop diüretik etkisini taklit eder; hiperkalsiüri görülebilir."
+        },
+        {
+          "id": "IM-REN2-05",
+          "question": "Gitelman sendromu hangi diüretik etkisini taklit eder?",
+          "answer": "Tiazid etkisini; distal kıvrımlı tübülde NaCl kotransporter kusuru.",
+          "explanation": "Hipokalemik metabolik alkaloz, hipomagnezemi ve hipokalsiüri tipiktir."
+        },
+        {
+          "id": "IM-REN2-06",
+          "question": "Liddle sendromunda renin ve aldosteron düzeyleri nasıldır?",
+          "answer": "Her ikisi de baskılıdır; ENaC aktivitesi artmıştır.",
+          "explanation": "Erken hipertansiyon, hipokalemi ve metabolik alkaloz görülür; amilorid etkilidir."
+        },
+        {
+          "id": "IM-REN2-07",
+          "question": "Renal arter stenozunda ACEİ/ARB başlandıktan sonra kreatinin artışı neyi düşündürür?",
+          "answer": "Özellikle bilateral stenoz veya tek fonksiyonel böbrekte efferent arteriyol dilatasyonuna bağlı GFR düşüşünü.",
+          "explanation": "Kreatinin ve potasyum başlangıçtan sonra izlenir; klinik bağlamla değerlendirilir."
+        },
+        {
+          "id": "IM-REN2-08",
+          "question": "Akut interstisyel nefritte klasik klinik üçlü nedir?",
+          "answer": "Ateş, döküntü ve eozinofili; ancak üçlü çoğu hastada birlikte bulunmaz.",
+          "explanation": "İlaçlar, özellikle antibiyotikler, NSAİİ ve PPI neden olabilir; idrar bulguları değişkendir."
+        },
+        {
+          "id": "IM-REN2-09",
+          "question": "Nefrotik sendromda tromboz riski neden artar?",
+          "answer": "Antitrombin III ve diğer antikoagülan proteinlerin idrarla kaybı ve prokoagülan dengenin değişmesi.",
+          "explanation": "Membranöz nefropatide renal ven trombozu riski belirgindir."
+        },
+        {
+          "id": "IM-REN2-10",
+          "question": "Nefrotik sendromda enfeksiyon yatkınlığının mekanizması nedir?",
+          "answer": "İmmünoglobulin ve kompleman faktörlerinin idrarla kaybı.",
+          "explanation": "Özellikle kapsüllü bakterilere karşı yatkınlık artabilir."
+        },
+        {
+          "id": "IM-REN2-11",
+          "question": "Diyaliz için AEIOU yaklaşımındaki harfler neyi temsil eder?",
+          "answer": "Asidoz, elektrolit bozukluğu, intoksikasyon, volüm yükü ve üremik komplikasyonlar.",
+          "explanation": "Karar tek kreatinin/eGFR değerine değil klinik duruma dayanır."
+        },
+        {
+          "id": "IM-REN2-12",
+          "question": "Hemodiyaliz sırasında hipotansiyonun sık nedeni nedir?",
+          "answer": "Ultrafiltrasyonla intravasküler volümün hızlı azalması.",
+          "explanation": "Ultrafiltrasyon hızı, kuru ağırlık ve antihipertansif zamanlaması gözden geçirilir."
+        },
+        {
+          "id": "IM-REN2-13",
+          "question": "Periton diyalizinde bulanık diyalizat ve karın ağrısı ne düşündürür?",
+          "answer": "Peritonit.",
+          "explanation": "Diyalizat hücre sayımı/diferansiyel ve kültür alınır; ampirik intraperitoneal antibiyotik geciktirilmez."
+        },
+        {
+          "id": "IM-REN2-14",
+          "question": "Hemodiyaliz hastasında fistülün işlevini yatak başında nasıl değerlendirirsin?",
+          "answer": "Palpasyonla thrill ve oskültasyonla bruit aranır.",
+          "explanation": "Thrill/bruit kaybı tromboz veya akım sorununu düşündürür; fistülden kan basıncı ölçülmez."
+        },
+        {
+          "id": "IM-REN2-15",
+          "question": "Diyaliz disequilibrium sendromu hangi mekanizmayla gelişir?",
+          "answer": "Ürenin plazmadan beyinden daha hızlı uzaklaştırılmasıyla geçici osmotik gradyan ve serebral ödem oluşması.",
+          "explanation": "İlk diyalizlerde yüksek üreli hastada yavaş/az yoğun diyaliz tercih edilir."
+        },
+        {
+          "id": "IM-REN2-16",
+          "question": "Kronik böbrek hastasında üremik perikardit nasıl yönetilir?",
+          "answer": "Acil ve yoğun diyaliz endikasyonudur.",
+          "explanation": "Perikardiyal tamponad açısından değerlendirme gerekir; antikoagülasyon dikkatle ele alınır."
+        },
+        {
+          "id": "IM-REN2-17",
+          "question": "Nefrojenik diabetes insipidusta desmopressine yanıt nasıldır?",
+          "answer": "Yok veya sınırlıdır.",
+          "explanation": "Lityum, hiperkalsemi ve hipokalemi neden olabilir; su kısıtlaması değil serbest su erişimi önemlidir."
+        },
+        {
+          "id": "IM-REN2-18",
+          "question": "Lityum nefrotoksisitesinin klasik tübüler sonucu nedir?",
+          "answer": "Toplayıcı kanalın ADH'ye direnciyle nefrojenik diabetes insipidus.",
+          "explanation": "Kronik kullanımda CKD ve tübülointerstisyel hasar da gelişebilir."
+        },
+        {
+          "id": "IM-REN2-19",
+          "question": "Renal osteodistrofide yüksek fosfat ve düşük kalsitriol PTH'yi nasıl etkiler?",
+          "answer": "Sekonder hiperparatiroidiyi artırır.",
+          "explanation": "CKD-MBD izlemi kalsiyum, fosfat, PTH ve ALP eğilimleriyle yapılır."
+        },
+        {
+          "id": "IM-REN2-20",
+          "question": "Kontrast ilişkili AKI riskini azaltmada temel yaklaşım nedir?",
+          "answer": "Yüksek riskli hastada uygun izotonik sıvı, gereksiz kontrasttan kaçınma ve mümkün olan en düşük kontrast dozunu kullanma.",
+          "explanation": "Gerekli görüntüleme sırf kreatinin riski nedeniyle otomatik olarak ertelenmez."
+        }
+      ]
+    },
+    {
+      "id": "im-metabolik-lipid-kemik",
+      "title": "Dahiliye · Metabolik hastalıklar, dislipidemi ve kemik",
+      "cards": [
+        {
+          "id": "IM-MET-01",
+          "question": "Ailesel hiperkolesterolemide hangi klinik ve laboratuvar ipuçları bulunur?",
+          "answer": "Çok yüksek LDL-C, erken aterosklerotik kardiyovasküler hastalık aile öyküsü ve tendon ksantomları.",
+          "explanation": "LDLR, APOB veya PCSK9 varyantları sık nedenlerdir."
+        },
+        {
+          "id": "IM-MET-02",
+          "question": "Hipertrigliseridemide akut pankreatit riski hangi düzeyde belirgin artar?",
+          "answer": "Özellikle TG ≥500 mg/dL'de artar; ≥1000 mg/dL'de belirginleşir.",
+          "explanation": "Sekonder nedenler, diyabet kontrolü, alkol ve ilaçlar araştırılır."
+        },
+        {
+          "id": "IM-MET-03",
+          "question": "Statin tedavisinin temel mekanizması nedir?",
+          "answer": "HMG-CoA redüktaz inhibisyonu ve hepatik LDL reseptör ekspresyonunun artması.",
+          "explanation": "LDL düşüşü ve kardiyovasküler olay riskinde azalma sağlar."
+        },
+        {
+          "id": "IM-MET-04",
+          "question": "Statin ilişkili kas semptomlarında hangi durumlar dışlanmalıdır?",
+          "answer": "Hipotiroidi, ilaç etkileşimleri, yoğun egzersiz ve diğer miyopati nedenleri.",
+          "explanation": "CK ölçümü belirgin semptom veya güçsüzlükte yararlıdır."
+        },
+        {
+          "id": "IM-MET-05",
+          "question": "Statin kullanımı sırasında rabdomiyolizi düşündüren bulgular nelerdir?",
+          "answer": "Şiddetli kas ağrısı/güçsüzlük, belirgin CK artışı ve miyoglobinüri.",
+          "explanation": "İlaç kesilir; renal fonksiyon ve elektrolitler değerlendirilir."
+        },
+        {
+          "id": "IM-MET-06",
+          "question": "Lp(a) yüksekliği neden klinik açıdan önemlidir?",
+          "answer": "Bağımsız aterosklerotik kardiyovasküler hastalık ve aort stenozu risk belirtecidir.",
+          "explanation": "Genetik olarak belirlenir; seçilmiş hastada en az bir kez ölçüm düşünülebilir."
+        },
+        {
+          "id": "IM-MET-07",
+          "question": "Metabolik sendromun temel bileşenleri nelerdir?",
+          "answer": "Abdominal obezite, yüksek trigliserid, düşük HDL, hipertansiyon ve yüksek açlık glukozu.",
+          "explanation": "Tanı ölçütlerinde en az üç bileşen kullanılır; eşikler kılavuza göre değişebilir."
+        },
+        {
+          "id": "IM-MET-08",
+          "question": "Osteoporozda frajilite kırığı neyi ifade eder?",
+          "answer": "Düşük enerjili travmayla, tipik olarak ayakta durma yüksekliğinden düşmeyle oluşan kırığı.",
+          "explanation": "T-skoru osteoporotik aralıkta olmasa da tedavi gerektirebilir."
+        },
+        {
+          "id": "IM-MET-09",
+          "question": "Osteoporoz tedavisinde bisfosfonatların temel etki mekanizması nedir?",
+          "answer": "Osteoklast aracılı kemik rezorpsiyonunu baskılamak.",
+          "explanation": "Oral kullanımda özofajit riski; renal fonksiyon ve çene osteonekrozu riski değerlendirilir."
+        },
+        {
+          "id": "IM-MET-10",
+          "question": "Denosumab hangi hedefi inhibe eder ve kesilmesinde neye dikkat edilir?",
+          "answer": "RANKL'yi inhibe ederek osteoklast oluşumunu azaltır; kesilince rebound vertebra kırığı riski nedeniyle ardışık antiresorptif gerekir.",
+          "explanation": "Doz gecikmesi/kesilmesi planlı yönetilmelidir."
+        },
+        {
+          "id": "IM-MET-11",
+          "question": "Osteomalazi ile osteoporozun temel patolojik farkı nedir?",
+          "answer": "Osteomalazide osteoid mineralizasyonu bozulur; osteoporozda kemik kütlesi azalır ancak mineralizasyon temelde normaldir.",
+          "explanation": "D vitamini eksikliği osteomalaziye; yaş ve hormon değişimleri osteoporoza katkı sağlar."
+        },
+        {
+          "id": "IM-MET-12",
+          "question": "Paget kemik hastalığında tipik laboratuvar bulgusu nedir?",
+          "answer": "ALP yüksekliği; kalsiyum ve fosfat çoğunlukla normaldir.",
+          "explanation": "Kemik ağrısı, deformite ve radyolojik olarak genişlemiş kemik görülebilir."
+        },
+        {
+          "id": "IM-MET-13",
+          "question": "D vitamini toksisitesinde hangi biyokimyasal bozukluk gelişir?",
+          "answer": "Hiperkalsemi ve hiperkalsiüri; 25-OH D belirgin yüksek.",
+          "explanation": "Bulantı, poliüri, nefrolitiyazis ve nöropsikiyatrik bulgular yapabilir."
+        },
+        {
+          "id": "IM-MET-14",
+          "question": "Hipofosfatemik osteomalazinin erişkin klinik bulguları nelerdir?",
+          "answer": "Kemik ağrısı, proksimal kas güçsüzlüğü ve frajilite kırıkları.",
+          "explanation": "Renal fosfat kaybı ve FGF23 aracılı nedenler araştırılır."
+        },
+        {
+          "id": "IM-MET-15",
+          "question": "Gut hastasında serum üratı atak sırasında normal olabilir mi?",
+          "answer": "Evet; akut atakta serum üratı normal aralıkta bulunabilir.",
+          "explanation": "Tanı için eklem sıvısında ürat kristali gösterilmesi en güçlü kanıttır."
+        },
+        {
+          "id": "IM-MET-16",
+          "question": "CPPD (psödogut) kristallerinin mikroskopik özelliği nedir?",
+          "answer": "Romboid biçimli, zayıf pozitif çift kırınımlı kalsiyum pirofosfat kristalleri.",
+          "explanation": "Diz ve el bileği sık tutulur; kondrokalsinozis görüntülemede görülebilir."
+        },
+        {
+          "id": "IM-MET-17",
+          "question": "Septik artrit şüphesinde kristal saptanması enfeksiyonu dışlar mı?",
+          "answer": "Hayır; kristal artriti ve septik artrit birlikte bulunabilir.",
+          "explanation": "Ateş olmasa da eklem aspirasyonu, hücre sayımı, Gram ve kültür gerekir."
+        },
+        {
+          "id": "IM-MET-18",
+          "question": "Fibromiyaljide tipik laboratuvar ve muayene paterni nedir?",
+          "answer": "Yaygın ağrı, yorgunluk ve uyku bozukluğu; inflamatuvar belirteçler ve CK genellikle normaldir.",
+          "explanation": "Tanı kliniktir; inflamatuvar/endojen nedenler ve uyku bozuklukları değerlendirilir."
+        },
+        {
+          "id": "IM-MET-19",
+          "question": "Osteoartritte sinovyal sıvı genellikle nasıldır?",
+          "answer": "Noninflamatuvar; viskozitesi korunmuş, lökosit sayısı düşüktür.",
+          "explanation": "Aktiviteyle artan ağrı, kısa sabah tutukluğu ve osteofitler tipiktir."
+        },
+        {
+          "id": "IM-MET-20",
+          "question": "Ailevi Akdeniz ateşinde (FMF) tipik atak örüntüsü nedir?",
+          "answer": "Tekrarlayan kısa süreli ateş, serozit (peritonit/plevrit) ve bazen artrit atakları.",
+          "explanation": "MEFV ilişkili otoinflamatuvar hastalıktır; kolşisin amiloidoz riskini azaltır."
+        }
+      ]
     }
   ]
 }
