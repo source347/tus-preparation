@@ -3,7 +3,8 @@
 Bu klasör GitHub Pages üzerinden yayımlanan statik çalışma arayüzünü içerir.
 
 ## Katalog (24 Kasım 2026)
-75 deste ve 1.281 kart içerir; farmakoloji bölümü 12 deste ve 137 karttan oluşur.
+
+76 deste ve 1.298 kart içerir. Klinik bilimlerde ilk deste: Dahiliye — anemiye yaklaşım ve demir eksikliği (17 kart).
 
 ## Özellikler
 - Kart çevirme, önceki/sonraki kart ve konu seçimi
