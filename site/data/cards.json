@@ -2411,6 +2411,228 @@
           "explanation": "Doğum travması, levator ani hasarı ve bağ dokusu desteğinin zayıflaması prolapsusa katkı verir."
         }
       ]
+    },
+    {
+      "id": "anatomy-head-neck-regional",
+      "title": "Anatomi · Baş ve boyun bölgesel anatomi",
+      "cards": [
+        {
+          "id": "ANAT-HN-013-01",
+          "question": "Skalpın beş tabakası yüzeyelden derine nasıl sıralanır?",
+          "answer": "Skin, dense connective tissue, epicranial aponeurosis (galea), loose areolar tissue ve pericranium.",
+          "explanation": "Loose areolar tissue 'danger area' olarak bilinir; emissary venler aracılığıyla enfeksiyon intrakraniyal venöz sinüslere yayılabilir."
+        },
+        {
+          "id": "ANAT-HN-013-02",
+          "question": "Skalpın gevşek bağ dokusu tabakasının klinik önemi nedir?",
+          "answer": "Emissary venler aracılığıyla ekstrakraniyal venleri dural venöz sinüslere bağlar; enfeksiyonun intrakraniyal yayılımına yol açabilir.",
+          "explanation": "Bu nedenle loose areolar tissue skalpın tehlikeli tabakası olarak adlandırılır."
+        },
+        {
+          "id": "ANAT-HN-013-03",
+          "question": "Mimik kaslarının motor innervasyonu ve duyu innervasyonu hangi sinirlerle sağlanır?",
+          "answer": "Motor innervasyon n. facialis (VII); yüz derisinin genel duyusu n. trigeminus (V1, V2, V3) ile sağlanır.",
+          "explanation": "Parotis içinden geçen fasiyal sinir bezi sekretomotor innervasyonunu sağlamaz."
+        },
+        {
+          "id": "ANAT-HN-013-04",
+          "question": "N. facialis'in parotis içindeki terminal dalları hangileridir?",
+          "answer": "Temporal, zygomatic, buccal, marginal mandibular ve cervical dallar.",
+          "explanation": "Bu dallar mimik kaslarını innerve eder; parotis bezinin parasempatik sekretomotor lifleri glossopharyngeal sinir kaynaklıdır."
+        },
+        {
+          "id": "ANAT-HN-013-05",
+          "question": "Parotis bezinin parasempatik sekretomotor yolu nasıldır?",
+          "answer": "N. glossopharyngeus (IX) → n. tympanicus → n. petrosus minor → ganglion oticum → n. auriculotemporalis (V3) → parotis.",
+          "explanation": "N. facialis parotis içinden geçse de bezin sekretomotor siniri değildir."
+        },
+        {
+          "id": "ANAT-HN-013-06",
+          "question": "Submandibular ve sublingual bezlerin parasempatik innervasyonu hangi yolla sağlanır?",
+          "answer": "N. facialis'in chorda tympani dalı, n. lingualis'e (V3) katılır ve ganglion submandibulare'de sinaps yapar.",
+          "explanation": "Postganglionik lifler submandibular ve sublingual bezlere ulaşır."
+        },
+        {
+          "id": "ANAT-HN-013-07",
+          "question": "Trigeminal sinirin üç dalı ve kafatasından çıktıkları açıklıklar nelerdir?",
+          "answer": "V1 fissura orbitalis superior; V2 foramen rotundum; V3 foramen ovale.",
+          "explanation": "V3 hem duyusal hem motor lif taşır; V1 ve V2 yalnızca duyusaldır."
+        },
+        {
+          "id": "ANAT-HN-013-08",
+          "question": "Foramen mentale'den hangi nörovasküler yapılar çıkar?",
+          "answer": "N. mentalis ve a. et v. mentalis; bunlar n. alveolaris inferior ve inferior alveolar damarların terminal devamlarıdır.",
+          "explanation": "Alt dudak ve çene derisinin duyusunu sağlar."
+        },
+        {
+          "id": "ANAT-HN-013-09",
+          "question": "N. lingualis dilin hangi duyularını taşır ve chorda tympani ile ilişkisi nedir?",
+          "answer": "Ön 2/3 dilin genel duyusunu V3'ün dalı olarak taşır; chorda tympani ile birleşerek aynı bölgenin tat duyusunu ve submandibular gangliona giden preganglionik parasempatik lifleri iletir.",
+          "explanation": "Dil ön 2/3 tat duyusu VII, genel duyusu V3; arka 1/3 her iki duyu IX ile taşınır."
+        },
+        {
+          "id": "ANAT-HN-013-10",
+          "question": "Dil kaslarının motor innervasyonunda istisna hangisidir?",
+          "answer": "Palatoglossus dışındaki tüm dil kasları n. hypoglossus (XII) ile; palatoglossus vagusun farengeal pleksus dalıyla innerve edilir.",
+          "explanation": "XII lezyonunda dil protrüzyonda lezyon tarafına deviye olur."
+        },
+        {
+          "id": "ANAT-HN-013-11",
+          "question": "Ağız tabanının temel kasları ve innervasyonları nelerdir?",
+          "answer": "Mylohyoid ve digastrik kasın ön karnı n. mylohyoideus (V3); geniohyoid C1 lifleriyle n. hypoglossus üzerinden innerve edilir.",
+          "explanation": "Ağız tabanı cerrahisinde lingual sinir, submandibular kanal ve hipoglossal sinir komşulukları önemlidir."
+        },
+        {
+          "id": "ANAT-HN-013-12",
+          "question": "Waldeyer lenfatik halkasını hangi lenfoid yapılar oluşturur?",
+          "answer": "Tonsilla pharyngealis, tubaria, palatina ve lingualis.",
+          "explanation": "Nazofarenks, orofarenks ve dil kökü çevresinde mukozal immün savunma halkası oluşturur."
+        },
+        {
+          "id": "ANAT-HN-013-13",
+          "question": "Tonsilla palatina'nın cerrahi açıdan önemli komşuluğu nedir?",
+          "answer": "Lateralinde m. constrictor pharyngis superior ve peritonsiller aralık; daha derinde a. carotis interna bulunur.",
+          "explanation": "Tonsillektomi sırasında kanama ve nadiren karotis yaralanması riski anatomik komşulukla ilişkilidir."
+        },
+        {
+          "id": "ANAT-HN-013-14",
+          "question": "Burun septumunun kemik ve kıkırdak bileşenleri nelerdir?",
+          "answer": "Lamina perpendicularis ossis ethmoidalis ve vomer kemik; önde septal kıkırdak.",
+          "explanation": "Septum deviasyonu nazal hava akımını etkileyebilir."
+        },
+        {
+          "id": "ANAT-HN-013-15",
+          "question": "Kiesselbach (Little) alanı nerede bulunur ve neden önemlidir?",
+          "answer": "Nazal septumun ön-alt bölümünde, septal arter dallarının anastomoz yaptığı alandır.",
+          "explanation": "Ön epistaksisin en sık kaynağıdır."
+        },
+        {
+          "id": "ANAT-HN-013-16",
+          "question": "Paranazal sinüslerin burun boşluğuna drenajı nasıl özetlenir?",
+          "answer": "Frontal ve maksiller sinüsler ile ön/orta etmoid hücreler orta meatusa; arka etmoid hücreler superior meatusa; sfenoid sinüs sphenoethmoidal resese açılır.",
+          "explanation": "Maksiller sinüs ostiumu yüksek yerleşimli olduğundan drenajı yerçekimine karşı gerçekleşir."
+        },
+        {
+          "id": "ANAT-HN-013-17",
+          "question": "Maksiller sinüs tabanının dişlerle ilişkisi nedir?",
+          "answer": "Maksiller molar ve premolar diş kökleri sinüs tabanına çok yakın olabilir.",
+          "explanation": "Diş kaynaklı enfeksiyonlar maksiller sinüse yayılabilir; diş çekimi sonrası oroantral fistül gelişebilir."
+        },
+        {
+          "id": "ANAT-HN-013-18",
+          "question": "N. olfactorius lifleri hangi kemik yapıdan geçer ve lezyonu neye yol açar?",
+          "answer": "Os ethmoidale'nin lamina cribrosa'sından geçer; hasarı anosmiye neden olur.",
+          "explanation": "Ön kafa tabanı travmasında BOS rinore eşlik edebilir."
+        },
+        {
+          "id": "ANAT-HN-013-19",
+          "question": "Orta kulak boşluğunun temel duvarları ve önemli komşulukları nelerdir?",
+          "answer": "Tegmental duvar orta kafa çukuruna; jugular duvar bulbus jugularis'e; labyrinthine duvar iç kulağa komşudur; mastoid duvar aditus ad antrum'u içerir.",
+          "explanation": "Orta kulak enfeksiyonu mastoid antrum ve mastoid hücrelere yayılabilir."
+        },
+        {
+          "id": "ANAT-HN-013-20",
+          "question": "Östaki tüpünün (tuba auditiva) işlevi ve açıldığı yer neresidir?",
+          "answer": "Orta kulağı nazofarenkse bağlar; basınç eşitlenmesini ve orta kulak havalanmasını sağlar.",
+          "explanation": "Çocuklarda daha kısa, yatay ve geniş olması otitis media yatkınlığını artırır."
+        },
+        {
+          "id": "ANAT-HN-013-21",
+          "question": "İç kulaktaki kemik labirent bölümleri nelerdir?",
+          "answer": "Vestibulum, canales semicirculares ossei ve cochlea.",
+          "explanation": "Membranöz labirent bu boşlukların içinde yer alır; perilenf kemik ve membranöz labirent arasındadır."
+        },
+        {
+          "id": "ANAT-HN-013-22",
+          "question": "Boynun derin servikal fasyasının ana yaprakları nelerdir?",
+          "answer": "Investing, pretracheal ve prevertebral yapraklar; ayrıca carotid sheath bu fasya sisteminin yoğunlaşmış uzantısıdır.",
+          "explanation": "Fasya aralıkları boyun enfeksiyonlarının mediastene yayılım yollarını belirler."
+        },
+        {
+          "id": "ANAT-HN-013-23",
+          "question": "Karotis kılıfı içinde hangi temel yapılar bulunur?",
+          "answer": "A. carotis communis/interna, v. jugularis interna ve n. vagus; derin servikal lenf nodları da kılıfla ilişkilidir.",
+          "explanation": "Vagus arter ile ven arasında ve posterior konumda seyreder."
+        },
+        {
+          "id": "ANAT-HN-013-24",
+          "question": "Boynun ön üçgeninin temel alt üçgenleri hangileridir?",
+          "answer": "Submental, submandibular (digastrik), carotid ve muscular üçgenler.",
+          "explanation": "Üçgenler damar, sinir, tükürük bezi ve visseral boyun yapılarının topografik yerleşimini tanımlar."
+        },
+        {
+          "id": "ANAT-HN-013-25",
+          "question": "Boynun arka üçgeninin sınırları ve içeriğindeki önemli sinirler nelerdir?",
+          "answer": "Önde sternocleidomastoideus arka kenarı, arkada trapezius ön kenarı, altta clavicula; n. accessorius (XI), plexus cervicalis dalları ve brakiyal pleksus kök/trunkusları içerir.",
+          "explanation": "N. accessorius yüzeyel seyrettiği için arka üçgen biyopsi ve lenf nodu diseksiyonunda yaralanabilir."
+        },
+        {
+          "id": "ANAT-HN-013-26",
+          "question": "Ansa cervicalis hangi köklerden oluşur ve hangi kasları innerve eder?",
+          "answer": "C1–C3 liflerinden oluşur; omohyoid, sternohyoid ve sternothyroid kaslarını innerve eder.",
+          "explanation": "Geniohyoid ve thyrohyoid kaslar C1 liflerini n. hypoglossus üzerinden alır; ansa cervicalis ile karıştırılmamalıdır."
+        },
+        {
+          "id": "ANAT-HN-013-27",
+          "question": "N. phrenicus boyunda hangi kas üzerinde ve hangi köklerden seyreder?",
+          "answer": "C3–C5 köklerinden oluşur; m. scalenus anterior'un ön yüzünde aşağı iner.",
+          "explanation": "Diyaframın motor innervasyonunu sağlar; boyun cerrahisinde korunmalıdır."
+        },
+        {
+          "id": "ANAT-HN-013-28",
+          "question": "A. carotis communis tipik olarak hangi seviyede iki terminal dala ayrılır?",
+          "answer": "C4 düzeyinde, cartilago thyroidea üst kenarı civarında a. carotis interna ve externa'ya ayrılır.",
+          "explanation": "Karotis sinüsü bifurkasyon çevresinde basınç reseptörleri; karotis cismi kemoreseptörler içerir."
+        },
+        {
+          "id": "ANAT-HN-013-29",
+          "question": "A. carotis externa'nın sekiz klasik dalı hangileridir?",
+          "answer": "Superior thyroid, ascending pharyngeal, lingual, facial, occipital, posterior auricular, maxillary ve superficial temporal arterler.",
+          "explanation": "İlk iki dal genellikle anterior/medial; terminal dallar maxillary ve superficial temporal arterlerdir."
+        },
+        {
+          "id": "ANAT-HN-013-30",
+          "question": "Tiroid bezinin arteriyel kanlanması hangi damarlardan gelir?",
+          "answer": "A. thyroidea superior (external carotid) ve a. thyroidea inferior (truncus thyrocervicalis); bazen a. thyroidea ima bulunur.",
+          "explanation": "Tiroid cerrahisinde superior laringeal sinirin external dalı ve rekürren laringeal sinir korunmalıdır."
+        },
+        {
+          "id": "ANAT-HN-013-31",
+          "question": "N. laryngeus recurrens'in sağ ve sol taraftaki dönüş yolları nasıldır?",
+          "answer": "Sağda a. subclavia'nın, solda arcus aortae'nin altından dönerek trakeoözofageal olukta yukarı çıkar.",
+          "explanation": "Tiroid cerrahisinde yaralanması ses kısıklığına; bilateral hasar ciddi hava yolu sorununa neden olabilir."
+        },
+        {
+          "id": "ANAT-HN-013-32",
+          "question": "N. laryngeus superior'un internal ve external dalları hangi işlevleri görür?",
+          "answer": "Internal dal supraglottik larenks mukozasının duyusunu; external dal m. cricothyroideus'un motor innervasyonunu sağlar.",
+          "explanation": "Internal dalın hasarı aspirasyon riskini; external dal hasarı yüksek perdeye çıkma güçlüğünü artırır."
+        },
+        {
+          "id": "ANAT-HN-013-33",
+          "question": "Tiroid bezinin lenfatik drenajı başlıca hangi nod gruplarına olur?",
+          "answer": "Prelaryngeal (Delphian), pretracheal, paratracheal ve derin servikal lenf nodlarına.",
+          "explanation": "Tiroid malignitelerinde santral ve lateral boyun kompartımanları cerrahi evreleme açısından önemlidir."
+        },
+        {
+          "id": "ANAT-HN-013-34",
+          "question": "Paratiroid bezlerinin tipik yerleşimi ve embriyolojik kökenleri nelerdir?",
+          "answer": "Üst paratiroidler dördüncü, alt paratiroidler üçüncü faringeal cepten gelişir; alt bezler timusla birlikte göç ettiği için konumları daha değişkendir.",
+          "explanation": "Ektopik paratiroid dokusu özellikle mediastende bulunabilir."
+        },
+        {
+          "id": "ANAT-HN-013-35",
+          "question": "Servikal sempatik trunkus boyunda hangi yapının arkasında seyreder?",
+          "answer": "Prevertebral fasya üzerinde, karotis kılıfının posteriorunda ve longus capitis/longus colli kaslarının önünde seyreder.",
+          "explanation": "Servikal sempatik yol hasarı ipsilateral Horner sendromuna neden olabilir."
+        },
+        {
+          "id": "ANAT-HN-013-36",
+          "question": "Yüzeyel ve derin servikal lenf nodları hangi bölgeleri toplar?",
+          "answer": "Yüzeyel nodlar dış juguler ven boyunca; derin nodlar internal jugular ven boyunca yer alır ve baş-boyun lenfinin büyük bölümünü toplar.",
+          "explanation": "Jugulodigastrik nod tonsil; jugulo-omohyoid nod dil lenfatik drenajında klinik olarak öne çıkar."
+        }
+      ]
     }
   ]
 }
