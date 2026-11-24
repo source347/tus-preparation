@@ -9755,6 +9755,636 @@
           "explanation": "Görüntüleme biyokimyasal doğrulamadan sonra yapılır; cerrahi öncesi alfa blokaj şarttır."
         }
       ]
+    },
+    {
+      "id": "im-romatoloji",
+      "title": "Dahiliye · Romatolojik hastalıklar",
+      "cards": [
+        {
+          "id": "IM-RHE-01",
+          "question": "Romatoid artritte tipik eklem tutulumu nasıldır?",
+          "answer": "Simetrik MCP, PIP ve el bileği tutulumu; DIP genellikle korunur.",
+          "explanation": "Sabah tutukluğu ve sinovit tipiktir; erozyon gelişebilir."
+        },
+        {
+          "id": "IM-RHE-02",
+          "question": "Romatoid artritte en özgül otoantikor hangisidir?",
+          "answer": "Anti-CCP (ACPA).",
+          "explanation": "RF daha az özgüldür; seronegatiflik RA'yı dışlamaz."
+        },
+        {
+          "id": "IM-RHE-03",
+          "question": "RA'da hastalık modifiye edici tedavide temel ilk yaklaşım nedir?",
+          "answer": "Tanı sonrası erken konvansiyonel DMARD; çoğu hastada metotreksat temel ilaçtır.",
+          "explanation": "Aktif hastalıkta hedef remisyon/düşük aktivitedir; folik asit eklenir."
+        },
+        {
+          "id": "IM-RHE-04",
+          "question": "Metotreksat kullanımında hangi önemli toksisiteler izlenir?",
+          "answer": "Hepatotoksisite, kemik iliği baskılanması, mukozit ve nadiren pnömonit.",
+          "explanation": "Gebelikte kontrendikedir; CBC, karaciğer ve renal fonksiyon izlenir."
+        },
+        {
+          "id": "IM-RHE-05",
+          "question": "SLE için yüksek özgüllüklü antikorlar hangileridir?",
+          "answer": "Anti-dsDNA ve anti-Smith.",
+          "explanation": "Anti-dsDNA aktivite/lupus nefritiyle ilişkili olabilir; ANA duyarlıdır ama özgül değildir."
+        },
+        {
+          "id": "IM-RHE-06",
+          "question": "SLE aktivitesinde kompleman düzeyleri genellikle nasıl değişir?",
+          "answer": "C3 ve C4 düşebilir.",
+          "explanation": "İmmün kompleks tüketimi özellikle aktif nefritte görülür."
+        },
+        {
+          "id": "IM-RHE-07",
+          "question": "Lupus nefritinde biyopsi kararını ve tedaviyi belirleyen temel nedir?",
+          "answer": "Proteinüri, aktif idrar sedimenti ve böbrek fonksiyonuyla birlikte renal biyopsi sınıfı.",
+          "explanation": "Histolojik sınıf immünsüpresyon seçimini belirler; yalnız ANA ile nefrit tanısı konmaz."
+        },
+        {
+          "id": "IM-RHE-08",
+          "question": "Antifosfolipid sendromu tanısı için klinik ve laboratuvar koşulu nedir?",
+          "answer": "Tromboz veya gebelik morbiditesi ile birlikte antifosfolipid antikorlarının en az 12 hafta arayla kalıcı pozitifliği.",
+          "explanation": "Lupus antikoagülanı, antikardiyolipin ve anti-β2GPI değerlendirilir."
+        },
+        {
+          "id": "IM-RHE-09",
+          "question": "Gut artritinde kristal özelliği ve polarizan mikroskopi bulgusu nedir?",
+          "answer": "İğne biçimli, negatif çift kırınımlı monosodyum ürat kristalleri.",
+          "explanation": "Eklem sıvısı incelemesi septik artriti dışlamada da önemlidir."
+        },
+        {
+          "id": "IM-RHE-10",
+          "question": "Akut gut atağında ilk basamak antiinflamatuvar seçenekler nelerdir?",
+          "answer": "NSAİİ, kolşisin veya glukokortikoid; komorbiditeye göre seçilir.",
+          "explanation": "Ürat düşürücü tedavi tek başına akut atağı hızla sonlandırmaz."
+        },
+        {
+          "id": "IM-RHE-11",
+          "question": "Gut hastasında allopurinol hangi stratejiyle başlanır?",
+          "answer": "Düşük doz başlanıp serum üratı hedefe göre titre edilir; çoğu hastada hedef <6 mg/dL.",
+          "explanation": "Alevlenme profilaksisi için başlangıçta düşük doz kolşisin/NSAİİ düşünülebilir."
+        },
+        {
+          "id": "IM-RHE-12",
+          "question": "Ankilozan spondilitte görüntülemede tipik bulgu nedir?",
+          "answer": "Sakroiliit; ileri evrede vertebral köprüleşme ve bambu kamışı omurga.",
+          "explanation": "İnflamatuvar bel ağrısı genç yaşta başlar ve egzersizle düzelir."
+        },
+        {
+          "id": "IM-RHE-13",
+          "question": "HLA-B27 pozitifliği ankilozan spondilit tanısını tek başına koydurur mu?",
+          "answer": "Hayır; klinik ve görüntüleme bulgularıyla birlikte değerlendirilir.",
+          "explanation": "HLA-B27 toplumda hastalık olmadan da bulunabilir."
+        },
+        {
+          "id": "IM-RHE-14",
+          "question": "Dev hücreli arteritte görme kaybını önlemek için ne yapılır?",
+          "answer": "Klinik şüphede biyopsi beklenmeden yüksek doz glukokortikoid başlanır.",
+          "explanation": "Yeni baş ağrısı, çene klaudikasyonu ve görsel semptomlar uyarıcıdır."
+        },
+        {
+          "id": "IM-RHE-15",
+          "question": "Polimiyaljia romatika hangi klinik örüntüyle seyreder?",
+          "answer": "50 yaş üzerinde omuz/kalça kuşağında ağrı ve sabah tutukluğu; ESR/CRP sıklıkla yüksek.",
+          "explanation": "Kas güçsüzlüğü ve belirgin CK yüksekliği beklenmez; dev hücreli arteritle birliktelik aranır."
+        },
+        {
+          "id": "IM-RHE-16",
+          "question": "Granülomatoz polianjiit için tipik organ bulguları nelerdir?",
+          "answer": "Üst-alt solunum yolu hastalığı ve glomerülonefrit; sıklıkla PR3-ANCA.",
+          "explanation": "ANCA destekleyicidir; tanı klinik, biyopsi ve laboratuvarla konur."
+        },
+        {
+          "id": "IM-RHE-17",
+          "question": "Mikroskopik polianjiit granülomatoz polianjiitten nasıl ayrılır?",
+          "answer": "Nekrotizan küçük damar vasküliti ve pauci-immün GN yapar; granülomatöz üst solunum yolu lezyonu tipik değildir.",
+          "explanation": "Sıklıkla MPO-ANCA ile ilişkilidir."
+        },
+        {
+          "id": "IM-RHE-18",
+          "question": "Behçet hastalığında tanıyı destekleyen temel klinik birliktelik nedir?",
+          "answer": "Tekrarlayan oral aftlara genital ülser, üveit veya vasküler/nörolojik bulguların eşlik etmesi.",
+          "explanation": "Tanı kliniktir; paterji testi destekleyebilir."
+        },
+        {
+          "id": "IM-RHE-19",
+          "question": "Sjögren sendromunda hangi otoantikorlar sık görülür?",
+          "answer": "Anti-Ro/SSA ve anti-La/SSB.",
+          "explanation": "Kserostomi ve keratokonjonktivitis sikka tipiktir; lenfoma riski artar."
+        },
+        {
+          "id": "IM-RHE-20",
+          "question": "İnflamatuvar miyopatide kas enzimleri ve klinik nasıl değişir?",
+          "answer": "Proksimal kas güçsüzlüğü ve CK artışı; dermatomiyozitte heliotrop döküntü/Gottron papülleri olabilir.",
+          "explanation": "Erişkin dermatomiyozitinde malignite taraması gerekir."
+        }
+      ]
+    },
+    {
+      "id": "im-gastrointestinal",
+      "title": "Dahiliye · Gastrointestinal hastalıklar",
+      "cards": [
+        {
+          "id": "IM-GI-01",
+          "question": "Üst gastrointestinal sistem kanaması hangi anatomik düzeyin proksimalinden kaynaklanır?",
+          "answer": "Treitz ligamanının proksimalinden.",
+          "explanation": "Hematem ezis, kahve telvesi kusma ve melena tipik sunumlardır."
+        },
+        {
+          "id": "IM-GI-02",
+          "question": "Üst GİS kanamasında ilk yönetim basamağı nedir?",
+          "answer": "Hemodinamik değerlendirme, damar yolu, resüsitasyon ve uygun kan ürünleri; ardından risk sınıflaması ve endoskopi.",
+          "explanation": "Hemodinamik stabilizasyon endoskopiden önce gelir."
+        },
+        {
+          "id": "IM-GI-03",
+          "question": "Peptik ülser hastalığının iki temel nedeni nedir?",
+          "answer": "Helicobacter pylori ve NSAİİ kullanımı.",
+          "explanation": "Diğer nedenler arasında hipersekresyon ve ağır fizyolojik stres bulunur."
+        },
+        {
+          "id": "IM-GI-04",
+          "question": "H. pylori eradikasyonu sonrası başarı nasıl doğrulanır?",
+          "answer": "Üre nefes testi veya dışkı antijen testiyle; tedavi bitiminden en az 4 hafta sonra ve PPI en az 2 hafta kesildikten sonra.",
+          "explanation": "Seroloji eradikasyon doğrulaması için uygun değildir."
+        },
+        {
+          "id": "IM-GI-05",
+          "question": "Duodenal ülser ağrısının yemekle ilişkisi tipik olarak nasıldır?",
+          "answer": "Yemekle geçici rahatlayabilir, birkaç saat sonra veya gece artabilir.",
+          "explanation": "Gastrik ülserde ağrı yemekle kötüleşebilir; bu ayrım mutlak değildir."
+        },
+        {
+          "id": "IM-GI-06",
+          "question": "Çölyak hastalığında ilk serolojik tarama testi nedir?",
+          "answer": "Total IgA ile birlikte IgA anti-doku transglutaminaz.",
+          "explanation": "IgA eksikliğinde IgG temelli testler kullanılır; test sırasında gluten tüketimi sürmelidir."
+        },
+        {
+          "id": "IM-GI-07",
+          "question": "Çölyak hastalığında ince bağırsak biyopsisinde tipik bulgular nelerdir?",
+          "answer": "Villöz atrofi, kript hiperplazisi ve intraepitelyal lenfositoz.",
+          "explanation": "Glutensiz diyet klinik ve histolojik düzelme sağlar."
+        },
+        {
+          "id": "IM-GI-08",
+          "question": "Ülseratif kolit ile Crohn hastalığını ayıran temel dağılım özelliği nedir?",
+          "answer": "Ülseratif kolit kolondan başlar ve kesintisiz yayılır; Crohn ağızdan anüse herhangi bir bölgeyi atlamalı tutabilir.",
+          "explanation": "Crohn transmural; ülseratif kolit ağırlıkla mukozal-submukozaldir."
+        },
+        {
+          "id": "IM-GI-09",
+          "question": "Crohn hastalığında fistül ve striktür gelişmesinin nedeni nedir?",
+          "answer": "Transmural inflamasyon.",
+          "explanation": "Perianal hastalık ve ince bağırsak tutulumu Crohn lehinedir."
+        },
+        {
+          "id": "IM-GI-10",
+          "question": "Ülseratif kolitte toksik megakolon hangi klinik durumdur?",
+          "answer": "Kolon dilatasyonu ile sistemik toksisite ve ciddi kolit tablosu.",
+          "explanation": "Acil yatış, yakın izlem ve medikal/cerrahi değerlendirme gerekir."
+        },
+        {
+          "id": "IM-GI-11",
+          "question": "Akut pankreatit tanısı için hangi ölçütlerden kaçı gerekir?",
+          "answer": "Üç ölçütten en az ikisi: tipik ağrı, lipaz/amilaz ≥3 kat üst sınır, uyumlu görüntüleme.",
+          "explanation": "Lipaz daha özgüldür; her hastada erken BT gerekmez."
+        },
+        {
+          "id": "IM-GI-12",
+          "question": "Akut pankreatitte en sık iki etiyoloji nedir?",
+          "answer": "Safra taşları ve alkol.",
+          "explanation": "Trigliserid yüksekliği, ilaçlar ve ERCP de neden olabilir."
+        },
+        {
+          "id": "IM-GI-13",
+          "question": "Akut pankreatitte başlangıç tedavisinin temel bileşenleri nelerdir?",
+          "answer": "Hedefe yönelik IV kristalloid, analjezi, erken oral/enteral beslenme ve etiyolojinin tedavisi.",
+          "explanation": "Aşırı sıvı yüklemesinden kaçınılır; profilaktik antibiyotik rutin değildir."
+        },
+        {
+          "id": "IM-GI-14",
+          "question": "Akut kolanjitin klasik klinik üçlüsü nedir?",
+          "answer": "Ateş, sağ üst kadran ağrısı ve sarılık (Charcot triadı).",
+          "explanation": "Hipotansiyon ve bilinç değişikliği eklenirse ağır kolanjit düşündürür; antibiyotik ve safra drenajı gerekir."
+        },
+        {
+          "id": "IM-GI-15",
+          "question": "Akut kolesistitte en yararlı ilk görüntüleme yöntemi nedir?",
+          "answer": "Sağ üst kadran ultrasonografisi.",
+          "explanation": "Duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu destekler."
+        },
+        {
+          "id": "IM-GI-16",
+          "question": "Safra taşı ile koledok taşı şüphesinde hangi laboratuvar paterni görülebilir?",
+          "answer": "Kolestatik enzim ve bilirubin artışı; koledok obstrüksiyonunda belirginleşir.",
+          "explanation": "USG ilk incelemedir; orta olasılıkta MRCP/EUS düşünülebilir."
+        },
+        {
+          "id": "IM-GI-17",
+          "question": "İrritabl bağırsak sendromunda alarm bulguları nelerdir?",
+          "answer": "GİS kanaması, demir eksikliği anemisi, kilo kaybı, gece semptomu, kitle veya ileri yaşta yeni başlangıç/aile öyküsü.",
+          "explanation": "Alarm bulguları organik hastalık araştırmasını gerektirir."
+        },
+        {
+          "id": "IM-GI-18",
+          "question": "Kronik sulu ishalde steatoreyi düşündüren dışkı özelliği nedir?",
+          "answer": "Hacimli, yağlı, kötü kokulu ve zor temizlenen dışkı.",
+          "explanation": "Malabsorpsiyon, pankreas ekzokrin yetmezliği veya safra asidi bozukluğu araştırılır."
+        },
+        {
+          "id": "IM-GI-19",
+          "question": "Kolorektal kanser için önemli kalıtsal sendromlar hangileridir?",
+          "answer": "Lynch sendromu ve ailesel adenomatöz polipozis (FAP).",
+          "explanation": "Lynch DNA mismatch repair kusuru; FAP APC mutasyonuyla ilişkilidir."
+        },
+        {
+          "id": "IM-GI-20",
+          "question": "Akut bağırsak obstrüksiyonunda strangülasyon/iskemi düşündüren bulgular nelerdir?",
+          "answer": "Sürekli şiddetli ağrı, peritonit, ateş, lökositoz, laktat artışı veya hemodinamik bozulma.",
+          "explanation": "Bu bulgular acil cerrahi değerlendirme gerektirir."
+        }
+      ]
+    },
+    {
+      "id": "im-glomeruler-elektrolit",
+      "title": "Dahiliye · Glomerüler hastalıklar ve elektrolit–asit baz bozuklukları",
+      "cards": [
+        {
+          "id": "IM-REN-01",
+          "question": "Nefritik sendromun temel klinik bulguları nelerdir?",
+          "answer": "Hematüri, dismorfik eritrosit/eritrosit silendiri, hipertansiyon, ödem ve değişen derecede böbrek fonksiyon kaybı.",
+          "explanation": "Glomerüler inflamasyon ve azalmış filtrasyon ön plandadır."
+        },
+        {
+          "id": "IM-REN-02",
+          "question": "Nefrotik sendromun erişkinlerde proteinüri eşiği nedir?",
+          "answer": "Genellikle ≥3,5 g/24 saat proteinüri; hipoalbuminemi ve ödem eşlik eder.",
+          "explanation": "Hiperlipidemi ve lipidüri de görülebilir."
+        },
+        {
+          "id": "IM-REN-03",
+          "question": "Poststreptokoksik GN için tipik zamanlama ve kompleman bulgusu nedir?",
+          "answer": "Streptokok enfeksiyonundan yaklaşık 1–3 hafta sonra; C3 düşer ve çoğunlukla 6–8 haftada normale döner.",
+          "explanation": "Yakın zamanda farenjit/impetigo öyküsü ve nefritik sediment tipiktir."
+        },
+        {
+          "id": "IM-REN-04",
+          "question": "IgA nefropatisinde hematüri ne zaman ortaya çıkar?",
+          "answer": "Üst solunum yolu enfeksiyonu sırasında veya hemen sonrasında (synpharyngitic).",
+          "explanation": "Poststreptokoksik GN'den daha kısa latent dönem ayırıcıdır."
+        },
+        {
+          "id": "IM-REN-05",
+          "question": "Hızlı ilerleyen GN'de histolojik temel bulgu nedir?",
+          "answer": "Glomerüllerde kresent oluşumu.",
+          "explanation": "Anti-GBM, immün kompleks ve pauci-immün mekanizmalar neden olabilir; acil değerlendirme gerekir."
+        },
+        {
+          "id": "IM-REN-06",
+          "question": "Goodpasture (anti-GBM) hastalığının karakteristik birlikteliği nedir?",
+          "answer": "Pulmoner alveoler kanama ve hızlı ilerleyen glomerülonefrit.",
+          "explanation": "Anti-GBM antikoru; biyopside lineer IgG birikimi görülür."
+        },
+        {
+          "id": "IM-REN-07",
+          "question": "Minimal değişiklik hastalığında elektron mikroskopisi bulgusu nedir?",
+          "answer": "Podosit ayakçıklarında yaygın silinme.",
+          "explanation": "Çocukta nefrotik sendromun en sık nedenidir; steroid yanıtı genellikle iyidir."
+        },
+        {
+          "id": "IM-REN-08",
+          "question": "Fokal segmental glomerüloskleroz hangi klinik bağlamlarla ilişkilidir?",
+          "answer": "HIV, obezite, heroin, azalmış nefron kitlesi ve bazı genetik nedenler.",
+          "explanation": "Nefrotik proteinüri yapabilir; sekonder nedenler tedavi yaklaşımını değiştirir."
+        },
+        {
+          "id": "IM-REN-09",
+          "question": "Membranöz nefropatide hangi antikor tanıyı destekler?",
+          "answer": "Anti-PLA2R.",
+          "explanation": "Erişkin nefrotik sendromunda önemlidir; sekonder nedenler ve malignite riski değerlendirilir."
+        },
+        {
+          "id": "IM-REN-10",
+          "question": "Lupus nefritinde aktif hastalığı destekleyen idrar bulguları nelerdir?",
+          "answer": "Proteinüri, dismorfik hematüri ve eritrosit silendirleri.",
+          "explanation": "Kompleman düşüklüğü ve anti-dsDNA artışı eşlik edebilir."
+        },
+        {
+          "id": "IM-REN-11",
+          "question": "Normal anyon açıklıklı metabolik asidozun sık nedenleri nelerdir?",
+          "answer": "Diyare ve renal tübüler asidoz.",
+          "explanation": "Hiperkloremik asidoz olarak da adlandırılır."
+        },
+        {
+          "id": "IM-REN-12",
+          "question": "Yüksek anyon açıklıklı metabolik asidozun önemli nedenleri nelerdir?",
+          "answer": "Laktik asidoz, ketoasidoz, ileri böbrek yetmezliği ve toksik alkoller/salisilatlar.",
+          "explanation": "Albümin düşüklüğünde ölçülen anyon açıklığı olduğundan düşük görünebilir."
+        },
+        {
+          "id": "IM-REN-13",
+          "question": "Metabolik asidozda beklenen solunumsal kompansasyon nasıl hesaplanır?",
+          "answer": "Winter formülü: beklenen PaCO₂ = 1,5 × HCO₃⁻ + 8 ± 2 mmHg.",
+          "explanation": "Ölçülen değer aralık dışındaysa ek solunumsal bozukluk düşünülür."
+        },
+        {
+          "id": "IM-REN-14",
+          "question": "Metabolik alkalozun sık nedenleri nelerdir?",
+          "answer": "Kusma/NG aspirasyonu, diüretikler ve mineralokortikoid fazlalığı.",
+          "explanation": "Klorür yanıtlı ve klorür dirençli olarak sınıflandırılabilir."
+        },
+        {
+          "id": "IM-REN-15",
+          "question": "Hiperkalseminin en sık iki nedeni nedir?",
+          "answer": "Primer hiperparatiroidi ve malignite.",
+          "explanation": "PTH yüksek/uygunsuz normal ise PTH bağımlı; baskılıysa PTH dışı nedenler araştırılır."
+        },
+        {
+          "id": "IM-REN-16",
+          "question": "Hipokalsemide Chvostek ve Trousseau bulguları neyi gösterir?",
+          "answer": "Nöromüsküler irritabiliteyi.",
+          "explanation": "Tetani, parestezi ve QT uzaması eşlik edebilir; iyonize kalsiyum değerlendirilir."
+        },
+        {
+          "id": "IM-REN-17",
+          "question": "Hipomagnezemi hangi elektrolit bozukluklarını dirençli hale getirebilir?",
+          "answer": "Hipokalemi ve hipokalsemi.",
+          "explanation": "Magnezyum düzeltilmeden potasyum/kalsiyum düzeltmesi başarısız olabilir."
+        },
+        {
+          "id": "IM-REN-18",
+          "question": "Hipernatreminin temel fizyolojik anlamı nedir?",
+          "answer": "Vücutta su açığına bağlı hipertonisite; çoğunlukla su kaybı veya yetersiz su alımı.",
+          "explanation": "Düzeltme hızı kroniklik ve nörolojik risk dikkate alınarak belirlenir."
+        },
+        {
+          "id": "IM-REN-19",
+          "question": "SIADH tanısını destekleyen tipik laboratuvar paterni nedir?",
+          "answer": "Hipotonik hiponatremi, klinik övolemik durum, uygunsuz konsantre idrar ve idrar sodyumunun genellikle >30 mmol/L olması.",
+          "explanation": "Adrenal/tiroid yetmezliği ve böbrek yetmezliği dışlanmalıdır."
+        },
+        {
+          "id": "IM-REN-20",
+          "question": "Renal tübüler asidoz tip 1, 2 ve 4'ü ayıran temel özellik nedir?",
+          "answer": "Tip 1 distal: idrarı asitleştirememe ve hipokalemi; tip 2 proksimal: bikarbonat geri emilim kusuru; tip 4: hipoaldosteronizm/direnci ve hiperkalemi.",
+          "explanation": "Tip 1 taş/nefromedüller kalsifikasyonla; tip 4 diyabetik böbrek hastalığıyla ilişkili olabilir."
+        }
+      ]
+    },
+    {
+      "id": "im-endokrin-ileri",
+      "title": "Dahiliye · Adrenal, hipofiz ve kalsiyum metabolizması",
+      "cards": [
+        {
+          "id": "IM-END-01",
+          "question": "Primer adrenal yetmezlikte tipik elektrolit ve hormon paterni nedir?",
+          "answer": "Kortizol düşük, ACTH yüksek; hiponatremi, hiperkalemi ve sıklıkla hiperpigmentasyon.",
+          "explanation": "Aldosteron eksikliği primer hastalıkta belirgindir; sekonder yetmezlikte genellikle korunur."
+        },
+        {
+          "id": "IM-END-02",
+          "question": "Adrenal yetmezlik tanısında ilk basamak test nedir?",
+          "answer": "Sabah kortizol ve ACTH; belirsiz sonuçta kosintropin (ACTH) uyarı testi.",
+          "explanation": "Kritik hastada klinik şüphe yüksekse test için tedavi geciktirilmez."
+        },
+        {
+          "id": "IM-END-03",
+          "question": "Adrenal kriz şüphesinde acil tedavi nedir?",
+          "answer": "IV hidrokortizon, izotonik sıvı ve hipoglisemi varsa dekstroz.",
+          "explanation": "Kan örneği alınabiliyorsa kortizol/ACTH önceden alınır ancak tedavi bekletilmez."
+        },
+        {
+          "id": "IM-END-04",
+          "question": "Cushing sendromu için ilk basamak tarama testleri nelerdir?",
+          "answer": "Gece geç saat tükürük kortizolü, 1 mg deksametazon supresyon testi veya 24 saatlik idrar serbest kortizolü.",
+          "explanation": "Rastgele serum kortizolü tarama testi değildir; eksojen steroid kullanımı sorgulanır."
+        },
+        {
+          "id": "IM-END-05",
+          "question": "Primer hiperaldosteronizmde beklenen laboratuvar paterni nedir?",
+          "answer": "Renin baskılı, aldosteron uygunsuz yüksek; hipokalemi olabilir ama şart değildir.",
+          "explanation": "Aldosteron-renin oranı taramada kullanılır; ilaç ve potasyum etkileri dikkate alınır."
+        },
+        {
+          "id": "IM-END-06",
+          "question": "Primer hiperaldosteronizmde doğrulama sonrası lateralizasyon nasıl değerlendirilir?",
+          "answer": "Uygun hastada adrenal BT ve çoğu cerrahi adayında adrenal ven örneklemesi.",
+          "explanation": "BT tek başına fonksiyonel lateralizasyonu güvenilir biçimde göstermez."
+        },
+        {
+          "id": "IM-END-07",
+          "question": "Santral diabetes insipidusta desmopressine yanıt nasıldır?",
+          "answer": "İdrar osmolalitesi belirgin artar ve poliüri azalır.",
+          "explanation": "Nefrojenik DI'de yanıt az veya yoktur."
+        },
+        {
+          "id": "IM-END-08",
+          "question": "SIADH ile santral DI'nin temel su dengesi farkı nedir?",
+          "answer": "SIADH su tutulumu ve hipotonik hiponatremi; santral DI vazopressin eksikliği ve hipernatremiye eğilimli poliüri yapar.",
+          "explanation": "Her iki durumda serum ve idrar osmolalitesi birlikte değerlendirilir."
+        },
+        {
+          "id": "IM-END-09",
+          "question": "Hipofiz makroadenomunda görme alanında tipik defekt nedir?",
+          "answer": "Bitemporal hemianopsi.",
+          "explanation": "Optik kiazma basısına bağlıdır; görme alanı ve hipofiz hormonları değerlendirilir."
+        },
+        {
+          "id": "IM-END-10",
+          "question": "Prolaktinoma tanı ve tedavisinde temel yaklaşım nedir?",
+          "answer": "Serum prolaktin ölçümü ve uygun hipofiz MR; çoğu hastada kabergolin ilk tercihtir.",
+          "explanation": "İlaçlar, hipotiroidi ve stalk etkisi prolaktini yükseltebilir."
+        },
+        {
+          "id": "IM-END-11",
+          "question": "Akromegalide tarama ve doğrulama nasıl yapılır?",
+          "answer": "Yaşa göre yüksek IGF-1 tarama; oral glukoz sonrası GH baskılanmaması tanıyı destekler.",
+          "explanation": "Rastgele GH ölçümü pulsatil salınım nedeniyle güvenilir değildir."
+        },
+        {
+          "id": "IM-END-12",
+          "question": "Hipofiz apopleksisi hangi klinik tabloyla ortaya çıkar?",
+          "answer": "Ani şiddetli baş ağrısı, görme kaybı/oftalmopleji ve akut hipopituitarizm.",
+          "explanation": "Acil steroid replasmanı, görüntüleme ve nöroşirürji/endokrinoloji değerlendirmesi gerekir."
+        },
+        {
+          "id": "IM-END-13",
+          "question": "Primer hiperparatiroidide tipik laboratuvar paterni nedir?",
+          "answer": "Kalsiyum yüksek, PTH yüksek veya uygunsuz normal; fosfat sıklıkla düşük.",
+          "explanation": "PTH, hiperkalsemi varlığında baskılanmış olmalıdır; baskılanmaması uygunsuzdur."
+        },
+        {
+          "id": "IM-END-14",
+          "question": "Hiperkalsemide PTH baskılıysa hangi nedenler öncelikle düşünülür?",
+          "answer": "Malignite (PTHrP veya osteoliz), D vitamini aracılı nedenler ve bazı ilaçlar.",
+          "explanation": "25-OH ve gerektiğinde 1,25-(OH)₂ D vitamini ölçümü ayırıcı tanıya yardım eder."
+        },
+        {
+          "id": "IM-END-15",
+          "question": "Ağır semptomatik hiperkalsemide ilk tedavi yaklaşımı nedir?",
+          "answer": "IV izotonik salinle volüm açığının düzeltilmesi; ardından nedene göre IV bisfosfonat veya denosumab.",
+          "explanation": "Kalsitonin hızlı ama geçici etkilidir; kalp/böbrek durumuna göre sıvı ayarlanır."
+        },
+        {
+          "id": "IM-END-16",
+          "question": "Hipoparatiroidide beklenen laboratuvar paterni nedir?",
+          "answer": "Kalsiyum düşük, fosfat yüksek ve PTH düşük veya uygunsuz normal.",
+          "explanation": "Boyun cerrahisi sonrası sık görülür; magnezyum eksikliği de PTH salınımını bozabilir."
+        },
+        {
+          "id": "IM-END-17",
+          "question": "D vitamini eksikliği osteomalazide hangi laboratuvar değişiklikleri beklenir?",
+          "answer": "25-OH D düşük, ALP yüksek; PTH sekonder artabilir, kalsiyum/fosfat düşük veya normal olabilir.",
+          "explanation": "Kemik mineralizasyon kusuru erişkinde kemik ağrısı ve proksimal güçsüzlük yapabilir."
+        },
+        {
+          "id": "IM-END-18",
+          "question": "Feokromositoma şüphesinde biyokimyasal ilk test nedir?",
+          "answer": "Plazma serbest metanefrin veya 24 saatlik idrar fraksiyone metanefrin.",
+          "explanation": "Biyokimyasal doğrulama görüntülemeden önce gelir; cerrahi öncesi alfa blokaj yapılır."
+        },
+        {
+          "id": "IM-END-19",
+          "question": "Tiroid dışı hastalık sendromunda tipik laboratuvar değişikliği nedir?",
+          "answer": "T3 düşüklüğü; ağır hastalıkta T4 ve TSH de düşebilir.",
+          "explanation": "Ötiroid hasta sendromunda rutin tiroid hormonu tedavisi verilmez."
+        },
+        {
+          "id": "IM-END-20",
+          "question": "Osteoporozda DXA ile tanısal T-skoru eşiği nedir?",
+          "answer": "Postmenopozal kadın ve 50 yaş üzeri erkekte T-skoru ≤−2,5.",
+          "explanation": "Kırık riski, frajilite kırığı ve klinik risk faktörleri de tedavi kararını etkiler."
+        }
+      ]
+    },
+    {
+      "id": "im-enfeksiyon",
+      "title": "Dahiliye · Sistemik ve fırsatçı enfeksiyonlar",
+      "cards": [
+        {
+          "id": "IM-INF-01",
+          "question": "Sepsis-3'e göre sepsis nasıl tanımlanır?",
+          "answer": "Enfeksiyona düzensiz konak yanıtının yol açtığı, yaşamı tehdit eden akut organ disfonksiyonu.",
+          "explanation": "SOFA skorunda ≥2 puan artış organ disfonksiyonunu operasyonelleştirir."
+        },
+        {
+          "id": "IM-INF-02",
+          "question": "Septik şokun klinik ölçütleri nelerdir?",
+          "answer": "Yeterli sıvı resüsitasyonuna rağmen MAP ≥65 mmHg için vazopressör gereksinimi ve laktat >2 mmol/L.",
+          "explanation": "Bu ölçütler yüksek mortalite riskini tanımlar."
+        },
+        {
+          "id": "IM-INF-03",
+          "question": "Sepsis şüphesinde antibiyotik ve kültür sıralaması nasıl olmalıdır?",
+          "answer": "Mümkünse antibiyotik öncesi kan kültürü alınır; ancak kültür veya görüntüleme antibiyotiği anlamlı geciktirmemelidir.",
+          "explanation": "Şok veya yüksek olasılıklı sepsiste antimikrobiyal tedavi acilen başlanır."
+        },
+        {
+          "id": "IM-INF-04",
+          "question": "Bakteriyel menenjitte BOS'un tipik profili nedir?",
+          "answer": "Nötrofil baskın pleositoz, protein yüksek, glukoz düşük ve açılış basıncı yüksek olabilir.",
+          "explanation": "Önceden antibiyotik verilmesi kültür verimini azaltabilir; tedavi geciktirilmez."
+        },
+        {
+          "id": "IM-INF-05",
+          "question": "Menenjit şüphesinde lomber ponksiyon öncesi kraniyal görüntüleme hangi durumda gerekir?",
+          "answer": "Kitle etkisi/herniasyon riski düşündüren fokal nörolojik defisit, yeni nöbet, papilödem, belirgin bilinç bozukluğu veya immünsüpresyon gibi durumlarda.",
+          "explanation": "Kan kültürü alınıp ampirik antibiyotik, görüntüleme/LP beklenirken geciktirilmez."
+        },
+        {
+          "id": "IM-INF-06",
+          "question": "Erişkinde bakteriyel menenjitte ampirik tedavinin temel bileşenleri nelerdir?",
+          "answer": "Seftriakson/ sefotaksim + vankomisin; Listeria riski olanlarda ampisilin eklenir.",
+          "explanation": "Yaş, immünsüpresyon ve yerel direnç örüntüsü ampirik kapsamı belirler."
+        },
+        {
+          "id": "IM-INF-07",
+          "question": "Enfektif endokardit tanısında kan kültürü nasıl alınmalıdır?",
+          "answer": "Antibiyotik öncesi farklı venlerden en az üç set kan kültürü.",
+          "explanation": "Ateş ve üfürüm tek başına tanı koydurmaz; Duke/ISCVID ölçütleri kullanılır."
+        },
+        {
+          "id": "IM-INF-08",
+          "question": "Enfektif endokarditte en sık etken grupları hangileridir?",
+          "answer": "Staphylococcus aureus, viridans streptokoklar, enterokoklar ve koagülaz-negatif stafilokoklar.",
+          "explanation": "Protez kapak, damar içi madde kullanımı ve sağlık bakımı ilişkisi etken dağılımını değiştirir."
+        },
+        {
+          "id": "IM-INF-09",
+          "question": "HIV tanısında önerilen laboratuvar algoritması nedir?",
+          "answer": "Dördüncü kuşak HIV-1/2 antijen-antikor testi; reaktifse HIV-1/2 antikor ayrım testi, belirsizse HIV RNA.",
+          "explanation": "Erken enfeksiyonda RNA pozitifken antikor testi negatif olabilir."
+        },
+        {
+          "id": "IM-INF-10",
+          "question": "HIV'de CD4 sayısına göre klasik fırsatçı enfeksiyon eşleşmeleri nelerdir?",
+          "answer": "<200: Pneumocystis jirovecii; <100: Toxoplasma ve kriptokok; <50: CMV retiniti ve MAC riski artar.",
+          "explanation": "Profilaksi kararı CD4 yanında viral yük, seroloji ve güncel kılavuza göre verilir."
+        },
+        {
+          "id": "IM-INF-11",
+          "question": "Pneumocystis jirovecii pnömonisinde tipik klinik ve görüntüleme nasıldır?",
+          "answer": "Subakut dispne, kuru öksürük, ateş, hipoksemi ve bilateral yaygın buzlu cam opasiteleri.",
+          "explanation": "Tanıda indüklenmiş balgam/BAL PCR veya boyama kullanılır; tedavi TMP-SMX'tir."
+        },
+        {
+          "id": "IM-INF-12",
+          "question": "İleri HIV'de serebral toksoplazmozu düşündüren görüntüleme bulgusu nedir?",
+          "answer": "Kontrastlı MR/BT'de sıklıkla bazal gangliyonlarda çoklu halka tarzı kontrastlanan lezyonlar.",
+          "explanation": "Toxoplasma IgG pozitifliği ve CD4 düşüklüğü olasılığı artırır; primer SSS lenfoması ayırıcı tanıdır."
+        },
+        {
+          "id": "IM-INF-13",
+          "question": "Kriptokok menenjitinde tanı için hangi testler kullanılır?",
+          "answer": "BOS ve serum kriptokok antijeni; BOS kültürü ve açılış basıncı ölçümü.",
+          "explanation": "İmmünsüpresif hastada subakut baş ağrısı ve yüksek intrakraniyal basınç görülebilir."
+        },
+        {
+          "id": "IM-INF-14",
+          "question": "Tüberkülozda aktif hastalık tanısını doğrulamada hangi mikrobiyolojik testler kullanılır?",
+          "answer": "Balgamda moleküler test (NAAT), yayma ve kültür; ilaç direnci için moleküler/kültürel duyarlılık.",
+          "explanation": "Tüberkülin deri testi ve IGRA latent enfeksiyonu gösterir; aktif hastalığı tek başına dışlamaz."
+        },
+        {
+          "id": "IM-INF-15",
+          "question": "Latent tüberküloz enfeksiyonunda tedavi öncesi hangi durum dışlanmalıdır?",
+          "answer": "Aktif TB hastalığı.",
+          "explanation": "Aktif hastalığı dışlamadan tek/ikili koruyucu rejim başlamak direnç seçebilir."
+        },
+        {
+          "id": "IM-INF-16",
+          "question": "Bruselloz için tipik bulaş ve klinik örüntü nedir?",
+          "answer": "Pastörize edilmemiş süt ürünleri veya hayvan teması; dalgalanan ateş, terleme ve artralji.",
+          "explanation": "Kültür/seroloji epidemiyolojik bağlamla yorumlanır; fokal komplikasyonlar araştırılır."
+        },
+        {
+          "id": "IM-INF-17",
+          "question": "Sıtma tanısında tercih edilen laboratuvar yöntemi nedir?",
+          "answer": "Kalın damla ve ince yayma; gerekirse seri tekrar.",
+          "explanation": "Kalın damla duyarlı tarama, ince yayma tür ve parazitemi belirlemede yararlıdır."
+        },
+        {
+          "id": "IM-INF-18",
+          "question": "Dengue enfeksiyonunda ağır hastalık açısından kritik dönem ne zamandır?",
+          "answer": "Ateşin düşmeye başladığı defervesans dönemi.",
+          "explanation": "Plazma kaçağı, şok ve kanama gelişebilir; NSAİİ/aspirinden kaçınılır."
+        },
+        {
+          "id": "IM-INF-19",
+          "question": "Clostridioides difficile enfeksiyonu hangi durumda test edilmelidir?",
+          "answer": "Yeni başlayan, açıklanamayan günde ≥3 şekilsiz dışkı; uygun klinik bağlamda.",
+          "explanation": "Şekilli dışkı veya asemptomatik hastada test kolonizasyonu saptayıp yanıltabilir."
+        },
+        {
+          "id": "IM-INF-20",
+          "question": "Tetanozda karakteristik klinik bulgu ve korunma yaklaşımı nedir?",
+          "answer": "Trismus, risus sardonicus ve ağrılı kas spazmları; yara bakımı, aşı ve endikasyonda immün globulin.",
+          "explanation": "Hastalık sonrası doğal bağışıklık güvenilir değildir; aşı serisi tamamlanmalıdır."
+        }
+      ]
     }
   ]
 }
