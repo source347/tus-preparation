@@ -12,7 +12,7 @@ TUS için yüksek verimli, mekanizma ve ayırt edici yan etki odaklı kartlar.
 
 **Yanıt:** Anaerop bakteriler ve bazı protozoalarda indirgenerek reaktif metabolit oluşturur.
 
-**Açıklama:** Nörotoksisite ve metalik tat görülebilir; alkolle reaksiyon uyarısı gelenekseldir.
+**Açıklama:** Nörotoksisite ve metalik tat görülebilir. Disülfiram benzeri alkol reaksiyonu ürün bilgilerinde uyarı olarak yer alsa da klinik kanıtı tutarsızdır; kesin ve kaçınılmaz bir etki gibi sunulmamalıdır.
 
 ### 3. Rifampisinin etki mekanizması ve ayırt edici yan etkisi nedir?
 
