@@ -6,30 +6,29 @@ Tıpta Uzmanlık Eğitimi Giriş Sınavı'na (TUS) hazırlanan adaylar için aç
 
 ## Kapsam
 
-Bu depo öncelikle **flash kartlara** odaklanır; genel amaçlı soru bankası, deneme sınavı veya çevrim içi kurs platformu değildir. Amaç, güvenilir tıbbi bilgiyi TUS konu dağılımına göre düzenlenmiş, öz ve etkili kartlara dönüştürmektir.
+Bu depo öncelikle **flash kartlara** odaklanır; genel amaçlı soru bankası, deneme sınavı veya çevrim içi kurs platformu değildir. Amaç, güvenilir tıbbi bilgiyi TUS'ta seçenek eleme ve doğru yanıtı tanımayı destekleyecek biçimde düzenlemektir.
 
 ## Üretim standardı
 
-- Kart sayısı, sınavdaki soru sayısından türetilmez. Bir sınavda bir derse ayrılan soru kotası, o dersin öğrenilmesi gereken tüm konu genişliğini temsil etmez.
-- Teslim partisi varsayılan olarak **30 karttır**; bu bir üretim kotası değildir. Konunun kapsamı ve birbirinden farklı öğrenme hedefleri kart sayısını belirler.
-- Konu kapsamı, kart sayısı veya tek bir sınavın dağılımı üzerinden değil, dersin ana alanları ve alt başlıkları üzerinden izlenir.
-- Kaliteyi düşürmek için kota doldurulmaz. Konu gerektiriyorsa daha küçük parti hazırlanır; tekrar eden veya düşük verimli kartlarla sayı tamamlanmaz.
+- **Yüksek verim:** sık sınanan, klinik açıdan anlamlı ve seçenekleri birbirinden ayıran bilgileri önceliklendir.
+- **Karar odaklı kart:** her kart öğrencinin bir veya daha fazla çeldiriciyi elemesine ya da doğru seçeneği tanımasına yardım etmelidir.
+- **Kota yok:** kart sayısı konu başına önceden belirlenmez; gereksiz kartla sayı tamamlanmaz.
+- **Kesin üst sınır:** ilgili TUS soru başına en fazla **20 kart**. Bu bir hedef değildir; ihtiyaç daha azsa daha az kart hazırlanır.
+- **Kapsamı değil başarıyı optimize et:** düşük verimli ayrıntılar, nadir istisnalar ve tekrarlar sırf konu başlığı boş kalmasın diye eklenmez.
 
 ## Organizasyon
 
 - Temel bilimler: Anatomi, Histoloji ve Embriyoloji, Fizyoloji, Tıbbi Biyokimya, Tıbbi Mikrobiyoloji, Tıbbi Patoloji, Tıbbi Farmakoloji
 - Klinik bilimler: Dahiliye, Pediatri, Genel Cerrahi, Kadın Hastalıkları ve Doğum
 
-Her dersin altında bütünlüklü konu bazlı kart dosyaları bulunur. Anatomi için kapsam ve üretim sırası [Anatomi Kapsam Matrisi](flashcards/basic-sciences/anatomy/coverage-matrix.md) üzerinden izlenir.
-
 ## Kart ilkeleri
 
-1. **Yüksek verim:** Sık sınanan, klinik açıdan önemli ve ayırt ettirici bilgileri önceliklendir.
-2. **Tek öğrenme hedefi:** Her kart tek ve net bir kavramı sınasın.
-3. **Kesinlik:** Soru açık, yanıt doğru ve gerekli nitelemeleri içerir olsun.
-4. **Kullanışlılık:** Gerektiğinde mekanizma, ayırıcı özellik, klinik ilişki ve sınav tuzağı ekle.
-5. **Kanıta dayalı yaklaşım:** Kaynakları belirt, iddiaları doğrula.
-6. **Özgün anlatım:** Telifli soru bankalarından, ücretli kaynaklardan veya kitaplardan metin kopyalama.
+1. **Ayırt ettiricilik:** enzim, klinik bulgu, mekanizma veya tipik eşleştirmeyle seçenek elemesini destekle.
+2. **Tek öğrenme hedefi:** her kart tek ve net bir kavramı sınasın.
+3. **Kesinlik:** soru açık, yanıt doğru ve gerekli nitelemeleri içerir olsun.
+4. **Kısa açıklama:** yalnızca doğru seçeneği ayırt etmeye yarayan mekanizma veya sınav tuzağını ekle.
+5. **Kanıta dayalı yaklaşım:** kaynakları belirt, iddiaları doğrula.
+6. **Özgün anlatım:** telifli soru bankalarından, ücretli kaynaklardan veya kitaplardan metin kopyalama.
 
 ## Web uygulaması
 
@@ -37,4 +36,4 @@ GitHub Pages uygulaması kartları tarayıcıda çalıştırır. Kart ilerlemesi
 
 ## Katkı
 
-Kart eklemeden önce [CONTRIBUTING.md](CONTRIBUTING.md) ve [SOURCES.md](SOURCES.md) belgelerini okuyun. İçerik Türkçe hazırlanır; uluslararası kabul gören Latince/İngilizce anatomik ve tıbbi terimler gerektiğinde parantez içinde korunabilir.
+Katkı öncesinde [CONTRIBUTING.md](CONTRIBUTING.md) ve [SOURCES.md](SOURCES.md) belgelerini okuyun. İçerik Türkçe hazırlanır; uluslararası kabul gören terimler gerektiğinde parantez içinde korunabilir.
