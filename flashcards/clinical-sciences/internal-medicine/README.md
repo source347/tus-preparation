@@ -1,6 +1,6 @@
 # Dahiliye
 
-Dahiliye kartları klinik örüntü tanıma, ayırıcı tanı, tanısal eşikler ve ilk basamak yönetim kararlarına odaklanır. İlk genişletme dalgasında 12 yeni konu destesi ve 240 kart eklendi; konu başına kart sayısı 20'yi aşmaz.
+Dahiliye kartları klinik örüntü tanıma, ayırıcı tanı, tanısal eşikler ve ilk basamak yönetim kararlarına odaklanır. İlk iki genişletme dalgasında toplam 17 yeni konu destesi ve 340 kart eklendi; konu başına kart sayısı 20'yi aşmaz.
 
 ## Desteler
 
@@ -17,6 +17,11 @@ Dahiliye kartları klinik örüntü tanıma, ayırıcı tanı, tanısal eşikler
 - [Karaciğer hastalıkları](karaciger-hastaliklari.md) — 20 kart
 - [Akut böbrek hasarı ve kronik böbrek hastalığı](akut-bobrek-hasari-kronik-bobrek-hastaligi.md) — 20 kart
 - [Diyabet ve tiroid hastalıkları](diyabet-tiroid-hastaliklari.md) — 20 kart
+- [Romatolojik hastalıklar](romatolojik-hastaliklar.md) — 20 kart
+- [Gastrointestinal hastalıklar](gastrointestinal-hastaliklar.md) — 20 kart
+- [Glomerüler hastalıklar ve elektrolit–asit baz bozuklukları](glomeruler-elektrolit-asit-baz.md) — 20 kart
+- [Adrenal, hipofiz ve kalsiyum metabolizması](adrenal-hipofiz-kalsiyum.md) — 20 kart
+- [Sistemik ve fırsatçı enfeksiyonlar](sistemik-firsatci-enfeksiyonlar.md) — 20 kart
 
 ## Kaynak standardı
 
