@@ -16,7 +16,7 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | Abdomen | Karın duvarı ve inguinal kanal; periton ve boşluklar; mide, bağırsaklar ve ilişkileri; karaciğer, safra yolları, pankreas, dalak; böbrek ve adrenal bez; abdominal aorta dalları; portal sistem; otonom innervasyon ve lenfatik drenaj | **Kısmi** — [abdomen seti](abdomen.md) yayımlandı; organ varyantları, görüntüleme ve klinik/cerrahi ilişkiler genişletilecek |
 | Pelvis ve perine | Pelvik kemik ve eklemler; pelvik duvar ve taban; pelvik fasya ve boşluklar; mesane ve üreter; rektum ve anal kanal; genital organlar; perineal üçgenler ve aralıklar; pudendal kanal ve nörovasküler yapılar; obstetrik/ürolojik klinik anatomi | **Kısmi** — [pelvis ve perine seti](pelvis-perineum.md) yayımlandı; pelvik görüntüleme, ayrıntılı organ topografisi, varyasyonlar ve cerrahi ilişkiler için genişletilecek |
 | Baş ve boyun | Kafa ve yüz kemikleri; skalp ve yüz; ağız, burun ve paranazal sinüsler; orbita; kulak; farinks ve larinks; boyun fasya ve üçgenleri; tükürük ve tiroid bezleri; kraniyal sinirler; baş-boyun damarları ve lenfatikleri | **Kısmi** — [baş-boyun bölgesel seti](head-neck-regional.md), [kraniyal sinirler](cranial-nerves.md) ve [orbita/farinks/larinks](orbit-pharynx-larynx.md) yayımlandı; kafa-yüz kemiklerinin ayrıntılı osteolojisi, bölgesel görüntüleme ve klinik varyasyonlar için genişletilecek |
-| Nöroanatomi | MSS organizasyonu; spinal kord ve çıkan/inen yollar; beyin sapı; kraniyal sinir çekirdekleri; serebellum; bazal gangliyonlar; talamus ve hipotalamus; korteks ve Brodmann alanları; internal kapsül; limbik sistem; ventriküller ve BOS; kanlanma ve klinik sendromlar | **Kısmi** — spinal kord, beyin sapı, serebellum, bazal gangliyonlar, talamus ve kraniyal sinirler işlendi; korteks, internal kapsül, limbik sistem, hipotalamus ve diğer başlıklar eksik |
+| Nöroanatomi | MSS organizasyonu; spinal kord ve çıkan/inen yollar; beyin sapı; kraniyal sinir çekirdekleri; serebellum; bazal gangliyonlar; talamus ve hipotalamus; korteks ve Brodmann alanları; internal kapsül; limbik sistem; ventriküller ve BOS; kanlanma ve klinik sendromlar | **Kısmi** — [korteks, internal kapsül, limbik sistem, hipotalamus, BOS ve serebral dolaşım seti](neuroanatomy-advanced.md) eklendi; korteks alt alanlarının ayrıntıları, hipotalamik/talamik bağlantıların kalanları, damar varyasyonları ve bölgesel görüntüleme/klinik korelasyonlar denetimle genişletilecek |
 
 **Durum tanımları**
 - **Başlanmadı:** Bu alan için yayımlanmış, konuya özgü kart seti bulunmuyor.
@@ -40,8 +40,9 @@ Matriste dokuz ana alan kullanılır. Sınıflandırma, TUS sorularını sistema
 | [Baş-boyun bölgesel anatomi](head-neck-regional.md) | 36 | Skalp, yüz, ağız, burun-sinüs, kulak, boyun fasya/üçgenleri, damarlar, tiroid ve lenfatikler |
 | [Spinal kord yolları ve beyin sapı](spinal-cord-brainstem.md) | 30 | Nöroanatomi — spinal yollar ve beyin sapı |
 | [Serebellum, bazal gangliyonlar ve talamus](cerebellum-basal-ganglia-thalamus.md) | 30 | Nöroanatomi — seçilmiş supratentoryal ve infratentoryal yapılar |
+| [Nöroanatomi: korteks, limbik sistem, BOS ve serebral dolaşım](neuroanatomy-advanced.md) | 37 | Korteks/Brodmann alanları, internal kapsül, limbik ve hipotalamik bağlantılar, ventriküller/BOS, serebral arter alanları ve herniasyonlar |
 
-Mevcut toplam 426 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
+Mevcut toplam 463 karttır. Bu sayı bir tamamlanma oranı değildir; farklı genişlikteki konuların kart sayıları doğrudan birbirleriyle veya sınav soru sayısıyla karşılaştırılamaz.
 
 ## Üretim sırası
 
@@ -55,7 +56,7 @@ Aşağıdaki sıra, mevcut boşlukları kapatırken tarihsel soru sıklığını
 6. **Abdomenin genişletilmesi** — organ varyasyonları, bölgesel görüntüleme anatomisi ve klinik cerrahi ilişkiler.
 7. **Pelvis ve perinenin genişletilmesi** — pelvik organ topografisi, destek yapıları, varyasyonlar ve cerrahi ilişkiler.
 8. **Baş ve boynu genişletme** — kafa-yüz kemiklerinin ayrıntılı osteolojisi, bölgesel görüntüleme ve klinik varyasyonlar.
-9. **Nöroanatomi boşluklarını tamamlama** — korteks, internal kapsül, limbik sistem, hipotalamus, ventriküller/BOS, kanlanma ve kalan klinik korelasyonlar.
+9. **Nöroanatomi boşluklarını tamamlama** — korteks, internal kapsül, limbik sistem, hipotalamus, ventriküller/BOS, kanlanma ve kalan klinik korelasyonlar. [İleri nöroanatomi seti](neuroanatomy-advanced.md) yayımlandı; alan kısmi durumdadır.
 
 ## Kart üretim ve tamamlanma ölçütleri
 
