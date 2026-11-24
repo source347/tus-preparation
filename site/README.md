@@ -4,7 +4,7 @@ Bu klasör GitHub Pages üzerinden yayımlanan statik çalışma arayüzünü i�
 
 ## Katalog (24 Kasım 2026)
 
-76 deste ve 1.298 kart içerir. Klinik bilimlerde ilk deste: Dahiliye — anemiye yaklaşım ve demir eksikliği (17 kart).
+88 deste ve 1,538 kart içerir. Klinik bilimler içinde Dahiliye: 13 deste, 257 kart.
 
 ## Özellikler
 - Kart çevirme, önceki/sonraki kart ve konu seçimi
