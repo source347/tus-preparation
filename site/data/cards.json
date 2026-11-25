@@ -11285,6 +11285,270 @@
           "explanation": "Normal tarama tüm kalp kusurlarını dışlamaz; üfürüm, siyanoz, solunum sıkıntısı ve zayıf femoral nabız ayrıca değerlendirilir."
         }
       ]
+    },
+    {
+      "id": "ped-gastro",
+      "title": "Pediatri · Çocuk gastroenterolojisi",
+      "cards": [
+        {
+          "id": "PED-GAS-001",
+          "question": "Çocukta fonksiyonel konstipasyon tanısı öncelikle nasıl konur?",
+          "answer": "Öykü ve fizik muayene ile; Rome IV ölçütleri kullanılır, alarm bulgusu yoksa rutin görüntüleme gerekmez.",
+          "explanation": "Başlangıç yaşı, mekonyum çıkarma zamanı, büyüme, dışkı kıvamı ve retansiyon davranışı sorgulanır."
+        },
+        {
+          "id": "PED-GAS-002",
+          "question": "Konstipasyonda alarm bulguları nelerdir?",
+          "answer": "Doğumdan itibaren başlangıç, ilk 48 saatte mekonyum çıkaramama, büyüme geriliği, safralı kusma, belirgin abdominal distansiyon, nörolojik/sakral anormallik ve kanlı dışkı.",
+          "explanation": "Hirschsprung, spinal patoloji, hipotiroidi veya anatomik hastalık gibi organik nedenleri düşündürür."
+        },
+        {
+          "id": "PED-GAS-003",
+          "question": "Fonksiyonel konstipasyonda fekal impaksiyon varsa ilk basamak tedavi nedir?",
+          "answer": "Oral polietilen glikol (PEG) ile disimpaksiyon; ardından idame PEG ve tuvalet alışkanlığı eğitimi.",
+          "explanation": "İdame tedavisi dışkı düzeni sağlandıktan sonra hemen kesilmez; nüksü önlemek için sürdürülür."
+        },
+        {
+          "id": "PED-GAS-004",
+          "question": "Çocukta çölyak hastalığı için ilk basamak serolojik testler nelerdir?",
+          "answer": "Total IgA ile birlikte IgA anti-doku transglutaminaz (tTG-IgA); IgA eksikliğinde IgG temelli testler.",
+          "explanation": "Test sırasında gluten tüketimi sürmelidir; glutensiz diyete erken başlamak serolojiyi yalancı negatifleştirebilir."
+        },
+        {
+          "id": "PED-GAS-005",
+          "question": "Çölyak hastalığında biyopsisiz tanı hangi koşullarda düşünülebilir?",
+          "answer": "ESPGHAN yaklaşımında tTG-IgA ≥10 kat üst sınır ve ikinci örnekte pozitif EMA-IgA; çocuk/ailesiyle ortak karar ve uzman değerlendirmesi.",
+          "explanation": "Biyopsisiz yol her klinik durumda otomatik uygulanmaz; düşük titre, IgA eksikliği veya uyumsuz bulguda biyopsi gerekir."
+        },
+        {
+          "id": "PED-GAS-006",
+          "question": "Hipertrofik pilor stenozunun tipik klinik ve laboratuvar bulguları nelerdir?",
+          "answer": "2–8 haftalık bebekte safrasız fışkırır tarzda kusma, açlık, kilo alamama; hipokloremik, hipokalemik metabolik alkaloz.",
+          "explanation": "Tanı ultrasonla konur; piloromiyotomi öncesinde sıvı ve elektrolit bozukluğu düzeltilir."
+        },
+        {
+          "id": "PED-GAS-007",
+          "question": "İnvajinasyonun tipik klinik triadı nedir ve tanıda ilk tercih nedir?",
+          "answer": "Aralıklı kolik tarzda karın ağrısı, kusma ve çilek jölesi dışkı; ultrason ilk tercih görüntülemedir.",
+          "explanation": "Triad her hastada bulunmaz; stabil ve perforasyon/peritonit bulgusu olmayan çocukta hava veya kontrast lavman hem tanı hem tedavi olabilir."
+        },
+        {
+          "id": "PED-GAS-008",
+          "question": "Hirschsprung hastalığında tanıyı doğrulayan test nedir?",
+          "answer": "Rektal suction biyopsi: ganglion hücrelerinin yokluğu ve artmış asetilkolinesteraz sinir lifleri.",
+          "explanation": "Yenidoğanda mekonyum gecikmesi, distansiyon ve safralı kusma; geç dönemde dirençli konstipasyon tipiktir."
+        },
+        {
+          "id": "PED-GAS-009",
+          "question": "Çocukta akut gastroenteritte en önemli ilk basamak tedavi nedir?",
+          "answer": "Azaltılmış ozmolariteli oral rehidrasyon solüsyonu (ORS); emzirme ve uygun beslenme sürdürülür.",
+          "explanation": "Şok veya ağır dehidratasyonda izotonik IV sıvı gerekir; antibiyotik ve antidiyareik ilaçlar rutin değildir."
+        },
+        {
+          "id": "PED-GAS-010",
+          "question": "Çocukta akut apandisiti düşündüren klasik ağrı göçü nasıldır?",
+          "answer": "Periumblikal ağrının sağ alt kadrana göç etmesi; iştahsızlık, bulantı ve ateş eşlik edebilir.",
+          "explanation": "Küçük çocukta atipik başvuru ve perforasyon riski daha yüksektir; klinik skor ve ultrason sıklıkla ilk değerlendirmede kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "ped-nefro",
+      "title": "Pediatri · Çocuk nefrolojisi",
+      "cards": [
+        {
+          "id": "PED-NEF-001",
+          "question": "Çocukta nefrotik sendromun tanımlayıcı laboratuvar bulguları nelerdir?",
+          "answer": "Ağır proteinüri, hipoalbüminemi ve ödem; sıklıkla hiperlipidemi eşlik eder.",
+          "explanation": "Çocukta en sık neden minimal değişiklik hastalığıdır; tipik olguda steroid yanıtı yüksektir."
+        },
+        {
+          "id": "PED-NEF-002",
+          "question": "Tipik ilk başvurulu nefrotik sendromlu çocukta böbrek biyopsisi ne zaman gerekir?",
+          "answer": "Tipik, küçük yaşta başlayan ve steroid yanıtı olan olguda rutin başlangıç biyopsisi gerekmez; atipik seyir veya steroid direncinde değerlendirilir.",
+          "explanation": "KDIGO 2025 biyopsi/genetik test kararını yaş, aile öyküsü, sendromik bulgular ve tedavi yanıtına göre şekillendirir."
+        },
+        {
+          "id": "PED-NEF-003",
+          "question": "Nefrotik sendromda çocukta ilk atak tedavisinin temel ilacı nedir?",
+          "answer": "Oral prednizon/prednizolon; KDIGO 2025 sekiz haftalık (4 hafta günlük + 4 hafta gün aşırı) veya 12 haftalık (6+6 hafta) rejimi önerir.",
+          "explanation": "Steroid direnci varsa genetik inceleme, biyopsi ve çocuk nefrolojisi değerlendirmesi gerekir."
+        },
+        {
+          "id": "PED-NEF-004",
+          "question": "Poststreptokoksik glomerülonefritte tipik kompleman paterni nasıldır?",
+          "answer": "C3 düşüktür; çoğunlukla 6–8 haftada normale döner, C4 genellikle normaldir.",
+          "explanation": "Enfeksiyondan 1–3 hafta sonra hematüri, ödem ve hipertansiyon gelişir; ASO veya anti-DNase B destekleyicidir."
+        },
+        {
+          "id": "PED-NEF-005",
+          "question": "IgA nefropatisinde hematüri enfeksiyonla zamansal olarak nasıl ilişkilidir?",
+          "answer": "ÜSYE sırasında veya hemen sonrasında eşzamanlı makroskopik hematüri (synpharyngitic).",
+          "explanation": "Poststreptokoksik GN'de hematüri genellikle enfeksiyondan 1–3 hafta sonra ortaya çıkar; C3 paterni de ayırıcıdır."
+        },
+        {
+          "id": "PED-NEF-006",
+          "question": "Hemolitik üremik sendromun klasik triadı nedir?",
+          "answer": "Mikroanjiyopatik hemolitik anemi, trombositopeni ve akut böbrek hasarı.",
+          "explanation": "Tipik STEC-HUS sıklıkla kanlı ishal sonrası gelişir; periferik yaymada şistosit ve LDH yüksekliği beklenir."
+        },
+        {
+          "id": "PED-NEF-007",
+          "question": "HUS şüphesinde hangi destek yaklaşımı esastır?",
+          "answer": "Sıvı-elektrolit ve kan basıncı yönetimi, böbrek fonksiyonlarının izlenmesi; gerektiğinde diyaliz ve eritrosit transfüzyonu.",
+          "explanation": "STEC-HUS'ta antibiyotik ve antimotilite ilaçları rutin verilmez; aHUS ayırımı tedavi stratejisini değiştirir."
+        },
+        {
+          "id": "PED-NEF-008",
+          "question": "Çocukta vezikoüreteral reflünün (VUR) klinik önemi nedir?",
+          "answer": "İdrarın mesaneden üreter/böbreğe geri kaçması; tekrarlayan febril İYE ve renal skar riskini artırır.",
+          "explanation": "Tanı ve görüntüleme, febril İYE öyküsü ve ultrason bulgularına göre seçilir; her İYE sonrası rutin VCUG yapılmaz."
+        },
+        {
+          "id": "PED-NEF-009",
+          "question": "Distal (tip 1) renal tübüler asidozun tipik biyokimyasal özelliği nedir?",
+          "answer": "Normal anyon açıklı metabolik asidoz, idrar pH'sının >5,5 kalması ve hipokalemi eğilimi.",
+          "explanation": "Nefrolitiazis/nefrokalsinozis ve büyüme geriliği görülebilir; proksimal RTA'da bikarbonat kaybı öne çıkar."
+        },
+        {
+          "id": "PED-NEF-010",
+          "question": "Çocukta hipertansiyon değerlendirmesinde kan basıncı nasıl yorumlanır?",
+          "answer": "1–12 yaşta yaş, cinsiyet ve boya göre persentil; ≥13 yaşta erişkin benzeri eşikler kullanılır.",
+          "explanation": "Doğru manşon ve tekrarlanan ölçüm gerekir; küçük çocukta renal nedenler özellikle araştırılır."
+        }
+      ]
+    },
+    {
+      "id": "ped-noroloji",
+      "title": "Pediatri · Çocuk nörolojisi",
+      "cards": [
+        {
+          "id": "PED-NOR-001",
+          "question": "Basit febril nöbetin tanımı nedir?",
+          "answer": "6–60 ayda ateşle ilişkili, jeneralize, 15 dakikadan kısa ve 24 saatte bir kez olan nöbet; önceden afebril nöbet veya CNS enfeksiyonu yoktur.",
+          "explanation": "Basit febril nöbet sonrası rutin EEG, nörogörüntüleme veya sürekli antiepileptik profilaksi önerilmez."
+        },
+        {
+          "id": "PED-NOR-002",
+          "question": "Febril nöbette lomber ponksiyon hangi durumda yapılmalıdır?",
+          "answer": "Menenjit bulgusu veya CNS enfeksiyonu şüphesi varsa; 6–12 ayda Hib/pnömokok aşıları eksik ya da bilinmiyorsa veya önceden antibiyotik kullanımı varsa seçilmiş olguda düşünülür.",
+          "explanation": "Basit febril nöbetin kendisi tek başına LP endikasyonu değildir; klinik değerlendirme esastır."
+        },
+        {
+          "id": "PED-NOR-003",
+          "question": "Konvülsif status epileptikus için zaman eşiği ve ilk ilaç tedavisi nedir?",
+          "answer": "5 dakika veya daha uzun süren nöbet acil tedavi gerektirir; ilk basamak benzodiazepin (IV lorazepam/diazepam veya uygun yolla midazolam).",
+          "explanation": "Hava yolu, solunum, dolaşım ve glukoz eşzamanlı değerlendirilir; benzodiazepin sonrası uygun ikinci basamak antinöbet ilacı verilir."
+        },
+        {
+          "id": "PED-NOR-004",
+          "question": "Absans epilepsisinin tipik EEG bulgusu nedir?",
+          "answer": "Hiperventilasyonla tetiklenebilen, 3 Hz jeneralize diken-dalga kompleksi.",
+          "explanation": "Kısa süreli dalma ve aktiviteye aniden geri dönme tipiktir; etosüksimid saf absans nöbetinde ilk seçeneklerden biridir."
+        },
+        {
+          "id": "PED-NOR-005",
+          "question": "İnfantil spazmın klasik klinik-EEG birlikteliği nedir?",
+          "answer": "Kümeler halinde fleksör/ekstansör spazmlar, gelişimsel duraklama veya gerileme ve EEG'de hipsaritmi.",
+          "explanation": "Acil tanı ve tedavi gerekir; ACTH veya yüksek doz prednizolon, etiyolojiye göre vigabatrin kullanılır."
+        },
+        {
+          "id": "PED-NOR-006",
+          "question": "Duchenne musküler distrofi için en erken laboratuvar ipucu nedir?",
+          "answer": "Belirgin CK yüksekliği; erkek çocukta Gowers belirtisi, baldır psödohipertrofisi ve proksimal kas güçsüzlüğü.",
+          "explanation": "DMD geninde distrofin kaybı vardır; kardiyak ve solunumsal izlem yaşam süresini etkiler."
+        },
+        {
+          "id": "PED-NOR-007",
+          "question": "Serebral palsinin tanımı ve temel özelliği nedir?",
+          "answer": "Gelişmekte olan fetal/infant beynin ilerleyici olmayan hasarına bağlı kalıcı hareket ve postür bozukluğu.",
+          "explanation": "Beyin lezyonu ilerleyici değildir ancak kas-iskelet komplikasyonları zamanla değişebilir; eşlik eden epilepsi ve bilişsel sorunlar değerlendirilir."
+        },
+        {
+          "id": "PED-NOR-008",
+          "question": "Çocukta baş ağrısında acil nörogörüntüleme gerektirebilecek kırmızı bayraklar nelerdir?",
+          "answer": "Ani en şiddetli başlangıç, progresif seyir, sabah kusması, papilödem, fokal nörolojik bulgu, bilinç değişikliği, nöbet veya immünsüpresyon.",
+          "explanation": "Tipik primer baş ağrısında ve normal nörolojik muayenede rutin görüntüleme gerekmez."
+        },
+        {
+          "id": "PED-NOR-009",
+          "question": "Nöral tüp defekti riskini azaltan folik asit yaklaşımı nedir?",
+          "answer": "Gebelik öncesinden başlayıp ilk trimester boyunca günlük folik asit; ortalama riskte 400 mikrogram/gün, yüksek riskte daha yüksek doz hekimce planlanır.",
+          "explanation": "Nöral tüp kapanması gebeliğin çok erken döneminde gerçekleştiğinden gebelik öncesi başlamak önemlidir."
+        },
+        {
+          "id": "PED-NOR-010",
+          "question": "Çocukta gelişimsel gerileme neden önemli bir nörolojik alarm bulgusudur?",
+          "answer": "Önceden kazanılmış becerilerin kaybı nörodejeneratif, metabolik, epileptik veya yapısal hastalık düşündürür ve acil değerlendirme gerektirir.",
+          "explanation": "Gelişimsel gecikmeden farklı olarak gerileme, kazanılmış işlevin kaybıdır; ayrıntılı öykü, muayene ve hedefli inceleme gerekir."
+        }
+      ]
+    },
+    {
+      "id": "ped-hematoloji",
+      "title": "Pediatri · Çocuk hematoloji ve onkolojisi",
+      "cards": [
+        {
+          "id": "PED-HEM-001",
+          "question": "Çocukta demir eksikliği anemisinin tipik hemogram ve demir profili nasıldır?",
+          "answer": "Mikrositoz, hipokromi, RDW artışı, ferritin düşüklüğü ve TDBK artışı; inflamasyonda ferritin yalancı normal/yüksek olabilir.",
+          "explanation": "Ferritin demir depolarını yansıtır; inflamasyon varlığında CRP ve diğer demir parametreleriyle yorumlanır."
+        },
+        {
+          "id": "PED-HEM-002",
+          "question": "AAP 2026'ya göre küçük çocukta demir eksikliği anemisinin başlangıç oral tedavisi nedir?",
+          "answer": "Ferroz sülfat, günde tek doz 3 mg/kg elementer demir.",
+          "explanation": "Tedaviyle birlikte beslenme ve kan kaybı/malabsorpsiyon nedenleri düzeltilir; hemoglobin yanıtı izlenir."
+        },
+        {
+          "id": "PED-HEM-003",
+          "question": "Demir eksikliği tedavisine beklenen hematolojik yanıt nasıl izlenir?",
+          "answer": "Retikülosit yanıtı erken dönemde; Hb artışı 1. ayda değerlendirilir. Orta/ağır anemide yaklaşık ≥2 g/dL artış yeterli yanıtı destekler.",
+          "explanation": "AAP 2026, tedavi başında ve 1. ayda CBC/retikülosit; 3. ayda demir depolarının kontrolünü önerir."
+        },
+        {
+          "id": "PED-HEM-004",
+          "question": "Beta talasemi taşıyıcılığını demir eksikliği anemisinden ayırmada hangi ipuçları kullanılır?",
+          "answer": "Belirgin mikrositoza rağmen eritrosit sayısının normal/yüksek olması, hedef hücreler ve HbA2 yüksekliği beta talasemi taşıyıcılığını destekler.",
+          "explanation": "Demir eksikliğinde ferritin düşüktür; Mentzer indeksi (MCV/RBC) ayırıcı tanıda yardımcıdır ancak tek başına tanı koydurmaz."
+        },
+        {
+          "id": "PED-HEM-005",
+          "question": "Çocukluk çağı immün trombositopenisinde (ITP) tipik klinik ve laboratuvar bulgusu nedir?",
+          "answer": "Yakın zamanda viral enfeksiyon geçirmiş, genel durumu iyi çocukta izole trombositopeni ve peteşi/morarma.",
+          "explanation": "Diğer hücre serileri ve periferik yayma genellikle normaldir; atipik bulgular lösemi ve diğer nedenleri düşündürür."
+        },
+        {
+          "id": "PED-HEM-006",
+          "question": "Kanaması olmayan veya yalnız hafif deri kanaması olan çocuk ITP hastasında ilk yaklaşım nedir?",
+          "answer": "Yakın izlem ve kanama eğitimi; trombosit sayısından çok kanama şiddeti tedavi kararını belirler.",
+          "explanation": "Mukozal/yaşamı tehdit eden kanamada IVIG veya kortikosteroid; ağır kanamada uzman yönetimi gerekir."
+        },
+        {
+          "id": "PED-HEM-007",
+          "question": "Hemofilide hangi koagülasyon testi uzar ve hangisi normaldir?",
+          "answer": "aPTT uzar; PT ve trombosit sayısı genellikle normaldir.",
+          "explanation": "Hemofili A faktör VIII, hemofili B faktör IX eksikliğidir; eklem içi kanama tipiktir."
+        },
+        {
+          "id": "PED-HEM-008",
+          "question": "Çocukluk çağı akut lenfoblastik lösemisinde (ALL) tipik başvuru bulguları nelerdir?",
+          "answer": "Kemik ağrısı, solukluk, ateş, morarma/peteşi, lenfadenopati ve hepatosplenomegali; hemogramda sitopeniler veya blastlar olabilir.",
+          "explanation": "Kesin tanı kemik iliği incelemesi ve immünfenotipleme ile konur."
+        },
+        {
+          "id": "PED-HEM-009",
+          "question": "Wilms tümörü ile nöroblastomu klinik olarak ayıran klasik özellik nedir?",
+          "answer": "Wilms genellikle düzgün sınırlı, orta hattı geçmeyen renal kitle; nöroblastom adrenal/simpatik zincir kaynaklı, orta hattı geçebilir ve kalsifikasyon yapabilir.",
+          "explanation": "Nöroblastomda idrar VMA/HVA artışı; Wilms'te hematüri ve hipertansiyon görülebilir."
+        },
+        {
+          "id": "PED-HEM-010",
+          "question": "Tümör lizis sendromunda beklenen elektrolit ve metabolik değişiklikler nelerdir?",
+          "answer": "Hiperürisemi, hiperkalemi, hiperfosfatemi ve sekonder hipokalsemi; akut böbrek hasarı gelişebilir.",
+          "explanation": "Yüksek tümör yükü ve tedavi başlangıcı risklidir; hidrasyon, risk temelli allopurinol/rasburikaz ve yakın laboratuvar izlemi gerekir."
+        }
+      ]
     }
   ]
 }
