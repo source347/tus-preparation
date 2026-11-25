@@ -11747,6 +11747,72 @@
           "explanation": "Yaşa uygun görme taraması ve kırmızı refleks muayenesi yapılır; şüpheli şaşılık veya görme asimetrisinde erken oftalmoloji değerlendirmesi gerekir. Tedavide refraksiyon düzeltmesi, seçilmiş olguda kapama/atropin kullanılır."
         }
       ]
+    },
+    {
+      "id": "ped-genetik-metabolik",
+      "title": "Pediatri · Genetik ve kalıtsal metabolik hastalıklar",
+      "cards": [
+        {
+          "id": "PED-GEN-001",
+          "question": "Yenidoğanda metabolik hastalık düşündüren klinik örüntü nedir?",
+          "answer": "İlk saatler/günlerde iyi görünen bebeğin beslenme sonrası kusma, letarji, hipotoni, nöbet veya ensefalopati geliştirmesi; açıklanamayan hipoglisemi, asidoz, hiperamonyemi ya da karaciğer yetmezliği.",
+          "explanation": "Sepsisle birlikte düşünülür; enfeksiyon dışlanırken metabolik inceleme geciktirilmez. Atak öncesi normal muayene ve aile öyküsünün olmaması kalıtsal metabolik hastalığı dışlamaz."
+        },
+        {
+          "id": "PED-GEN-002",
+          "question": "Metabolik dekompansasyon şüphesinde ilk laboratuvar değerlendirmesi ve kritik örnekler nelerdir?",
+          "answer": "Kan gazı/anyon açıklığı, glukoz, elektrolitler, laktat, amonyak, keton; eşzamanlı plazma aminoasitleri, açilkarnitin profili ve idrar organik asitleri.",
+          "explanation": "Amonyak örneği uygun tüpe alınmalı, hızla soğukta laboratuvara ulaştırılmalı ve gecikmeden çalışılmalıdır. Tedavi örnek alımını veya stabilizasyonu geciktirmemelidir."
+        },
+        {
+          "id": "PED-GEN-003",
+          "question": "Hiperamonyemi + solunumsal alkaloz + belirgin anyon açıklı asidoz/ketoz olmaması hangi hastalık grubunu düşündürür?",
+          "answer": "Üre siklusu bozukluğu; özellikle yenidoğanda OTC, CPS1 veya NAGS eksikliği.",
+          "explanation": "Üre siklusu bozukluklarında amonyak yüksekliği baskındır; düşük BUN ve düşük sitrülin tanıyı destekleyebilir. Organik asidemilerde ise sıklıkla yüksek anyon açıklı metabolik asidoz ve ketoz eşlik eder."
+        },
+        {
+          "id": "PED-GEN-004",
+          "question": "Üre siklusu bozukluğuna bağlı akut hiperamonyemide temel acil yaklaşım nedir?",
+          "answer": "Metabolizma/yoğun bakım ekibini hemen çağır; protein alımını kısa süreli durdur, katabolizmayı önlemek için yüksek kalorili IV glukoz (gerektiğinde lipid) ver, azot bağlayıcı ilaçları ve arginin/sitrülin desteğini bozukluğa göre başla; ağır veya dirençli olguda acil ekstrakorporeal temizleme değerlendir.",
+          "explanation": "Amonyak düzeyi ve nörolojik durum seri izlenir. Protein kısıtlaması uzatılmaz; uzun süreli açlık katabolizmayı ve amonyak üretimini artırır. Diyaliz kararı yaş, düzey, artış hızı ve klinik duruma göre uzman ekipçe verilir."
+        },
+        {
+          "id": "PED-GEN-005",
+          "question": "Organik asidemiler (propiyonik/metilmalonik asidemi) için tipik biyokimyasal ipucu nedir?",
+          "answer": "Yüksek anyon açıklı metabolik asidoz, ketoz/ketonüri ve hiperamonyemi; sıklıkla laktat yüksekliği, sitopeniler ve ensefalopati eşlik edebilir.",
+          "explanation": "Üre siklusu bozukluğundan farklı olarak metabolik asidoz ve ketoz ön plandadır. İdrar organik asitleri ve plazma açilkarnitin/aminoasit profili tanısal ayrımda kullanılır."
+        },
+        {
+          "id": "PED-GEN-006",
+          "question": "MCAD eksikliği hangi klasik açlık ilişkili metabolik tabloya neden olur?",
+          "answer": "Açlık veya enfeksiyon sırasında hipoketotik hipoglisemi; keton üretimi yetersizdir, karaciğer disfonksiyonu ve hiperamonyemi eşlik edebilir.",
+          "explanation": "Tanıda C8 açilkarnitin artışı ve uygun organik asit paterni destekleyicidir. Uzun açlıktan kaçınma ve hastalık günlerinde erken karbonhidrat/glukoz desteği temel korumadır."
+        },
+        {
+          "id": "PED-GEN-007",
+          "question": "Klasik galaktozemide süt alımı sonrası hangi klinik bulgular ve acil beslenme değişikliği beklenir?",
+          "answer": "Beslenme sonrası kusma, sarılık/kolestaz, hepatomegali, gelişme geriliği ve E. coli sepsisi; laktoz/galaktoz içeren süt ve mamalar derhal kesilir.",
+          "explanation": "GALT aktivitesi ve eritrosit galaktoz-1-fosfat tanıyı doğrular. Şüphede galaktoz içermeyen beslenmeye hemen geçilir; yenidoğan tarama sonucu beklenmez."
+        },
+        {
+          "id": "PED-GEN-008",
+          "question": "Fenilketonüride tedavi edilmezse hangi nörotoksik metabolit artar ve diyetin temel ilkesi nedir?",
+          "answer": "Fenilalanin yükselir; ömür boyu fenilalanin kısıtlı, yeterli enerji-protein sağlayan özel diyet ve medikal formül uygulanır; tirozin esansiyel hale gelir.",
+          "explanation": "Erken tarama ve tedavi nörogelişimsel hasarı önler. Fenilalanin tamamen sıfırlanmaz; büyüme ve nörogelişim için kan düzeyleri düzenli izlenir."
+        },
+        {
+          "id": "PED-GEN-009",
+          "question": "Maple syrup urine disease (MSUD) için ayırt ettirici bulgu ve biyokimyasal doğrulama nedir?",
+          "answer": "Yenidoğanda beslenme güçlüğü, letarji ve ensefalopati; idrar/kulak kirinde akçaağaç şurubu kokusu. Lösin, izolösin, valin ve özellikle alloisolösin artışı tanıyı destekler.",
+          "explanation": "Dallı zincirli alfa-ketoasit dehidrogenaz kompleksi kusurudur. Akut dekompansasyon nörotoksiktir; hızlı metabolik uzman değerlendirmesi, katabolizmanın durdurulması ve lösin düşürülmesi gerekir."
+        },
+        {
+          "id": "PED-GEN-010",
+          "question": "Kalıtsal metabolik hastalıklarda temel Mendel ve mitokondriyal kalıtım örüntüleri nelerdir?",
+          "answer": "Çoğu aminoasit/organik asit metabolizması bozukluğu otozomal resesif; bazı hastalıklar X'e bağlı (örn. OTC eksikliği); mitokondriyal DNA hastalıkları maternal kalıtılır.",
+          "explanation": "Aile öyküsünün negatif olması tanıyı dışlamaz; yeni varyant, taşıyıcılık, eksik penetrans veya küçük aile yapısı bulunabilir. Genetik danışmanlık ve aile taraması tanı sonrası planlanır."
+        }
+      ]
     }
   ]
 }
