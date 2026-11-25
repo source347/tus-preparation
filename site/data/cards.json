@@ -11615,6 +11615,72 @@
           "explanation": "Tek ölçümden çok seri boy ölçümleri ve büyüme hızı önemlidir. Kemik yaşı, ailevi kısa boy ile konstitüsyonel büyüme/puberte gecikmesini ayırmada yardımcıdır."
         }
       ]
+    },
+    {
+      "id": "ped-acil-travma-zehirlenme",
+      "title": "Pediatri · Acil yaklaşım, travma ve zehirlenmeler",
+      "cards": [
+        {
+          "id": "PED-ACI-001",
+          "question": "Çocukta şokun erken döneminde hipotansiyondan önce hangi bulgular görülür?",
+          "answer": "Taşikardi, kapiller dolumda uzama, soğuk/benekli ekstremiteler, zayıf periferik nabız, mental durum değişikliği ve oligüri; hipotansiyon geç bulgudur.",
+          "explanation": "Çocuklar kardiyak debiyi kalp hızını artırarak korur. Normal kan basıncı şoku dışlamaz; hipotansiyon dekompanse şoku gösterir."
+        },
+        {
+          "id": "PED-ACI-002",
+          "question": "Pediatrik septik şokta sıvı resüsitasyonu nasıl uygulanır?",
+          "answer": "İzotonik kristalloid 10–20 mL/kg boluslar halinde verilir; her bolustan sonra perfüzyon yanıtı ve sıvı yüklenmesi yeniden değerlendirilir.",
+          "explanation": "Yanıt yoksa veya hepatomegali, ral, oksijen gereksinimi artışı gelişirse sıvı durdurulur; sıvıya dirençli şokta epinefrin veya norepinefrin infüzyonu düşünülür."
+        },
+        {
+          "id": "PED-ACI-003",
+          "question": "Çocukta anafilakside ilk ve en önemli ilaç, doz ve uygulama yolu nedir?",
+          "answer": "Adrenalin (epinefrin) 1 mg/mL çözeltiden 0,01 mg/kg IM, uyluğun anterolateraline; maksimum tek doz 0,5 mg. Gerektiğinde 5–15 dakikada tekrarlanır.",
+          "explanation": "Antihistaminik ve kortikosteroid adrenalinin yerine geçmez ve ilk uygulamayı geciktirmemelidir. Hava yolu, solunum ve dolaşım eşzamanlı değerlendirilir."
+        },
+        {
+          "id": "PED-ACI-004",
+          "question": "Çocukta travma değerlendirmesinde birincil yaklaşım hangi sırayla yapılır?",
+          "answer": "ABCDE: hava yolu ve servikal omurga korunması, solunum, dolaşım/kanama kontrolü, nörolojik durum, tam soyup hipotermiyi önleme.",
+          "explanation": "Hayatı tehdit eden sorunlar saptandığı anda tedavi edilir; ikincil ayrıntılı muayene stabilizasyon sonrasındadır."
+        },
+        {
+          "id": "PED-ACI-005",
+          "question": "Minör künt kafa travmalı çocukta kraniyal BT kararını hangi yaklaşım yönlendirir?",
+          "answer": "PECARN klinik karar kuralı; yaş <2 yaş ve ≥2 yaş için ayrı risk değişkenleri kullanır. Çok düşük risk grubunda BT gerekmez; orta riskte gözlem veya BT klinik bağlama göre seçilir.",
+          "explanation": "Her kafa travmasına rutin BT çekilmez. Bilinç değişikliği, bazal kafatası kırığı bulgusu, ciddi mekanizma, kusma/şiddetli baş ağrısı gibi bulgular risk sınıflamasını değiştirir."
+        },
+        {
+          "id": "PED-ACI-006",
+          "question": "Çocukta yanık yüzey alanı ve sıvı gereksinimi nasıl hesaplanır?",
+          "answer": "Çocukta Lund–Browder şeması tercih edilir; kısmi ve tam kat yanıklar hesaplanır, yüzeyel eritem dahil edilmez. Resüsitasyon sıvısı ve idame gereksinimi yaşa göre birlikte planlanır.",
+          "explanation": "Çocuklarda baş/gövde oranı farklıdır; erişkin Rule of Nines daha az doğrudur. Parkland formülü başlangıç tahminidir; idrar çıkışı ve perfüzyona göre titre edilir."
+        },
+        {
+          "id": "PED-ACI-007",
+          "question": "Suda boğulmada temel resüsitasyon önceliği nedir?",
+          "answer": "Sudan güvenli çıkarma, solunum ve nabız değerlendirmesi; apneik/yanıtsız çocukta kurtarıcı soluklarla birlikte CPR ve AED/ileri yaşam desteği.",
+          "explanation": "Boğulma hipoksik arrest nedenidir; ventilasyon kritik önemdedir. Rutin profilaktik antibiyotik veya kortikosteroid önerilmez."
+        },
+        {
+          "id": "PED-ACI-008",
+          "question": "Parasetamol zehirlenmesinde N-asetilsistein (NAC) ne zaman başlanır?",
+          "answer": "Tek akut alımda 4. saat veya sonrasında ölçülen parasetamol düzeyi Rumack–Matthew tedavi çizgisinin üzerindeyse; sonuç gecikecek ve anlamlı toksik doz olasılığı varsa veya başvuru geçse NAC geciktirilmeden başlanır.",
+          "explanation": "Rumack–Matthew nomogramı yalnız zamanı bilinen tek akut alımda kullanılır; tekrarlayan supraterapötik alımda veya zamanı belirsiz olguda nomogram uygulanmaz."
+        },
+        {
+          "id": "PED-ACI-009",
+          "question": "Çocukta korozif madde içimi şüphesinde hangi müdahalelerden kaçınılmalıdır?",
+          "answer": "Kusturma, asit-baz nötralizasyonu, aktif kömür ve nazogastrik tüpün körlemesine yerleştirilmesinden kaçınılır; hava yolu ve dolaşım değerlendirilir, semptomatik olguda erken uzman/endoskopi değerlendirmesi yapılır.",
+          "explanation": "Ağızda yanık olmaması özofagus hasarını dışlamaz. Stridor, salya akması, disfaji, kusma veya solunum sıkıntısı ciddi hasar göstergesidir."
+        },
+        {
+          "id": "PED-ACI-010",
+          "question": "Çocukta düğme pil veya çoklu mıknatıs yutulması neden acildir?",
+          "answer": "Özofagusta düğme pil mümkün olan en kısa sürede, ideal olarak 2 saat içinde endoskopik çıkarılmalıdır; birden fazla mıknatıs veya mıknatıs+metal cisim bağırsak duvarında sıkışma, nekroz ve perforasyon riski taşır.",
+          "explanation": "Pil şüphesinde acil radyografi ve uzman konsültasyonu gerekir; çıkarma açlık süresi nedeniyle geciktirilmez. İlk 12 saatte, 1 yaş üzerindeki çocukta yolda bal verilebilir; bu işlem endoskopiyi geciktirmez. Tek mıknatıs ile çoklu mıknatıs riski aynı değildir."
+        }
+      ]
     }
   ]
 }
