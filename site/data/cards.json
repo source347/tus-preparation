@@ -12077,6 +12077,243 @@
           "explanation": "Laboratuvar ve görüntüleme çocuğun yaşı, bulguları ve klinik şüpheye göre seçilir. Alternatif tıbbi nedenleri araştırmak, eş zamanlı güvenlik değerlendirmesini ve gerekli bildirimi geciktirmemelidir."
         }
       ]
+    },
+    {
+      "id": "surgery-appendicitis-acute-abdomen",
+      "title": "Genel Cerrahi · Akut karın ve akut apandisit",
+      "file": "akut-karin-apandisit.md",
+      "cards": [
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-001",
+          "question": "Akut karında ilk değerlendirme hangi üç soruyu yanıtlamalıdır?",
+          "answer": "Hasta hemodinamik olarak stabil mi; peritonit veya yaşamı tehdit eden neden var mı; ağrının olası anatomik/etiolojik kaynağı nedir?",
+          "explanation": "Önce resüsitasyon ve acil cerrahi gerektiren tabloyu tanı; ayrıntılı tanısal inceleme stabilizasyonu geciktirmemelidir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-002",
+          "question": "Akut karında hemodinamik instabilite ve yaygın peritonit varsa öncelik nedir?",
+          "answer": "Eşzamanlı resüsitasyon, acil cerrahi değerlendirme ve gerekli ise gecikmeden kaynak kontrolü.",
+          "explanation": "İnstabil hastada BT için ameliyathane/tedavi geciktirilmez; yatak başı USG/FAST uygun bağlamda kullanılabilir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-003",
+          "question": "Akut apandisitte tipik ağrı göçü nasıldır?",
+          "answer": "Başlangıçta periumbilikal/visseral ağrı, ardından parietal periton tutulumu ile sağ alt kadrana lokalizasyon.",
+          "explanation": "Bulantı, iştahsızlık ve hafif ateş eşlik edebilir; atipik yerleşim özellikle gebelik ve çocuklarda görülebilir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-004",
+          "question": "Akut apandisit şüphesinde erişkinde ilk tercih görüntüleme nedir?",
+          "answer": "Klinik risk değerlendirmesi sonrası çoğu gebe olmayan erişkinde IV kontrastlı abdominal BT; çocuk ve gebelerde USG ilk basamak, gerekirse MRI.",
+          "explanation": "Görüntüleme seçimi yaş, gebelik ve klinik olasılığa göre uyarlanır; düşük riskli hastada görüntüleme gerekmeyebilir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-005",
+          "question": "Alvarado veya AIR skoru akut apandisit yönetiminde ne sağlar?",
+          "answer": "Klinik olasılığı sınıflandırarak düşük riskte gözlem/alternatif tanı, orta-yüksek riskte görüntüleme ve cerrahi değerlendirmeyi yönlendirir.",
+          "explanation": "Tek başına skor, klinik değerlendirme veya görüntülemenin yerini almaz."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-006",
+          "question": "Komplike olmayan akut apandisitte standart cerrahi yaklaşım nedir?",
+          "answer": "Laparoskopik apendektomi.",
+          "explanation": "Uygun seçilmiş hastada antibiyotikle ameliyatsız tedavi tartışılabilir; apendikolit başarısızlık/rekürrens olasılığını artırır."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-007",
+          "question": "Komplike olmayan apandisitte apendektomi aynı anda mı yapılmalıdır?",
+          "answer": "Stabil hastada apendektomi genellikle ilk 24 saat içinde planlanabilir; kısa süreli gecikme sonuçları kötüleştirmez.",
+          "explanation": "Gecikme, resüsitasyon veya uygun ekip/ameliyathane hazırlığı için olabilir; gereksiz uzatılmamalıdır."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-008",
+          "question": "Perfore apandisit veya gangrenöz apandisitte antibiyotik süresi nasıl belirlenir?",
+          "answer": "Kaynak kontrolü yeterliyse kısa postoperatif antibiyotik kürü; güncel WSES önerisi çoğu komplike olguda yaklaşık 2–3 gündür.",
+          "explanation": "Klinik yanıt ve kaynak kontrolünün yeterliliği esastır; uzamış tedavi otomatik değildir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-009",
+          "question": "Apandiküler plastron/apse ile başvuran stabil hastada yaklaşım nedir?",
+          "answer": "Antibiyotik ± görüntüleme eşliğinde perkütan drenaj; seçilmiş olguda erken laparoskopik cerrahi deneyimli merkezde düşünülebilir.",
+          "explanation": "İnflamatuvar kitlede yaklaşım klinik durum, apse ve cerrahi deneyime göre bireyselleştirilir."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-010",
+          "question": "Apandisit nedeniyle nonoperatif tedavi edilen apse/plastron hastasında neden takip gerekir?",
+          "answer": "Özellikle erişkin ve ileri yaşta altta yatan apendiks/çekum neoplazisini dışlamak için klinik ve uygun kolonik/görüntüleme takibi gerekir.",
+          "explanation": "Tedaviyle belirtilerin düzelmesi neoplaziyi dışlamaz."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-011",
+          "question": "Sağ alt kadran ağrısında apandisit dışında hangi kritik tanılar dışlanmalıdır?",
+          "answer": "Ektopik gebelik, over torsiyonu/kist komplikasyonu, PID, üreter taşı, terminal ileit/Crohn, çekal divertikülit ve Meckel divertikülü.",
+          "explanation": "Üreme çağındaki hastada gebelik testi erken yapılmalıdır."
+        },
+        {
+          "id": "SUR-APPENDICITIS-ACUTE-ABDOMEN-012",
+          "question": "Akut karında ağrı şiddetinin fizik muayene bulgularıyla uyumsuz olması ne düşündürür?",
+          "answer": "Akut mezenter iskemi; özellikle vasküler riskli hastada erken BT anjiyografi gerekir.",
+          "explanation": "Erken dönemde laktat normal olabilir; normal laktat mezenter iskemiyi dışlamaz."
+        }
+      ]
+    },
+    {
+      "id": "surgery-bowel-obstruction-hernia",
+      "title": "Genel Cerrahi · Bağırsak obstrüksiyonu ve karın duvarı hernileri",
+      "file": "bagirsak-obstruksiyonu-herniler.md",
+      "cards": [
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-001",
+          "question": "Mekanik ince bağırsak obstrüksiyonunun erişkinde en sık nedeni nedir?",
+          "answer": "Önceki abdominal cerrahiye bağlı adezyonlar.",
+          "explanation": "Diğer önemli nedenler herni ve tümördür; etiyoloji öykü ve görüntülemeyle değerlendirilir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-002",
+          "question": "İnce bağırsak obstrüksiyonunun tipik klinik bulguları nelerdir?",
+          "answer": "Kolik tarzda karın ağrısı, kusma, distansiyon ve gaz-gaita çıkaramama; proksimal obstrüksiyonda kusma daha erken, distal obstrüksiyonda distansiyon belirgin olabilir.",
+          "explanation": "Tam obstrüksiyonda obstipasyon; erken dönemde distal içerik nedeniyle bir süre dışkılama sürebilir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-003",
+          "question": "Adezyona bağlı ince bağırsak obstrüksiyonunda başlangıç konservatif tedavi nedir?",
+          "answer": "Ağızdan alımı kesme, IV sıvı-elektrolit replasmanı, uygun hastada nazogastrik dekompresyon ve seri klinik değerlendirme.",
+          "explanation": "Peritonit, strangülasyon veya iskemi şüphesi konservatif yaklaşımın kontrendikasyonudur."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-004",
+          "question": "İnce bağırsak obstrüksiyonunda acil cerrahi gerektiren bulgular nelerdir?",
+          "answer": "Peritonit, sürekli/şiddetlenen ağrı, strangülasyon veya iskemi bulguları, hemodinamik bozulma, kapalı ans obstrüksiyonu ya da perforasyon.",
+          "explanation": "Kontrastlı BT kapalı ans, iskemi ve geçiş noktasını değerlendirmede önemlidir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-005",
+          "question": "Adezyon obstrüksiyonunda suda çözünen kontrastın kolona ulaşması neyi gösterir?",
+          "answer": "Genellikle obstrüksiyonun konservatif çözülme olasılığının yüksek olduğunu; 24 saat içinde kolona ulaşmaması cerrahi gereksinim olasılığını artırır.",
+          "explanation": "Klinik kötüleşme varsa kontrast testi beklenmeden cerrahi değerlendirme gerekir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-006",
+          "question": "Kapalı ans obstrüksiyonu neden tehlikelidir?",
+          "answer": "İki noktadan tıkanan bağırsak segmentinde hızla venöz konjesyon, iskemi, nekroz ve perforasyon gelişebilir.",
+          "explanation": "BT'de C/U şeklinde dilate ans, iki geçiş noktası ve mezenterik dolaşım bulguları aranır."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-007",
+          "question": "Kolon obstrüksiyonunda erişkinde sık görülen nedenler nelerdir?",
+          "answer": "Kolorektal kanser, divertiküler striktür ve volvulus.",
+          "explanation": "Yaş, kilo kaybı, anemi ve dışkılama alışkanlığındaki değişiklik malignite açısından uyarıcıdır."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-008",
+          "question": "Sigmoid volvulusun tipik görüntüleme bulgusu nedir?",
+          "answer": "Direkt grafide kahve çekirdeği (coffee-bean) görünümü; BT tanıyı ve iskemi/perforasyonu değerlendirir.",
+          "explanation": "Peritonit veya iskemi yoksa endoskopik detorsiyon ve ardından rekürrensi önlemek için aynı yatışta sigmoid rezeksiyon değerlendirilir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-009",
+          "question": "Çekum volvulusunda tercih edilen tedavi nedir?",
+          "answer": "Genellikle cerrahi rezeksiyon; endoskopik detorsiyonun başarı oranı düşüktür.",
+          "explanation": "İskemi veya perforasyon varsa acil cerrahi gerekir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-010",
+          "question": "İnkarsere herni ile strangüle herni arasındaki fark nedir?",
+          "answer": "İnkarsere herni içeriği redükte edilemeyen hernidir; strangülasyonda içerik kanlanması bozulmuştur.",
+          "explanation": "Ağrı, cilt değişikliği, sistemik toksisite, peritonit veya obstrüksiyon strangülasyon açısından alarmdır."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-011",
+          "question": "Ağrılı, redükte edilemeyen herni ve strangülasyon şüphesinde yaklaşım nedir?",
+          "answer": "Acil cerrahi değerlendirme; strangülasyon/peritonit şüphesinde gecikmeden ameliyat.",
+          "explanation": "Zorlayıcı manuel redüksiyon iskemi veya perforasyonu maskeleyebilir; yalnızca seçilmiş, strangülasyon bulgusu olmayan olguda düşünülebilir."
+        },
+        {
+          "id": "SUR-BOWEL-OBSTRUCTION-HERNIA-012",
+          "question": "Femoral herni neden özellikle önemlidir?",
+          "answer": "İnguinal herniye göre strangülasyon riski daha yüksektir; kasık altında, inguinal ligamanın altında ve femoral kanal içinde yer alır.",
+          "explanation": "Özellikle kadınlarda görülür; küçük ve sessiz olabilir."
+        }
+      ]
+    },
+    {
+      "id": "surgery-biliary-pancreatic",
+      "title": "Genel Cerrahi · Safra yolları ve akut pankreatit",
+      "file": "safra-yollari-pankreatit.md",
+      "cards": [
+        {
+          "id": "SUR-BILIARY-PANCREATIC-001",
+          "question": "Akut kolesistitte en yararlı ilk görüntüleme yöntemi nedir?",
+          "answer": "Sağ üst kadran ultrasonografisi.",
+          "explanation": "Safra taşı, duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu destekleyicidir."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-002",
+          "question": "Akut kolesistitte uygun hastada temel definitif tedavi nedir?",
+          "answer": "Erken laparoskopik kolesistektomi; mümkünse aynı yatışta ve erken dönemde.",
+          "explanation": "Yüksek riskli olmak tek başına cerrahiye uygun olmamak anlamına gelmez; drenaj cerrahiye uygun olmayan seçilmiş hastalarda düşünülür."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-003",
+          "question": "Akut kolanjit için Charcot triadı nedir?",
+          "answer": "Ateş/titreme, sağ üst kadran ağrısı ve sarılık.",
+          "explanation": "Hipotansiyon ve bilinç değişikliği eklenmesi ağır kolanjiti (Reynolds pentadı) düşündürür."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-004",
+          "question": "Akut kolanjitte tedavinin iki temel bileşeni nedir?",
+          "answer": "IV antibiyotik ve obstrükte safra yolunun acil/erken drenajı; çoğunlukla ERCP.",
+          "explanation": "Ağır kolanjitte resüsitasyon ve mümkün olan en kısa sürede biliyer dekompresyon gerekir."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-005",
+          "question": "Koledok taşı şüphesinde ilk görüntüleme ve orta olasılıkta ileri test nedir?",
+          "answer": "İlk olarak transabdominal USG; orta olasılıkta MRCP veya endoskopik USG.",
+          "explanation": "Yüksek olasılık/kanıtlı taş ve kolanjitte ERCP çoğunlukla tanısal değil terapötik amaçla kullanılır."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-006",
+          "question": "Safra taşı pankreatitinde ERCP hangi durumda acildir?",
+          "answer": "Eşlik eden akut kolanjit veya devam eden biliyer obstrüksiyon varsa.",
+          "explanation": "Kolanjit/obstrüksiyon yoksa rutin erken ERCP önerilmez."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-007",
+          "question": "Hafif biliyer pankreatitte kolesistektomi ne zaman yapılmalıdır?",
+          "answer": "Aynı hastane yatışı sırasında, klinik olarak uygun olduğunda.",
+          "explanation": "Erteleme rekürren biliyer olay riskini artırır; nekrotizan/ağır pankreatitte zamanlama farklıdır."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-008",
+          "question": "Akut pankreatit tanısı için hangi ölçütlerden kaçı gerekir?",
+          "answer": "Üç ölçütten en az ikisi: tipik epigastrik ağrı, lipaz/amilazın normal üst sınırın en az 3 katı olması, uyumlu görüntüleme.",
+          "explanation": "Lipaz tercih edilir; tanı klinik ve biyokimyasal olarak açıksa erken BT rutin değildir."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-009",
+          "question": "Akut pankreatitte erken tedavinin temel bileşenleri nelerdir?",
+          "answer": "Hedefe yönelik IV kristalloid, analjezi, erken oral/enteral beslenme ve etiyolojinin tedavisi.",
+          "explanation": "Aşırı sıvı yüklemesinden kaçınılır; profilaktik antibiyotik steril nekrozda rutin değildir."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-010",
+          "question": "Akut pankreatitte nekroz enfeksiyonunu düşündüren durum nedir?",
+          "answer": "Klinik kötüleşme/sepsis ve görüntülemede nekroz içinde gaz; kültür pozitifliği destekleyicidir.",
+          "explanation": "Stabil hastada nekroz girişimi mümkünse olgunlaşma için yaklaşık 4 hafta ertelenir; basamaklı yaklaşım tercih edilir."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-011",
+          "question": "Pankreatik psödokist ile akut nekrotik koleksiyon arasındaki temel fark nedir?",
+          "answer": "Psödokist genellikle >4 hafta sonra gelişen, duvarı olgunlaşmış ve sıvı içerikli koleksiyondur; nekrotik koleksiyon katı nekrotik materyal içerir.",
+          "explanation": "Her koleksiyon drene edilmez; semptom, enfeksiyon, büyüme veya komplikasyon girişim gereksinimini belirler."
+        },
+        {
+          "id": "SUR-BILIARY-PANCREATIC-012",
+          "question": "Safra taşı ileusunun klasik görüntüleme triadı nedir?",
+          "answer": "Pnömobili, ince bağırsak obstrüksiyonu ve ektopik safra taşı (Rigler triadı).",
+          "explanation": "Genellikle kolesistoenterik fistül sonrası gelişir; tedavi çoğunlukla enterolitotomi ve seçilmiş hastada fistül/ safra kesesi cerrahisidir."
+        }
+      ]
     }
   ]
 }
