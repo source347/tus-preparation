@@ -11813,6 +11813,72 @@
           "explanation": "Aile öyküsünün negatif olması tanıyı dışlamaz; yeni varyant, taşıyıcılık, eksik penetrans veya küçük aile yapısı bulunabilir. Genetik danışmanlık ve aile taraması tanı sonrası planlanır."
         }
       ]
+    },
+    {
+      "id": "ped-adolesan-sagligi",
+      "title": "Pediatri · Adölesan sağlığı",
+      "cards": [
+        {
+          "id": "PED-ADO-001",
+          "question": "Adölesan görüşmesinde biyopsikososyal değerlendirme için kullanılan HEADSSS başlıkları nelerdir?",
+          "answer": "Home, Education/Employment, Activities, Drugs, Sexuality, Suicide/Depression, Safety (ev, eğitim/iş, aktiviteler, madde, cinsellik, ruh sağlığı/intihar, güvenlik).",
+          "explanation": "Görüşmenin bir bölümünü ergenle yalnız yapmak, açık uçlu ve yargılamayan sorular sormak önemlidir. Riskler ve koruyucu faktörler birlikte değerlendirilir."
+        },
+        {
+          "id": "PED-ADO-002",
+          "question": "Adölesan sağlık görüşmesinde gizlilik nasıl ele alınmalı; hangi durumlarda sınırlandırılabilir?",
+          "answer": "Görüşme başında gizliliğin kapsamı ve sınırları açıklanır; yasal zorunluluk, istismar/ihmal bildirimi veya kendine/başkasına yönelik ciddi ve yakın tehlike durumunda gerekli bilgiler güvenlik için paylaşılabilir.",
+          "explanation": "Ebeveyn katılımı mümkün olduğunda desteklenir; ancak ergenin mahremiyeti ve özerkliği gelişimsel düzey ve yerel mevzuata göre korunur. Hukuki eşikler ülkeye göre değişir."
+        },
+        {
+          "id": "PED-ADO-003",
+          "question": "Adölesanlarda depresyon ve intihar riski taraması hangi yaşta ve hangi araçlarla yapılmalıdır?",
+          "answer": "12 yaş ve üzerindeki ergenlerde depresyon ve intihar riski ayrı ayrı taranır; PHQ-A/PHQ-9 depresyon için, ASQ intihar riski için kullanılabilir.",
+          "explanation": "PHQ-9'un 9. maddesi tek başına intihar risk taraması değildir. Pozitif intihar taraması kısa intihar güvenlik değerlendirmesi (BSSA), güvenlik planı ve uygun yönlendirme gerektirir."
+        },
+        {
+          "id": "PED-ADO-004",
+          "question": "Adölesanda intihar riski taraması pozitifse ilk klinik adımlar nelerdir?",
+          "answer": "Güncel düşünce, plan, niyet, araçlara erişim ve önceki girişimler hızla değerlendirilir; yakın/akut riskte hasta yalnız bırakılmaz, ölümcül araçlara erişim kısıtlanır ve acil ruh sağlığı değerlendirmesi sağlanır.",
+          "explanation": "Güvenlik planı, aile/koruyucu yetişkinin uygun katılımı ve yakın takip düzenlenir. Sadece 'intihar etmeyecek' sözü almak güvenlik planının yerini tutmaz."
+        },
+        {
+          "id": "PED-ADO-005",
+          "question": "Adölesanda yeme bozukluğu şüphesinde hangi bulgular tıbbi instabiliteyi ve hastaneye yatırma gereğini düşündürür?",
+          "answer": "Belirgin veya hızlı kilo kaybı, bradikardi, hipotansiyon/ortostaz, hipotermi, dehidratasyon, elektrolit bozukluğu (özellikle hipokalemi/hipofosfatemi), QTc uzaması, senkop veya akut besin reddi.",
+          "explanation": "Ciddi malnütrisyon normal ya da yüksek BMI ile de bulunabilir; mevcut ağırlıktan çok kilo kaybının hızı ve büyüme eğrisinden sapma önemlidir. Yatış kararı klinik bütünlük ve uzman değerlendirmesiyle verilir."
+        },
+        {
+          "id": "PED-ADO-006",
+          "question": "Adölesanlarda madde kullanımını saptamak için hangi yaklaşım ve tarama aracı kullanılır?",
+          "answer": "Gizlilik çerçevesinde alkol, nikotin/vape, kannabis ve diğer maddeler doğrudan sorgulanır; CRAFFT gibi yaşa uygun doğrulanmış araç kullanılabilir.",
+          "explanation": "Pozitif tarama tanı değildir; kullanım sıklığı, işlev kaybı, riskli davranış ve bağımlılık belirtileri değerlendirilir. Kısa motivasyonel görüşme ve gerektiğinde tedaviye yönlendirme SBIRT yaklaşımının temelidir."
+        },
+        {
+          "id": "PED-ADO-007",
+          "question": "Cinsel olarak aktif adölesanlarda klamidya ve gonore taraması hangi ilkelere göre yapılır?",
+          "answer": "Tarama yaş, anatomi, cinsel pratik ve maruziyet bölgesine göre belirlenir; CDC önerilerinde 25 yaş altı cinsel aktif kadınlarda yıllık klamidya ve gonore testi önerilir. Erkeklerde ve ekstragenital bölgelerde tarama risk ve prevalansa göre düzenlenir.",
+          "explanation": "NAAT tercih edilen testtir; yalnız ürogenital örnekle yetinilmeyip bildirilen maruziyete göre farengeal/rek­tal örnek düşünülür. HIV testi tüm ergenlere sunulmalı; yerel epidemiyoloji ve mevzuat dikkate alınmalıdır."
+        },
+        {
+          "id": "PED-ADO-008",
+          "question": "Adölesanda gebelik olasılığı veya adet gecikmesi varsa ilk değerlendirmede hangi test unutulmamalıdır?",
+          "answer": "Gebelik olasılığı bulunan her adölesanda idrar veya serum β-hCG; amenore değerlendirmesinde gebelik ilk dışlanacak nedenlerden biridir.",
+          "explanation": "Amenorede öykü, kilo değişimi, egzersiz/beslenme, ilaçlar ve hiperandrojenizm bulguları sorgulanır; sonrasında klinik duruma göre TSH, prolaktin, FSH/LH ve diğer testler seçilir."
+        },
+        {
+          "id": "PED-ADO-009",
+          "question": "Yoğun egzersiz yapan veya enerji alımı yetersiz adölesan kızda oligomenore/amenore ve kemik stres yaralanması hangi sendromu düşündürür?",
+          "answer": "Kadın sporcu üçlüsü: düşük enerji kullanılabilirliği (yeme bozukluğu olsun veya olmasın), menstrual disfonksiyon ve düşük kemik mineral yoğunluğu.",
+          "explanation": "Güncel yaklaşım erkek sporculardaki karşılığı da kapsayan RED-S kavramını kullanır. Enerji açığı düzeltilmeli; beslenme, menstrual fonksiyon ve kemik sağlığı multidisipliner izlenmelidir."
+        },
+        {
+          "id": "PED-ADO-010",
+          "question": "Adölesanlarda koruyucu sağlık görüşmesinde hangi risk alanları rutin sorgulanmalıdır?",
+          "answer": "Uyku, fiziksel aktivite, beslenme, ağız-diş sağlığı, aşılar, zorbalık/siber zorbalık, şiddet/istismar, güvenli araç kullanımı ve koruyucu cinsel sağlık davranışları.",
+          "explanation": "Risk azaltma danışmanlığı somut, gelişimsel düzeye uygun ve yargılamayan biçimde verilir. Sadece sorun odaklı değil, koruyucu faktörler ve güçlü yönler de ele alınır."
+        }
+      ]
     }
   ]
 }
