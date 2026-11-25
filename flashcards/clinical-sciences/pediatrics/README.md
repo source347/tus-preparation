@@ -1,6 +1,6 @@
 # Pediatri
 
-Pediatri kartları; yenidoğan, büyüme-gelişim, beslenme, koruyucu sağlık ve çocukluk çağı hastalıklarında tanı, ayırıcı tanı ve ilk basamak yönetim kararlarına odaklanır. Kart sayısı hedef değildir; ilgili TUS soru başına 20 kart kesin üst sınırdır. Dört ekleme dalgası on bir temel başlıkta 110 yüksek verimli kart içerir.
+Pediatri kartları; yenidoğan, büyüme-gelişim, beslenme, koruyucu sağlık ve çocukluk çağı hastalıklarında tanı, ayırıcı tanı ve ilk basamak yönetim kararlarına odaklanır. Kart sayısı hedef değildir; ilgili TUS soru başına 20 kart kesin üst sınırdır. Beş ekleme dalgası on iki temel başlıkta 120 yüksek verimli kart içerir.
 
 ## Desteler
 
@@ -15,7 +15,8 @@ Pediatri kartları; yenidoğan, büyüme-gelişim, beslenme, koruyucu sağlık v
 - [Çocuk nörolojisi](cocuk-norolojisi.md) — 10 kart
 - [Çocuk hematoloji ve onkolojisi](cocuk-hematoloji-onkoloji.md) — 10 kart
 - [Çocuk endokrinolojisi ve metabolik aciller](cocuk-endokrinoloji-metabolik-aciller.md) — 10 kart
+- [Acil yaklaşım, travma ve zehirlenmeler](cocuk-acil-travma-zehirlenme.md) — 10 kart
 
 ## Kaynak standardı
 
-Neonatal resüsitasyon kartları 2025 AHA/AAP önerileriyle; büyüme-gelişim ve beslenme kartları WHO, CDC ve AAP kaynaklarıyla; aşılama kartları T.C. Sağlık Bakanlığının 2025 ulusal takvimiyle uyumludur. Enfeksiyon kartları AAP 2026 İYE ve 2021 ateşli bebek kılavuzlarını, solunum kartları GINA 2025 ve IDSA/PIDS 2026 pnömoni kılavuzunu, kardiyoloji kartları AAP/CDC konjenital kalp hastalığı kaynaklarını; gastroenteroloji kartları 2026 ESPGHAN/NASPGHAN konstipasyon ve ilgili pediatrik gastroenteroloji kaynaklarını; nefroloji kartları KDIGO 2025 ve IPNA önerilerini; nöroloji kartları AAP, ILAE ve NICE kaynaklarını; hematoloji-onkoloji kartları AAP 2026 demir eksikliği raporu, ASH ve NCI kaynaklarını; endokrinoloji kartları ISPAD 2022, AAP konjenital hipotiroidi raporu, Endocrine Society adrenal hiperplazi ve 2026 erken puberte kılavuzlarını temel alır. Klinik öneriler güncel kılavuzlarla doğrulanır. Ülkeye özgü uygulamalarda güncel Sağlık Bakanlığı şeması esas alınır; değişebilen eşik ve dozlar kaynakla birlikte değerlendirilir.
+Neonatal resüsitasyon kartları 2025 AHA/AAP önerileriyle; büyüme-gelişim ve beslenme kartları WHO, CDC ve AAP kaynaklarıyla; aşılama kartları T.C. Sağlık Bakanlığının 2025 ulusal takvimiyle uyumludur. Enfeksiyon kartları AAP 2026 İYE ve 2021 ateşli bebek kılavuzlarını, solunum kartları GINA 2025 ve IDSA/PIDS 2026 pnömoni kılavuzunu, kardiyoloji kartları AAP/CDC konjenital kalp hastalığı kaynaklarını; gastroenteroloji kartları 2026 ESPGHAN/NASPGHAN konstipasyon ve ilgili pediatrik gastroenteroloji kaynaklarını; nefroloji kartları KDIGO 2025 ve IPNA önerilerini; nöroloji kartları AAP, ILAE ve NICE kaynaklarını; hematoloji-onkoloji kartları AAP 2026 demir eksikliği raporu, ASH ve NCI kaynaklarını; endokrinoloji kartları ISPAD 2022, AAP konjenital hipotiroidi raporu, Endocrine Society adrenal hiperplazi ve 2026 erken puberte kılavuzlarını; acil yaklaşım kartları AHA/AAP 2025 PALS, PECARN ve ESPGHAN/CHOP yabancı cisim kılavuzlarını temel alır. Klinik öneriler güncel kılavuzlarla doğrulanır. Ülkeye özgü uygulamalarda güncel Sağlık Bakanlığı şeması esas alınır; değişebilen eşik ve dozlar kaynakla birlikte değerlendirilir.
