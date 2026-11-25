@@ -11681,6 +11681,72 @@
           "explanation": "Pil şüphesinde acil radyografi ve uzman konsültasyonu gerekir; çıkarma açlık süresi nedeniyle geciktirilmez. İlk 12 saatte, 1 yaş üzerindeki çocukta yolda bal verilebilir; bu işlem endoskopiyi geciktirmez. Tek mıknatıs ile çoklu mıknatıs riski aynı değildir."
         }
       ]
+    },
+    {
+      "id": "ped-derm-ent-oftalmoloji",
+      "title": "Pediatri · Dermatoloji, KBB ve oftalmoloji",
+      "cards": [
+        {
+          "id": "PED-DER-001",
+          "question": "Çocukta atopik dermatitin tipik yaşa bağlı dağılımı nasıldır?",
+          "answer": "Bebekte yanaklar ve ekstansör yüzler; daha büyük çocukta fleksural alanlar (dirsek ve diz içleri) baskındır. Kaşıntı ve kronik/tekrarlayıcı seyir tipiktir.",
+          "explanation": "Temel tedavi cilt bariyerinin nemlendiricilerle korunması ve alevlenmede uygun potentlikte topikal kortikosteroiddir; enfeksiyon yoksa rutin antibiyotik gerekmez."
+        },
+        {
+          "id": "PED-DER-002",
+          "question": "İmpetigonun tipik etkeni ve karakteristik deri lezyonu nedir?",
+          "answer": "Staphylococcus aureus ve/veya Streptococcus pyogenes; yüzeyel erozyon üzerinde bal rengi kabuklanma.",
+          "explanation": "Sınırlı lezyonda topikal tedavi; yaygın, büllöz veya sistemik bulgulu olguda oral antistafilokokal/streptokokal antibiyotik tercih edilir."
+        },
+        {
+          "id": "PED-DER-003",
+          "question": "Çocukta uyuz için en ayırt ettirici klinik ipuçları ve bulaş kontrolü nedir?",
+          "answer": "Gece artan kaşıntı, parmak araları/bilek/genital bölgede tüneller ve ev içi kümelenme; bebekte baş, boyun, avuç ve taban da tutulabilir.",
+          "explanation": "Permetrin %5 uygun yaşta temel topikal tedavidir; yakın temaslılar eşzamanlı tedavi edilmeli, giysi ve yatak takımları sıcak yıkanmalı veya kapalı poşette bekletilmelidir. İki aydan küçük bebekte tedavi seçimi uzmanla yapılır."
+        },
+        {
+          "id": "PED-DER-004",
+          "question": "Tinea capitis tedavisinde neden yalnız topikal antifungal yeterli değildir?",
+          "answer": "Saçlı deri ve kıl folikülü tutulduğu için sistemik antifungal gerekir; etken sıklıkla Trichophyton veya Microsporum türleridir.",
+          "explanation": "Griseofulvin veya terbinafin etken ve yerel direnç/ruhsat durumuna göre seçilir; kerion inflamatuvar, skar bırakabilen formdur ve bakteriyel apseyle karıştırılmamalıdır."
+        },
+        {
+          "id": "PED-ENT-001",
+          "question": "Çocukta akut otitis media tanısı için otoskopide hangi bulgu en değerlidir?",
+          "answer": "Orta kulak efüzyonuyla birlikte timpanik membranda orta-ağır bombeleşme veya dış kulak yolu enfeksiyonuna bağlı olmayan yeni otore.",
+          "explanation": "Yalnız timpanik membran kızarıklığı AOM tanısı koydurmaz; pnömatik otoskopi/efüzyon kanıtı tanısal özgüllüğü artırır."
+        },
+        {
+          "id": "PED-ENT-002",
+          "question": "Akut otitis mediada antibiyotik başlama ve ilk seçenek hangi klinik ölçütlere göre belirlenir?",
+          "answer": "Otore, ağır semptom (orta-ağır otalji, ≥48 saat ağrı veya ateş ≥39°C) ya da 6–23 ayda bilateral AOM antibiyotik lehinedir; seçilecekse ilk seçenek amoksisilindir.",
+          "explanation": "≥24 ayda ağır olmayan, komplikasyonsuz olguda 48–72 saat güvenilir izlemle gözlem seçilebilir. Son 30 günde amoksisilin kullanımı veya pürülan konjonktivit eşlik etmesi amoksisilin-klavulanatı düşündürür."
+        },
+        {
+          "id": "PED-ENT-003",
+          "question": "Akut otitis medianın mastoidite ilerlediğini düşündüren bulgular nelerdir?",
+          "answer": "Kulak arkasında eritem, hassasiyet ve şişlik; aurikulanın öne/dışa itilmesi, ateş ve devam eden otalji/otore.",
+          "explanation": "Akut mastoidit acil KBB değerlendirmesi ve IV antibiyotik gerektirir; subperiostal apse veya intrakraniyal yayılım açısından görüntüleme gerekebilir."
+        },
+        {
+          "id": "PED-ENT-004",
+          "question": "Çocukta akut bakteriyel sinüzit tanısını destekleyen üç klinik seyir hangileridir?",
+          "answer": "Nazal akıntı/gündüz öksürüğünün >10 gün düzelmeden sürmesi; ≥39°C ateş ve pürülan akıntının en az 3 gün sürmesi; başlangıçta düzelirken yeniden kötüleşme (double-sickening).",
+          "explanation": "Komplikasyonsuz olguda rutin görüntüleme gerekmez. Göz çevresinde ödem, proptozis, göz hareketlerinde ağrı/kısıtlılık veya nörolojik bulgu orbital/intrakraniyal komplikasyon düşündürür."
+        },
+        {
+          "id": "PED-OPH-001",
+          "question": "Çocukta lökokori veya asimetrik/absent kırmızı refleks saptanırsa ne yapılmalıdır?",
+          "answer": "Acil pediatrik oftalmoloji değerlendirmesi; retinoblastom ve konjenital katarakt başta olmak üzere görmeyi tehdit eden nedenler dışlanmalıdır.",
+          "explanation": "Lökokori fizyolojik kabul edilmez ve rutin kontrol beklenmez. Retinoblastomda gecikme yaşamı tehdit edebilir; konjenital katarakt da erken tedavi edilmezse deprivasyon ambliyopisi yapar."
+        },
+        {
+          "id": "PED-OPH-002",
+          "question": "Çocukta şaşılık ve ambliyopi açısından erken saptama neden önemlidir?",
+          "answer": "Görsel gelişim döneminde bir gözün baskılanması kalıcı görme kaybına yol açabilir; sürekli şaşılık, anizometropi ve görme keskinliği farkı risk oluşturur.",
+          "explanation": "Yaşa uygun görme taraması ve kırmızı refleks muayenesi yapılır; şüpheli şaşılık veya görme asimetrisinde erken oftalmoloji değerlendirmesi gerekir. Tedavide refraksiyon düzeltmesi, seçilmiş olguda kapama/atropin kullanılır."
+        }
+      ]
     }
   ]
 }
