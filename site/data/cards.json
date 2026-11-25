@@ -11549,6 +11549,72 @@
           "explanation": "Yüksek tümör yükü ve tedavi başlangıcı risklidir; hidrasyon, risk temelli allopurinol/rasburikaz ve yakın laboratuvar izlemi gerekir."
         }
       ]
+    },
+    {
+      "id": "ped-endokrinoloji",
+      "title": "Pediatri · Çocuk endokrinolojisi ve metabolik aciller",
+      "cards": [
+        {
+          "id": "PED-END-001",
+          "question": "Çocukta diyabetik ketoasidoz (DKA) tanısı için hangi biyokimyasal ölçütler gerekir?",
+          "answer": "Hiperglisemi (genellikle glukoz >200 mg/dL), venöz pH <7,30 veya bikarbonat <18 mmol/L ve ketonemi (β-hidroksibütirat ≥3 mmol/L) ya da orta/büyük ketonüri.",
+          "explanation": "DKA tanısı yalnız hiperglisemiyle konmaz; öglisemik DKA mümkündür. β-hidroksibütirat kanda tercih edilen keton ölçümüdür."
+        },
+        {
+          "id": "PED-END-002",
+          "question": "Çocuk DKA'sında ilk tedavi sıralaması ve insülin ne zaman başlanır?",
+          "answer": "İlk olarak izotonik sıvı resüsitasyonu; insülin IV infüzyonu sıvı başladıktan en az 1 saat sonra, bolus yapılmadan başlanır.",
+          "explanation": "İnsülin bolusu serebral hasar riskini artırabilir. Potasyum düzeyi ve idrar çıkışı değerlendirilerek potasyum replasmanı planlanır; başlangıçta serum K normal/yüksek olsa da total vücut potasyumu azalmıştır."
+        },
+        {
+          "id": "PED-END-003",
+          "question": "DKA tedavisi sırasında serebral hasarı düşündüren erken klinik bulgular nelerdir?",
+          "answer": "Yeni başlayan veya giderek şiddetlenen baş ağrısı, bilinç değişikliği, irritabilite, bradikardi, kusma ve nörolojik bulgular.",
+          "explanation": "Şüphede tedavi geciktirilmez: yoğun bakım/uzman desteğiyle hipertonik salin veya mannitol uygulanır; görüntüleme tedaviyi geciktirmemelidir."
+        },
+        {
+          "id": "PED-END-004",
+          "question": "Yenidoğanda konjenital hipotiroidi taraması pozitifse doğrulama ve tedavi yaklaşımı nedir?",
+          "answer": "Serum TSH ve serbest T4 hızla doğrulanır; konjenital hipotiroidide levotiroksin genellikle 10–15 μg/kg/gün başlanır ve tedavi mümkünse yaşamın ilk 2 haftasında başlatılır.",
+          "explanation": "Tarama TSH'si >40 mIU/L ise doğrulama kanı alındıktan sonra sonucu beklemeden tedavi başlanır. Nörogelişimsel hasarı önlemek için gecikme kritik önemdedir."
+        },
+        {
+          "id": "PED-END-005",
+          "question": "Düşük serbest T4 ile birlikte TSH'nin düşük veya uygunsuz normal olması hangi tanıyı düşündürür ve tedavi öncesi ne dışlanmalıdır?",
+          "answer": "Santral (sekonder/tersiyer) konjenital hipotiroidi; levotiroksinden önce eşlik eden santral adrenal yetmezlik dışlanmalı, dışlanamıyorsa glukokortikoid verilmelidir.",
+          "explanation": "Tiroid hormonu kortizol metabolizmasını artırarak adrenal krizi tetikleyebilir. Primer hipotiroidide ise TSH belirgin yüksektir."
+        },
+        {
+          "id": "PED-END-006",
+          "question": "Klasik 21-hidroksilaz eksikliği konjenital adrenal hiperplazide hangi hormon paterni ve klinik bulgular beklenir?",
+          "answer": "Kortizol ve aldosteron sentezi azalır, 17-hidroksiprogesteron ve androjenler artar; kız bebekte virilizasyon, her iki cinste tuz kaybettiren kriz gelişebilir.",
+          "explanation": "Hiponatremi, hiperkalemi, dehidratasyon, kusma ve şok yaşamı tehdit eder. Yenidoğan taramasında 17-OHP kullanılır; prematürite yalancı pozitifliği artırabilir."
+        },
+        {
+          "id": "PED-END-007",
+          "question": "Tuz kaybettiren konjenital adrenal hiperplazi/adrenal kriz şüphesinde acil tedavi nedir?",
+          "answer": "Gecikmeden IV/IM hidrokortizon, izotonik NaCl ile dolaşım desteği ve hipoglisemi varsa dekstroz; elektrolit ve glukoz yakın izlenir.",
+          "explanation": "Tedavi laboratuvar doğrulaması için bekletilmez. İdame tedavide glukokortikoid; klasik tuz kaybettiren formda ayrıca fludrokortizon ve bebekte sodyum desteği gerekir."
+        },
+        {
+          "id": "PED-END-008",
+          "question": "Santral erken puberte hangi yaş sınırlarından önce başlayan pubertal bulgularla tanımlanır?",
+          "answer": "Kızlarda 8 yaşından, erkeklerde 9 yaşından önce HPG aksının aktive olması; kızda meme gelişimi, erkekte testis hacminde artış temel bulgudur.",
+          "explanation": "2026 Endocrine Society kılavuzu kızlarda 7–8 yaş arasında izole Tanner B2 için 4–6 ay aralıklı izlem önerir; hızlı ilerleme, B3'e geçiş veya büyüme hızlanması değerlendirmeyi gerektirir."
+        },
+        {
+          "id": "PED-END-009",
+          "question": "Erken puberte şüphesinde ilk hormonal test ve beyin MR endikasyonu nasıl seçilir?",
+          "answer": "İlk test duyarlı yöntemle bazal LH'dir; düşük/ayırt ettirmeyen sonuç ve güçlü klinik şüphede GnRH/GnRH agonist uyarı testi yapılır.",
+          "explanation": "CNS bulgusu olmayan 6–8 yaş kız ve 8–9 yaş erkek çocuklarda beyin MR rutin önerilmez; daha küçük yaş, nörolojik bulgu veya atipik seyir görüntülemeyi gerektirebilir."
+        },
+        {
+          "id": "PED-END-010",
+          "question": "Çocukta kısa boy değerlendirmesinde patolojik büyüme geriliğini düşündüren en önemli seri ölçüm bulguları nelerdir?",
+          "answer": "Boyun <−2 SD olması, büyüme hızının yaş/cinsiyete göre düşük olması veya persentil çizgilerini aşağı kesmesi; hedef boya göre belirgin uyumsuzluk.",
+          "explanation": "Tek ölçümden çok seri boy ölçümleri ve büyüme hızı önemlidir. Kemik yaşı, ailevi kısa boy ile konstitüsyonel büyüme/puberte gecikmesini ayırmada yardımcıdır."
+        }
+      ]
     }
   ]
 }
