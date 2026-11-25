@@ -11945,6 +11945,72 @@
           "explanation": "Bu bir birliktelik tanımıdır; tek bir genetik tanı değildir. Benzer fenotip oluşturabilen 22q11.2 delesyonu, CHARGE, Fanconi anemisi ve diğer sendromlar dışlanmalı; her sistem için hedefli değerlendirme yapılmalıdır."
         }
       ]
+    },
+    {
+      "id": "ped-ortopedi-romatoloji",
+      "title": "Pediatri · Ortopedi ve romatoloji",
+      "cards": [
+        {
+          "id": "PED-ORT-001",
+          "question": "Gelişimsel kalça displazisi (GKD) açısından hangi bebekler görüntülenmeli; yaşa göre ilk tercih edilen yöntem nedir?",
+          "answer": "Makat geliş ve birinci derece aile öyküsü başlıca risklerdir; riskli bebekte görüntüleme yapılır. İlk 4–6 ayda ultrasonografi, yaklaşık 4–6 aydan sonra pelvis grafisi tercih edilir.",
+          "explanation": "Tüm yenidoğanlara rutin ultrasonografi önerilmez. Muayenede Ortolani kalçanın redükte edilebilir çıkığını, Barlow ise instabil kalçanın çıkartılabilir olduğunu gösterir. Normal muayene, güçlü risk faktörlerinde görüntüleme gereğini ortadan kaldırmaz."
+        },
+        {
+          "id": "PED-ORT-002",
+          "question": "İdiopatik konjenital pes ekinovarusun (clubfoot) temel deformite bileşenleri ve standart ilk tedavisi nedir?",
+          "answer": "CAVE: Cavus, Adductus, Varus, Equinus. İlk seçenek Ponseti yöntemidir: seri manipülasyon-alçı, gerekirse Aşil tenotomisi ve uzun süreli abduksiyon ortezi.",
+          "explanation": "Tedavi deneyimli ekipçe erken bebeklikte başlatılır. Alçıyla düzeltme sonrası ortez uyumu nüksü azaltır; geniş cerrahi yumuşak doku gevşetmesi ilk basamak değildir."
+        },
+        {
+          "id": "PED-ORT-003",
+          "question": "Obezite veya hızlı büyüme dönemindeki adölesanda kasık, uyluk ya da diz ağrısı ve aksama varsa hangi epifiz hastalığı acilen dışlanmalıdır?",
+          "answer": "Femur başı epifiz kayması (SCFE/SUFE). Kalça iç rotasyonu azalır; fleksiyonda zorunlu dış rotasyon gelişebilir.",
+          "explanation": "Hasta yük vermekten men edilir ve acil ortopediye yönlendirilir; kayma ilerleyebilir ve femur başı avasküler nekrozu gelişebilir. İlk görüntüleme iki kalçanın AP ve lateral grafisidir; instabil olguda zorlayıcı frog-leg pozisyonundan kaçınılır."
+        },
+        {
+          "id": "PED-ORT-004",
+          "question": "Perthes hastalığının tipik yaş-cinsiyet örüntüsü, patolojisi ve muayene bulgusu nedir?",
+          "answer": "Genellikle 4–8 yaş erkek çocukta femur başı epifizinin idiopatik avasküler nekrozu; kalça abdüksiyonu ve özellikle iç rotasyonu kısıtlanır, aksama ve diz ağrısı görülebilir.",
+          "explanation": "İlk grafi erken dönemde normal olabilir. Persistan klinik şüphede tekrar değerlendirme veya MRI düşünülür. SCFE daha çok adölesanda görülür."
+        },
+        {
+          "id": "PED-ORT-005",
+          "question": "Ateşli, akut kalça ağrılı ve üzerine basamayan çocukta septik artrit ile geçici sinovit nasıl ayrılır ve ilk yaklaşım nedir?",
+          "answer": "Ateş >38,5°C, yük verememe, lökositoz, ESR >40 mm/saat ve CRP >20 mg/L septik artrit olasılığını artırır. Acil ortopedi değerlendirmesi, kan kültürü ve eklem aspirasyonu gerekir.",
+          "explanation": "Kocher ve modifiye Kocher ölçütleri olasılık tahminine yardım eder; tanıyı doğrulamaz ve tek başına dışlayamaz. Septik artrit eklem kıkırdağını hızla hasarlayabilir. Klinik olarak stabil hastada kültür/aspirasyon örnekleri antibiyotik öncesi alınır; sepsis veya instabilitede antibiyotik geciktirilmez. Geçici sinovit genellikle viral enfeksiyon sonrası, iyi genel durumlu ve yük verebilen çocukta görülür."
+        },
+        {
+          "id": "PED-ORT-006",
+          "question": "Çocukta akut hematojen osteomiyelitin en sık etkeni ve tercih edilen ileri görüntüleme yöntemi nedir?",
+          "answer": "En sık etken Staphylococcus aureus; kemik iliği ve yumuşak doku yayılımını değerlendirmede MRI en duyarlı ileri görüntülemedir.",
+          "explanation": "Ateş, lokal kemik hassasiyeti ve ekstremiteyi kullanmama görülebilir. Kan kültürü alınır; başlangıç grafisi erken dönemde normal olabilir. Klinik şüphe yüksekse normal grafi osteomiyeliti dışlamaz."
+        },
+        {
+          "id": "PED-ORT-007",
+          "question": "Jüvenil idiyopatik artrit (JİA) tanımının temel zaman ve yaş ölçütleri nelerdir; hangi ekstraartiküler komplikasyon taranmalıdır?",
+          "answer": "16 yaşından önce başlayan, en az 6 hafta süren ve diğer nedenler dışlandıktan sonra tanımlanan artrit; özellikle kronik anterior üveit açısından düzenli göz muayenesi gerekir.",
+          "explanation": "Oligoartiküler başlangıç ve ANA pozitifliği üveit riskini artırır; üveit başlangıçta asemptomatik olabilir. Tarama sıklığı yaş, hastalık alt tipi ve ANA durumuna göre çocuk romatolojisi/oftalmoloji tarafından belirlenir."
+        },
+        {
+          "id": "PED-ORT-008",
+          "question": "Çocukta IgA vaskülitini düşündüren klinik dörtlü nedir ve eklem bulgusu nasıl yorumlanır?",
+          "answer": "Alt ekstremite ve kalçada belirgin, trombositopenik olmayan palpabl purpura; karın ağrısı, artrit/artralji ve böbrek tutulumu. Eklem bulgusu sık görülür ve genellikle geçicidir.",
+          "explanation": "Döküntü olmadan önce eklem veya karın yakınmaları başlayabilir. Tanıda trombosit sayısı ve idrar değerlendirmesi önemlidir; nefrit geç ortaya çıkabileceğinden kan basıncı ve idrar incelemesi yaklaşık 6 ay seri izlenir."
+        },
+        {
+          "id": "PED-ORT-009",
+          "question": "Akut romatizmal ateş tanısında Jones ölçütleri nasıl kullanılır?",
+          "answer": "İlk atakta genellikle kanıtlanmış önceki A grubu streptokok enfeksiyonu ile birlikte 2 majör veya 1 majör + 2 minör ölçüt gerekir; rekürren atakta eşikler farklıdır.",
+          "explanation": "Majör ölçütler: kardit (klinik/subklinik), artrit, Sydenham koresi, eritema marginatum ve subkutan nodüller. Artrit ölçütü toplumun romatizmal ateş risk düzeyine göre monoartrit veya poliartraljiyi de içerebilir. ESR/CRP, ateş ve PR uzaması minör ölçütler arasındadır; risk düzeyine özgü revize Jones ölçütleri kullanılmalıdır."
+        },
+        {
+          "id": "PED-ORT-010",
+          "question": "Adölesan idiopatik skolyoz nasıl tanımlanır ve hangi bulgular atipik neden açısından ileri değerlendirme gerektirir?",
+          "answer": "10 yaş ve üzerinde, koronal planda Cobb açısı ≥10° olan ve konjenital/nöromüsküler nedeni bulunmayan eğriliktir. Belirgin ağrı, nörolojik bulgu, hızlı ilerleme veya atipik eğrilik paterni ileri değerlendirme gerektirir.",
+          "explanation": "Adams öne eğilme testi ve skolyometre klinik değerlendirmede kullanılır; tanı ayakta tüm omurga grafisinde Cobb açısıyla konur. Tedavi eğrilik derecesi ve iskelet olgunluğuna bağlıdır; büyümesi süren çocukta orta dereceli eğrilikte korse progresyonu azaltabilir."
+        }
+      ]
     }
   ]
 }
