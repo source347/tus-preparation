@@ -12314,6 +12314,480 @@
           "explanation": "Genellikle kolesistoenterik fistül sonrası gelişir; tedavi çoğunlukla enterolitotomi ve seçilmiş hastada fistül/ safra kesesi cerrahisidir."
         }
       ]
+    },
+    {
+      "id": "surgery-trauma-hemorrhage",
+      "title": "Genel Cerrahi · Travma ve hemorajik şok",
+      "file": "travma-hemorajik-sok.md",
+      "cards": [
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-001",
+          "question": "Travma hastasının primer değerlendirmesinde ATLS 11 yaklaşımı nasıldır?",
+          "answer": "xABCDE: eksanguine kanamanın kontrolü, hava yolu, solunum, dolaşım, nörolojik durum ve tam ekspojur.",
+          "explanation": "Masif dış kanama, uygun hastada hava yolu değerlendirmesinden önce hızla kontrol edilir; eşzamanlı resüsitasyon sürdürülür."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-002",
+          "question": "Travmada FAST/eFAST neyi araştırır?",
+          "answer": "Perikardiyal, intraperitoneal ve plevral serbest sıvı ile pnömotoraks bulgularını yatak başında araştırır.",
+          "explanation": "Hemodinamik instabil hastada pozitif FAST, klinikle birlikte acil kanama kontrolü kararını destekler; negatif FAST yaralanmayı dışlamaz."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-003",
+          "question": "Hemodinamik instabil künt batın travması ve pozitif FAST varsa yaklaşım nedir?",
+          "answer": "Resüsitasyonla eşzamanlı acil laparotomi/kanama kontrolü; BT için gecikme yapılmaz.",
+          "explanation": "İnstabilite ve peritonit, görüntüleme yerine acil cerrahi değerlendirme gerektirir."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-004",
+          "question": "Hemodinamik olarak stabil künt dalak yaralanmasında standart yaklaşım nedir?",
+          "answer": "Yakın izlem ve seri değerlendirme eşliğinde çoğunlukla nonoperatif yönetim; uygun hastada anjiyoembolizasyon eklenebilir.",
+          "explanation": "Yüksek AAST derecesi tek başına laparotomi zorunluluğu değildir; kurumda acil ameliyat ve kan ürünü olanağı bulunmalıdır."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-005",
+          "question": "Künt karaciğer yaralanmasında stabil hastada ilk tercih nedir?",
+          "answer": "IV kontrastlı BT ile evreleme ve uygun hastada nonoperatif izlem; aktif arteriyel kanamada anjiyoembolizasyon düşünülebilir.",
+          "explanation": "Hemodinamik instabilite veya yaygın peritonit acil laparotomi endikasyonudur."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-006",
+          "question": "Travmatik hemorajik şokta temel resüsitasyon stratejisi nedir?",
+          "answer": "Kanama kontrolü, erken dengeli kan ürünü resüsitasyonu, ısıtma, kalsiyum ve koagülasyon bozukluğunun düzeltilmesi.",
+          "explanation": "Aşırı kristalloidten kaçınılır; uygun hastada masif transfüzyon protokolü aktive edilir."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-007",
+          "question": "Permissive hypotension hangi durumda ve hangi sınırlamayla düşünülür?",
+          "answer": "Kesin kanama kontrolüne kadar seçilmiş kontrolsüz hemorajide, özellikle travmatik beyin hasarı yoksa; hedef perfüzyon basıncı bireyselleştirilir.",
+          "explanation": "Travmatik beyin hasarında hipotansiyon sekonder beyin hasarını artırır; permissive hypotension uygun değildir."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-008",
+          "question": "Travmada traneksamik asit ne zaman yararlıdır?",
+          "answer": "Belirgin kanama veya yüksek kanama riski olan travmada mümkün olduğunca erken, ilk 3 saat içinde.",
+          "explanation": "3 saatten sonra başlanması yarar sağlamaz ve zarar verebilir; lokal protokol ve kontrendikasyonlar dikkate alınır."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-009",
+          "question": "Tansiyon pnömotoraks klinik olarak düşünülüyorsa ilk işlem nedir?",
+          "answer": "Görüntüleme beklemeden acil toraks dekompresyonu, ardından tüp torakostomi.",
+          "explanation": "Hemodinamik/solunumsal instabilite varsa klinik tanı yeterlidir."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-010",
+          "question": "Travmada masif hemotoraks için klasik tüp torakostomi sonrası cerrahi eşikleri nelerdir?",
+          "answer": "Başlangıçta yaklaşık 1.500 mL kan gelmesi veya devam eden yaklaşık 200 mL/saat kanama (3–4 saat) cerrahi değerlendirme gerektirir.",
+          "explanation": "Eşikler hastanın fizyolojisi, transfüzyon ihtiyacı ve kanama hızına göre yorumlanır; tek başına sayı klinik kararın yerini tutmaz."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-011",
+          "question": "Açık karın travmasında eviserasyon varsa ilk yaklaşım nedir?",
+          "answer": "Organları nemli steril örtüyle kapat, içeri itme; NPO, IV erişim ve acil cerrahi değerlendirme sağla.",
+          "explanation": "Eviserasyon ve peritonit acil cerrahi değerlendirme gerektirir."
+        },
+        {
+          "id": "SUR-TRAUMA-HEMORRHAGE-012",
+          "question": "Travmatik dalak yaralanmasında splenektomi sonrası hangi koruyucu yaklaşım gerekir?",
+          "answer": "Aspleni aşıları: pnömokok, meningokok (ACWY ve B), Hib ve yıllık influenza; zamanlama güncel ulusal önerilere göre.",
+          "explanation": "Aşıların mümkünse elektif splenektomiden önce, acil splenektomide klinik olarak uygun dönemde yapılması gerekir."
+        }
+      ]
+    },
+    {
+      "id": "surgery-colorectal-anorectal",
+      "title": "Genel Cerrahi · Kolorektal ve anorektal cerrahi",
+      "file": "kolorektal-anorektal-cerrahi.md",
+      "cards": [
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-001",
+          "question": "Kolorektal kanser şüphesinde tanıyı doğrulayan temel yöntem nedir?",
+          "answer": "Kolonoskopi ve biyopsi.",
+          "explanation": "Evreleme için kontrastlı toraks-abdomen-pelvis BT; rektum kanserinde pelvik MRI temel lokal evreleme yöntemidir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-002",
+          "question": "Kolon kanserinde elektif onkolojik rezeksiyonun temel ilkeleri nelerdir?",
+          "answer": "Tümörün yeterli proksimal-distal sınırlarla, ilgili mezokolon/mezenter ve bölgesel lenfatik drenajıyla en bloc çıkarılması.",
+          "explanation": "Lenf nodu evrelemesi ve uygun cerrahi sınırlar adjuvan tedavi kararını etkiler."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-003",
+          "question": "Rektum kanserinde lokal evreleme için en yararlı görüntüleme nedir?",
+          "answer": "Yüksek çözünürlüklü pelvik MRI.",
+          "explanation": "Mezorektal fasya, CRM, T evresi ve ekstramural vasküler invazyon cerrahi/ neoadjuvan planı belirler."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-004",
+          "question": "Akut komplike divertikülitte serbest perforasyon ve yaygın peritonit varsa yaklaşım nedir?",
+          "answer": "Acil cerrahi kaynak kontrolü ve antibiyotik; rezeksiyon ve anastomoz/stoma kararı fizyolojiye göre verilir.",
+          "explanation": "Hemodinamik instabilite, immünsüpresyon ve kontaminasyon primer anastomoz riskini artırabilir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-005",
+          "question": "Divertiküler apsede yaklaşım nasıl belirlenir?",
+          "answer": "Antibiyotik; büyük veya yanıt vermeyen, erişilebilir apsede perkütan drenaj; başarısızlık veya yaygın peritonitte cerrahi.",
+          "explanation": "Boyut eşiği kılavuzlar arasında değişebilir; klinik yanıt ve drenaj olanağı önemlidir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-006",
+          "question": "Anal fissürün tipik yeri ve klinik bulgusu nedir?",
+          "answer": "Çoğunlukla posterior orta hatta; dışkılama sırasında keskin ağrı ve az miktarda parlak kırmızı kanama.",
+          "explanation": "Lateral veya çoklu fissür Crohn, enfeksiyon veya malignite gibi sekonder nedenlerin araştırılmasını gerektirir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-007",
+          "question": "Kronik anal fissürde ilk basamak tedavi nedir?",
+          "answer": "Lif ve sıvı artırımı, dışkı yumuşatma, oturma banyosu ve topikal kalsiyum kanal blokeri veya nitrat.",
+          "explanation": "Dirençli olguda botulinum toksini veya lateral internal sfinkterotomi; inkontinans riski değerlendirilir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-008",
+          "question": "Perianal apse tedavisinin temel ilkesi nedir?",
+          "answer": "İnsizyon ve drenaj; antibiyotik tek başına yeterli değildir.",
+          "explanation": "Sistemik enfeksiyon, immünsüpresyon veya çevre selülitinde antibiyotik eklenir; fistül eşlik edebilir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-009",
+          "question": "Anal fistülün en sık etiyolojisi nedir?",
+          "answer": "Kriptoglandüler enfeksiyon sonrası gelişen fistül.",
+          "explanation": "Crohn hastalığı, malignite ve radyasyon diğer nedenlerdir; kompleks fistülde sfinkter korunması önceliklidir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-010",
+          "question": "Hemoroid tedavisinde ilk basamak nedir?",
+          "answer": "Lif, sıvı, dışkılama alışkanlığının düzenlenmesi ve ıkınmanın azaltılması.",
+          "explanation": "Devam eden semptomda uygun iç hemoroid için ofis prosedürleri (özellikle bant ligasyonu); ileri/komplike hastalıkta cerrahi."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-011",
+          "question": "Strangüle hemoroid ile tromboze dış hemoroid nasıl ayırt edilir?",
+          "answer": "Tromboze dış hemoroid anal kenarda ani ağrılı, morumsu kitle; prolabe internal hemoroidin strangülasyonu ödem, şiddetli ağrı ve irreduktibiliteyle seyreder.",
+          "explanation": "Şiddetli ağrılı akut trombozda seçilmiş erken olguda eksizyon düşünülebilir."
+        },
+        {
+          "id": "SUR-COLORECTAL-ANORECTAL-012",
+          "question": "Kolorektal cerrahi sonrası anastomoz kaçağını düşündüren erken bulgular nelerdir?",
+          "answer": "Açıklanamayan taşikardi, ateş, karın ağrısı/ileus, lökositoz, sepsis veya drenajdan enterik içerik.",
+          "explanation": "Klinik şüphede kontrastlı BT ve acil kaynak kontrolü değerlendirilir; taşikardi erken uyarı olabilir."
+        }
+      ]
+    },
+    {
+      "id": "surgery-breast-thyroid-endocrine",
+      "title": "Genel Cerrahi · Meme, tiroid ve endokrin cerrahi",
+      "file": "meme-tiroid-endokrin-cerrahi.md",
+      "cards": [
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-001",
+          "question": "Palpabl meme kitlesinde üçlü değerlendirme nedir?",
+          "answer": "Klinik muayene, uygun görüntüleme (yaşa göre USG/mamografi) ve görüntüleme eşliğinde core iğne biyopsisi.",
+          "explanation": "Klinik-radyolojik-patolojik uyum aranır; şüpheli lezyonda normal görüntüleme tek başına maligniteyi dışlamaz."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-002",
+          "question": "Meme kanserinde meme koruyucu cerrahi için temel koşul nedir?",
+          "answer": "Negatif cerrahi sınırla tümörün çıkarılabilmesi ve radyoterapi uygulanabilirliği; tümör-meme oranı ve hastanın tercihi uygunsa.",
+          "explanation": "Meme koruyucu cerrahi + radyoterapi, uygun erken evre hastada mastektomiye benzer sağkalım sağlar."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-003",
+          "question": "Klinik olarak aksillası negatif erken meme kanserinde aksiller evreleme yöntemi nedir?",
+          "answer": "Uygun hastada sentinel lenf nodu biyopsisi.",
+          "explanation": "Bazı düşük riskli, seçilmiş hastalarda güncel kılavuzlar sentinel biyopsinin atlanmasına izin verebilir; karar tümör biyolojisi ve tedavi planına bağlıdır."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-004",
+          "question": "İnflamatuvar meme kanserinin tipik klinik görünümü nedir?",
+          "answer": "Hızlı başlayan yaygın eritem, ödem/peau d'orange ve meme büyümesi; kitle belirgin olmayabilir.",
+          "explanation": "Enfeksiyon gibi görünebilir; gecikmeden biyopsi ve sistemik evreleme gerekir."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-005",
+          "question": "Meme apsesinde temel yaklaşım nedir?",
+          "answer": "Antibiyotik ve ultrason eşliğinde iğne aspirasyonu veya uygun drenaj; süt verme çoğu durumda sürdürülebilir.",
+          "explanation": "Tekrarlayan/nonlaktasyonel apse veya atipik görünümde altta yatan malignite ve diğer nedenler dışlanmalıdır."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-006",
+          "question": "Tiroid nodülünde malignite riskini değerlendiren temel ilk testler nelerdir?",
+          "answer": "TSH ve tiroid ultrasonografisi; USG risk örüntüsü ve boyuta göre ince iğne aspirasyon biyopsisi.",
+          "explanation": "TSH düşükse sintigrafi ile otonom nodül değerlendirilir; sıcak nodül malignite açısından daha düşük risklidir."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-007",
+          "question": "Papiller tiroid kanserinde ≤2 cm, tek taraflı, cN0M0 ve gross ekstratiroidal yayılım yoksa başlangıç cerrahisi nedir?",
+          "answer": "Cerrahi seçilmişse çoğunlukla lobektomi.",
+          "explanation": "2025 ATA kılavuzu düşük riskli küçük tümörlerde lobektomiyi öne çıkarır; bilateral hastalık veya ek riskler kapsamı değiştirebilir."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-008",
+          "question": "Diferansiye tiroid kanserinde total tiroidektomi hangi durumda tercih edilir?",
+          "answer": ">4 cm tümör, gross ekstratiroidal yayılım, klinik nodal veya uzak metastaz varlığında.",
+          "explanation": "2–4 cm düşük riskli tek taraflı tümörde lobektomi de uygun olabilir; 2025 ATA önerileri bireyselleştirmeyi vurgular."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-009",
+          "question": "Tiroidektomi sonrası erken dönemde parestezi, tetani ve QT uzaması ne düşündürür?",
+          "answer": "Hipokalsemi; paratiroid hasarı/iskemisine bağlı geçici veya kalıcı hipoparatiroidi.",
+          "explanation": "Serum kalsiyum ve PTH değerlendirilir; semptomatik ciddi hipokalsemi IV kalsiyum gerektirebilir."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-010",
+          "question": "Tiroidektomi sonrası stridor ve solunum sıkıntısı gelişirse ilk akla gelmesi gereken cerrahi komplikasyon nedir?",
+          "answer": "Boyun hematomu ve hava yolu basısı; acil yara açılması/hematom boşaltılması ve hava yolu yönetimi gerekebilir.",
+          "explanation": "Hava yolu acilidir; görüntüleme veya laboratuvar beklenmez."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-011",
+          "question": "Tiroidektomi sonrası ses kısıklığında hangi sinirler değerlendirilmelidir?",
+          "answer": "Rekürren laringeal sinir ve yüksek perdeli ses kaybında eksternal superior laringeal sinir.",
+          "explanation": "Bilateral rekürren sinir hasarı hava yolu obstrüksiyonuna neden olabilir."
+        },
+        {
+          "id": "SUR-BREAST-THYROID-ENDOCRINE-012",
+          "question": "Primer hiperparatiroidi için cerrahi endikasyonlardan bazıları nelerdir?",
+          "answer": "Semptomatik hastalık; nefrolitiazis/nefrokalsinozis, osteoporoz veya kırık, belirgin hiperkalsemi, böbrek fonksiyon bozukluğu ya da yaş <50.",
+          "explanation": "Preoperatif lokalizasyon görüntülemesi tanı koymak için değil, cerrahi planlama içindir."
+        }
+      ]
+    },
+    {
+      "id": "surgery-perioperative-infection-wounds",
+      "title": "Genel Cerrahi · Perioperatif bakım, yara ve cerrahi enfeksiyonlar",
+      "file": "perioperatif-yara-cerrahi-enfeksiyon.md",
+      "cards": [
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-001",
+          "question": "Cerrahi profilaktik antibiyotik ne zaman verilmelidir?",
+          "answer": "Çoğu ajan için insizyondan önceki 60 dakika içinde; vankomisin ve florokinolon gibi uzun infüzyon gereken ajanlarda 120 dakika içinde başlanır.",
+          "explanation": "Amaç insizyon sırasında yeterli doku konsantrasyonudur; uygun ajan ve doz işlem/alerjiye göre seçilir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-002",
+          "question": "Temiz cerrahide profilaktik antibiyotik ne zaman kesilmelidir?",
+          "answer": "Genellikle insizyon kapanınca veya en geç 24 saat içinde; uzatılmış postoperatif profilaksi rutin değildir.",
+          "explanation": "Dren varlığı tek başına profilaksiyi sürdürme gerekçesi değildir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-003",
+          "question": "Cerrahi alan enfeksiyonu sınıfları nelerdir?",
+          "answer": "Yüzeyel insizyonel, derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonu.",
+          "explanation": "Enfeksiyonun anatomik derinliği tanım, izlem ve kaynak kontrolünü belirler."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-004",
+          "question": "Cerrahi alan enfeksiyonunun önlenmesinde temel önlemler nelerdir?",
+          "answer": "Uygun antibiyotik profilaksisi, normotermi, glisemik kontrol, oksijenasyonun sürdürülmesi, cilt antisepsisi ve cerrahi tekniğe dikkat.",
+          "explanation": "Antibiyotik zamanlaması ve gereksiz uzatılmaması temel kalite ölçütlerindendir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-005",
+          "question": "Nekrotizan yumuşak doku enfeksiyonunu düşündüren klinik ipuçları nelerdir?",
+          "answer": "Muayeneye göre orantısız şiddetli ağrı, hızla ilerleme, ödemin eritem sınırını aşması, bül, krepitasyon, cilt nekrozu veya toksisite.",
+          "explanation": "Erken evrede cilt bulguları sınırlı olabilir; klinik şüphede cerrahi eksplorasyon geciktirilmez."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-006",
+          "question": "Nekrotizan fasiitte temel tedavi nedir?",
+          "answer": "Acil ve tekrarlayan cerrahi debridman, geniş spektrum IV antibiyotik ve yoğun destek.",
+          "explanation": "Görüntüleme veya laboratuvar skoru cerrahi eksplorasyonu geciktirmemelidir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-007",
+          "question": "Cerrahi yara iyileşmesinin fazları nelerdir?",
+          "answer": "Hemostaz, inflamasyon, proliferasyon (granülasyon/epitelizasyon) ve remodeling.",
+          "explanation": "Yara iyileşmesi örtüşen fazlarla ilerler; enfeksiyon, iskemi, diyabet ve malnütrisyon süreci bozar."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-008",
+          "question": "Yara dehisansı için en önemli klinik riskler nelerdir?",
+          "answer": "Enfeksiyon, yetersiz doku kalitesi, malnütrisyon, diyabet, obezite, steroid kullanımı, öksürük/artan intraabdominal basınç.",
+          "explanation": "Fasya ayrılması cerrahi acildir; eviserasyonda organlar nemli steril örtüyle kapatılır ve acil ameliyata hazırlanır."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-009",
+          "question": "Ameliyat sonrası ateşin ilk 24 saatte görülmesi otomatik olarak yara enfeksiyonu anlamına gelir mi?",
+          "answer": "Hayır; inflamatuvar yanıt, ilaç/kan ürünü reaksiyonu ve mevcut hastalıklar dahil nedenler klinik bağlamda değerlendirilir.",
+          "explanation": "Zaman temelli ezber yerine hastanın bulguları, ateş paterni ve odak değerlendirilmelidir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-010",
+          "question": "Postoperatif ileus ile mekanik obstrüksiyonu ayırmada hangi özellikler yardımcıdır?",
+          "answer": "İleusta yaygın bağırsak hipomotilitesi ve gazın kolona/rek­tuma ilerlemesi; mekanik obstrüksiyonda geçiş noktası, proksimal dilatasyon ve distal kollaps görülebilir.",
+          "explanation": "Uzamış veya kötüleşen ileusta mekanik neden, anastomoz kaçağı, elektrolit bozukluğu ve ilaç etkisi araştırılır."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-011",
+          "question": "Cerrahi hastada venöz tromboembolizm profilaksisi nasıl seçilir?",
+          "answer": "VTE ve kanama riski birlikte değerlendirilerek erken mobilizasyon, uygun hastada mekanik ve farmakolojik profilaksi uygulanır.",
+          "explanation": "Profilaksi her hastaya aynı şekilde verilmez; aktif kanama/ yüksek kanama riski farmakolojik seçimi değiştirir."
+        },
+        {
+          "id": "SUR-PERIOPERATIVE-INFECTION-WOUNDS-012",
+          "question": "ERAS yaklaşımının temel bileşenleri nelerdir?",
+          "answer": "Hasta eğitimi, opioid azaltıcı multimodal analjezi, uygun hastada açlık süresinin kısaltılması, erken oral beslenme ve erken mobilizasyon.",
+          "explanation": "Rutin uzun açlık, gereksiz dren/sonda ve uzun yatak istirahati iyileşmeyi geciktirebilir."
+        }
+      ]
+    },
+    {
+      "id": "surgery-vascular",
+      "title": "Genel Cerrahi · Vasküler cerrahi acilleri",
+      "file": "vaskuler-cerrahi-acilleri.md",
+      "cards": [
+        {
+          "id": "SUR-VASCULAR-001",
+          "question": "Akut ekstremite iskemisinin klasik 6P bulguları nelerdir?",
+          "answer": "Pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia.",
+          "explanation": "Duyu kaybı ve motor güçsüzlük tehdit altındaki ekstremiteyi gösterir; acil vasküler değerlendirme gerekir."
+        },
+        {
+          "id": "SUR-VASCULAR-002",
+          "question": "Akut ekstremite iskemisinde ilk medikal yaklaşım nedir?",
+          "answer": "Kontrendikasyon yoksa hemen IV fraksiyone olmayan heparin ve acil vasküler cerrahi değerlendirme.",
+          "explanation": "Antikoagülasyon trombüs ilerlemesini önler; revascularizasyon aciliyeti Rutherford sınıfına göre belirlenir."
+        },
+        {
+          "id": "SUR-VASCULAR-003",
+          "question": "Akut ekstremite iskemisinde motor defisit veya ilerleyen duyu kaybı varsa yaklaşım nedir?",
+          "answer": "Hemen acil revaskülarizasyon; görüntüleme tedaviyi geciktirmemelidir.",
+          "explanation": "Rutherford IIb ekstremite hemen tehdit altındadır; gecikme amputasyon riskini artırır."
+        },
+        {
+          "id": "SUR-VASCULAR-004",
+          "question": "Rüptüre abdominal aort anevrizmasının klasik klinik triadı nedir?",
+          "answer": "Karın/sırt ağrısı, hipotansiyon ve pulsatil abdominal kitle; triadın tamamı her hastada bulunmaz.",
+          "explanation": "Şüpheli hastada hızlı tanı ve damar cerrahisi/EVAR kapasitesi olan merkeze yönlendirme gerekir."
+        },
+        {
+          "id": "SUR-VASCULAR-005",
+          "question": "Rüptüre AAA şüphesinde hemodinamik olarak stabil hastada tercih edilen görüntüleme nedir?",
+          "answer": "Acil BT anjiyografi.",
+          "explanation": "Uygun anatomi ve deneyimli merkezde EVAR ilk tedavi seçeneği olabilir."
+        },
+        {
+          "id": "SUR-VASCULAR-006",
+          "question": "Rüptüre AAA'da permissive hypotension ne amaçla uygulanır?",
+          "answer": "Kesin kanama kontrolüne kadar aşırı kan basıncı yükselmesini ve kanama artışını önlemek için kontrollü düşük basınç hedeflenir.",
+          "explanation": "Bireysel perfüzyon ve bilinç durumu izlenir; kontrolsüz hipotansiyon da zararlıdır."
+        },
+        {
+          "id": "SUR-VASCULAR-007",
+          "question": "Kronik ekstremiteyi tehdit eden iskeminin tipik klinik tanımı nedir?",
+          "answer": "İki haftadan uzun istirahat ağrısı, iyileşmeyen ülser veya gangren ile birlikte objektif arteriyel hastalık.",
+          "explanation": "ABI ve gerektiğinde toe pressure/TcPO2 gibi ölçümler perfüzyonu değerlendirir."
+        },
+        {
+          "id": "SUR-VASCULAR-008",
+          "question": "ABI (ayak bileği-kol indeksi) nasıl yorumlanır?",
+          "answer": "≤0,90 periferik arter hastalığını destekler; >1,40 damar kompresyonuna dirençli/kalsifiye damar düşündürür.",
+          "explanation": "Diyabet ve kronik böbrek hastalığında yalancı yüksek ABI olabilir; toe-brachial index yararlıdır."
+        },
+        {
+          "id": "SUR-VASCULAR-009",
+          "question": "Semptomatik karotis stenozunda cerrahi kararını en çok hangi faktörler etkiler?",
+          "answer": "Stenoz derecesi, semptomun yakın zamanda olması, hastanın perioperatif riski ve beklenen yaşam süresi.",
+          "explanation": "Karotis endarterektomisi uygun seçilmiş semptomatik yüksek dereceli stenozda yararlıdır; zamanlama önemlidir."
+        },
+        {
+          "id": "SUR-VASCULAR-010",
+          "question": "Derin ven trombozu ile akut arteriyel iskemiyi ayıran temel muayene farkı nedir?",
+          "answer": "DVT'de şişlik, hassasiyet ve sıcaklık artışı; akut arteriyel iskemide soğukluk, solukluk, nabız kaybı ve nörolojik defisit.",
+          "explanation": "Akut ekstremite iskemisi uzuv kaybı riski nedeniyle zaman kritik bir acildir."
+        },
+        {
+          "id": "SUR-VASCULAR-011",
+          "question": "Diyabetik ayakta enfeksiyonla birlikte iskemi varsa yönetimde öncelik nedir?",
+          "answer": "Enfeksiyonun acil kaynak kontrolü ve eşzamanlı perfüzyon değerlendirmesi; gerekli hastada revaskülarizasyon.",
+          "explanation": "İskemi yara iyileşmesini engeller; yalnız antibiyotik veya debridman yeterli olmayabilir."
+        },
+        {
+          "id": "SUR-VASCULAR-012",
+          "question": "Varisli hastada ani tek taraflı bacak şişliği gelişirse önce hangi durum dışlanmalıdır?",
+          "answer": "Derin ven trombozu.",
+          "explanation": "Klinik olasılık ve kompresyon ultrasonografisiyle değerlendirilir; varis tanısı DVT'yi dışlamaz."
+        }
+      ]
+    },
+    {
+      "id": "surgery-upper-gi-liver-spleen",
+      "title": "Genel Cerrahi · Özofagus, mide, karaciğer ve dalak cerrahisi",
+      "file": "ozofagus-mide-karaciger-dalak-cerrahisi.md",
+      "cards": [
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-001",
+          "question": "Özofagus kanserinde lokal evreleme için hangi yöntem önemlidir?",
+          "answer": "Endoskopik ultrason (EUS); uzak metastaz için toraks-abdomen BT ve uygun hastada PET/BT.",
+          "explanation": "Evre, histoloji ve rezektabilite multidisipliner tedavi planını belirler."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-002",
+          "question": "Özofagus kanserinde disfajinin ilerleyici olması neyi düşündürür?",
+          "answer": "Önce katılara, sonra sıvılara ilerleyen disfaji mekanik darlık ve malignite açısından uyarıcıdır.",
+          "explanation": "Kilo kaybı ve odinofaji eşlik edebilir; endoskopi ve biyopsi gerekir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-003",
+          "question": "Boerhaave sendromu nedir ve klasik tetikleyicisi nedir?",
+          "answer": "Kusma/öğürme sonrası gelişen transmural özofagus rüptürü.",
+          "explanation": "Şiddetli göğüs ağrısı, subkutan amfizem ve sepsis görülebilir; acil tanı, antibiyotik ve cerrahi/endoskopik kaynak kontrolü gerekir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-004",
+          "question": "Peptik ülser perforasyonunu düşündüren klinik bulgu nedir?",
+          "answer": "Ani başlayan şiddetli epigastrik ağrı, tahta karın ve peritonit; ayakta grafi/BT'de serbest hava görülebilir.",
+          "explanation": "Resüsitasyon, IV antibiyotik, PPI ve acil cerrahi değerlendirme gerekir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-005",
+          "question": "Perfore peptik ülserde ameliyatsız tedavi hangi hastada düşünülebilir?",
+          "answer": "Yalnızca çok seçilmiş, klinik olarak stabil, sızdırmaz perforasyonu görüntülemeyle doğrulanmış ve yakın izlenebilen hastada.",
+          "explanation": "Peritonit, sepsis, serbest kaçak veya klinik kötüleşmede cerrahi gerekir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-006",
+          "question": "Üst GİS kanamasında endoskopi sonrası cerrahi hangi durumda gündeme gelir?",
+          "answer": "Endoskopik ve anjiyografik hemostaz başarısızsa veya kontrol edilemeyen/tekrarlayan kanama ve instabilite varsa.",
+          "explanation": "Öncelik resüsitasyon ve endoskopik hemostazdır; cerrahi kurtarma tedavisi olarak seçilir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-007",
+          "question": "Mide kanserinde küratif rezeksiyonun temel ilkesi nedir?",
+          "answer": "R0 rezeksiyon ve uygun bölgesel lenfadenektomi; tümör konumuna göre distal veya total gastrektomi.",
+          "explanation": "Evreleme laparoskopisi seçilmiş lokal ileri hastada peritoneal yayılımı saptamak için yararlı olabilir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-008",
+          "question": "Dumping sendromunun erken ve geç formları hangi mekanizmayla gelişir?",
+          "answer": "Erken: hiperosmolar içeriğin ince bağırsağa hızlı geçişiyle sıvı kayması; geç: hızlı glukoz emilimine bağlı hiperinsülinemik hipoglisemi.",
+          "explanation": "Öğün sonrası çarpıntı, terleme, ishal ve geç dönemde hipoglisemi görülebilir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-009",
+          "question": "Splenektomi için travma dışında sık cerrahi endikasyon grupları nelerdir?",
+          "answer": "Seçilmiş hematolojik hastalıklar, dalak tümörleri/kistleri ve bazı iatrojenik yaralanmalar; günümüzde mümkünse dalak koruyucu yaklaşım tercih edilir.",
+          "explanation": "Splenektomi kararı hastalık ve alternatif tedavilere göre verilir; rutin her splenomegalide yapılmaz."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-010",
+          "question": "Hepatoselüler karsinomda rezeksiyon için temel uygunluk koşulları nelerdir?",
+          "answer": "Lokalize/rezektabl tümör, yeterli gelecekteki karaciğer remnantı ve uygun karaciğer fonksiyonu; portal hipertansiyon ve dekompanse siroz önemli sınırlayıcılardır.",
+          "explanation": "Sirozlu hastada transplantasyon veya lokal tedaviler alternatif olabilir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-011",
+          "question": "Karaciğer rezeksiyonu sonrası safra kaçağını düşündüren bulgular nelerdir?",
+          "answer": "Drenajda safralı sıvı, ateş, karın ağrısı veya koleksiyon; dren bilirubininin serum bilirubininden belirgin yüksek olması destekler.",
+          "explanation": "Drenaj, ERCP ile biliyer dekompresyon veya girişimsel tedavi gerekebilir."
+        },
+        {
+          "id": "SUR-UPPER-GI-LIVER-SPLEEN-012",
+          "question": "Splenektomi sonrası en önemli uzun dönem enfeksiyon riski nedir?",
+          "answer": "Kapsüllü bakterilerle fulminan sepsis (özellikle Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae).",
+          "explanation": "Aşı, hasta eğitimi, ateşte acil değerlendirme ve uygun hastada antibiyotik planı gerekir."
+        }
+      ]
     }
   ]
 }
