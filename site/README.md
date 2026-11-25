@@ -2,9 +2,9 @@
 
 Bu klasör GitHub Pages üzerinden yayımlanan statik çalışma arayüzünü içerir.
 
-## Katalog (24 Kasım 2026)
+## Katalog (25 Kasım 2026)
 
-107 deste ve 1,818 kart içerir. Klinik bilimler içinde Dahiliye: 22 deste, 437 kart; Pediatri: 10 deste, 100 kart.
+108 deste ve 1,828 kart içerir. Klinik bilimler içinde Dahiliye: 22 deste, 437 kart; Pediatri: 11 deste, 110 kart.
 
 ## Özellikler
 - Kart çevirme, önceki/sonraki kart ve konu seçimi
