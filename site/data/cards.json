@@ -11879,6 +11879,72 @@
           "explanation": "Risk azaltma danışmanlığı somut, gelişimsel düzeye uygun ve yargılamayan biçimde verilir. Sadece sorun odaklı değil, koruyucu faktörler ve güçlü yönler de ele alınır."
         }
       ]
+    },
+    {
+      "id": "ped-konjenital-dismorfoloji",
+      "title": "Pediatri · Konjenital anomaliler ve dismorfoloji",
+      "cards": [
+        {
+          "id": "PED-KON-001",
+          "question": "Çoklu konjenital anomali veya dismorfik bulgusu olan çocukta ilk değerlendirme hangi unsurları içermelidir?",
+          "answer": "Büyüme parametreleri (boy, ağırlık, baş çevresi), ayrıntılı sistemik muayene, major/minor anomalilerin kaydı, prenatal-perinatal öykü ve en az üç kuşak aile öyküsü/pedigri.",
+          "explanation": "Birden fazla minor anomali, özellikle üç veya daha fazlası, eşlik eden major anomali veya sendrom olasılığını artırır ve genetik değerlendirmeyi düşündürür. Fotoğraf ve ölçümler, aile bireylerinin benzer özellikleri ve gelişimsel durum tanısal örüntüyü belirginleştirir."
+        },
+        {
+          "id": "PED-KON-002",
+          "question": "Gelişimsel gecikme/entelektüel yetersizlik veya çoklu konjenital anomalide, belirgin bir sendrom tanınmıyorsa ilk basamak genomik test hangisidir?",
+          "answer": "Kromozomal mikrodizin analizi (chromosomal microarray, CMA).",
+          "explanation": "CMA, submikroskopik kopya sayısı değişikliklerini saptar ve bu klinik grupta ilk basamak testtir. Aneuploidinin güçlü biçimde düşünüldüğü durumda karyotip; bilinen hedefli delesyonda uygun hedefli test; CMA negatif ve monogenik hastalık şüphesi yüksekse ekzom/genom dizileme düşünülür."
+        },
+        {
+          "id": "PED-KON-003",
+          "question": "Down sendromunda (trizomi 21) klasik fenotip ve TUS açısından önemli eşlik eden hastalıklar nelerdir?",
+          "answer": "Hipotoni, düz yüz profili, epikantus/yukarı eğimli palpebral fissürler, tek transvers palmar çizgi; AV septal defekt, duodenal atrezi, Hirschsprung hastalığı, hipotiroidi ve lösemi riskinde artış.",
+          "explanation": "Konjenital kalp hastalığı açısından tanı sonrası ekokardiyografi gerekir. Yenidoğanda geçici anormal miyelopoez görülebilir; gelişim izlemi, işitme-görme ve tiroid taraması önemlidir."
+        },
+        {
+          "id": "PED-KON-004",
+          "question": "Trizomi 18 (Edwards sendromu) için en ayırt ettirici ekstremite ve yüz bulguları nelerdir?",
+          "answer": "İşaret parmağının 3. ve 4. parmakların üzerine bindiği sıkı yumruk, rocker-bottom ayak, belirgin oksiput, mikrognati ve düşük yerleşimli kulaklar.",
+          "explanation": "İntrauterin büyüme geriliği, tek umbilikal arter ve konjenital kalp defektleri sık eşlik eder. Trizomi 18, trizomi 13'ün orta hat anomalileri ve polidaktili örüntüsünden ayrılır."
+        },
+        {
+          "id": "PED-KON-005",
+          "question": "Trizomi 13 (Patau sendromu) düşündüren klasik orta hat ve ekstremite anomalileri nelerdir?",
+          "answer": "Holoprozensefali, yarık dudak/damak, mikroftalmi veya anoftalmi, saçlı deride aplazi kutis ve postaksiyel polidaktili.",
+          "explanation": "Konjenital kalp ve böbrek anomalileri sık eşlik eder. Holoprozensefali + yarık yüz anomalisi + polidaktili birlikteliği trizomi 13 için güçlü klinik ipucudur."
+        },
+        {
+          "id": "PED-KON-006",
+          "question": "Turner sendromunda (45,X) yenidoğan ve çocukluk çağında hangi bulgular ile konjenital anomaliler beklenir?",
+          "answer": "Yenidoğanda el-ayak lenfödemi ve kistik higroma; kısa boy, yele boyun, geniş göğüs ve ayrık meme başları; biküspit aort kapağı/aort koarktasyonu ve at nalı böbrek.",
+          "explanation": "Gonadal disgenezi ilerleyen yaşta gecikmiş puberte ve primer amenoreye yol açar. Klinik şüphede karyotip ile doğrulanır; kardiyak ve renal anomaliler sistematik olarak araştırılır."
+        },
+        {
+          "id": "PED-KON-007",
+          "question": "22q11.2 delesyon sendromunda (DiGeorge/velokardiyofasiyal spektrum) hangi bulgu kümesi tanıyı düşündürür?",
+          "answer": "Konotrunkal kalp defekti (özellikle Fallot tetralojisi, trunkus arteriozus veya kesintili aort arkı) + timik hipoplazi/T-hücre immün yetmezliği + hipokalsemi/hipoparatiroidi + damak anomalisi.",
+          "explanation": "CATCH-22 kısaltması klasik ipuçlarını hatırlatır. Hipokalsemi nöbetle ortaya çıkabilir; canlı aşılar ve kan ürünü gereksinimi immünolojik durum değerlendirilerek planlanır. Tanı CMA veya uygun genomik testle konur."
+        },
+        {
+          "id": "PED-KON-008",
+          "question": "Noonan sendromunda kısa boy, webbed neck ve pektus deformitesine en sık hangi kardiyak lezyon eşlik eder?",
+          "answer": "Displastik pulmoner kapak stenozu; ayrıca hipertrofik kardiyomiyopati görülebilir.",
+          "explanation": "Geniş aralıklı meme başları, kriptorşidizm ve kanama diyatezi eşlik edebilir. RAS/MAPK yolak genleriyle ilişkili, çoğunlukla otozomal dominant bir RASopatisidir; PTPN11 sık nedenlerden biridir."
+        },
+        {
+          "id": "PED-KON-009",
+          "question": "Fetal alkol sendromunun klasik yüz bulguları ve temel tanısal bileşenleri nelerdir?",
+          "answer": "Düz/silik filtrum, ince üst dudak vermilyonu ve kısa palpebral fissürler; bunlara büyüme geriliği ve merkezi sinir sistemi yapısal, nörolojik veya nörogelişimsel etkilenmesi eşlik eder.",
+          "explanation": "Prenatal alkol maruziyeti tanıyı destekler; maruziyet öyküsünün doğrulanamaması değerlendirmeyi tek başına dışlamaz. Gebelikte güvenli olduğu bilinen bir alkol miktarı veya dönemi yoktur."
+        },
+        {
+          "id": "PED-KON-010",
+          "question": "VACTERL birlikteliğinin bileşenleri nelerdir ve klinik tanı için genellikle kaç bileşen aranır?",
+          "answer": "Vertebral anomaliler, anal atrezi, kardiyak defekt, trakeoözofageal fistül/özofagus atrezisi, renal anomaliler ve ekstremite anomalileri; genellikle en az üç bileşen.",
+          "explanation": "Bu bir birliktelik tanımıdır; tek bir genetik tanı değildir. Benzer fenotip oluşturabilen 22q11.2 delesyonu, CHARGE, Fanconi anemisi ve diğer sendromlar dışlanmalı; her sistem için hedefli değerlendirme yapılmalıdır."
+        }
+      ]
     }
   ]
 }
