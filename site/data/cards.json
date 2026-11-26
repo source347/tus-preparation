@@ -9900,9 +9900,9 @@
         },
         {
           "id": "IM-GI-03",
-          "question": "Peptik ülser hastalığının iki temel nedeni nedir?",
-          "answer": "Helicobacter pylori ve NSAİİ kullanımı.",
-          "explanation": "Diğer nedenler arasında hipersekresyon ve ağır fizyolojik stres bulunur."
+          "question": "NSAİİ kullanmaya devam etmesi gereken, gastrointestinal kanama riski yüksek hastada ülser profilaksisi nasıl yapılır?",
+          "answer": "Proton pompası inhibitörü (PPI) ile gastroproteksiyon; mümkünse NSAİİ dozunu azaltma veya kesme ve H. pylori varsa eradikasyon.",
+          "explanation": "İleri yaş, geçirilmiş ülser/kanama, antikoagülan veya antiplatelet eş kullanımı riski artırır; COX-2 seçeneği ve PPI gereksinimi toplam kardiyovasküler/GİS riskiyle değerlendirilir."
         },
         {
           "id": "IM-GI-04",
@@ -12243,9 +12243,9 @@
       "cards": [
         {
           "id": "SUR-BILIARY-PANCREATIC-001",
-          "question": "Akut kolesistitte en yararlı ilk görüntüleme yöntemi nedir?",
-          "answer": "Sağ üst kadran ultrasonografisi.",
-          "explanation": "Safra taşı, duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu destekleyicidir."
+          "question": "Akut kolesistitte ultrasonografide tanıyı destekleyen bulgular nelerdir?",
+          "answer": "Safra taşı, safra kesesi duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu.",
+          "explanation": "Bulgular klinik tabloyla birlikte değerlendirilir; tek bir ultrason bulgusu tanıyı tek başına kesinleştirmez."
         },
         {
           "id": "SUR-BILIARY-PANCREATIC-002",
@@ -12285,9 +12285,9 @@
         },
         {
           "id": "SUR-BILIARY-PANCREATIC-008",
-          "question": "Akut pankreatit tanısı için hangi ölçütlerden kaçı gerekir?",
-          "answer": "Üç ölçütten en az ikisi: tipik epigastrik ağrı, lipaz/amilazın normal üst sınırın en az 3 katı olması, uyumlu görüntüleme.",
-          "explanation": "Lipaz tercih edilir; tanı klinik ve biyokimyasal olarak açıksa erken BT rutin değildir."
+          "question": "Akut pankreatitte kontrastlı BT hangi durumda ve ne zaman istenir?",
+          "answer": "Tanı belirsizse veya klinik kötüleşme/48–72 saatte düzelmeme komplikasyon düşündürüyorsa; nekrozun değerlendirilmesinde genellikle başlangıçtan en az 72 saat sonra.",
+          "explanation": "İlk saatlerde çekilen BT nekrozun yaygınlığını olduğundan az gösterebilir; tipik ağrı ve belirgin lipaz yüksekliği varsa rutin erken BT gerekmez."
         },
         {
           "id": "SUR-BILIARY-PANCREATIC-009",
