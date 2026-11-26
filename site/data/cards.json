@@ -13104,6 +13104,322 @@
           "explanation": "Metilergonovin hipertansiyonda, karboprost astımda kontrendikedir; kaynak kontrolü geciktirilmez."
         }
       ]
+    },
+    {
+      "id": "obgyn-early-pregnancy-infertility",
+      "title": "Kadın Hastalıkları ve Doğum · Erken gebelik, infertilite ve üreme",
+      "file": "erken-gebelik-infertilite-ureme.md",
+      "cards": [
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-001",
+          "question": "İnfertilite değerlendirmesine ne zaman başlanır?",
+          "answer": "12 ay düzenli korunmasız ilişkiye rağmen gebelik yoksa; kadın yaşı ≥35 ise 6 ayda, >40 yaşta veya bilinen risk varsa daha erken.",
+          "explanation": "Ovulasyon, tubal/peritoneal faktör ve erkek faktörü eşzamanlı değerlendirilir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-002",
+          "question": "İnfertilite değerlendirmesinde ilk basamakta erkek partner için hangi test yapılır?",
+          "answer": "En az bir semen analizi.",
+          "explanation": "Erkek faktörü sık ve eşzamanlıdır; kadın değerlendirmesi tamamlanana kadar ertelenmemelidir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-003",
+          "question": "Ovulasyon bozukluğu şüphesinde ilk değerlendirme neleri içerir?",
+          "answer": "Menstrüel öykü, gebelik testi ve klinik duruma göre TSH, prolaktin, androjenler ve ovulasyon doğrulaması.",
+          "explanation": "Düzensiz adet, hiperandrojenizm ve galaktore etiyolojiye yönelik test seçimini belirler."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-004",
+          "question": "Polikistik over sendromu (PCOS) erişkinde Rotterdam kriterlerine göre nasıl tanımlanır?",
+          "answer": "Diğer nedenler dışlandıktan sonra üç ölçütten ikisi: oligo/anovulasyon, klinik/biyokimyasal hiperandrojenizm, polikistik over morfolojisi.",
+          "explanation": "Ultrason her hastada zorunlu değildir; ergenlerde tanı kriterleri daha sıkıdır."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-005",
+          "question": "PCOS'ta gebelik istemeyen hastada düzensiz adet ve hiperandrojenizm için ilk farmakolojik seçenek nedir?",
+          "answer": "Kombine hormonal kontraseptif; kontrendike ise endometriumu korumak için aralıklı progestin düşünülebilir.",
+          "explanation": "Metabolik risk, kilo yönetimi ve glukoz/lipid taraması da tedavinin parçasıdır."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-006",
+          "question": "PCOS'a bağlı infertilitede ovulasyon indüksiyonunda ilk tercih nedir?",
+          "answer": "Letrozol.",
+          "explanation": "Gebelik öncesi değerlendirme ve diğer infertilite nedenlerinin dışlanması gerekir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-007",
+          "question": "Endometriozisin tipik klinik bulguları nelerdir?",
+          "answer": "Sekonder dismenore, derin disparoni, kronik pelvik ağrı ve infertilite.",
+          "explanation": "Normal ultrason endometriozisi dışlamaz; tanı klinik ve görüntüleme ile yönetilebilir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-008",
+          "question": "Endometriozis ilişkili ağrıda ilk basamak medikal tedavi nedir?",
+          "answer": "NSAİİ ve hormonal supresyon (kombine hormonal kontraseptif veya progestin).",
+          "explanation": "Tedavi fertilite hedefi, kontrendikasyon ve semptomlara göre seçilir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-009",
+          "question": "Ektopik gebelikte gebelik yeri bilinmiyorsa tek β-hCG ölçümüyle karar verilir mi?",
+          "answer": "Hayır; klinik durum, seri kantitatif β-hCG ve tekrarlayan transvajinal USG birlikte değerlendirilir.",
+          "explanation": "Hemodinamik instabilite varsa seri test beklenmez; acil müdahale gerekir."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-010",
+          "question": "Gebelik kaybı sonrası anti-D profilaksisi hangi hastada düşünülür?",
+          "answer": "RhD negatif, duyarlanmamış hastada gebelik haftası ve olay türüne göre ulusal kılavuz/protokole uygun anti-D.",
+          "explanation": "Erken gebelikte anti-D uygulama eşikleri kılavuzlar arasında değişmiştir; Türkiye ulusal protokolü esas alınmalıdır."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-011",
+          "question": "Tekrarlayan gebelik kaybında temel değerlendirme başlıkları nelerdir?",
+          "answer": "Uterin anatomi, antifosfolipid sendromu, genetik faktörler ve seçilmiş endokrin/metabolik nedenler.",
+          "explanation": "Geniş, kanıtsız trombofili veya immün test panelleri rutin önerilmez."
+        },
+        {
+          "id": "OB-EARLY-PREGNANCY-INFERTILITY-012",
+          "question": "Over torsiyonunu düşündüren akut klinik tablo nedir?",
+          "answer": "Ani başlayan tek taraflı pelvik ağrı, sıklıkla bulantı-kusma ve adneksiyel kitle.",
+          "explanation": "Doppler akımının görülmesi torsiyonu dışlamaz; klinik şüphede acil laparoskopik değerlendirme gerekir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-gynecology-bleeding-uterus",
+      "title": "Kadın Hastalıkları ve Doğum · Anormal uterin kanama ve benign jinekoloji",
+      "file": "anormal-uterin-kanama-benign-jinekoloji.md",
+      "cards": [
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-001",
+          "question": "Üreme çağında anormal uterin kanamada ilk dışlanması gereken durum nedir?",
+          "answer": "Gebelik; idrar veya serum β-hCG testi yapılır.",
+          "explanation": "Gebelikle ilişkili kanama dışlanmadan PALM-COEIN sınıflamasıyla ilerlenmez."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-002",
+          "question": "PALM-COEIN sınıflaması neyi düzenler?",
+          "answer": "PALM: polip, adenomyozis, leiomyom, malignite/hiperplazi; COEIN: koagülopati, ovulasyon bozukluğu, endometriyal, iyatrojenik, sınıflandırılmamış nedenler.",
+          "explanation": "Yapısal ve yapısal olmayan nedenleri sistematik ayırır."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-003",
+          "question": "Anormal uterin kanamada endometriyal örnekleme hangi hastada gerekir?",
+          "answer": "Genellikle ≥45 yaşta; daha genç hastada persistan kanama, tedavi başarısızlığı veya karşılanmamış östrojen maruziyeti/endometrium kanseri riski varsa.",
+          "explanation": "Premenopozal endometrium kalınlığı tek başına biyopsi kararını belirlemez."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-004",
+          "question": "Postmenopozal kanamada ilk değerlendirme seçenekleri nelerdir?",
+          "answer": "Transvajinal USG ile endometrium kalınlığı veya doğrudan endometriyal örnekleme.",
+          "explanation": "İlk kanamada endometrium ≤4 mm ise kanser olasılığı düşüktür; tekrarlayan kanama yine histolojik değerlendirme gerektirir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-005",
+          "question": "Leiomyomun klinik bulguları nelerdir?",
+          "answer": "Aşırı menstrual kanama, bası semptomları, pelvik kitle ve bazı hastalarda infertilite/gebelik komplikasyonu.",
+          "explanation": "Tedavi semptom, yerleşim, boyut, fertilite isteği ve anemiye göre belirlenir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-006",
+          "question": "Submüköz miyomun fertilite ve kanama üzerindeki etkisi nedir?",
+          "answer": "Endometriyal kaviteyi bozarak ağır kanama ve infertilite/düşük riskini artırabilir.",
+          "explanation": "Histeroskopik miyomektomi uygun seçilmiş semptomatik hastada tercih edilebilir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-007",
+          "question": "Adenomyozisin tipik klinik ve görüntüleme özellikleri nelerdir?",
+          "answer": "Dismenore, ağır kanama ve hassas/büyümüş uterus; USG veya MRI'da miyometriyum içinde ektopik endometriyal doku bulguları.",
+          "explanation": "Miyomdan farklı olarak lezyon sınırları genellikle net değildir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-008",
+          "question": "Akut ağır anormal uterin kanamada ilk yaklaşım nedir?",
+          "answer": "Hemodinamik stabiliteyi değerlendir, damar yolu ve resüsitasyon sağla, gebeliği dışla ve uygun medikal hemostazı başlat.",
+          "explanation": "Stabil olmayan hastada kan ürünü ve acil girişim gerekebilir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-009",
+          "question": "Ağır menstrual kanamada hemodinamik olarak stabil hastada medikal seçenekler nelerdir?",
+          "answer": "Traneksamik asit, NSAİİ, kombine hormonal kontraseptif veya progestin; uzun dönem için levonorgestrel salan intrauterin sistem.",
+          "explanation": "Kontrendikasyonlar, fertilite hedefi ve kanama nedeni seçimi belirler."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-010",
+          "question": "Pelvik inflamatuvar hastalıkta klinik tanı için hangi bulgulardan biri yeterli olabilir?",
+          "answer": "Pelvik/alt abdominal ağrısı olan riskli hastada başka neden yoksa servikal hareket, uterin veya adneksiyel hassasiyetten en az biri.",
+          "explanation": "Tedavi gecikmesi infertilite ve ektopik gebelik riskini artırır; düşük tedavi eşiği kullanılır."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-011",
+          "question": "Pelvik inflamatuvar hastalıkta hastaneye yatış endikasyonları nelerdir?",
+          "answer": "Cerrahi acil dışlanamaması, tubo-ovaryan apse, gebelik, ağır hastalık/kusma, oral tedaviyi tolere edememe veya ayaktan tedaviye yanıtsızlık.",
+          "explanation": "Gonore/klamidya ve anaerobları kapsayan geniş spektrum tedavi gerekir."
+        },
+        {
+          "id": "OB-GYNECOLOGY-BLEEDING-UTERUS-012",
+          "question": "Tubo-ovaryan apse tedavisinde temel yaklaşım nedir?",
+          "answer": "Yatış, geniş spektrum IV antibiyotik; rüptür, sepsis veya medikal tedaviye yanıtsızlıkta drenaj/cerrahi.",
+          "explanation": "Rüptür peritonit ve sepsise neden olabilir; acil kaynak kontrolü gerekir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-gynecologic-oncology",
+      "title": "Kadın Hastalıkları ve Doğum · Jinekolojik onkoloji",
+      "file": "jinekolojik-onkoloji.md",
+      "cards": [
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-001",
+          "question": "Serviks kanserinin en önemli etiyolojik faktörü nedir?",
+          "answer": "Persistan yüksek riskli HPV enfeksiyonu; özellikle HPV 16 ve 18.",
+          "explanation": "Aşı ve uygun tarama invaziv kanseri önlemede temel yaklaşımlardır."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-002",
+          "question": "2026 ACOG önerisinde ortalama riskli 21–29 yaş grubunda serviks kanseri taraması nedir?",
+          "answer": "Her 3 yılda bir servikal sitoloji.",
+          "explanation": "Tarama semptomu olan hastanın tanısal değerlendirmesinin yerine geçmez."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-003",
+          "question": "2026 ACOG önerisinde ortalama riskli 30–65 yaş grubunda tercih edilen serviks taraması nedir?",
+          "answer": "Her 5 yılda bir primer yüksek riskli HPV testi; uygun koşulda kotest de kabul edilebilir.",
+          "explanation": "Türkiye ulusal tarama programının yaş ve test aralıkları ayrıca uygulanmalıdır."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-004",
+          "question": "Anormal servikal sitoloji veya yüksek riskli HPV pozitifliğinde sonraki yaklaşım neye göre belirlenir?",
+          "answer": "ASCCP risk temelli algoritmada mevcut sonuç, önceki tarama/kolposkopi ve öyküye göre kolposkopi veya takip.",
+          "explanation": "Tek bir test sonucu yerine CIN3+ riski esas alınır."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-005",
+          "question": "Endometrium kanserinin en sık histolojik tipi ve temel risk faktörleri nelerdir?",
+          "answer": "Endometrioid adenokarsinom; karşılanmamış östrojen maruziyeti, obezite, kronik anovulasyon/PCOS, nulliparite ve Lynch sendromu.",
+          "explanation": "Postmenopozal kanama en önemli uyarıcı semptomdur."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-006",
+          "question": "Endometrium kanseri şüphesinde kesin tanı nasıl konur?",
+          "answer": "Endometriyal biyopsi veya uygun durumda histeroskopi eşliğinde örnekleme.",
+          "explanation": "USG endometrium kalınlığı risk sınıflaması sağlar ancak histolojik tanının yerini tutmaz."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-007",
+          "question": "Over kanserinde erken evre tanının güç olmasının nedeni nedir?",
+          "answer": "Erken dönemde özgül semptom ve etkili popülasyon tarama testi olmaması; semptomlar sıklıkla belirsizdir.",
+          "explanation": "Ortalama riskli asemptomatik bireylerde CA-125 ve transvajinal USG ile rutin tarama önerilmez."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-008",
+          "question": "Adneksiyel kitlede malignite riskini değerlendirmek için hangi parametreler kullanılır?",
+          "answer": "Transvajinal USG morfolojisi, menopoz durumu, solid/papiller alan, asit ve uygun hastada CA-125/RMI veya IOTA modelleri.",
+          "explanation": "CA-125 tek başına tanı koydurmaz; premenopozda benign nedenlerle yükselebilir."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-009",
+          "question": "BRCA1/2 patojenik varyantı olan hastada over/tüp kanseri riskini azaltan en etkili yaklaşım nedir?",
+          "answer": "Üreme planı tamamlandıktan sonra uygun yaşta risk azaltıcı bilateral salpingo-ooforektomi.",
+          "explanation": "Risk azaltıcı cerrahi zamanlaması gen ve aile öyküsüne göre genetik danışmanlıkla belirlenir."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-010",
+          "question": "Gestasyonel trofoblastik hastalıkta mol hidatiformun tipik ultrason bulgusu nedir?",
+          "answer": "Kistik villöz yapıların oluşturduğu diffüz ekojenik/veziküler görünüm; klasik tam molde embriyo/fetus yoktur.",
+          "explanation": "β-hCG belirgin yüksek olabilir; tanı histopatoloji ve klinik ile doğrulanır."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-011",
+          "question": "Molar gebelik boşaltıldıktan sonra neden seri β-hCG izlemi yapılır?",
+          "answer": "Persistan gestasyonel trofoblastik neoplaziyi erken saptamak için β-hCG negatifleşene ve protokole göre izlem tamamlanana kadar.",
+          "explanation": "İzlem sırasında gebelikten kaçınılır; yükselen veya plato yapan β-hCG ileri değerlendirme gerektirir."
+        },
+        {
+          "id": "OB-GYNECOLOGIC-ONCOLOGY-012",
+          "question": "Serviks kanserinde evreleme ve tedavide hangi faktörler belirleyicidir?",
+          "answer": "FIGO evresi, tümör boyutu/parametrium ve nodal tutulum, histoloji, fertilite isteği ve hastanın genel durumu.",
+          "explanation": "Erken evrede cerrahi veya seçilmiş fertilite koruyucu yaklaşım; lokal ileri hastalıkta eşzamanlı kemoradyoterapi temel seçenektir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-contraception-urogynecology",
+      "title": "Kadın Hastalıkları ve Doğum · Kontrasepsiyon, menopoz ve ürojinekoloji",
+      "file": "kontrasepsiyon-menopoz-urojinekoloji.md",
+      "cards": [
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-001",
+          "question": "En etkili geri dönüşümlü kontrasepsiyon yöntemleri hangileridir?",
+          "answer": "İmplantlar ve intrauterin araçlar (bakırlı veya levonorgestrel salan LARC).",
+          "explanation": "Kullanıcı uyumundan bağımsız yüksek etkinlik sağlar; kontrendikasyon ve hasta tercihi önemlidir."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-002",
+          "question": "Acil kontrasepsiyon seçenekleri nelerdir ve en etkili yöntem hangisidir?",
+          "answer": "Bakırlı RİA en etkili yöntemdir; ulipristal asetat 120 saate, levonorgestrel mümkün olan en erken zamanda (tercihen 72 saate) kullanılabilir.",
+          "explanation": "Acil kontrasepsiyon mevcut gebeliği sonlandırmaz; ovulasyonu geciktirerek etki eder."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-003",
+          "question": "Kombine hormonal kontrasepsiyon için önemli kontrendikasyonlardan bazıları nelerdir?",
+          "answer": "Migren aura, aktif/önceki venöz tromboembolizm veya trombofili, ağır hipertansiyon, 35 yaş üstü sigara kullanımı ve bazı meme kanserleri.",
+          "explanation": "Östrojen içeren yönteme başlamadan önce kan basıncı ve tıbbi öykü değerlendirilir."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-004",
+          "question": "Postpartum dönemde kombine hormonal kontrasepsiyon ne zaman sakıncalıdır?",
+          "answer": "Erken postpartum dönemde VTE riski nedeniyle; emzirme ve tromboz riskine göre başlama zamanı ertelenir.",
+          "explanation": "Progestin-only ve uygun LARC seçenekleri postpartum erken dönemde kullanılabilir."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-005",
+          "question": "Menopoz tanısı tipik olarak nasıl konur?",
+          "answer": "45 yaş üzerindeki sağlıklı bireyde 12 ay amenore ve başka patolojik neden olmamasıyla klinik olarak.",
+          "explanation": "Tipik tabloda rutin FSH ölçümü gerekmez; 40 yaş altı/erken menopoz şüphesinde değerlendirme farklıdır."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-006",
+          "question": "Menopozal hormon tedavisi en çok hangi semptomlarda etkilidir?",
+          "answer": "Vazomotor semptomlar ve genitoüriner menopoz semptomları; sistemik tedavi uygun hastada kemik kaybını da azaltır.",
+          "explanation": "En düşük etkili doz ve bireyselleştirilmiş süre; uterus varsa sistemik östrojene endometriyal koruma için progestojen eklenir."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-007",
+          "question": "Sistemik menopoz hormon tedavisinde hangi hastalarda genellikle kaçınılır?",
+          "answer": "Meme/endometrium kanseri öyküsü, açıklanamayan vajinal kanama, aktif/önceki VTE, inme/koroner hastalık veya aktif karaciğer hastalığı gibi durumlarda.",
+          "explanation": "Risk-yarar bireysel değerlendirilir; lokal düşük doz vajinal östrojenin sistemik maruziyeti farklıdır."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-008",
+          "question": "Stres üriner inkontinansın tipik klinik tanımı nedir?",
+          "answer": "Öksürme, hapşırma, egzersiz veya eforla istemsiz idrar kaçırma.",
+          "explanation": "Üretral destek/ sfinkter yetmezliğiyle ilişkilidir; pelvik taban kas eğitimi ilk basamaktır."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-009",
+          "question": "Sıkışma tipi üriner inkontinansın temel semptomu nedir?",
+          "answer": "Ani, ertelenmesi zor sıkışma hissiyle birlikte veya hemen ardından idrar kaçırma; aşırı aktif mesane sendromu ile ilişkilidir.",
+          "explanation": "Mesane eğitimi ve yaşam tarzı önlemleri ilk basamaktır; uygun hastada antimuskarinik veya β3 agonist düşünülebilir."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-010",
+          "question": "Pelvik organ prolapsusunda hangi faktörler risk oluşturur?",
+          "answer": "Vajinal doğum, yaşlanma, obezite, kronik öksürük/kabızlık ve bağ dokusu yatkınlığı.",
+          "explanation": "Semptom ve yaşam kalitesi tedavi kararını belirler; asemptomatik anatomik prolapsus tek başına cerrahi gerektirmez."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-011",
+          "question": "Pelvik organ prolapsusunda ilk basamak konservatif seçenekler nelerdir?",
+          "answer": "Pelvik taban kas eğitimi, kilo/kabızlık yönetimi ve uygun hastada vajinal pessar.",
+          "explanation": "Cerrahi, semptom şiddeti, hasta tercihi ve konservatif tedaviye yanıta göre planlanır."
+        },
+        {
+          "id": "OB-CONTRACEPTION-UROGYNECOLOGY-012",
+          "question": "Postpartum dönemde depresyon ile geçici postpartum blues nasıl ayrılır?",
+          "answer": "Blues genellikle ilk günlerde başlar ve 2 hafta içinde düzelir; depresif belirtiler ≥2 hafta sürer, işlevselliği bozar veya ağır belirtiler içerir.",
+          "explanation": "İntihar düşüncesi, mani/psikoz veya bebeğe zarar riski acil psikiyatrik değerlendirme gerektirir."
+        }
+      ]
     }
   ]
 }
