@@ -12788,6 +12788,322 @@
           "explanation": "Aşı, hasta eğitimi, ateşte acil değerlendirme ve uygun hastada antibiyotik planı gerekir."
         }
       ]
+    },
+    {
+      "id": "obgyn-antenatal-prenatal",
+      "title": "Kadın Hastalıkları ve Doğum · Gebelik izlemi ve prenatal tanı",
+      "file": "gebelik-izlemi-prenatal-tani.md",
+      "cards": [
+        {
+          "id": "OB-ANTENATAL-PRENATAL-001",
+          "question": "Gebelikte ilk prenatal değerlendirmede hangi temel testler istenir?",
+          "answer": "Kan grubu/Rh ve antikor taraması, tam kan sayımı, idrar analizi/kültürü, HIV, sifiliz, HBsAg; yerel protokole göre HCV ve diğer enfeksiyon taramaları.",
+          "explanation": "Sonraki tarama ve profilaksi kararları başlangıç sonuçlarına göre verilir; test paneli ulusal programa uyarlanır."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-002",
+          "question": "Gebelikte gestasyonel yaşın en güvenilir belirlenme yöntemi nedir?",
+          "answer": "İlk trimesterde baş-popo mesafesi (CRL) ile ultrasonografi.",
+          "explanation": "Son adet tarihi güvenilir değilse veya USG ile anlamlı uyumsuzluk varsa erken USG ile tarihleme yapılır; geç gebelikte biyometri tarihlemede daha az kesindir."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-003",
+          "question": "İlk trimester anöploidi taramasında kombine testin bileşenleri nelerdir?",
+          "answer": "Nukal saydamlık ölçümü ve maternal serum PAPP-A ile serbest β-hCG.",
+          "explanation": "Tarama tanı koymaz; yüksek riskte genetik danışmanlık ve tanısal test seçenekleri sunulur."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-004",
+          "question": "NIPT/cfDNA testi hangi özelliğe sahiptir?",
+          "answer": "Maternal kanda plasental kaynaklı hücre dışı DNA ile anöploidi için en duyarlı tarama yöntemlerinden biridir; tanısal test değildir.",
+          "explanation": "Pozitif sonuç CVS veya amniyosentez gibi tanısal testle doğrulanmalıdır; negatif sonuç tüm kromozomal/genetik hastalıkları dışlamaz."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-005",
+          "question": "Koryon villus örneklemesi ve amniyosentez hangi haftalarda yapılır?",
+          "answer": "CVS genellikle 10–13+6 haftada; amniyosentez 15. gebelik haftasından sonra.",
+          "explanation": "CVS plasental örnek alır ve nadiren plasental mozaiklik nedeniyle doğrulama gerekebilir."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-006",
+          "question": "Anatomik fetal ultrasonografi hangi dönemde yapılır?",
+          "answer": "Genellikle 18–22. gebelik haftalarında.",
+          "explanation": "Yapısal anomali taramasıdır; normal sonuç tüm anomalileri dışlamaz."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-007",
+          "question": "RhD negatif ve duyarlanmamış gebeye anti-D immün globulin ne zaman uygulanır?",
+          "answer": "Rutin olarak yaklaşık 28. haftada ve doğum sonrası bebek RhD pozitifse 72 saat içinde; ayrıca duyarlanma riski taşıyan olaylardan sonra.",
+          "explanation": "Doz ve ek doz gereksinimi gebelik haftası, kanama hacmi ve yerel protokole göre belirlenir."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-008",
+          "question": "Gebelikte asemptomatik bakteriüri neden taranıp tedavi edilir?",
+          "answer": "Piyelonefrit ve olumsuz gebelik sonuçları riskini azaltmak için erken gebelikte idrar kültürüyle taranır ve pozitiflik tedavi edilir.",
+          "explanation": "Antibiyotik seçimi gebelik güvenliği ve kültür duyarlılığına göre yapılır."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-009",
+          "question": "Gestasyonel diyabet taraması genellikle hangi haftalarda yapılır?",
+          "answer": "24–28. haftalarda; erken dönemde belirgin diyabet riski olanlarda ilk prenatal değerlendirmede test yapılabilir.",
+          "explanation": "Tarama ve tanı yaklaşımı ülke/kurum protokolüne göre tek veya iki basamaklı olabilir."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-010",
+          "question": "Gestasyonel diyabet tanısı alan gebede ilk tedavi basamağı nedir?",
+          "answer": "Beslenme tedavisi, fiziksel aktivite ve glukoz izlemi; hedefler sağlanmazsa insülin tercih edilen farmakolojik tedavidir.",
+          "explanation": "Maternal glisemik kontrol fetal makrozomi, omuz distosisi ve neonatal hipoglisemi riskini azaltır."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-011",
+          "question": "Gebelikte düşük doz aspirin preeklampsi profilaksisi için kimlere verilir?",
+          "answer": "Yüksek riskli gebelere; tercihen 12–16. haftadan başlanarak günlük düşük doz (çoğu kılavuzda 81–150 mg) kullanılır.",
+          "explanation": "Önceki preeklampsi, multifetal gebelik, kronik hipertansiyon, böbrek hastalığı, otoimmün hastalık ve pregestasyonel diyabet yüksek risk örnekleridir."
+        },
+        {
+          "id": "OB-ANTENATAL-PRENATAL-012",
+          "question": "Gebelikte fetal büyüme kısıtlılığı (FGR) tanısı ve izlemi hangi parametreleri içerir?",
+          "answer": "Tahmini fetal ağırlık veya abdominal çevrenin gestasyonel yaşa göre düşük olması; seri büyüme, amniyotik sıvı ve umbilikal arter Doppleriyle değerlendirme.",
+          "explanation": "SGA ile patolojik FGR aynı değildir; doğum zamanlaması Doppler, gebelik haftası ve fetal/maternal duruma göre belirlenir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-hypertension-pregnancy",
+      "title": "Kadın Hastalıkları ve Doğum · Hipertansif gebelik hastalıkları",
+      "file": "hipertansif-gebelik-hastaliklari.md",
+      "cards": [
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-001",
+          "question": "Gebelikte kronik hipertansiyon nasıl tanımlanır?",
+          "answer": "Gebelikten önce veya 20. gebelik haftasından önce saptanan hipertansiyon; postpartum dönemde sürmesi de kronik hastalığı destekler.",
+          "explanation": "20. haftadan sonra yeni başlayan hipertansiyon gestasyonel hipertansiyon/preeklampsi açısından değerlendirilir."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-002",
+          "question": "Gestasyonel hipertansiyon tanımı nedir?",
+          "answer": "20. haftadan sonra daha önce normotansif gebede, proteinüri veya preeklampsiye ait organ disfonksiyonu olmaksızın yeni başlayan ≥140/90 mmHg kan basıncı.",
+          "explanation": "Postpartum dönemde de izlem gerekir; preeklampsiye ilerleyebilir."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-003",
+          "question": "Preeklampsi tanısı için temel kriter nedir?",
+          "answer": "20. haftadan sonra yeni hipertansiyon (≥140/90) ve proteinüri; proteinüri yoksa trombositopeni, böbrek/karaciğer bozukluğu, pulmoner ödem veya nörolojik/görsel bulgu gibi organ disfonksiyonu.",
+          "explanation": "Proteinüri olmaması preeklampsiyi dışlamaz."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-004",
+          "question": "Preeklampside proteinüri için hangi eşikler kullanılır?",
+          "answer": "24 saatlik idrarda ≥300 mg protein veya protein/kreatinin oranı ≥0,3; uygun koşulda dipstick 2+ yalnız nicel test yoksa.",
+          "explanation": "Proteinüri miktarı tek başına hastalık şiddetini belirlemez."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-005",
+          "question": "Preeklampside ağır özellikler nelerdir?",
+          "answer": "≥160 sistolik veya ≥110 diyastolik KB, trombosit <100.000/µL, karaciğer enzimlerinde belirgin artış/şiddetli sağ üst kadran ağrısı, kreatinin >1,1 mg/dL veya iki kat artış, pulmoner ödem ya da tedaviye dirençli nörolojik/görsel semptom.",
+          "explanation": "Ağır özellikler maternal inme, eklampsi ve organ yetmezliği riskini artırır."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-006",
+          "question": "Gebelikte akut ağır hipertansiyon nasıl tedavi edilir?",
+          "answer": "Persistan ≥160 sistolik veya ≥110 diyastolik basınçta gecikmeden IV labetalol, IV hidralazin veya oral hızlı salınımlı nifedipin.",
+          "explanation": "Tedavi genellikle 30–60 dakika içinde başlatılmalıdır; maternal inme riskini azaltır."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-007",
+          "question": "Preeklampside magnezyum sülfatın amacı nedir?",
+          "answer": "Ağır özellikli preeklampside eklampsi nöbetini önlemek ve eklampside nöbet tedavisi.",
+          "explanation": "Antihipertansif değildir; solunum, refleksler ve idrar çıkışı izlenir; toksisitede kalsiyum glukonat antidottur."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-008",
+          "question": "Eklampsi gelişen gebede ilk yaklaşım nedir?",
+          "answer": "Hava yolu/oksijenasyon ve yaralanmadan koruma, IV magnezyum sülfat, ağır hipertansiyonun kontrolü ve maternal stabilizasyon sonrası doğum planı.",
+          "explanation": "Nöbet sırasında zorla ağız açılmaz; fetal değerlendirme maternal stabilizasyondan sonra yapılır."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-009",
+          "question": "HELLP sendromunun açılımı ve temel laboratuvar örüntüsü nedir?",
+          "answer": "Hemolysis, Elevated Liver enzymes, Low Platelets; mikroanjiyopatik hemoliz, AST/ALT artışı ve trombositopeni.",
+          "explanation": "Preeklampsinin ağır komplikasyonudur; hipertansiyon veya proteinüri belirgin olmayabilir."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-010",
+          "question": "Preeklampside doğum zamanlaması nasıl belirlenir?",
+          "answer": "Ağır özellik yoksa 37. haftada; ağır özellik varsa ≥34 haftada doğum, daha erken haftada maternal/fetal instabilite varsa stabilizasyon sonrası doğum.",
+          "explanation": "Doğum hastalığın definitif tedavisidir; gebelik haftası, maternal ve fetal durum birlikte değerlendirilir."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-011",
+          "question": "Postpartum preeklampsi hangi dönemde ortaya çıkabilir?",
+          "answer": "Doğumdan sonra, özellikle ilk günler içinde ancak 6 haftaya kadar yeni hipertansiyon ve organ bulgularıyla ortaya çıkabilir.",
+          "explanation": "Şiddetli baş ağrısı, görme değişikliği, dispne veya epigastrik ağrı postpartum dönemde de acil değerlendirilmelidir."
+        },
+        {
+          "id": "OB-HYPERTENSION-PREGNANCY-012",
+          "question": "Preeklampsi öyküsü olan hastada uzun dönem hangi risk artar?",
+          "answer": "Kardiyovasküler hastalık, kronik hipertansiyon, inme ve böbrek hastalığı riski artar.",
+          "explanation": "Doğum sonrası kan basıncı izlemi ve yaşam boyu kardiyovasküler risk azaltımı önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-labor-fetal",
+      "title": "Kadın Hastalıkları ve Doğum · Doğum eylemi ve fetal iyilik",
+      "file": "dogum-eylemi-fetal-iyilik.md",
+      "cards": [
+        {
+          "id": "OB-LABOR-FETAL-001",
+          "question": "Doğum eyleminin gerçek başlangıcını düşündüren bulgu nedir?",
+          "answer": "Düzenli uterin kontraksiyonlarla birlikte servikal silinme ve ilerleyici dilatasyon.",
+          "explanation": "Yalancı doğumda kontraksiyon olabilir ancak servikal değişim yoktur."
+        },
+        {
+          "id": "OB-LABOR-FETAL-002",
+          "question": "Aktif doğum eylemi için servikal dilatasyon eşiği güncel ACOG yaklaşımında kaç cm'dir?",
+          "answer": "6 cm.",
+          "explanation": "6 cm öncesinde aktif faz arresti tanısı konmamalıdır; gereksiz sezaryeni azaltır."
+        },
+        {
+          "id": "OB-LABOR-FETAL-003",
+          "question": "Aktif faz arresti tanısı için hangi koşullar gerekir?",
+          "answer": "Serviks ≥6 cm, membranlar rüptüre ve yeterli uterin aktiviteye rağmen ≥4 saat veya yetersiz aktiviteyle oksitosin altında ≥6 saat servikal ilerleme olmaması.",
+          "explanation": "Anne-fetüs durumu uygunsa bu süreler dolmadan arrest tanısı konmamalıdır."
+        },
+        {
+          "id": "OB-LABOR-FETAL-004",
+          "question": "Doğumun ikinci evresi hangi aralıkta tanımlanır?",
+          "answer": "Tam servikal dilatasyondan fetüsün doğumuna kadar.",
+          "explanation": "Süre parite, epidural, fetal pozisyon ve maternal-fetal duruma göre değerlendirilir."
+        },
+        {
+          "id": "OB-LABOR-FETAL-005",
+          "question": "Fetal kalp hızı monitörizasyonunda kategori III patern nedir?",
+          "answer": "Variabilitenin yokluğu ile birlikte tekrarlayan geç deselerasyon, tekrarlayan değişken deselerasyon veya bradikardi; ya da sinüzoidal patern.",
+          "explanation": "Acil değerlendirme ve düzeltici intrauterin önlemler gerekir; düzelmezse hızlı doğum gündeme gelir."
+        },
+        {
+          "id": "OB-LABOR-FETAL-006",
+          "question": "Tekrarlayan geç deselerasyon geliştiğinde ilk intrauterin resüsitasyon önlemleri nelerdir?",
+          "answer": "Maternal pozisyon değişikliği, oksitosinin durdurulması, hipotansiyonun düzeltilmesi, uterin taşisistolün tedavisi ve klinik duruma göre sıvı/oksijenasyonun değerlendirilmesi.",
+          "explanation": "Rutin oksijen, normoksik anneye önerilmez; düzeltilemeyen kategori III patern acil doğum gerektirebilir."
+        },
+        {
+          "id": "OB-LABOR-FETAL-007",
+          "question": "Uterin taşisistol nasıl tanımlanır?",
+          "answer": "10 dakikalık pencerede ortalama 30 dakikada beşten fazla kontraksiyon.",
+          "explanation": "Fetal kalp hızı bozukluğuyla birlikteyse oksitosin azaltılır/durdurulur ve gerekirse tokoliz uygulanır."
+        },
+        {
+          "id": "OB-LABOR-FETAL-008",
+          "question": "Omuz distosisinde ilk uygulanacak manevra nedir?",
+          "answer": "McRoberts manevrası ve suprapubik bası.",
+          "explanation": "Fundal bası yapılmaz; kol çekilmesi brakiyal pleksus yaralanması riskini artırır."
+        },
+        {
+          "id": "OB-LABOR-FETAL-009",
+          "question": "Breech gelişte vajinal doğum kararı hangi faktörlere bağlıdır?",
+          "answer": "Fetal tip/pozisyon, tahmini ağırlık, başın fleksiyonu, pelvis ve doğum ekibinin deneyimi; uygun seçilmiş olguda planlı vajinal doğum düşünülebilir.",
+          "explanation": "Uygun olmayan koşullarda planlı sezaryen neonatal riski azaltabilir."
+        },
+        {
+          "id": "OB-LABOR-FETAL-010",
+          "question": "Plasenta previa şüphesinde hangi muayeneden kaçınılır?",
+          "answer": "Plasenta previa dışlanana kadar dijital vajinal muayene yapılmaz.",
+          "explanation": "Ağrısız üçüncü trimester kanamasında transvajinal USG güvenli ve tanıda duyarlıdır."
+        },
+        {
+          "id": "OB-LABOR-FETAL-011",
+          "question": "Plasenta akreta spektrumunu düşündüren önemli risk faktörü nedir?",
+          "answer": "Önceki sezaryen ve plasenta previa birlikteliği; sezaryen sayısı arttıkça risk yükselir.",
+          "explanation": "Şüpheli olguda doğum öncesi tanı, multidisipliner ekip ve kanama kontrolü planı gerekir."
+        },
+        {
+          "id": "OB-LABOR-FETAL-012",
+          "question": "Sezaryen sonrası vajinal doğum (TOLAC/VBAC) için en önemli uterin kesi özelliği nedir?",
+          "answer": "Önceki düşük transvers uterin kesi genellikle TOLAC için uygundur; klasik/üst segment vertikal kesi kontrendikasyondur.",
+          "explanation": "Uterin rüptür riski ve acil sezaryen olanağı kararın temelidir."
+        }
+      ]
+    },
+    {
+      "id": "obgyn-obstetric-hemorrhage",
+      "title": "Kadın Hastalıkları ve Doğum · Obstetrik kanamalar",
+      "file": "obstetrik-kanamalar.md",
+      "cards": [
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-001",
+          "question": "Erken gebelik kanamasında ilk dışlanması gereken yaşamı tehdit eden durum nedir?",
+          "answer": "Rüptüre ektopik gebelik.",
+          "explanation": "Hemodinamik instabilite, omuz ağrısı, senkop veya peritoneal bulgular acil cerrahi değerlendirme gerektirir."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-002",
+          "question": "Ektopik gebelik tanısında temel yaklaşım nedir?",
+          "answer": "Kantitatif serum β-hCG ve transvajinal ultrasonografi; klinik stabilite ve seri ölçümlerle birlikte yorumlanır.",
+          "explanation": "Tek bir β-hCG değeri veya boş uterus görüntüsü tek başına ektopik gebelik tanısı koydurmaz."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-003",
+          "question": "Ektopik gebelikte metotreksat için temel uygunluk koşulları nelerdir?",
+          "answer": "Hemodinamik stabilite, rüptür olmaması, güvenilir takip ve metotreksat kontrendikasyonu bulunmaması; düşük/uygun β-hCG ve küçük kitle başarıyı artırır.",
+          "explanation": "Emzirme, karaciğer/böbrek hastalığı, kan diskrazisi ve takip uyumsuzluğu önemli kontrendikasyonlardır."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-004",
+          "question": "Ektopik gebelikte acil cerrahi endikasyonları nelerdir?",
+          "answer": "Hemodinamik instabilite, rüptür/hemoperitoneum, medikal tedavi kontrendikasyonu veya başarısızlığı.",
+          "explanation": "Salpenjektomi veya salpingostomi kararı karşı tüp, fertilite isteği ve hasara göre verilir."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-005",
+          "question": "Spontan düşük tanımı ve sınıflaması hangi gebelik haftasına dayanır?",
+          "answer": "Gebeliğin 20. haftadan önce sonlanması; tehdit eden, kaçınılmaz, inkomplet, komplet ve missed düşük klinik alt tiplerdir.",
+          "explanation": "Tanı için ultrasonografik canlılık kriterleri ve klinik durum birlikte değerlendirilir; yanlış pozitif tanıdan kaçınılır."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-006",
+          "question": "Üçüncü trimesterde ağrısız vajinal kanama en çok hangi tanıyı düşündürür?",
+          "answer": "Plasenta previa.",
+          "explanation": "Tanı USG ile konur; dijital vajinal muayene yapılmaz."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-007",
+          "question": "Üçüncü trimester kanamasında ağrılı, hassas/tahta kıvamlı uterus ve fetal distres ne düşündürür?",
+          "answer": "Plasenta dekolmanı (abruptio placentae).",
+          "explanation": "Kanama gizli olabilir; klinik tanıdır ve normal USG dekolmanı dışlamaz."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-008",
+          "question": "Plasenta dekolmanında maternal laboratuvarda hangi komplikasyon özellikle izlenir?",
+          "answer": "Tüketim koagülopatisi/DIC; fibrinojen düşüşü erken ve önemli bir bulgudur.",
+          "explanation": "Maternal resüsitasyon, kan ürünleri ve doğum zamanlaması anne-fetüs durumuna göre belirlenir."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-009",
+          "question": "Vasa previa hangi klinik tabloyla ortaya çıkabilir?",
+          "answer": "Membran rüptürü sonrası ağrısız kanama ve hızla gelişen fetal bradikardi/şok.",
+          "explanation": "Kanama fetal kaynaklıdır; acil sezaryen gerekir."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-010",
+          "question": "Postpartum hemoraji için güncel tanımda hangi kan kaybı dikkate alınır?",
+          "answer": "Doğumdan sonraki 24 saatte kümülatif ≥1000 mL kan kaybı veya miktardan bağımsız hipovolemi bulguları.",
+          "explanation": "Vajinal doğum ve sezaryen için eşik aynı tanımda kullanılır; klinik instabilite daha düşük kayıpta da müdahale gerektirir."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-011",
+          "question": "Postpartum hemorajinin 4T nedeni nelerdir?",
+          "answer": "Tone (uterin atoni), Trauma (doğum yolu yaralanması), Tissue (retansiyon), Thrombin (koagülopati).",
+          "explanation": "Uterin atoni en sık nedendir; neden sistematik olarak aranmalıdır."
+        },
+        {
+          "id": "OB-OBSTETRIC-HEMORRHAGE-012",
+          "question": "Uterin atoniye bağlı postpartum hemorajide ilk basamak tedavi nedir?",
+          "answer": "Uterin masaj, oksitosin ve eşzamanlı resüsitasyon; kanama sürerse ek uterotonikler ve traneksamik asit erken verilir.",
+          "explanation": "Metilergonovin hipertansiyonda, karboprost astımda kontrendikedir; kaynak kontrolü geciktirilmez."
+        }
+      ]
     }
   ]
 }
