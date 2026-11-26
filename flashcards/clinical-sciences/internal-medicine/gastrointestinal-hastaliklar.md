@@ -16,11 +16,11 @@ Bu deste, TUS'ta klinik örüntü tanıma, ayırıcı tanı ve ilk basamak karar
 
 **Neden önemli?:** Hemodinamik stabilizasyon endoskopiden önce gelir.
 
-### 3. Peptik ülser hastalığının iki temel nedeni nedir?
+### 3. NSAİİ kullanmaya devam etmesi gereken, gastrointestinal kanama riski yüksek hastada ülser profilaksisi nasıl yapılır?
 
-**C:** Helicobacter pylori ve NSAİİ kullanımı.
+**C:** Proton pompası inhibitörü (PPI) ile gastroproteksiyon; mümkünse NSAİİ dozunu azaltma veya kesme ve H. pylori varsa eradikasyon.
 
-**Neden önemli?:** Diğer nedenler arasında hipersekresyon ve ağır fizyolojik stres bulunur.
+**Neden önemli?:** İleri yaş, geçirilmiş ülser/kanama, antikoagülan veya antiplatelet eş kullanımı riski artırır; COX-2 seçeneği ve PPI gereksinimi toplam kardiyovasküler/GİS riskiyle değerlendirilir.
 
 ### 4. H. pylori eradikasyonu sonrası başarı nasıl doğrulanır?
 
