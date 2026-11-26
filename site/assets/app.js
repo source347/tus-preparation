@@ -51,8 +51,8 @@ function renderProgress(){
 }
 function flip(){if(!current())return;state.flipped=!state.flipped;$("flashcard").classList.toggle("flipped",state.flipped);$("flip-btn").textContent=state.flipped?"Soruyu göster":"Yanıtı göster";}
 function move(delta){if(!state.filtered.length)return;stopAutoplay();state.index=Math.max(0,Math.min(state.filtered.length-1,state.index+delta));renderCard();}
-function mark(value){const c=current();if(!c)return;state.progress[c.id]={...state.progress[c.id],status:value,updatedAt:new Date().toISOString()};saveProgress();toast(value==="known"?"Öğrenildi olarak işaretlendi":"Tekrar listesine eklendi");}
-function toggleStar(){const c=current();if(!c)return;state.progress[c.id]={...state.progress[c.id],starred:!isStarred(c),updatedAt:new Date().toISOString()};saveProgress();renderCard();}
+function mark(value){const c=current();if(!c)return;state.progress[c.id]={...state.progress[c.id],status:value,updatedAt:new Date().toISOString()};saveProgress();if($("status-filter").value!=="all"){applyFilter();}else{renderCard();}toast(value==="known"?"Öğrenildi olarak işaretlendi":"Tekrar listesine eklendi");}
+function toggleStar(){const c=current();if(!c)return;state.progress[c.id]={...state.progress[c.id],starred:!isStarred(c),updatedAt:new Date().toISOString()};saveProgress();if($("status-filter").value==="starred"){applyFilter();}else{renderCard();}}
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 function wordCount(text){return (text.trim().match(/[\p{L}\p{N}]+/gu)||[]).length;}
 function phaseDuration(text,kind){
@@ -63,7 +63,7 @@ function phaseDuration(text,kind){
 function stopSpeech(){if("speechSynthesis"in window){window.speechSynthesis.cancel();}state.speechUtterance=null;}
 function speak(text){
  return new Promise(resolve=>{
-  if(!("speechSynthesis"in window)){resolve();return;}
+  if(!("speechSynthesis"in window)||typeof SpeechSynthesisUtterance==="undefined"){resolve();return;}
   const utter=new SpeechSynthesisUtterance(text);utter.lang="tr-TR";utter.rate=Number(state.settings.speechRate)||1;
   const voice=state.voices.find(v=>v.voiceURI===state.settings.voiceURI);if(voice)utter.voice=voice;
   state.speechUtterance=utter;let finished=false;const done=()=>{if(finished)return;finished=true;if(state.speechUtterance===utter)state.speechUtterance=null;resolve();};
@@ -117,7 +117,7 @@ function bindEvents(){
  $("topic-search").addEventListener("input",renderTopics);$("search").addEventListener("input",()=>{stopAutoplay();state.index=0;applyFilter();});$("status-filter").addEventListener("change",()=>{stopAutoplay();state.index=0;applyFilter();});
  $("flashcard").addEventListener("click",()=>{stopAutoplay();flip();});$("flip-btn").addEventListener("click",()=>{stopAutoplay();flip();});$("prev-btn").addEventListener("click",()=>move(-1));$("next-btn").addEventListener("click",()=>move(1));
  $("again-btn").addEventListener("click",()=>mark("again"));$("known-btn").addEventListener("click",()=>mark("known"));$("star-btn").addEventListener("click",toggleStar);
- $("autoplay-btn").addEventListener("click",toggleAutoplay);$("read-question-btn").addEventListener("click",()=>readCurrent("question"));$("read-answer-btn").addEventListener("click",()=>readCurrent("answer"));$("stop-speech-btn").addEventListener("click",stopSpeech);
+ $("autoplay-btn").addEventListener("click",toggleAutoplay);$("read-question-btn").addEventListener("click",()=>readCurrent("question"));$("read-answer-btn").addEventListener("click",()=>readCurrent("answer"));$("stop-speech-btn").addEventListener("click",()=>{if(state.playing)stopAutoplay();else stopSpeech();});
  $("test-voice-btn").addEventListener("click",()=>{readSettingsUI();speak("TUS kartları sesli okuma testi.");});$("shuffle-btn").addEventListener("click",()=>{stopAutoplay();state.filtered=shuffle([...state.filtered]);state.index=0;state.shuffleOrder=true;renderCard();toast("Kart sırası karıştırıldı");});
  $("export-btn").addEventListener("click",exportProgress);$("import-btn").addEventListener("click",()=>$("import-file").click());$("import-file").addEventListener("change",e=>{if(e.target.files[0])importProgress(e.target.files[0]);e.target.value="";});
  $("reset-btn").addEventListener("click",()=>{if(!confirm("Bu desteye ait tüm ilerleme silinsin mi?"))return;for(const c of cards())delete state.progress[c.id];saveProgress();renderCard();toast("Deste ilerlemesi sıfırlandı");});
