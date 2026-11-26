@@ -4,11 +4,11 @@ Bu deste, TUS'ta tanı, acil müdahale eşiği ve tedavi seçimini ayırt ettire
 
 ## Kartlar
 
-### 1. Akut kolesistitte en yararlı ilk görüntüleme yöntemi nedir?
+### 1. Akut kolesistitte ultrasonografide tanıyı destekleyen bulgular nelerdir?
 
-**C:** Sağ üst kadran ultrasonografisi.
+**C:** Safra taşı, safra kesesi duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu.
 
-**Neden önemli?:** Safra taşı, duvar kalınlaşması, perikolesistik sıvı ve sonografik Murphy bulgusu destekleyicidir.
+**Neden önemli?:** Bulgular klinik tabloyla birlikte değerlendirilir; tek bir ultrason bulgusu tanıyı tek başına kesinleştirmez.
 
 ### 2. Akut kolesistitte uygun hastada temel definitif tedavi nedir?
 
@@ -46,11 +46,11 @@ Bu deste, TUS'ta tanı, acil müdahale eşiği ve tedavi seçimini ayırt ettire
 
 **Neden önemli?:** Erteleme rekürren biliyer olay riskini artırır; nekrotizan/ağır pankreatitte zamanlama farklıdır.
 
-### 8. Akut pankreatit tanısı için hangi ölçütlerden kaçı gerekir?
+### 8. Akut pankreatitte kontrastlı BT hangi durumda ve ne zaman istenir?
 
-**C:** Üç ölçütten en az ikisi: tipik epigastrik ağrı, lipaz/amilazın normal üst sınırın en az 3 katı olması, uyumlu görüntüleme.
+**C:** Tanı belirsizse veya klinik kötüleşme/48–72 saatte düzelmeme komplikasyon düşündürüyorsa; nekrozun değerlendirilmesinde genellikle başlangıçtan en az 72 saat sonra.
 
-**Neden önemli?:** Lipaz tercih edilir; tanı klinik ve biyokimyasal olarak açıksa erken BT rutin değildir.
+**Neden önemli?:** İlk saatlerde çekilen BT nekrozun yaygınlığını olduğundan az gösterebilir; tipik ağrı ve belirgin lipaz yüksekliği varsa rutin erken BT gerekmez.
 
 ### 9. Akut pankreatitte erken tedavinin temel bileşenleri nelerdir?
 
